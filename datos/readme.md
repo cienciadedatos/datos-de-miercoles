@@ -1,5 +1,5 @@
-# Conjuntos de datos DataSets
+# Conjuntos de datos
 
-Los datos van a ser subidos en formatos .csv y/o .xlsx de forma semanal.
+Cada semana subiremos los datos en este repositorio en formato `.csv` y/o `.xlsx`.
 
-Hashtag: #DatosDeMiercoles
+_Hashtag_: #DatosDeMiercoles (y #rstatsES si te alcanzan los caracteres)
