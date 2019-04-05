@@ -48,7 +48,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 
 ***
 
-# Enlaces ùtiles
+# Enlaces útiles
 
 | Enlace | Descripción |
 | --- | --- |
