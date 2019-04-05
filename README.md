@@ -6,31 +6,54 @@ _Datos de miércoles_ es la versión en español de [#tidytuesday](https://githu
 
 ***
 
-Únete a la comunidad hispanoamericana de R y participa en #datosdemiercoles. Cada semana publicaremos un conjunto de datos para explorar. Como los datos no necesariamente estarán en un formato adecuado para el análisis, será necesario que apliques varias de las estrategias propuestas en "R para Ciencia de Datos" para lograr ordenarlos. El objetivo de `Datos de miércoles` es aplicar tus habilidades en R, recibir retroalimentación, explorar el trabajo de otras personas y conectarte con la comunidad de R hispanohablante. Es por eso que nos interesa que participes, independiente de tu nivel de manejo de R. 
+Únete a la comunidad hispanoamericana de R y participa en #DatosDeMiercoles. Cada semana publicaremos un conjunto de datos para explorar. Como los datos no necesariamente estarán listos para el análisis, será necesario que apliques algunas de las estrategias propuestas en "R para Ciencia de Datos" para lograr ordenarlos. El objetivo de `Datos de miércoles` es aplicar tus habilidades en R, recibir retroalimentación, explorar el trabajo de otras personas y conectarte con la comunidad de hispanohablante de R. Es por eso que nos interesa que participes, independiente de tu nivel de manejo de R. El objetivo de `Datos de miércoles` es generar un espacio de diálogo seguro y amable para practicar tus habilidades procesando y visualizando datos. 
 
-We will have many sources of data and want to emphasize that **no causation** is implied. There are various moderating variables that affect all data, many of which might not have been captured in these datasets. As such, our guidelines are to use the data provided to practice your data tidying and plotting techniques. Participants are invited to consider for themselves what nuancing factors might underlie these relationships. 
 
-The intent of Tidy Tuesday is to provide a safe and supportive forum for individuals to practice their **wrangling** and **data visualization** skills independent of drawing conclusions. While we understand that the two are related, the focus of this practice is purely on building skills with real-world data.
+### Cómo participar
 
-All data will be posted on the data sets page on Monday. It will include the link to the original article (for context) and to the data set. 
+* Cada martes en la noche publicaremos un set de datos y, de ser posible, incluiremos un enlace a algún artículo en español para darles contexto.
+* Los cargaremos en la carpeta [datos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos) en formato `.csv` y/o `.xlsx` y anunciaremos que están disponibles desde la cuenta de [R4DS en español](https://twitter.com/r4ds_es) en Twitter.
+* Puedes descargar los datos directamente o, si quieres explorar las posibilidades de Git(hub), hacerle _fork_ a este repositorio. 
+* ¡Pon en práctica tus habilidades procesando y visualizando datos y comparte tus resultados! 
+* Usa el _hashtag_ `#DatosDeMiercoles` en Twitter para compartir tu trabajo. Si te alcanzan los caracteres, lo ideal es que agregues el de la comunidad de R en español: `#rstatsES`.
+* Incluye una imagen de la visualización que creaste y una copia del código utilizado para crearla. Incluye comentarios en tu código cuando sea posible para que el resto de la comunidad entienda tu proceso. En la sección "enlaces útiles" encontrarás sugerencias sobre cómo compartir una imagen del código y cómo exportar tus visualizaciones desde R. 
+* Dale crédito a la fuente original, cuando sea posible. 
 
-We welcome all newcomers, enthusiasts, and experts to participate, but be mindful of a few things:
+### Cosas a tener en cuenta
 
-1. The data set comes from the source article or the source that the article credits. Be mindful that the data is what it is and Tidy Tuesday is designed to help you practice **data visualization** and **basic data wrangling** in R.  
-2. Again, the data is what it is! You are welcome to explore beyond the provided dataset, but the data is provided as a "toy" dataset to practice techniques on.  
-3. This is NOT about criticizing the original article or graph. Real people made the graphs, collected or acquired the data! Focus on the provided dataset, learning, and improving your techniques in R.  
-4. This is NOT about criticizing or tearing down your fellow #RStats practitioners! Be supportive and kind to each other! Like other's posts and help promote the #RStats community!  
-4. Use the hashtag #TidyTuesday on Twitter if you create your own version and would like to share it.
-5. Include a picture of the visualisation when you post to Twitter.  
-6. Include a copy of the code used to create your visualization when you post to Twitter. Comment your code wherever possible to help yourself and others understand your process!  
-7. Focus on improving your craft, even if you end up with something simple!  
-8. Give credit to the original data source whenever possible.  
+Todas las personas son bienvenidas para participar, independiente de si recién están empezando a usar R o ya tienen más experiencia. Ten en cuenta lo siguiente: 
+
+* Esta comunidad tiene un código de conducta, que puedes leer más abajo. Para participar es necesario que adhieras a lo que en él se señala. 
+* Los datos provienen de la fuente que se indica en cada ocasión. En caso de que los hayamos editado de algún modo (por ejemplo, traduciéndolos al español), lo indicaremos. Nuestro objetivo al seleccionarlos es que puedas poner en práctica tus habilidades para procesar y visualizar datos. 
+* Los datos son lo que son. Eres libre de explorar el tema más allá del set de datos de la semana, pero ten en cuenta que el objetivo de "Datos de miércoles" es usarlos como ejemplo para practicar tus habilidades. 
+* En caso de que incluyamos un artículo o gráfico de ejemplo para darles contexto, el objetivo no es criticarlos. Tampoco a las personas que trabajaron en ellos. El objetivo es aprender y mejorar tus habilidades en R. 
+* La idea no es criticar o destruir el trabajo de las personas de la comunidad de #rstatsES que participan. Sé amable y alienta el trabajo del resto. Dale un "like" a sus publicaciones y ayúdanos a promover la comunidad de R en español. 
+
+
+### Código de conducta
+_Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independiente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o la falta de ella), ideología, nacionalidad, variante lingüística u opciones tecnológicas. No se tolerará el acoso ni el hostigamiento en ninguna de sus formas. Quienes incurran en este tipo de conductas serán marginados de la comunidad. El lenguaje sexual y las imágenes de ese tipo no son apropiados en ningún espacio de este proyecto.
 
 ***
 
 ## Propuesta de datos
-¿Quieres proponer un conjunto de datos para utilizar en el proyecto? Abre un [Issue](https://github.com/cienciadedatos/datos-de-miercoles/issues) y comparte en él el enlace a la fuente de los datos. Así podemos revisarlo y analizar si lo incluímos en un próximo miércoles de datos. 
+¿Quieres proponer un conjunto de datos para utilizar en el proyecto? Abre un [Issue](https://github.com/cienciadedatos/datos-de-miercoles/issues) y comparte en él el enlace a la fuente de los datos. Así podemos revisarlo y analizar si lo incluímos en un próximo #DatosDeMiercoles. 
 
 ***
 
 # Datos
+| Semana | Fecha | Datos | Fuente | Artículo relacionado
+| :---: | :---: | :--- | :--- | :---|
+| 1 | `2019-04-10` | | | |
+
+
+***
+
+# Enlaces ùtiles
+
+| Enlace | Descripción |
+| --- | --- |
+| [:link:](http://r4ds.had.co.nz/) | El libro "R for Data Science" en inglés |
+| [:link:](http://es.r4ds.hadley.nz/) | Traducción (en proceso) al español de "R for Data Science" |
+| [:link:](https://carbon.now.sh/) | Carbon: herramienta para compartir imágenes de tu código (en inglés) |
+| [:link:](http://ggplot2.tidyverse.org/reference/ggsave.html) | Cómo guardar imágenes de `ggplot2` en alta resolución (en inglés) |
+
