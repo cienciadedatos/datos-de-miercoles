@@ -6,20 +6,20 @@ _Datos de miércoles_ es la versión en español de [#tidytuesday](https://githu
 
 ***
 
-Únete a la comunidad hispanoamericana de R y participa en #DatosDeMiercoles. Cada semana publicaremos un conjunto de datos para explorar. Como los datos no necesariamente estarán listos para el análisis, será necesario que apliques algunas de las estrategias propuestas en "R para Ciencia de Datos" para lograr ordenarlos. El objetivo de `Datos de miércoles` es aplicar tus habilidades en R, recibir retroalimentación, explorar el trabajo de otras personas y conectarte con la comunidad de hispanohablante de R. Es por eso que nos interesa que participes, independiente de tu nivel de manejo de R. El objetivo de `Datos de miércoles` es generar un espacio de diálogo seguro y amable para practicar tus habilidades procesando y visualizando datos. 
+Únete a la comunidad hispanoamericana de R y participa en #DatosDeMiercoles. Cada semana publicaremos un conjunto de datos para explorar. Como los datos no necesariamente estarán listos para el análisis, será necesario que apliques estrategias como las propuestas en el libro "R para Ciencia de Datos" para lograr ordenarlos. El objetivo de `Datos de miércoles` es aplicar tus habilidades en un desafío concreto, recibir retroalimentación, explorar el trabajo de otras personas y conectarte con la comunidad hispanohablante de R. Se trata de generar un espacio de diálogo seguro y amable para practicar tus habilidades procesando y visualizando datos, independiente de tu nivel de manejo de R.
 
 
 ### Cómo participar
 
-* Cada martes en la noche publicaremos un set de datos y, de ser posible, incluiremos un enlace a algún artículo en español para darles contexto.
-* Los cargaremos en la carpeta [datos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos) en formato `.csv` y/o `.xlsx` y anunciaremos que están disponibles desde la cuenta de [R4DS en español](https://twitter.com/r4ds_es) en Twitter.
+* Cada miércoles en la mañana publicaremos un set de datos y, de ser posible, incluiremos un enlace a algún artículo en español para darles contexto.
+* Los cargaremos en la carpeta [datos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos) en formato `.csv` y/o `.xlsx` y anunciaremos que están disponibles desde la cuenta de [R4DS en español](https://twitter.com/r4ds_es) en Twitter. En la carpeta con los datos encontrarás un archivo `readme` con una descripción del dataset y las variables que lo componen. 
 * Puedes descargar los datos directamente o, si quieres explorar las posibilidades de Git(hub), hacerle _fork_ a este repositorio. 
-* ¡Pon en práctica tus habilidades procesando y visualizando datos y comparte tus resultados! 
-* Usa el _hashtag_ `#DatosDeMiercoles` en Twitter para compartir tu trabajo. Si te alcanzan los caracteres, lo ideal es que agregues el de la comunidad de R en español: `#rstatsES`.
-* Incluye una imagen de la visualización que creaste y una copia del código utilizado para crearla. Incluye comentarios en tu código cuando sea posible para que el resto de la comunidad entienda tu proceso. En la sección "enlaces útiles" encontrarás sugerencias sobre cómo compartir una imagen del código y cómo exportar tus visualizaciones desde R. 
+* ¡Pon en práctica tus habilidades procesando y visualizando datos! ¿Cómo? Puedes elegir algún aspecto que explorar en los datos y proponer una visualización. Piensa en alguna pregunta que sería interesante responder explora las posibilidades que entrega R para visualizar tus resultados. 
+* ¡Comparte tus resultados! Incluye una imagen de la visualización que creaste y una copia del código utilizado para crearla. Incluye comentarios en tu código cuando sea posible para que el resto de la comunidad entienda tu proceso. En la sección "enlaces útiles" encontrarás sugerencias sobre cómo compartir una imagen del código y cómo exportar tus visualizaciones desde R.
+* Usa el _hashtag_ `#DatosDeMiercoles` en Twitter para compartir tu trabajo. Si te alcanzan los caracteres, agrega el de la comunidad de R en español: `#rstatsES`.
 * Dale crédito a la fuente original, cuando sea posible. 
 
-### Cosas a tener en cuenta
+### Cosas a considerar
 
 Todas las personas son bienvenidas para participar, independiente de si recién están empezando a usar R o ya tienen más experiencia. Ten en cuenta lo siguiente: 
 
@@ -31,7 +31,7 @@ Todas las personas son bienvenidas para participar, independiente de si recién 
 
 
 ### Código de conducta
-_Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independiente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o la falta de ella), ideología, nacionalidad, variante lingüística u opciones tecnológicas. No se tolerará el acoso ni el hostigamiento en ninguna de sus formas. Quienes incurran en este tipo de conductas serán marginados de la comunidad. El lenguaje sexual y las imágenes de ese tipo no son apropiados en ningún espacio de este proyecto.
+_Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independiente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia, religión (o la falta de ella), ideología, nacionalidad, variante lingüística u opciones tecnológicas. No se tolerará el acoso ni el hostigamiento en ninguna de sus formas. Quienes incurran en este tipo de conductas serán marginados de la comunidad. El lenguaje sexual y las imágenes de ese tipo no son apropiados en ningún espacio de este proyecto.
 
 ***
 
