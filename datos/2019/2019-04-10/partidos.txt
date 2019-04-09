@@ -1,0 +1,901 @@
+anio	anfitrion	estadio	ciudad	partido_orden	fecha	equipo_1	equipo_2	equipo_1_final	equipo_2_final
+1930	Uruguay	Estadio Pocitos	Montevideo	(1)	1930-07-13	Francia	Mexico	4	1
+1930	Uruguay	Estadio Parque Central	Montevideo	(2)	1930-07-13	Estados Unidos	Bélgica	3	0
+1930	Uruguay	Estadio Parque Central	Montevideo	(3)	1930-07-14	Yugoslavia	Brasil	2	1
+1930	Uruguay	Estadio Pocitos	Montevideo	(4)	1930-07-14	Rumania	Perú	3	1
+1930	Uruguay	Estadio Parque Central	Montevideo	(5)	1930-07-15	Argentina	Francia	1	0
+1930	Uruguay	Estadio Parque Central	Montevideo	(6)	1930-07-16	Chile	Mexico	3	0
+1930	Uruguay	Estadio Parque Central	Montevideo	(7)	1930-07-17	Yugoslavia	Bolivia	4	0
+1930	Uruguay	Estadio Parque Central	Montevideo	(8)	1930-07-17	Estados Unidos	Paraguay	3	0
+1930	Uruguay	Estadio Centenario	Montevideo	(9)	1930-07-18	Uruguay	Perú	1	0
+1930	Uruguay	Estadio Centenario	Montevideo	(10)	1930-07-19	Chile	Francia	1	0
+1930	Uruguay	Estadio Centenario	Montevideo	(11)	1930-07-19	Argentina	Mexico	6	3
+1930	Uruguay	Estadio Centenario	Montevideo	(12)	1930-07-20	Brasil	Bolivia	4	0
+1930	Uruguay	Estadio Centenario	Montevideo	(13)	1930-07-20	Paraguay	Bélgica	1	0
+1930	Uruguay	Estadio Centenario	Montevideo	(14)	1930-07-21	Uruguay	Rumania	4	0
+1930	Uruguay	Estadio Centenario	Montevideo	(15)	1930-07-22	Argentina	Chile	3	1
+1930	Uruguay	Estadio Centenario	Montevideo	(16)	1930-07-26	Argentina	Estados Unidos	6	1
+1930	Uruguay	Estadio Centenario	Montevideo	(17)	1930-07-27	Uruguay	Yugoslavia	6	1
+1930	Uruguay	Estadio Centenario	Montevideo	(18)	1930-07-30	Uruguay	Argentina	4	2
+1934	Italia	Stadio Littoriale	Bologna	(1)	1934-05-27	Suecia	Argentina	1	1
+1934	Italia	Stadio Benito Mussolini	Turin	(2)	1934-05-27	Austria	Francia	1	1
+1934	Italia	Stadio Giovanni Berta	Florence	(3)	1934-05-27	Alemania	Bélgica	1	2
+1934	Italia	Stadio Luigi Ferraris	Genoa	(4)	1934-05-27	España	Brasil	3	0
+1934	Italia	Stadio Giorgio Ascarelli	Naples	(5)	1934-05-27	Hungría	Egipto	2	2
+1934	Italia	Stadio San Siro	Milan	(6)	1934-05-27	Suiza	Países Bajos	2	1
+1934	Italia	Stadio Nazionale PNF	Rome	(7)	1934-05-27	Italia	Estados Unidos	3	0
+1934	Italia	Stadio Littorio	Trieste	(8)	1934-05-27	Checoslovaquia	Rumania	0	1
+1934	Italia	Stadio Benito Mussolini	Turin	(9)	1934-05-31	Checoslovaquia	Suiza	1	1
+1934	Italia	Stadio San Siro	Milan	(10)	1934-05-31	Alemania	Suecia	0	0
+1934	Italia	Stadio Giovanni Berta	Florence	(11)	1934-05-31	Italia	España	1	1
+1934	Italia	Stadio Littoriale	Bologna	(12)	1934-05-31	Austria	Hungría	1	0
+1934	Italia	Stadio Giovanni Berta	Florence	(13)	1934-06-01	Italia	España	1	0
+1934	Italia	Stadio San Siro	Milan	(14)	1934-06-03	Italia	Austria	1	0
+1934	Italia	Stadio Nazionale PNF	Rome	(15)	1934-06-03	Checoslovaquia	Alemania	1	0
+1934	Italia	Stadio Giorgio Ascarelli	Naples	(16)	1934-06-07	Alemania	Austria	3	1
+1934	Italia	Stadio Nazionale PNF	Rome	(17)	1934-06-10	Italia	Checoslovaquia	0	0
+1938	Francia	Parc des Princes	Paris	(1)	1938-06-04	Suiza	Alemania	1	1
+1938	Francia	Vélodrome Municipal	Reims	(2)	1938-06-05	Hungría	Indias Orientales Holandesas	6	0
+1938	Francia	Stade Olympique de Colombes	Paris	(3)	1938-06-05	Francia	Bélgica	3	1
+1938	Francia	Stade Chapou	Toulouse	(4)	1938-06-05	Cuba	Rumania	1	1
+1938	Francia	Stade Vélodrome	Marseille	(5)	1938-06-05	Italia	Noruega	2	1
+1938	Francia	Stade de la Meinau	Strasbourg	(6)	1938-06-05	Brasil	Polonia	6	5
+1938	Francia	Stade municipal	Le Havre	(7)	1938-06-05	Checoslovaquia	Países Bajos	3	0
+1938	Francia	Stade Chapou	Toulouse	(8)	1938-06-09	Cuba	Rumania	2	1
+1938	Francia	Parc des Princes	Paris	(9)	1938-06-09	Alemania	Suiza	2	4
+1938	Francia	Parc Lescure	Bordeaux	(10)	1938-06-12	Brasil	Checoslovaquia	1	0
+1938	Francia	Stade Victor Boucquey	Lille	(11)	1938-06-12	Suiza	Hungría	0	2
+1938	Francia	Stade du Fort Carré	Antibes	(12)	1938-06-12	Suecia	Cuba	8	0
+1938	Francia	Stade Olympique de Colombes	Paris	(13)	1938-06-12	Francia	Italia	1	3
+1938	Francia	Parc Lescure	Bordeaux	(14)	1938-06-14	Brasil	Checoslovaquia	2	1
+1938	Francia	Parc des Princes	Paris	(15)	1938-06-16	Hungría	Suecia	5	1
+1938	Francia	Stade Vélodrome	Marseille	(16)	1938-06-16	Italia	Brasil	2	1
+1938	Francia	Parc Lescure	Bordeaux	(17)	1938-06-19	Suecia	Brasil	2	4
+1938	Francia	Stade Olympique de Colombes	Paris	(18)	1938-06-19	Hungría	Italia	2	4
+1950	Brasil	Estádio do Maracanã	Rio de Janeiro	(1)	1950-06-24	Brasil	Mexico	4	0
+1950	Brasil	Estádio Independência	Belo Horizonte	(5)	1950-06-25	Yugoslavia	Suiza	3	0
+1950	Brasil	Estádio do Maracanã	Rio de Janeiro	(2)	1950-06-25	Inglaterra	Chile	2	0
+1950	Brasil	Estádio Durival de Britto	Curitiba	(3)	1950-06-25	España	Estados Unidos	3	1
+1950	Brasil	Estádio do Pacaembu	São Paulo	(4)	1950-06-25	Suecia	Italia	3	2
+1950	Brasil	Estádio do Pacaembu	São Paulo	(6)	1950-06-28	Brasil	Suiza	2	1
+1950	Brasil	Estádio dos Eucaliptos	Porto Alegre	(7)	1950-06-28	Yugoslavia	Mexico	4	1
+1950	Brasil	Estádio do Maracanã	Rio de Janeiro	(8)	1950-06-29	España	Chile	2	0
+1950	Brasil	Estádio Independência	Belo Horizonte	(10)	1950-06-29	Estados Unidos	Inglaterra	1	0
+1950	Brasil	Estádio Durival Britto	Curitiba	(9)	1950-06-29	Suecia	Paraguay	2	2
+1950	Brasil	Estádio do Maracanã	Rio de Janeiro	(11)	1950-07-01	Brasil	Yugoslavia	2	0
+1950	Brasil	Estádio dos Eucaliptos	Porto Alegre	(14)	1950-07-02	Suiza	Mexico	2	1
+1950	Brasil	Estádio do Maracanã	Rio de Janeiro	(12)	1950-07-02	España	Inglaterra	1	0
+1950	Brasil	Estádio Ilha do Retiro	Recife	(15)	1950-07-02	Chile	Estados Unidos	5	2
+1950	Brasil	Estádio do Pacaembu	São Paulo	(13)	1950-07-02	Italia	Paraguay	2	0
+1950	Brasil	Estádio Independência	Belo Horizonte	(16)	1950-07-02	Uruguay	Bolivia	8	0
+1950	Brasil	Estádio do Pacaembu	São Paulo	(17)	1950-07-09	Uruguay	España	2	2
+1950	Brasil	Estádio do Maracanã	Rio de Janeiro	(18)	1950-07-09	Brasil	Suecia	7	1
+1950	Brasil	Estádio do Maracanã	Rio de Janeiro	(19)	1950-07-13	Brasil	España	6	1
+1950	Brasil	Estádio do Pacaembu	São Paulo	(20)	1950-07-13	Uruguay	Suecia	3	2
+1950	Brasil	Estádio do Pacaembu	São Paulo	(21)	1950-07-16	Suecia	España	3	1
+1950	Brasil	Estádio do Maracanã	Rio de Janeiro	(22)	1950-07-16	Uruguay	Brasil	2	1
+1954	Suiza	Charmilles Stadium	Geneva	(3)	1954-06-16	Brasil	Mexico	5	0
+1954	Suiza	Stade Olympique de la Pontaise	Lausanne	(4)	1954-06-16	Yugoslavia	Francia	1	0
+1954	Suiza	Wankdorf Stadium	Bern	(1)	1954-06-16	Uruguay	Checoslovaquia	2	0
+1954	Suiza	Hardturm Stadium	Zürich	(2)	1954-06-16	Austria	Escocia	1	0
+1954	Suiza	Wankdorf Stadium	Bern	(5)	1954-06-17	Alemania occidental	Turquía	4	1
+1954	Suiza	Hardturm Stadium	Zürich	(8)	1954-06-17	Hungría	Corea del Sur	9	0
+1954	Suiza	St. Jakob Stadium	Basel	(6)	1954-06-17	Inglaterra	Bélgica	3	3
+1954	Suiza	Stade Olympique de la Pontaise	Lausanne	(7)	1954-06-17	Suiza	Italia	2	1
+1954	Suiza	Stade Olympique de la Pontaise	Lausanne	(10)	1954-06-19	Brasil	Yugoslavia	1	1
+1954	Suiza	Charmilles Stadium	Geneva	(11)	1954-06-19	Francia	Mexico	3	2
+1954	Suiza	Hardturm Stadium	Zürich	(9)	1954-06-19	Austria	Checoslovaquia	5	0
+1954	Suiza	St. Jakob Stadium	Basel	(12)	1954-06-19	Uruguay	Escocia	7	0
+1954	Suiza	St. Jakob Stadium	Basel	(14)	1954-06-20	Hungría	Alemania occidental	8	3
+1954	Suiza	Charmilles Stadium	Geneva	(15)	1954-06-20	Turquía	Corea del Sur	7	0
+1954	Suiza	Wankdorf Stadium	Bern	(13)	1954-06-20	Inglaterra	Suiza	2	0
+1954	Suiza	Cornaredo Stadium	Lugano	(16)	1954-06-20	Italia	Bélgica	4	1
+1954	Suiza	Hardturm Stadium	Zürich	(25)	1954-06-23	Alemania occidental	Turquía	7	2
+1954	Suiza	St. Jakob Stadium	Basel	(26)	1954-06-23	Suiza	Italia	4	1
+1954	Suiza	Stade Olympique de la Pontaise	Lausanne	(19)	1954-06-26	Austria	Suiza	7	5
+1954	Suiza	St. Jakob Stadium	Basel	(20)	1954-06-26	Uruguay	Inglaterra	4	2
+1954	Suiza	Charmilles Stadium	Geneva	(17)	1954-06-27	Yugoslavia	Alemania occidental	0	2
+1954	Suiza	Wankdorf Stadium	Bern	(18)	1954-06-27	Brasil	Hungría	2	4
+1954	Suiza	St. Jakob Stadium	Basel	(21)	1954-06-30	Alemania occidental	Austria	6	1
+1954	Suiza	Stade Olympique de la Pontaise	Lausanne	(22)	1954-06-30	Hungría	Uruguay	4	2
+1954	Suiza	Hardturm Stadium	Zürich	(23)	1954-07-03	Uruguay	Austria	1	3
+1954	Suiza	Wankdorf Stadium	Bern	(24)	1954-07-04	Hungría	Alemania occidental	2	3
+1958	Suecia	Malmö Stadion	Malmö	(7)	1958-06-08	Alemania occidental	Argentina	3	1
+1958	Suecia	Örjans Vall	Halmstad	(8)	1958-06-08	Irlanda del Norte	Checoslovaquia	1	0
+1958	Suecia	Idrottsparken	Norrköping	(3)	1958-06-08	Francia	Paraguay	7	3
+1958	Suecia	Arosvallen	Västerås	(4)	1958-06-08	Yugoslavia	Escocia	1	1
+1958	Suecia	Råsunda Stadium	Solna	(1)	1958-06-08	Suecia	Mexico	3	0
+1958	Suecia	Jernvallen	Sandviken	(2)	1958-06-08	Hungría	Gales	1	1
+1958	Suecia	Rimnersvallen	Uddevalla	(6)	1958-06-08	Brasil	Austria	3	0
+1958	Suecia	Ullevi	Gothenburg	(5)	1958-06-08	Unión Soviética	Inglaterra	2	2
+1958	Suecia	Örjans Vall	Halmstad	(15)	1958-06-11	Argentina	Irlanda del Norte	3	1
+1958	Suecia	Olympiastadion	Helsingborg	(14)	1958-06-11	Alemania occidental	Checoslovaquia	2	2
+1958	Suecia	Arosvallen	Västerås	(11)	1958-06-11	Yugoslavia	Francia	3	2
+1958	Suecia	Idrottsparken	Norrköping	(10)	1958-06-11	Paraguay	Escocia	3	2
+1958	Suecia	Råsunda Stadium	Solna	(9)	1958-06-11	Mexico	Gales	1	1
+1958	Suecia	Ullevi	Gothenburg	(12)	1958-06-11	Brasil	Inglaterra	0	0
+1958	Suecia	Ryavallen	Borås	(13)	1958-06-11	Unión Soviética	Austria	2	0
+1958	Suecia	Råsunda Stadium	Solna	(16)	1958-06-12	Suecia	Hungría	2	1
+1958	Suecia	Malmö Stadion	Malmö	(23)	1958-06-15	Alemania occidental	Irlanda del Norte	2	2
+1958	Suecia	Olympiastadion	Helsingborg	(24)	1958-06-15	Checoslovaquia	Argentina	6	1
+1958	Suecia	Eyravallen	Örebro	(20)	1958-06-15	Francia	Escocia	2	1
+1958	Suecia	Tunavallen	Eskilstuna	(19)	1958-06-15	Paraguay	Yugoslavia	3	3
+1958	Suecia	Råsunda Stadium	Solna	(17)	1958-06-15	Suecia	Gales	0	0
+1958	Suecia	Jernvallen	Sandviken	(18)	1958-06-15	Hungría	Mexico	4	0
+1958	Suecia	Ryavallen	Borås	(22)	1958-06-15	Inglaterra	Austria	2	2
+1958	Suecia	Ullevi	Gothenburg	(21)	1958-06-15	Brasil	Unión Soviética	2	0
+1958	Suecia	Malmö Stadion	Malmö	(35)	1958-06-17	Irlanda del Norte	Checoslovaquia	2	1
+1958	Suecia	Råsunda Stadium	Solna	(33)	1958-06-17	Gales	Hungría	2	1
+1958	Suecia	Ullevi	Gothenburg	(34)	1958-06-17	Unión Soviética	Inglaterra	1	0
+1958	Suecia	Idrottsparken	Norrköping	(26)	1958-06-19	Francia	Irlanda del Norte	4	0
+1958	Suecia	Råsunda Stadium	Solna	(25)	1958-06-19	Suecia	Unión Soviética	2	0
+1958	Suecia	Ullevi	Gothenburg	(27)	1958-06-19	Brasil	Gales	1	0
+1958	Suecia	Malmö Stadion	Malmö	(28)	1958-06-19	Alemania occidental	Yugoslavia	1	0
+1958	Suecia	Råsunda Stadium	Solna	(29)	1958-06-24	Francia	Brasil	2	5
+1958	Suecia	Ullevi	Gothenburg	(30)	1958-06-24	Alemania occidental	Suecia	1	3
+1958	Suecia	Ullevi	Gothenburg	(31)	1958-06-28	Alemania occidental	Francia	3	6
+1958	Suecia	Råsunda Stadium	Solna	(32)	1958-06-29	Suecia	Brasil	2	5
+1962	Chile	Estadio Carlos Dittborn	Arica	(1)	1962-05-30	Uruguay	Colombia	2	1
+1962	Chile	Estadio Nacional	Santiago	(2)	1962-05-30	Chile	Suiza	3	1
+1962	Chile	Estadio Sausalito	Viña del Mar	(3)	1962-05-30	Brasil	Mexico	2	0
+1962	Chile	Estadio El Teniente	Rancagua	(4)	1962-05-30	Argentina	Bulgaria	1	0
+1962	Chile	Estadio Carlos Dittborn	Arica	(5)	1962-05-31	Unión Soviética	Yugoslavia	2	0
+1962	Chile	Estadio Nacional	Santiago	(6)	1962-05-31	Alemania occidental	Italia	0	0
+1962	Chile	Estadio Sausalito	Viña del Mar	(7)	1962-05-31	Checoslovaquia	España	1	0
+1962	Chile	Estadio El Teniente	Rancagua	(8)	1962-05-31	Hungría	Inglaterra	2	1
+1962	Chile	Estadio Carlos Dittborn	Arica	(9)	1962-06-02	Yugoslavia	Uruguay	3	1
+1962	Chile	Estadio Nacional	Santiago	(10)	1962-06-02	Chile	Italia	2	0
+1962	Chile	Estadio Sausalito	Viña del Mar	(11)	1962-06-02	Brasil	Checoslovaquia	0	0
+1962	Chile	Estadio El Teniente	Rancagua	(12)	1962-06-02	Inglaterra	Argentina	3	1
+1962	Chile	Estadio Carlos Dittborn	Arica	(13)	1962-06-03	Unión Soviética	Colombia	4	4
+1962	Chile	Estadio Nacional	Santiago	(14)	1962-06-03	Alemania occidental	Suiza	2	1
+1962	Chile	Estadio Sausalito	Viña del Mar	(15)	1962-06-03	España	Mexico	1	0
+1962	Chile	Estadio El Teniente	Rancagua	(16)	1962-06-03	Hungría	Bulgaria	6	1
+1962	Chile	Estadio Carlos Dittborn	Arica	(17)	1962-06-06	Unión Soviética	Uruguay	2	1
+1962	Chile	Estadio Nacional	Santiago	(18)	1962-06-06	Alemania occidental	Chile	2	0
+1962	Chile	Estadio Sausalito	Viña del Mar	(19)	1962-06-06	Brasil	España	2	1
+1962	Chile	Estadio El Teniente	Rancagua	(20)	1962-06-06	Hungría	Argentina	0	0
+1962	Chile	Estadio Carlos Dittborn	Arica	(21)	1962-06-07	Yugoslavia	Colombia	5	0
+1962	Chile	Estadio Nacional	Santiago	(22)	1962-06-07	Italia	Suiza	3	0
+1962	Chile	Estadio Sausalito	Viña del Mar	(23)	1962-06-07	Mexico	Checoslovaquia	3	1
+1962	Chile	Estadio El Teniente	Rancagua	(24)	1962-06-07	Inglaterra	Bulgaria	0	0
+1962	Chile	Estadio Carlos Dittborn	Arica	(25)	1962-06-10	Chile	Unión Soviética	2	1
+1962	Chile	Estadio Nacional	Santiago	(26)	1962-06-10	Yugoslavia	Alemania occidental	1	0
+1962	Chile	Estadio Sausalito	Viña del Mar	(27)	1962-06-10	Brasil	Inglaterra	3	1
+1962	Chile	Estadio El Teniente	Rancagua	(28)	1962-06-10	Checoslovaquia	Hungría	1	0
+1962	Chile	Estadio Nacional	Santiago	(29)	1962-06-13	Brasil	Chile	4	2
+1962	Chile	Estadio Sausalito	Viña del Mar	(30)	1962-06-13	Checoslovaquia	Yugoslavia	3	1
+1962	Chile	Estadio Nacional	Santiago	(31)	1962-06-16	Chile	Yugoslavia	1	0
+1962	Chile	Estadio Nacional	Santiago	(32)	1962-06-17	Brasil	Checoslovaquia	3	1
+1966	Inglaterra	Wembley Stadium	London	(1)	1966-07-11	Inglaterra	Uruguay	0	0
+1966	Inglaterra	Hillsborough Stadium	Sheffield	(2)	1966-07-12	Alemania occidental	Suiza	5	0
+1966	Inglaterra	Goodison Park	Liverpool	(3)	1966-07-12	Brasil	Bulgaria	2	0
+1966	Inglaterra	Ayresome Park	Middlesbrough	(4)	1966-07-12	Unión Soviética	Corea del Norte	3	0
+1966	Inglaterra	Wembley Stadium	London	(5)	1966-07-13	Francia	Mexico	1	1
+1966	Inglaterra	Villa Park	Birmingham	(6)	1966-07-13	Argentina	España	2	1
+1966	Inglaterra	Old Trafford	Manchester	(7)	1966-07-13	Portugal	Hungría	3	1
+1966	Inglaterra	Roker Park	Sunderland	(8)	1966-07-13	Italia	Chile	2	0
+1966	Inglaterra	White City Stadium	London	(9)	1966-07-15	Uruguay	Francia	2	1
+1966	Inglaterra	Hillsborough Stadium	Sheffield	(10)	1966-07-15	España	Suiza	2	1
+1966	Inglaterra	Goodison Park	Liverpool	(11)	1966-07-15	Hungría	Brasil	3	1
+1966	Inglaterra	Ayresome Park	Middlesbrough	(12)	1966-07-15	Chile	Corea del Norte	1	1
+1966	Inglaterra	Wembley Stadium	London	(13)	1966-07-16	Inglaterra	Mexico	2	0
+1966	Inglaterra	Villa Park	Birmingham	(14)	1966-07-16	Argentina	Alemania occidental	0	0
+1966	Inglaterra	Old Trafford	Manchester	(15)	1966-07-16	Portugal	Bulgaria	3	0
+1966	Inglaterra	Roker Park	Sunderland	(16)	1966-07-16	Unión Soviética	Italia	1	0
+1966	Inglaterra	Wembley Stadium	London	(17)	1966-07-19	Mexico	Uruguay	0	0
+1966	Inglaterra	Hillsborough Stadium	Sheffield	(18)	1966-07-19	Argentina	Suiza	2	0
+1966	Inglaterra	Goodison Park	Liverpool	(19)	1966-07-19	Portugal	Brasil	3	1
+1966	Inglaterra	Ayresome Park	Middlesbrough	(20)	1966-07-19	Corea del Norte	Italia	1	0
+1966	Inglaterra	Wembley Stadium	London	(21)	1966-07-20	Inglaterra	Francia	2	0
+1966	Inglaterra	Villa Park	Birmingham	(22)	1966-07-20	Alemania occidental	España	2	1
+1966	Inglaterra	Old Trafford	Manchester	(23)	1966-07-20	Hungría	Bulgaria	3	1
+1966	Inglaterra	Roker Park	Sunderland	(24)	1966-07-20	Unión Soviética	Chile	2	1
+1966	Inglaterra	Wembley Stadium	London	(25)	1966-07-23	Inglaterra	Argentina	1	0
+1966	Inglaterra	Hillsborough Stadium	Sheffield	(26)	1966-07-23	Alemania occidental	Uruguay	4	0
+1966	Inglaterra	Roker Park	Sunderland	(27)	1966-07-23	Unión Soviética	Hungría	2	1
+1966	Inglaterra	Goodison Park	Liverpool	(28)	1966-07-23	Portugal	Corea del Norte	5	3
+1966	Inglaterra	Goodison Park	Liverpool	(29)	1966-07-25	Alemania occidental	Unión Soviética	2	1
+1966	Inglaterra	Wembley Stadium	London	(30)	1966-07-26	Inglaterra	Portugal	2	1
+1966	Inglaterra	Wembley Stadium	London	(31)	1966-07-28	Portugal	Unión Soviética	2	1
+1966	Inglaterra	Wembley Stadium	London	(32)	1966-07-30	Inglaterra	Alemania occidental	4	2
+1970	Mexico	Estadio Azteca	Mexico City	(1)	1970-05-31	Mexico	Unión Soviética	0	0
+1970	Mexico	Estadio Cuauhtémoc	Puebla	(2)	1970-06-02	Uruguay	Israel	2	0
+1970	Mexico	Estadio Jalisco	Guadalajara	(3)	1970-06-02	Rumania	Inglaterra	0	1
+1970	Mexico	Estadio Nou Camp	León	(4)	1970-06-02	Perú	Bulgaria	3	2
+1970	Mexico	Estadio Azteca	Mexico City	(5)	1970-06-03	Bélgica	El Salvador	3	0
+1970	Mexico	Estadio Luis Dosal	Toluca	(6)	1970-06-03	Italia	Suecia	1	0
+1970	Mexico	Estadio Jalisco	Guadalajara	(7)	1970-06-03	Checoslovaquia	Brasil	1	4
+1970	Mexico	Estadio Nou Camp	León	(8)	1970-06-03	Marruecos	Alemania occidental	1	2
+1970	Mexico	Estadio Azteca	Mexico City	(9)	1970-06-06	Unión Soviética	Bélgica	4	1
+1970	Mexico	Estadio Cuauhtémoc	Puebla	(10)	1970-06-06	Uruguay	Italia	0	0
+1970	Mexico	Estadio Jalisco	Guadalajara	(11)	1970-06-06	Rumania	Checoslovaquia	2	1
+1970	Mexico	Estadio Nou Camp	León	(12)	1970-06-06	Perú	Marruecos	3	0
+1970	Mexico	Estadio Azteca	Mexico City	(13)	1970-06-07	Mexico	El Salvador	4	0
+1970	Mexico	Estadio Luis Dosal	Toluca	(14)	1970-06-07	Suecia	Israel	1	1
+1970	Mexico	Estadio Jalisco	Guadalajara	(15)	1970-06-07	Inglaterra	Brasil	0	1
+1970	Mexico	Estadio Nou Camp	León	(16)	1970-06-07	Bulgaria	Alemania occidental	2	5
+1970	Mexico	Estadio Azteca	Mexico City	(17)	1970-06-10	Unión Soviética	El Salvador	2	0
+1970	Mexico	Estadio Cuauhtémoc	Puebla	(18)	1970-06-10	Uruguay	Suecia	0	1
+1970	Mexico	Estadio Jalisco	Guadalajara	(19)	1970-06-10	Rumania	Brasil	2	3
+1970	Mexico	Estadio Nou Camp	León	(20)	1970-06-10	Perú	Alemania occidental	1	3
+1970	Mexico	Estadio Azteca	Mexico City	(21)	1970-06-11	Mexico	Bélgica	1	0
+1970	Mexico	Estadio Luis Dosal	Toluca	(22)	1970-06-11	Israel	Italia	0	0
+1970	Mexico	Estadio Jalisco	Guadalajara	(23)	1970-06-11	Inglaterra	Checoslovaquia	1	0
+1970	Mexico	Estadio Nou Camp	León	(24)	1970-06-11	Bulgaria	Marruecos	1	1
+1970	Mexico	Estadio Azteca	Mexico City	(25)	1970-06-14	Unión Soviética	Uruguay	0	1
+1970	Mexico	Estadio Luis Dosal	Toluca	(26)	1970-06-14	Italia	Mexico	4	1
+1970	Mexico	Estadio Jalisco	Guadalajara	(27)	1970-06-14	Brasil	Perú	4	2
+1970	Mexico	Estadio Nou Camp	León	(28)	1970-06-14	Alemania occidental	Inglaterra	3	2
+1970	Mexico	Estadio Jalisco	Guadalajara	(29)	1970-06-17	Uruguay	Brasil	1	3
+1970	Mexico	Estadio Azteca	Mexico City	(30)	1970-06-17	Italia	Alemania occidental	4	3
+1970	Mexico	Estadio Azteca	Mexico City	(31)	1970-06-20	Uruguay	Alemania occidental	0	1
+1970	Mexico	Estadio Azteca	Mexico City	(32)	1970-06-21	Brasil	Italia	4	1
+1974	Alemania occidental	Waldstadion	Frankfurt	(3)	1974-06-13	Brasil	Yugoslavia	0	0
+1974	Alemania occidental	Olympiastadion	West Berlin	(1)	1974-06-14	Alemania occidental	Chile	1	0
+1974	Alemania occidental	Volksparkstadion	Hamburg	(2)	1974-06-14	Alemania del Este	Australia	2	0
+1974	Alemania occidental	Westfalenstadion	Dortmund	(4)	1974-06-14	Zaire	Escocia	0	2
+1974	Alemania occidental	Niedersachsenstadion	Hanover	(5)	1974-06-15	Uruguay	Países Bajos	0	2
+1974	Alemania occidental	Rheinstadion	Düsseldorf	(6)	1974-06-15	Suecia	Bulgaria	0	0
+1974	Alemania occidental	Olympiastadion	Munich	(7)	1974-06-15	Italia	Haití	3	1
+1974	Alemania occidental	Neckarstadion	Stuttgart	(8)	1974-06-15	Polonia	Argentina	3	2
+1974	Alemania occidental	Olympiastadion	West Berlin	(9)	1974-06-18	Chile	Alemania del Este	1	1
+1974	Alemania occidental	Volksparkstadion	Hamburg	(10)	1974-06-18	Australia	Alemania occidental	0	3
+1974	Alemania occidental	Parkstadion	Gelsenkirchen	(11)	1974-06-18	Yugoslavia	Zaire	9	0
+1974	Alemania occidental	Waldstadion	Frankfurt	(12)	1974-06-18	Escocia	Brasil	0	0
+1974	Alemania occidental	Westfalenstadion	Dortmund	(13)	1974-06-19	Países Bajos	Suecia	0	0
+1974	Alemania occidental	Niedersachsenstadion	Hanover	(14)	1974-06-19	Uruguay	Bulgaria	1	1
+1974	Alemania occidental	Olympiastadion	Munich	(15)	1974-06-19	Haití	Polonia	0	7
+1974	Alemania occidental	Neckarstadion	Stuttgart	(16)	1974-06-19	Argentina	Italia	1	1
+1974	Alemania occidental	Olympiastadion	West Berlin	(17)	1974-06-22	Australia	Chile	0	0
+1974	Alemania occidental	Volksparkstadion	Hamburg	(18)	1974-06-22	Alemania del Este	Alemania occidental	1	0
+1974	Alemania occidental	Waldstadion	Frankfurt	(19)	1974-06-22	Escocia	Yugoslavia	1	1
+1974	Alemania occidental	Parkstadion	Gelsenkirchen	(20)	1974-06-22	Zaire	Brasil	0	3
+1974	Alemania occidental	Westfalenstadion	Dortmund	(21)	1974-06-23	Países Bajos	Bulgaria	4	1
+1974	Alemania occidental	Rheinstadion	Düsseldorf	(22)	1974-06-23	Suecia	Uruguay	3	0
+1974	Alemania occidental	Olympiastadion	Munich	(23)	1974-06-23	Argentina	Haití	4	1
+1974	Alemania occidental	Neckarstadion	Stuttgart	(24)	1974-06-23	Polonia	Italia	2	1
+1974	Alemania occidental	Niedersachsenstadion	Hanover	(25)	1974-06-26	Brasil	Alemania del Este	1	0
+1974	Alemania occidental	Parkstadion	Gelsenkirchen	(26)	1974-06-26	Países Bajos	Argentina	4	0
+1974	Alemania occidental	Rheinstadion	Düsseldorf	(27)	1974-06-26	Yugoslavia	Alemania occidental	0	2
+1974	Alemania occidental	Neckarstadion	Stuttgart	(28)	1974-06-26	Suecia	Polonia	0	1
+1974	Alemania occidental	Parkstadion	Gelsenkirchen	(29)	1974-06-30	Alemania del Este	Países Bajos	0	2
+1974	Alemania occidental	Niedersachsenstadion	Hanover	(30)	1974-06-30	Argentina	Brasil	1	2
+1974	Alemania occidental	Rheinstadion	Düsseldorf	(31)	1974-06-30	Alemania occidental	Suecia	4	2
+1974	Alemania occidental	Waldstadion	Frankfurt	(32)	1974-06-30	Polonia	Yugoslavia	2	1
+1974	Alemania occidental	Parkstadion	Gelsenkirchen	(33)	1974-07-03	Argentina	Alemania del Este	1	1
+1974	Alemania occidental	Westfalenstadion	Dortmund	(34)	1974-07-03	Países Bajos	Brasil	2	0
+1974	Alemania occidental	Waldstadion	Frankfurt	(35)	1974-07-03	Polonia	Alemania occidental	0	1
+1974	Alemania occidental	Rheinstadion	Düsseldorf	(36)	1974-07-03	Suecia	Yugoslavia	2	1
+1974	Alemania occidental	Olympiastadion	Munich	(37)	1974-07-06	Brasil	Polonia	0	1
+1974	Alemania occidental	Olympiastadion	Munich	(38)	1974-07-07	Países Bajos	Alemania occidental	1	2
+1978	Argentina	Estadio Monumental	Buenos Aires	(1)	1978-06-01	Alemania occidental	Polonia	0	0
+1978	Argentina	Estadio Monumental	Buenos Aires	(2)	1978-06-02	Argentina	Hungría	2	1
+1978	Argentina	Estadio José María Minella	Mar del Plata	(3)	1978-06-02	Italia	Francia	2	1
+1978	Argentina	Estadio Gigante de Arroyito	Rosario	(4)	1978-06-02	Túnez	Mexico	3	1
+1978	Argentina	Estadio José Amalfitani	Buenos Aires	(5)	1978-06-03	Austria	España	2	1
+1978	Argentina	Estadio José Maria Minella	Mar del Plata	(6)	1978-06-03	Brasil	Suecia	1	1
+1978	Argentina	Estadio Chateau Carreras	Córdoba	(7)	1978-06-03	Perú	Escocia	3	1
+1978	Argentina	Estadio Ciudad de Mendoza	Mendoza	(8)	1978-06-03	Países Bajos	Irán	3	0
+1978	Argentina	Estadio Monumental	Buenos Aires	(9)	1978-06-06	Argentina	Francia	2	1
+1978	Argentina	Estadio José María Minella	Mar del Plata	(10)	1978-06-06	Italia	Hungría	3	1
+1978	Argentina	Estadio Gigante de Arroyito	Rosario	(11)	1978-06-06	Polonia	Túnez	1	0
+1978	Argentina	Estadio Chateau Carreras	Córdoba	(12)	1978-06-06	Alemania occidental	Mexico	6	0
+1978	Argentina	Estadio José Amalfitani	Buenos Aires	(13)	1978-06-07	Austria	Suecia	1	0
+1978	Argentina	Estadio José Maria Minella	Mar del Plata	(14)	1978-06-07	Brasil	España	0	0
+1978	Argentina	Estadio Chateau Carreras	Córdoba	(15)	1978-06-07	Escocia	Irán	1	1
+1978	Argentina	Estadio Ciudad de Mendoza	Mendoza	(16)	1978-06-07	Países Bajos	Perú	0	0
+1978	Argentina	Estadio Monumental	Buenos Aires	(17)	1978-06-10	Argentina	Italia	0	1
+1978	Argentina	Estadio José María Minella	Mar del Plata	(18)	1978-06-10	Francia	Hungría	3	1
+1978	Argentina	Estadio Gigante de Arroyito	Rosario	(19)	1978-06-10	Polonia	Mexico	3	1
+1978	Argentina	Estadio Olímpico Chateau Carreras	Córdoba	(20)	1978-06-10	Alemania occidental	Túnez	0	0
+1978	Argentina	Estadio José Amalfitani	Buenos Aires	(21)	1978-06-11	España	Suecia	1	0
+1978	Argentina	Estadio José Maria Minella	Mar del Plata	(22)	1978-06-11	Brasil	Austria	1	0
+1978	Argentina	Estadio Chateau Carreras	Córdoba	(23)	1978-06-11	Perú	Irán	4	1
+1978	Argentina	Estadio Ciudad de Mendoza	Mendoza	(24)	1978-06-11	Escocia	Países Bajos	3	2
+1978	Argentina	Estadio Monumental	Buenos Aires	(25)	1978-06-14	Italia	Alemania occidental	0	0
+1978	Argentina	Estadio Chateau Carreras	Córdoba	(27)	1978-06-14	Austria	Países Bajos	1	5
+1978	Argentina	Estadio Gigante de Arroyito	Rosario	(26)	1978-06-14	Argentina	Polonia	2	0
+1978	Argentina	Estadio Ciudad de Mendoza	Mendoza	(28)	1978-06-14	Perú	Brasil	0	3
+1978	Argentina	Estadio Monumental	Buenos Aires	(29)	1978-06-18	Italia	Austria	1	0
+1978	Argentina	Estadio Chateau Carreras	Córdoba	(31)	1978-06-18	Países Bajos	Alemania occidental	2	2
+1978	Argentina	Estadio Gigante de Arroyito	Rosario	(30)	1978-06-18	Argentina	Brasil	0	0
+1978	Argentina	Estadio Ciudad de Mendoza	Mendoza	(32)	1978-06-18	Perú	Polonia	0	1
+1978	Argentina	Estadio Monumental	Buenos Aires	(33)	1978-06-21	Italia	Países Bajos	1	2
+1978	Argentina	Estadio Chateau Carreras	Córdoba	(35)	1978-06-21	Austria	Alemania occidental	3	2
+1978	Argentina	Estadio Gigante de Arroyito	Rosario	(34)	1978-06-21	Argentina	Perú	6	0
+1978	Argentina	Estadio Ciudad de Mendoza	Mendoza	(36)	1978-06-21	Polonia	Brasil	1	3
+1978	Argentina	Estadio Monumental	Buenos Aires	(37)	1978-06-24	Brasil	Italia	2	1
+1978	Argentina	Estadio Monumental	Buenos Aires	(38)	1978-06-25	Países Bajos	Argentina	1	3
+1982	España	Camp Nou	Barcelona	(1)	1982-06-13	Argentina	Bélgica	0	1
+1982	España	Balaídos	Vigo	(2)	1982-06-14	Italia	Polonia	0	0
+1982	España	Estadio Ramón Sánchez Pizjuán	Seville	(3)	1982-06-14	Brasil	Unión Soviética	2	1
+1982	España	Estadio de Riazor	A Coruña	(4)	1982-06-15	Perú	Camerún	0	0
+1982	España	Nuevo Estadio	Elche	(5)	1982-06-15	Hungría	El Salvador	10	1
+1982	España	Estadio La Rosaleda	Málaga	(6)	1982-06-15	Escocia	Nueva Zelanda	5	2
+1982	España	El Molinón	Gijón	(7)	1982-06-16	Alemania occidental	Argelia	1	2
+1982	España	Estadio San Mamés	Bilbao	(8)	1982-06-16	Inglaterra	Francia	3	1
+1982	España	Estadio Luis Casanova	Valencia	(9)	1982-06-16	España	Honduras	1	1
+1982	España	Estadio Carlos Tartiere	Oviedo	(10)	1982-06-17	Chile	Austria	0	1
+1982	España	Estadio José Zorrilla	Valladolid	(11)	1982-06-17	Checoslovaquia	Kuwait	1	1
+1982	España	La Romareda	Zaragoza	(12)	1982-06-17	Yugoslavia	Irlanda del Norte	0	0
+1982	España	Balaídos	Vigo	(13)	1982-06-18	Italia	Perú	1	1
+1982	España	Estadio José Rico Pérez	Alicante	(14)	1982-06-18	Argentina	Hungría	4	1
+1982	España	Estadio Benito Villamarín	Seville	(15)	1982-06-18	Brasil	Escocia	4	1
+1982	España	Estadio de Riazor	A Coruña	(16)	1982-06-19	Polonia	Camerún	0	0
+1982	España	Nuevo Estadio	Elche	(17)	1982-06-19	Bélgica	El Salvador	1	0
+1982	España	Estadio La Rosaleda	Málaga	(18)	1982-06-19	Unión Soviética	Nueva Zelanda	3	0
+1982	España	El Molinón	Gijón	(19)	1982-06-20	Alemania occidental	Chile	4	1
+1982	España	Estadio San Mamés	Bilbao	(20)	1982-06-20	Inglaterra	Checoslovaquia	2	0
+1982	España	Estadio Luis Casanova	Valencia	(21)	1982-06-20	España	Yugoslavia	2	1
+1982	España	Estadio Carlos Tartiere	Oviedo	(22)	1982-06-21	Argelia	Austria	0	2
+1982	España	Estadio José Zorrilla	Valladolid	(23)	1982-06-21	Francia	Kuwait	4	1
+1982	España	La Romareda	Zaragoza	(24)	1982-06-21	Honduras	Irlanda del Norte	1	1
+1982	España	Estadio de Riazor	A Coruña	(25)	1982-06-22	Polonia	Perú	5	1
+1982	España	Nuevo Estadio	Elche	(26)	1982-06-22	Bélgica	Hungría	1	1
+1982	España	Estadio La Rosaleda	Málaga	(27)	1982-06-22	Unión Soviética	Escocia	2	2
+1982	España	Balaídos	Vigo	(28)	1982-06-23	Italia	Camerún	1	1
+1982	España	Estadio José Rico Pérez	Alicante	(29)	1982-06-23	Argentina	El Salvador	2	0
+1982	España	Estadio Benito Villamarín	Seville	(30)	1982-06-23	Brasil	Nueva Zelanda	4	0
+1982	España	Estadio Carlos Tartiere	Oviedo	(31)	1982-06-24	Argelia	Chile	3	2
+1982	España	Estadio José Zorrilla	Valladolid	(32)	1982-06-24	Francia	Checoslovaquia	1	1
+1982	España	La Romareda	Zaragoza	(33)	1982-06-24	Honduras	Yugoslavia	0	1
+1982	España	El Molinón	Gijón	(34)	1982-06-25	Alemania occidental	Austria	1	0
+1982	España	Estadio San Mamés	Bilbao	(35)	1982-06-25	Inglaterra	Kuwait	1	0
+1982	España	Estadio Luis Casanova	Valencia	(36)	1982-06-25	España	Irlanda del Norte	0	1
+1982	España	Camp Nou	Barcelona	(38)	1982-06-28	Polonia	Bélgica	3	0
+1982	España	Estadio Vicente Calderón	Madrid	(37)	1982-06-28	Austria	Francia	0	1
+1982	España	Estadio Santiago Bernabéu	Madrid	(40)	1982-06-29	Alemania occidental	Inglaterra	0	0
+1982	España	Estadio Sarriá	Barcelona	(39)	1982-06-29	Italia	Argentina	2	1
+1982	España	Camp Nou	Barcelona	(42)	1982-07-01	Bélgica	Unión Soviética	0	1
+1982	España	Estadio Vicente Calderón	Madrid	(41)	1982-07-01	Austria	Irlanda del Norte	2	2
+1982	España	Estadio Santiago Bernabéu	Madrid	(44)	1982-07-02	Alemania occidental	España	2	1
+1982	España	Estadio Sarriá	Barcelona	(43)	1982-07-02	Argentina	Brasil	1	3
+1982	España	Camp Nou	Barcelona	(46)	1982-07-04	Unión Soviética	Polonia	0	0
+1982	España	Estadio Vicente Calderón	Madrid	(45)	1982-07-04	Irlanda del Norte	Francia	1	4
+1982	España	Estadio Santiago Bernabéu	Madrid	(48)	1982-07-05	España	Inglaterra	0	0
+1982	España	Estadio Sarriá	Barcelona	(47)	1982-07-05	Italia	Brasil	3	2
+1982	España	Camp Nou	Barcelona	(49)	1982-07-08	Polonia	Italia	0	2
+1982	España	Estadio Ramón Sánchez Pizjuán	Seville	(50)	1982-07-08	Alemania occidental	Francia	5	4
+1982	España	Estadio José Rico Pérez	Alicante	(51)	1982-07-10	Polonia	Francia	3	2
+1982	España	Estadio Santiago Bernabéu	NA	(52)	1982-07-11	Italia	Alemania occidental	3	1
+1986	Mexico	Estadio Azteca	Mexico City	(1)	1986-05-31	Bulgaria	Italia	1	1
+1986	Mexico	Estadio Nou Camp	León	(2)	1986-06-01	Canadá	Francia	0	1
+1986	Mexico	Estadio Jalisco	Guadalajara	(3)	1986-06-01	España	Brasil	0	1
+1986	Mexico	Estadio Olímpico Universitario	Mexico City	(4)	1986-06-02	Argentina	Corea del Sur	3	1
+1986	Mexico	Estadio Sergio León Chavez	Irapuato	(5)	1986-06-02	Unión Soviética	Hungría	6	0
+1986	Mexico	Estadio Universitario	Monterrey	(6)	1986-06-02	Marruecos	Polonia	0	0
+1986	Mexico	Estadio Azteca	Mexico City	(7)	1986-06-03	Bélgica	Mexico	1	2
+1986	Mexico	Estadio Tres de Marzo	Guadalajara	(8)	1986-06-03	Argelia	Irlanda del Norte	1	1
+1986	Mexico	Estadio Tecnológico	Monterrey	(9)	1986-06-03	Portugal	Inglaterra	1	0
+1986	Mexico	Estadio Nemesio Díez	Toluca	(10)	1986-06-04	Paraguay	Irak	1	0
+1986	Mexico	Estadio La Corregidora	Querétaro	(11)	1986-06-04	Uruguay	Alemania occidental	1	1
+1986	Mexico	Estadio Neza 86	Nezahualcóyotl	(12)	1986-06-04	Escocia	Dinamarca	0	1
+1986	Mexico	Estadio Cuauhtémoc	Puebla	(13)	1986-06-05	Italia	Argentina	1	1
+1986	Mexico	Estadio Olímpico Universitario	Mexico City	(14)	1986-06-05	Corea del Sur	Bulgaria	1	1
+1986	Mexico	Estadio Nou Camp	León	(15)	1986-06-05	Francia	Unión Soviética	1	1
+1986	Mexico	Estadio Sergio León Chavez	Irapuato	(16)	1986-06-06	Hungría	Canadá	2	0
+1986	Mexico	Estadio Jalisco	Guadalajara	(17)	1986-06-06	Brasil	Argelia	1	0
+1986	Mexico	Estadio Tecnológico	Monterrey	(18)	1986-06-06	Inglaterra	Marruecos	0	0
+1986	Mexico	Estadio Azteca	Mexico City	(19)	1986-06-07	Mexico	Paraguay	1	1
+1986	Mexico	Estadio Tres de Marzo	Guadalajara	(20)	1986-06-07	Irlanda del Norte	España	1	2
+1986	Mexico	Estadio Universitario	Monterrey	(21)	1986-06-07	Polonia	Portugal	1	0
+1986	Mexico	Estadio Nemesio Díez	Toluca	(22)	1986-06-08	Irak	Bélgica	1	2
+1986	Mexico	Estadio La Corregidora	Querétaro	(23)	1986-06-08	Alemania occidental	Escocia	2	1
+1986	Mexico	Estadio Neza 86	Nezahualcóyotl	(24)	1986-06-08	Dinamarca	Uruguay	6	1
+1986	Mexico	Estadio Nou Camp	León	(25)	1986-06-09	Hungría	Francia	0	3
+1986	Mexico	Estadio Sergio León Chavez	Irapuato	(26)	1986-06-09	Unión Soviética	Canadá	2	0
+1986	Mexico	Estadio Cuauhtémoc	Puebla	(27)	1986-06-10	Corea del Sur	Italia	2	3
+1986	Mexico	Estadio Olímpico Universitario	Mexico City	(28)	1986-06-10	Argentina	Bulgaria	2	0
+1986	Mexico	Estadio Azteca	Mexico City	(29)	1986-06-11	Irak	Mexico	0	1
+1986	Mexico	Estadio Nemesio Díez	Toluca	(30)	1986-06-11	Paraguay	Bélgica	2	2
+1986	Mexico	Estadio Tres de Marzo	Guadalajara	(31)	1986-06-11	Portugal	Marruecos	1	3
+1986	Mexico	Estadio Tecnológico	Monterrey	(32)	1986-06-11	Inglaterra	Polonia	3	0
+1986	Mexico	Estadio Jalisco	Guadalajara	(33)	1986-06-12	Irlanda del Norte	Brasil	0	3
+1986	Mexico	Estadio Tecnológico	Monterrey	(34)	1986-06-12	Argelia	España	0	3
+1986	Mexico	Estadio La Corregidora	Querétaro	(35)	1986-06-13	Dinamarca	Alemania occidental	2	0
+1986	Mexico	Estadio Neza 86	Nezahualcóyotl	(36)	1986-06-13	Escocia	Uruguay	0	0
+1986	Mexico	Estadio Azteca	Mexico City	(37)	1986-06-15	Mexico	Bulgaria	2	0
+1986	Mexico	Estadio Nou Camp	León	(38)	1986-06-15	Unión Soviética	Bélgica	3	4
+1986	Mexico	Estadio Cuauhtémoc	Puebla	(39)	1986-06-16	Argentina	Uruguay	1	0
+1986	Mexico	Estadio Jalisco	Guadalajara	(40)	1986-06-16	Brasil	Polonia	4	0
+1986	Mexico	Estadio Olímpico Universitario	Mexico City	(41)	1986-06-17	Italia	Francia	0	2
+1986	Mexico	Estadio Universitario	Monterrey	(42)	1986-06-17	Marruecos	Alemania occidental	0	1
+1986	Mexico	Estadio Azteca	Mexico City	(43)	1986-06-18	Inglaterra	Paraguay	3	0
+1986	Mexico	Estadio La Corregidora	Querétaro	(44)	1986-06-18	Dinamarca	España	1	5
+1986	Mexico	Estadio Jalisco	Guadalajara	(45)	1986-06-21	Brasil	Francia	3	4
+1986	Mexico	Estadio Universitario	Monterrey	(46)	1986-06-21	Alemania occidental	Mexico	4	1
+1986	Mexico	Estadio Cuauhtémoc	Puebla	(47)	1986-06-22	España	Bélgica	4	5
+1986	Mexico	Estadio Azteca	Mexico City	(48)	1986-06-22	Argentina	Inglaterra	2	1
+1986	Mexico	Estadio Azteca	Mexico City	(49)	1986-06-25	Argentina	Bélgica	2	0
+1986	Mexico	Estadio Jalisco	Guadalajara	(50)	1986-06-25	Francia	Alemania occidental	0	2
+1986	Mexico	Estadio Cuauhtémoc	Puebla	(51)	1986-06-28	Francia	Bélgica	4	2
+1986	Mexico	Estadio Azteca	Mexico City	(52)	1986-06-29	Argentina	Alemania occidental	3	2
+1990	Italia	San Siro	Milan	(1)	1990-06-08	Argentina	Camerún	0	1
+1990	Italia	Stadio Olimpico	Rome	(3)	1990-06-09	Italia	Austria	1	0
+1990	Italia	Stadio San Nicola	Bari	(2)	1990-06-09	Unión Soviética	Rumania	0	2
+1990	Italia	Stadio Renato Dall'Ara	Bologna	(4)	1990-06-09	Emiratos Árabes Unidos	Colombia	0	2
+1990	Italia	Stadio Comunale	Florence	(5)	1990-06-10	Estados Unidos	Checoslovaquia	1	5
+1990	Italia	Stadio Delle Alpi	Turin	(6)	1990-06-10	Brasil	Suecia	2	1
+1990	Italia	San Siro	Milan	(7)	1990-06-10	Alemania occidental	Yugoslavia	4	1
+1990	Italia	Stadio Luigi Ferraris	Genoa	(8)	1990-06-11	Costa Rica	Escocia	1	0
+1990	Italia	Stadio Sant'Elia	Cagliari	(9)	1990-06-11	Inglaterra	Irlanda	1	1
+1990	Italia	Stadio Marc'Antonio Bentegodi	Verona	(10)	1990-06-12	Bélgica	Corea del Sur	2	0
+1990	Italia	Stadio La Favorita	Palermo	(11)	1990-06-12	Países Bajos	Egipto	1	1
+1990	Italia	Stadio San Paolo	Naples	(13)	1990-06-13	Argentina	Unión Soviética	2	0
+1990	Italia	Stadio Friuli	Udine	(12)	1990-06-13	Uruguay	España	0	0
+1990	Italia	Stadio Olimpico	Rome	(15)	1990-06-14	Italia	Estados Unidos	1	0
+1990	Italia	Stadio San Nicola	Bari	(16)	1990-06-14	Camerún	Rumania	2	1
+1990	Italia	Stadio Renato Dall'Ara	Bologna	(14)	1990-06-14	Yugoslavia	Colombia	1	0
+1990	Italia	Stadio Comunale	Florence	(17)	1990-06-15	Austria	Checoslovaquia	0	1
+1990	Italia	San Siro	Milan	(18)	1990-06-15	Alemania occidental	Emiratos Árabes Unidos	5	1
+1990	Italia	Stadio Delle Alpi	Turin	(19)	1990-06-16	Brasil	Costa Rica	1	0
+1990	Italia	Stadio Luigi Ferraris	Genoa	(20)	1990-06-16	Suecia	Escocia	1	2
+1990	Italia	Stadio Sant'Elia	Cagliari	(21)	1990-06-16	Inglaterra	Países Bajos	0	0
+1990	Italia	Stadio Marc'Antonio Bentegodi	Verona	(23)	1990-06-17	Bélgica	Uruguay	3	1
+1990	Italia	Stadio Friuli	Udine	(24)	1990-06-17	Corea del Sur	España	1	3
+1990	Italia	Stadio La Favorita	Palermo	(22)	1990-06-17	Irlanda	Egipto	0	0
+1990	Italia	Stadio San Paolo	Naples	(25)	1990-06-18	Argentina	Rumania	1	1
+1990	Italia	Stadio San Nicola	Bari	(26)	1990-06-18	Camerún	Unión Soviética	0	4
+1990	Italia	Stadio Olimpico	Rome	(29)	1990-06-19	Italia	Checoslovaquia	2	0
+1990	Italia	Stadio Comunale	Florence	(30)	1990-06-19	Austria	Estados Unidos	2	1
+1990	Italia	San Siro	Milan	(27)	1990-06-19	Alemania occidental	Colombia	1	1
+1990	Italia	Stadio Renato Dall'Ara	Bologna	(28)	1990-06-19	Yugoslavia	Emiratos Árabes Unidos	4	1
+1990	Italia	Stadio Delle Alpi	Turin	(31)	1990-06-20	Brasil	Escocia	1	0
+1990	Italia	Stadio Luigi Ferraris	Genoa	(32)	1990-06-20	Suecia	Costa Rica	1	2
+1990	Italia	Stadio Marc'Antonio Bentegodi	Verona	(33)	1990-06-21	Bélgica	España	1	2
+1990	Italia	Stadio Friuli	Udine	(34)	1990-06-21	Corea del Sur	Uruguay	0	1
+1990	Italia	Stadio Sant'Elia	Cagliari	(35)	1990-06-21	Inglaterra	Egipto	1	0
+1990	Italia	Stadio La Favorita	Palermo	(36)	1990-06-21	Irlanda	Países Bajos	1	1
+1990	Italia	Stadio San Paolo	Naples	(37)	1990-06-23	Camerún	Colombia	2	1
+1990	Italia	Stadio San Nicola	Bari	(38)	1990-06-23	Checoslovaquia	Costa Rica	4	1
+1990	Italia	Stadio Delle Alpi	Turin	(39)	1990-06-24	Brasil	Argentina	0	1
+1990	Italia	San Siro	Milan	(40)	1990-06-24	Alemania occidental	Países Bajos	2	1
+1990	Italia	Stadio Luigi Ferraris	Genoa	(41)	1990-06-25	Irlanda	Rumania	5	4
+1990	Italia	Stadio Olimpico	Rome	(42)	1990-06-25	Italia	Uruguay	2	0
+1990	Italia	Stadio Marc'Antonio Bentegodi	Verona	(43)	1990-06-26	España	Yugoslavia	1	2
+1990	Italia	Stadio Renato Dall'Ara	Bologna	(44)	1990-06-26	Inglaterra	Bélgica	1	0
+1990	Italia	Stadio Artemio Franchi	Florence	(45)	1990-06-30	Yugoslavia	Argentina	2	3
+1990	Italia	Stadio Olimpico	Rome	(46)	1990-06-30	Italia	Irlanda	1	0
+1990	Italia	San Siro	Milan	(47)	1990-07-01	Alemania occidental	Checoslovaquia	1	0
+1990	Italia	Stadio San Paolo	Naples	(48)	1990-07-01	Inglaterra	Camerún	3	2
+1990	Italia	Stadio San Paolo	Naples	(49)	1990-07-03	Italia	Argentina	3	4
+1990	Italia	Stadio delle Alpi	Turin	(50)	1990-07-04	Alemania occidental	Inglaterra	4	3
+1990	Italia	Stadio San Nicola	Bari	(51)	1990-07-07	Italia	Inglaterra	2	1
+1990	Italia	Stadio Olimpico	Rome	(52)	1990-07-08	Alemania occidental	Argentina	1	0
+1994	Estados Unidos	Soldier Field	Chicago	(1)	1994-06-17	Alemania	Bolivia	1	0
+1994	Estados Unidos	Cotton Bowl	Dallas	(2)	1994-06-17	España	Corea del Sur	2	2
+1994	Estados Unidos	Pontiac Silverdome	Pontiac	(3)	1994-06-18	Estados Unidos	Suiza	1	1
+1994	Estados Unidos	Rose Bowl	Pasadena	(5)	1994-06-18	Colombia	Rumania	1	3
+1994	Estados Unidos	Giants Stadium	East Rutherford	(4)	1994-06-18	Italia	Irlanda	0	1
+1994	Estados Unidos	Rose Bowl	Pasadena	(8)	1994-06-19	Camerún	Suecia	2	2
+1994	Estados Unidos	RFK Stadium	Washington	(7)	1994-06-19	Noruega	Mexico	1	0
+1994	Estados Unidos	Citrus Bowl	Orlando	(6)	1994-06-19	Bélgica	Marruecos	1	0
+1994	Estados Unidos	Stanford Stadium	Stanford	(9)	1994-06-20	Brasil	Rusia	2	0
+1994	Estados Unidos	RFK Stadium	Washington	(10)	1994-06-20	Países Bajos	Arabia Saudita	2	1
+1994	Estados Unidos	Soldier Field	Chicago	(12)	1994-06-21	Alemania	España	1	1
+1994	Estados Unidos	Foxboro Stadium	Foxborough	(11)	1994-06-21	Argentina	Grecia	4	0
+1994	Estados Unidos	Cotton Bowl	Dallas	(13)	1994-06-21	Nigeria	Bulgaria	3	0
+1994	Estados Unidos	Pontiac Silverdome	Pontiac	(14)	1994-06-22	Rumania	Suiza	1	4
+1994	Estados Unidos	Rose Bowl	Pasadena	(15)	1994-06-22	Estados Unidos	Colombia	2	1
+1994	Estados Unidos	Foxboro Stadium	Foxborough	(17)	1994-06-23	Corea del Sur	Bolivia	0	0
+1994	Estados Unidos	Giants Stadium	East Rutherford	(16)	1994-06-23	Italia	Noruega	1	0
+1994	Estados Unidos	Stanford Stadium	Stanford	(19)	1994-06-24	Brasil	Camerún	3	0
+1994	Estados Unidos	Pontiac Silverdome	Pontiac	(20)	1994-06-24	Suecia	Rusia	3	1
+1994	Estados Unidos	Citrus Bowl	Orlando	(18)	1994-06-24	Mexico	Irlanda	2	1
+1994	Estados Unidos	Foxboro Stadium	Foxborough	(23)	1994-06-25	Argentina	Nigeria	2	1
+1994	Estados Unidos	Citrus Bowl	Orlando	(21)	1994-06-25	Bélgica	Países Bajos	1	0
+1994	Estados Unidos	Giants Stadium	East Rutherford	(22)	1994-06-25	Arabia Saudita	Marruecos	2	1
+1994	Estados Unidos	Rose Bowl	Pasadena	(25)	1994-06-26	Estados Unidos	Rumania	0	1
+1994	Estados Unidos	Stanford Stadium	Stanford	(26)	1994-06-26	Suiza	Colombia	0	2
+1994	Estados Unidos	Soldier Field	Chicago	(24)	1994-06-26	Grecia	Bulgaria	0	4
+1994	Estados Unidos	Soldier Field	Chicago	(27)	1994-06-27	Bolivia	España	1	3
+1994	Estados Unidos	Cotton Bowl	Dallas	(28)	1994-06-27	Alemania	Corea del Sur	3	2
+1994	Estados Unidos	Stanford Stadium	Stanford	(31)	1994-06-28	Rusia	Camerún	6	1
+1994	Estados Unidos	Pontiac Silverdome	Pontiac	(32)	1994-06-28	Brasil	Suecia	1	1
+1994	Estados Unidos	Giants Stadium	East Rutherford	(29)	1994-06-28	Irlanda	Noruega	0	0
+1994	Estados Unidos	RFK Stadium	Washington	(30)	1994-06-28	Italia	Mexico	1	1
+1994	Estados Unidos	Citrus Bowl	Orlando	(33)	1994-06-29	Marruecos	Países Bajos	1	2
+1994	Estados Unidos	RFK Stadium	Washington	(34)	1994-06-29	Bélgica	Arabia Saudita	0	1
+1994	Estados Unidos	Foxboro Stadium	Foxborough	(35)	1994-06-30	Grecia	Nigeria	0	2
+1994	Estados Unidos	Cotton Bowl	Dallas	(36)	1994-06-30	Argentina	Bulgaria	0	2
+1994	Estados Unidos	Soldier Field	Chicago	(37)	1994-07-02	Alemania	Bélgica	3	2
+1994	Estados Unidos	RFK Stadium	Washington	(38)	1994-07-02	España	Suiza	3	0
+1994	Estados Unidos	Cotton Bowl	Dallas	(39)	1994-07-03	Arabia Saudita	Suecia	1	3
+1994	Estados Unidos	Rose Bowl	Pasadena	(40)	1994-07-03	Rumania	Argentina	3	2
+1994	Estados Unidos	Citrus Bowl	Orlando	(41)	1994-07-04	Países Bajos	Irlanda	2	0
+1994	Estados Unidos	Stanford Stadium	Stanford	(42)	1994-07-04	Brasil	Estados Unidos	1	0
+1994	Estados Unidos	Foxboro Stadium	Foxborough	(43)	1994-07-05	Nigeria	Italia	1	2
+1994	Estados Unidos	Giants Stadium	East Rutherford	(44)	1994-07-05	Mexico	Bulgaria	1	3
+1994	Estados Unidos	Foxboro Stadium	Foxborough	(45)	1994-07-09	Italia	España	2	1
+1994	Estados Unidos	Cotton Bowl	Dallas	(46)	1994-07-09	Países Bajos	Brasil	2	3
+1994	Estados Unidos	Giants Stadium	East Rutherford	(47)	1994-07-10	Bulgaria	Alemania	2	1
+1994	Estados Unidos	Stanford Stadium	Stanford	(48)	1994-07-10	Rumania	Suecia	4	5
+1994	Estados Unidos	Giants Stadium	East Rutherford	(49)	1994-07-13	Bulgaria	Italia	1	2
+1994	Estados Unidos	Rose Bowl	Pasadena	(50)	1994-07-13	Suecia	Brasil	0	1
+1994	Estados Unidos	Rose Bowl	Pasadena	(51)	1994-07-16	Suecia	Bulgaria	4	0
+1994	Estados Unidos	Rose Bowl	Pasadena	(52)	1994-07-17	Brasil	Italia	3	2
+1998	Francia	Stade de France	Saint-Denis	(1)	1998-06-10	Brasil	Escocia	2	1
+1998	Francia	Stade de la Mosson	Montpellier	(2)	1998-06-10	Marruecos	Noruega	2	2
+1998	Francia	Stade de Toulouse	Toulouse	(3)	1998-06-11	Camerún	Austria	1	1
+1998	Francia	Parc Lescure	Bordeaux	(4)	1998-06-11	Italia	Chile	2	2
+1998	Francia	Stade Félix Bollaert	Lens	(5)	1998-06-12	Arabia Saudita	Dinamarca	0	1
+1998	Francia	Stade Vélodrome	Marseille	(6)	1998-06-12	Francia	Sudáfrica	3	0
+1998	Francia	Stade de la Mosson	Montpellier	(7)	1998-06-12	Paraguay	Bulgaria	0	0
+1998	Francia	Stade de la Beaujoire	Nantes	(10)	1998-06-13	España	Nigeria	2	3
+1998	Francia	Stade de France	Saint-Denis	(8)	1998-06-13	Países Bajos	Bélgica	0	0
+1998	Francia	Stade Gerland	Lyon	(9)	1998-06-13	Corea del Sur	Mexico	1	3
+1998	Francia	Stade Geoffroy-Guichard	Saint-Étienne	(12)	1998-06-14	Yugoslavia	Irán	1	0
+1998	Francia	Stade Félix Bollaert	Lens	(11)	1998-06-14	Jamaica	Croacia	1	3
+1998	Francia	Stade de Toulouse	Toulouse	(13)	1998-06-14	Argentina	Japón	1	0
+1998	Francia	Parc des Princes	Paris	(14)	1998-06-15	Alemania	Estados Unidos	2	0
+1998	Francia	Stade Gerland	Lyon	(15)	1998-06-15	Rumania	Colombia	1	0
+1998	Francia	Stade Vélodrome	Marseille	(16)	1998-06-15	Inglaterra	Túnez	2	0
+1998	Francia	Parc Lescure	Bordeaux	(17)	1998-06-16	Escocia	Noruega	1	1
+1998	Francia	Stade de la Beaujoire	Nantes	(18)	1998-06-16	Brasil	Marruecos	3	0
+1998	Francia	Stade Geoffroy-Guichard	Saint-Étienne	(19)	1998-06-17	Chile	Austria	1	1
+1998	Francia	Stade de la Mosson	Montpellier	(20)	1998-06-17	Italia	Camerún	3	0
+1998	Francia	Stade de France	Saint-Denis	(21)	1998-06-18	Francia	Arabia Saudita	4	0
+1998	Francia	Stade de Toulouse	Toulouse	(22)	1998-06-18	Sudáfrica	Dinamarca	1	1
+1998	Francia	Parc des Princes	Paris	(23)	1998-06-19	Nigeria	Bulgaria	1	0
+1998	Francia	Stade Geoffroy-Guichard	Saint-Étienne	(24)	1998-06-19	España	Paraguay	0	0
+1998	Francia	Stade Vélodrome	Marseille	(25)	1998-06-20	Países Bajos	Corea del Sur	5	0
+1998	Francia	Parc Lescure	Bordeaux	(26)	1998-06-20	Bélgica	Mexico	2	2
+1998	Francia	Stade de la Beaujoire	Nantes	(27)	1998-06-20	Japón	Croacia	0	1
+1998	Francia	Stade Félix Bollaert	Lens	(29)	1998-06-21	Alemania	Yugoslavia	2	2
+1998	Francia	Stade Gerland	Lyon	(30)	1998-06-21	Estados Unidos	Irán	1	2
+1998	Francia	Parc des Princes	Paris	(28)	1998-06-21	Argentina	Jamaica	5	0
+1998	Francia	Stade de la Mosson	Montpellier	(31)	1998-06-22	Colombia	Túnez	1	0
+1998	Francia	Stade de Toulouse	Toulouse	(32)	1998-06-22	Rumania	Inglaterra	2	1
+1998	Francia	Stade Geoffroy-Guichard	Saint-Étienne	(34)	1998-06-23	Escocia	Marruecos	0	3
+1998	Francia	Stade Vélodrome	Marseille	(35)	1998-06-23	Brasil	Noruega	1	2
+1998	Francia	Stade de France	Saint-Denis	(33)	1998-06-23	Italia	Austria	2	1
+1998	Francia	Stade de la Beaujoire	Nantes	(36)	1998-06-23	Chile	Camerún	1	1
+1998	Francia	Stade Gerland	Lyon	(38)	1998-06-24	Francia	Dinamarca	2	1
+1998	Francia	Parc Lescure	Bordeaux	(40)	1998-06-24	Sudáfrica	Arabia Saudita	2	2
+1998	Francia	Stade Félix Bollaert	Lens	(37)	1998-06-24	España	Bulgaria	6	1
+1998	Francia	Stade de Toulouse	Toulouse	(39)	1998-06-24	Nigeria	Paraguay	1	3
+1998	Francia	Parc des Princes	Paris	(41)	1998-06-25	Bélgica	Corea del Sur	1	1
+1998	Francia	Stade Geoffroy-Guichard	Saint-Étienne	(42)	1998-06-25	Países Bajos	Mexico	2	2
+1998	Francia	Stade de la Mosson	Montpellier	(43)	1998-06-25	Alemania	Irán	2	0
+1998	Francia	Stade de la Beaujoire	Nantes	(44)	1998-06-25	Estados Unidos	Yugoslavia	0	1
+1998	Francia	Stade de France	Saint-Denis	(45)	1998-06-26	Rumania	Túnez	1	1
+1998	Francia	Stade Félix Bollaert	Lens	(46)	1998-06-26	Colombia	Inglaterra	0	2
+1998	Francia	Stade Gerland	Lyon	(47)	1998-06-26	Japón	Jamaica	1	2
+1998	Francia	Parc Lescure	Bordeaux	(48)	1998-06-26	Argentina	Croacia	1	0
+1998	Francia	Parc des Princes	Paris	(49)	1998-06-27	Brasil	Chile	4	1
+1998	Francia	Stade Vélodrome	Marseille	(50)	1998-06-27	Italia	Noruega	1	0
+1998	Francia	Stade de France	Saint-Denis	(51)	1998-06-28	Nigeria	Dinamarca	1	4
+1998	Francia	Stade Félix Bollaert	Lens	(52)	1998-06-28	Francia	Paraguay	1	0
+1998	Francia	Stade de la Mosson	Montpellier	(53)	1998-06-29	Alemania	Mexico	2	1
+1998	Francia	Stade de Toulouse	Toulouse	(54)	1998-06-29	Países Bajos	Yugoslavia	2	1
+1998	Francia	Stade Geoffroy-Guichard	Saint-Étienne	(55)	1998-06-30	Argentina	Inglaterra	4	3
+1998	Francia	Parc Lescure	Bordeaux	(56)	1998-06-30	Rumania	Croacia	0	1
+1998	Francia	Stade de France	Saint-Denis	(57)	1998-07-03	Italia	Francia	3	4
+1998	Francia	Stade de la Beaujoire	Nantes	(58)	1998-07-03	Brasil	Dinamarca	3	2
+1998	Francia	Stade Gerland	Lyon	(59)	1998-07-04	Alemania	Croacia	0	3
+1998	Francia	Stade Vélodrome	Marseille	(60)	1998-07-04	Países Bajos	Argentina	2	1
+1998	Francia	Stade Vélodrome	Marseille	(61)	1998-07-07	Brasil	Países Bajos	4	2
+1998	Francia	Stade de France	Saint-Denis	(62)	1998-07-08	Francia	Croacia	2	1
+1998	Francia	Parc des Princes	Paris	(63)	1998-07-11	Países Bajos	Croacia	1	2
+1998	Francia	Stade de France	Saint-Denis	(64)	1998-07-12	Brasil	Francia	0	3
+2002	Corea del sur y Japón	Seoul World Cup Stadium	Seoul	(1)	2002-05-31	Francia	Senegal	0	1
+2002	Corea del sur y Japón	Munsu Cup Stadium	Ulsan	(3)	2002-06-01	Uruguay	Dinamarca	1	2
+2002	Corea del sur y Japón	Niigata Stadium	Niigata	(2)	2002-06-01	Irlanda	Camerún	1	1
+2002	Corea del sur y Japón	Sapporo Dome	Sapporo	(4)	2002-06-01	Alemania	Arabia Saudita	8	0
+2002	Corea del sur y Japón	Asiad Main Stadium	Busan	(6)	2002-06-02	Paraguay	Sudáfrica	2	2
+2002	Corea del sur y Japón	Gwangju World Cup Stadium	Gwangju	(8)	2002-06-02	España	Eslovenia	3	1
+2002	Corea del sur y Japón	Saitama Stadium	Saitama	(5)	2002-06-02	Inglaterra	Suecia	1	1
+2002	Corea del sur y Japón	Kashima Soccer Stadium	Ibaraki	(7)	2002-06-02	Argentina	Nigeria	1	0
+2002	Corea del sur y Japón	Munsu Cup Stadium	Ulsan	(10)	2002-06-03	Brasil	Turquía	2	1
+2002	Corea del sur y Japón	Niigata Stadium	Niigata	(9)	2002-06-03	Croacia	Mexico	0	1
+2002	Corea del sur y Japón	Sapporo Dome	Sapporo	(11)	2002-06-03	Italia	Ecuador	2	0
+2002	Corea del sur y Japón	Gwangju World Cup Stadium	Gwangju	(12)	2002-06-04	China	Costa Rica	0	2
+2002	Corea del sur y Japón	Asiad Main Stadium	Busan	(14)	2002-06-04	Corea del Sur	Polonia	2	0
+2002	Corea del sur y Japón	Saitama Stadium	Saitama	(13)	2002-06-04	Japón	Bélgica	2	2
+2002	Corea del sur y Japón	Suwon World Cup Stadium	Suwon	(16)	2002-06-05	Estados Unidos	Portugal	3	2
+2002	Corea del sur y Japón	Kashima Soccer Stadium	Ibaraki	(17)	2002-06-05	Alemania	Republica de Irlanda	1	1
+2002	Corea del sur y Japón	Kobe Wing Stadium	Kobe	(15)	2002-06-05	Rusia	Túnez	2	0
+2002	Corea del sur y Japón	Asiad Main Stadium	Busan	(18)	2002-06-06	Francia	Uruguay	0	0
+2002	Corea del sur y Japón	Daegu World Cup Stadium	Daegu	(19)	2002-06-06	Dinamarca	Senegal	1	1
+2002	Corea del sur y Japón	Saitama Stadium	Saitama	(19)	2002-06-06	Camerún	Arabia Saudita	1	0
+2002	Corea del sur y Japón	Jeonju World Cup Stadium	Jeonju	(22)	2002-06-07	España	Paraguay	3	1
+2002	Corea del sur y Japón	Kobe Wing Stadium	Kobe	(21)	2002-06-07	Suecia	Nigeria	2	1
+2002	Corea del sur y Japón	Sapporo Dome	Sapporo	(23)	2002-06-07	Argentina	Inglaterra	0	1
+2002	Corea del sur y Japón	Daegu World Cup Stadium	Daegu	(24)	2002-06-08	Sudáfrica	Eslovenia	1	0
+2002	Corea del sur y Japón	Jeju World Cup Stadium	Jeju	(26)	2002-06-08	Brasil	China	4	0
+2002	Corea del sur y Japón	Kashima Soccer Stadium	Ibaraki	(25)	2002-06-08	Italia	Croacia	1	2
+2002	Corea del sur y Japón	Incheon Munhak Stadium	Incheon	(28)	2002-06-09	Costa Rica	Turquía	1	1
+2002	Corea del sur y Japón	Miyagi Stadium	Miyagi	(27)	2002-06-09	Mexico	Ecuador	2	1
+2002	Corea del sur y Japón	International Stadium Yokohama	Yokohama	(29)	2002-06-09	Japón	Rusia	1	0
+2002	Corea del sur y Japón	Daegu World Cup Stadium	Daegu	(30)	2002-06-10	Corea del Sur	Estados Unidos	1	1
+2002	Corea del sur y Japón	Jeonju World Cup Stadium	Jeonju	(32)	2002-06-10	Portugal	Polonia	4	0
+2002	Corea del sur y Japón	Ōita Stadium	Ōita	(31)	2002-06-10	Túnez	Bélgica	1	1
+2002	Corea del sur y Japón	Incheon Munhak Stadium	Incheon	(33)	2002-06-11	Dinamarca	Francia	2	0
+2002	Corea del sur y Japón	Suwon World Cup Stadium	Suwon	(34)	2002-06-11	Senegal	Uruguay	3	3
+2002	Corea del sur y Japón	Shizuoka Stadium	Shizuoka	(35)	2002-06-11	Camerún	Alemania	0	2
+2002	Corea del sur y Japón	International Stadium Yokohama	Yokohama	(36)	2002-06-11	Arabia Saudita	Irlanda	0	3
+2002	Corea del sur y Japón	Daejeon World Cup Stadium	Daejeon	(39)	2002-06-12	Sudáfrica	España	2	3
+2002	Corea del sur y Japón	Jeju World Cup Stadium	Jeju	(40)	2002-06-12	Eslovenia	Paraguay	1	3
+2002	Corea del sur y Japón	Miyagi Stadium	Miyagi	(37)	2002-06-12	Suecia	Argentina	1	1
+2002	Corea del sur y Japón	Nagai Stadium	Osaka	(38)	2002-06-12	Nigeria	Inglaterra	0	0
+2002	Corea del sur y Japón	Suwon World Cup Stadium	Suwon	(41)	2002-06-13	Costa Rica	Brasil	2	5
+2002	Corea del sur y Japón	Seoul World Cup Stadium	Seoul	(42)	2002-06-13	Turquía	China	3	0
+2002	Corea del sur y Japón	Ōita Stadium	Ōita	(43)	2002-06-13	Mexico	Italia	1	1
+2002	Corea del sur y Japón	International Stadium Yokohama	Yokohama	(44)	2002-06-13	Ecuador	Croacia	1	0
+2002	Corea del sur y Japón	Incheon Munhak Stadium	Incheon	(47)	2002-06-14	Portugal	Corea del Sur	0	1
+2002	Corea del sur y Japón	Daejeon World Cup Stadium	Daejeon	(48)	2002-06-14	Polonia	Estados Unidos	3	1
+2002	Corea del sur y Japón	Nagai Stadium	Osaka	(45)	2002-06-14	Túnez	Japón	0	2
+2002	Corea del sur y Japón	Shizuoka Stadium	Shizuoka	(46)	2002-06-14	Bélgica	Rusia	3	2
+2002	Corea del sur y Japón	Jeju World Cup Stadium	Jeju	(49)	2002-06-15	Alemania	Paraguay	1	0
+2002	Corea del sur y Japón	Niigata Stadium	Niigata	(50)	2002-06-15	Dinamarca	Inglaterra	0	3
+2002	Corea del sur y Japón	Ōita Stadium	Ōita	(51)	2002-06-16	Suecia	Senegal	1	2
+2002	Corea del sur y Japón	Suwon World Cup Stadium	Suwon	(52)	2002-06-16	España	Irlanda	3	2
+2002	Corea del sur y Japón	Jeonju World Cup Stadium	Jeonju	(53)	2002-06-17	Mexico	Estados Unidos	0	2
+2002	Corea del sur y Japón	Kobe Wing Stadium	Kobe	(54)	2002-06-17	Brasil	Bélgica	2	0
+2002	Corea del sur y Japón	Miyagi Stadium	Miyagi	(55)	2002-06-18	Japón	Turquía	0	1
+2002	Corea del sur y Japón	Daejeon World Cup Stadium	Daejeon	(56)	2002-06-18	Corea del Sur	Italia	2	1
+2002	Corea del sur y Japón	Shizuoka Stadium	Shizuoka	(57)	2002-06-21	Inglaterra	Brasil	1	2
+2002	Corea del sur y Japón	Munsu Cup Stadium	Ulsan	(58)	2002-06-21	Alemania	Estados Unidos	1	0
+2002	Corea del sur y Japón	Gwangju World Cup Stadium	Gwangju	(59)	2002-06-22	España	Corea del Sur	3	5
+2002	Corea del sur y Japón	Nagai Stadium	Osaka	(60)	2002-06-22	Senegal	Turquía	0	1
+2002	Corea del sur y Japón	Seoul World Cup Stadium	Seoul	(61)	2002-06-25	Alemania	Corea del Sur	1	0
+2002	Corea del sur y Japón	Saitama Stadium	Saitama	(62)	2002-06-26	Brasil	Turquía	1	0
+2002	Corea del sur y Japón	Daegu World Cup Stadium	Daegu	(63)	2002-06-29	Corea del Sur	Turquía	2	3
+2002	Corea del sur y Japón	International Stadium Yokohama	Yokohama	(64)	2002-06-30	Alemania	Brasil	0	2
+2006	Alemania	Allianz Arena	München	(1)	2006-06-09	Alemania	Costa Rica	4	2
+2006	Alemania	Veltins-Arena	Gelsenkirchen	(2)	2006-06-09	Polonia	Ecuador	0	2
+2006	Alemania	Commerzbank-Arena	Frankfurt	(3)	2006-06-10	Inglaterra	Paraguay	1	0
+2006	Alemania	Signal Iduna Park	Dortmund	(4)	2006-06-10	Trinidad y Tobago	Suecia	0	0
+2006	Alemania	AOL Arena	Hamburg	(5)	2006-06-10	Argentina	Costa de Marfil	2	1
+2006	Alemania	Zentralstadion	Leipzig	(6)	2006-06-11	Serbia y Montenegro	Países Bajos	0	1
+2006	Alemania	Frankenstadion	Nürnberg	(7)	2006-06-11	Mexico	Irán	3	1
+2006	Alemania	RheinEnergieStadion	Köln	(8)	2006-06-11	Angola	Portugal	0	1
+2006	Alemania	AWD-Arena	Hannover	(9)	2006-06-12	Italia	Ghana	2	0
+2006	Alemania	Veltins-Arena	Gelsenkirchen	(10)	2006-06-12	Estados Unidos	Republica Checa	0	3
+2006	Alemania	Fritz-Walter-Stadion	Kaiserslautern	(12)	2006-06-12	Australia	Japón	3	1
+2006	Alemania	Olympiastadion	Berlin	(11)	2006-06-13	Brasil	Croacia	1	0
+2006	Alemania	Gottlieb-Daimler-Stadion	Stuttgart	(13)	2006-06-13	Francia	Suiza	0	0
+2006	Alemania	Commerzbank-Arena	Frankfurt	(14)	2006-06-13	Corea del Sur	Togo	2	1
+2006	Alemania	Signal Iduna Park	Dortmund	(17)	2006-06-14	Alemania	Polonia	1	0
+2006	Alemania	Zentralstadion	Leipzig	(15)	2006-06-14	España	Ucrania	4	0
+2006	Alemania	Allianz Arena	München	(16)	2006-06-14	Túnez	Arabia Saudita	1	0
+2006	Alemania	AOL Arena	Hamburg	(18)	2006-06-15	Ecuador	Costa Rica	3	0
+2006	Alemania	Frankenstadion	Nürnberg	(19)	2006-06-15	Inglaterra	Trinidad y Tobago	2	0
+2006	Alemania	Olympiastadion	Berlin	(20)	2006-06-15	Suecia	Paraguay	1	0
+2006	Alemania	Veltins-Arena	Gelsenkirchen	(21)	2006-06-16	Argentina	Serbia y Montenegro	6	0
+2006	Alemania	Gottlieb-Daimler-Stadion	Stuttgart	(22)	2006-06-16	Países Bajos	Costa de Marfil	2	1
+2006	Alemania	AWD-Arena	Hannover	(23)	2006-06-16	Mexico	Angola	0	0
+2006	Alemania	Commerzbank-Arena	Frankfurt	(24)	2006-06-17	Portugal	Irán	2	0
+2006	Alemania	Fritz-Walter-Stadion	Kaiserslautern	(25)	2006-06-17	Italia	Estados Unidos	1	1
+2006	Alemania	RheinEnergieStadion	Köln	(26)	2006-06-17	Republica Checa	Ghana	0	2
+2006	Alemania	Allianz Arena	München	(27)	2006-06-18	Brasil	Australia	2	0
+2006	Alemania	Frankenstadion	Nürnberg	(28)	2006-06-18	Japón	Croacia	0	0
+2006	Alemania	Zentralstadion	Leipzig	(29)	2006-06-18	Francia	Corea del Sur	1	0
+2006	Alemania	Signal Iduna Park	Dortmund	(30)	2006-06-19	Togo	Suiza	0	2
+2006	Alemania	Gottlieb-Daimler-Stadion	Stuttgart	(31)	2006-06-19	España	Túnez	3	1
+2006	Alemania	AOL Arena	Hamburg	(32)	2006-06-19	Arabia Saudita	Ucrania	0	4
+2006	Alemania	Olympiastadion	Berlin	(33)	2006-06-20	Ecuador	Alemania	0	3
+2006	Alemania	AWD-Arena	Hannover	(34)	2006-06-20	Costa Rica	Polonia	1	2
+2006	Alemania	RheinEnergieStadion	Köln	(35)	2006-06-20	Suecia	Inglaterra	0	1
+2006	Alemania	Fritz-Walter-Stadion	Kaiserslautern	(36)	2006-06-20	Paraguay	Trinidad y Tobago	2	0
+2006	Alemania	Commerzbank-Arena	Frankfurt	(37)	2006-06-21	Países Bajos	Argentina	0	0
+2006	Alemania	Allianz Arena	München	(38)	2006-06-21	Costa de Marfil	Serbia y Montenegro	3	2
+2006	Alemania	Veltins-Arena	Gelsenkirchen	(39)	2006-06-21	Portugal	Mexico	2	1
+2006	Alemania	Zentralstadion	Leipzig	(40)	2006-06-21	Irán	Angola	0	0
+2006	Alemania	AOL Arena	Hamburg	(41)	2006-06-22	Republica Checa	Italia	0	2
+2006	Alemania	Frankenstadion	Nürnberg	(42)	2006-06-22	Ghana	Estados Unidos	2	1
+2006	Alemania	Signal Iduna Park	Dortmund	(43)	2006-06-22	Japón	Brasil	1	4
+2006	Alemania	Gottlieb-Daimler-Stadion	Stuttgart	(44)	2006-06-22	Croacia	Australia	1	1
+2006	Alemania	RheinEnergieStadion	Köln	(45)	2006-06-23	Togo	Francia	0	2
+2006	Alemania	AWD-Arena	Hannover	(46)	2006-06-23	Suiza	Corea del Sur	2	0
+2006	Alemania	Fritz-Walter-Stadion	Kaiserslautern	(47)	2006-06-23	Arabia Saudita	España	0	1
+2006	Alemania	Olympiastadion	Berlin	(48)	2006-06-23	Ucrania	Túnez	1	0
+2006	Alemania	Allianz Arena	München	(49)	2006-06-24	Alemania	Suecia	2	0
+2006	Alemania	Zentralstadion	Leipzig	(50)	2006-06-24	Argentina	Mexico	2	1
+2006	Alemania	Gottlieb-Daimler-Stadion	Stuttgart	(51)	2006-06-25	Inglaterra	Ecuador	1	0
+2006	Alemania	Frankenstadion	Nürnberg	(52)	2006-06-25	Portugal	Países Bajos	1	0
+2006	Alemania	Fritz-Walter-Stadion	Kaiserslautern	(53)	2006-06-26	Italia	Australia	1	0
+2006	Alemania	RheinEnergieStadion	Köln	(54)	2006-06-26	Suiza	Ucrania	0	3
+2006	Alemania	Signal Iduna Park	Dortmund	(55)	2006-06-27	Brasil	Ghana	3	0
+2006	Alemania	AWD-Arena	Hannover	(56)	2006-06-27	España	Francia	1	3
+2006	Alemania	Olympiastadion	Berlin	(57)	2006-06-30	Alemania	Argentina	4	2
+2006	Alemania	AOL Arena	Hamburg	(58)	2006-06-30	Italia	Ucrania	3	0
+2006	Alemania	Veltins-Arena	Gelsenkirchen	(59)	2006-07-01	Inglaterra	Portugal	1	3
+2006	Alemania	Commerzbank-Arena	Frankfurt	(60)	2006-07-01	Brasil	Francia	0	1
+2006	Alemania	Signal Iduna Park	Dortmund	(61)	2006-07-04	Alemania	Italia	0	2
+2006	Alemania	Allianz Arena	München	(62)	2006-07-05	Portugal	Francia	0	1
+2006	Alemania	Gottlieb-Daimler-Stadion	Stuttgart	(63)	2006-07-08	Alemania	Portugal	3	1
+2006	Alemania	Olympiastadion	Berlin	(64)	2006-07-09	Italia	Francia	5	3
+2010	Sudáfrica	Soccer City	Johannesburg	(1)	2010-06-11	Sudáfrica	Mexico	1	1
+2010	Sudáfrica	Cape Town Stadium	Cape Town	(2)	2010-06-11	Uruguay	Francia	0	0
+2010	Sudáfrica	Nelson Mandela Bay Stadium	Port Elizabeth	(4)	2010-06-12	Corea del Sur	Grecia	2	0
+2010	Sudáfrica	Ellis Park Stadium	Johannesburg	(3)	2010-06-12	Argentina	Nigeria	1	0
+2010	Sudáfrica	Royal Bafokeng Stadium	Rustenburg	(5)	2010-06-12	Inglaterra	Estados Unidos	1	1
+2010	Sudáfrica	Peter Mokaba Stadium	Polokwane	(6)	2010-06-13	Argelia	Eslovenia	0	1
+2010	Sudáfrica	Loftus Versfeld Stadium	Pretoria	(8)	2010-06-13	Serbia	Ghana	0	1
+2010	Sudáfrica	Moses Mabhida Stadium	Durban	(7)	2010-06-13	Alemania	Australia	4	0
+2010	Sudáfrica	Soccer City	Johannesburg	(9)	2010-06-14	Países Bajos	Dinamarca	2	0
+2010	Sudáfrica	Free State Stadium	Bloemfontein	(10)	2010-06-14	Japón	Camerún	1	0
+2010	Sudáfrica	Cape Town Stadium	Cape Town	(11)	2010-06-14	Italia	Paraguay	1	1
+2010	Sudáfrica	Royal Bafokeng Stadium	Rustenburg	(12)	2010-06-15	Nueva Zelanda	Eslovaquia	1	1
+2010	Sudáfrica	Nelson Mandela Bay Stadium	Port Elizabeth	(13)	2010-06-15	Costa de Marfil	Portugal	0	0
+2010	Sudáfrica	Ellis Park Stadium	Johannesburg	(14)	2010-06-15	Brasil	Corea del Norte	2	1
+2010	Sudáfrica	Loftus Versfeld Stadium	Pretoria	(17)	2010-06-16	Sudáfrica	Uruguay	0	3
+2010	Sudáfrica	Mbombela Stadium	Nelspruit	(15)	2010-06-16	Honduras	Chile	0	1
+2010	Sudáfrica	Moses Mabhida Stadium	Durban	(16)	2010-06-16	España	Suiza	0	1
+2010	Sudáfrica	Peter Mokaba Stadium	Polokwane	(18)	2010-06-17	Francia	Mexico	0	2
+2010	Sudáfrica	Soccer City	Johannesburg	(20)	2010-06-17	Argentina	Corea del Sur	4	1
+2010	Sudáfrica	Free State Stadium	Bloemfontein	(19)	2010-06-17	Grecia	Nigeria	2	1
+2010	Sudáfrica	Ellis Park Stadium	Johannesburg	(22)	2010-06-18	Eslovenia	Estados Unidos	2	2
+2010	Sudáfrica	Cape Town Stadium	Cape Town	(23)	2010-06-18	Inglaterra	Argelia	0	0
+2010	Sudáfrica	Nelson Mandela Bay Stadium	Port Elizabeth	(21)	2010-06-18	Alemania	Serbia	0	1
+2010	Sudáfrica	Royal Bafokeng Stadium	Rustenburg	(24)	2010-06-19	Ghana	Australia	1	1
+2010	Sudáfrica	Moses Mabhida Stadium	Durban	(25)	2010-06-19	Países Bajos	Japón	1	0
+2010	Sudáfrica	Loftus Versfeld Stadium	Pretoria	(26)	2010-06-19	Camerún	Dinamarca	1	2
+2010	Sudáfrica	Free State Stadium	Bloemfontein	(27)	2010-06-20	Eslovaquia	Paraguay	0	2
+2010	Sudáfrica	Mbombela Stadium	Nelspruit	(28)	2010-06-20	Italia	Nueva Zelanda	1	1
+2010	Sudáfrica	Soccer City	Johannesburg	(29)	2010-06-20	Brasil	Costa de Marfil	3	1
+2010	Sudáfrica	Cape Town Stadium	Cape Town	(30)	2010-06-21	Portugal	Corea del Norte	7	0
+2010	Sudáfrica	Nelson Mandela Bay Stadium	Port Elizabeth	(31)	2010-06-21	Chile	Suiza	1	0
+2010	Sudáfrica	Ellis Park Stadium	Johannesburg	(32)	2010-06-21	España	Honduras	2	0
+2010	Sudáfrica	Royal Bafokeng Stadium	Rustenburg	(33)	2010-06-22	Mexico	Uruguay	0	1
+2010	Sudáfrica	Free State Stadium	Bloemfontein	(34)	2010-06-22	Francia	Sudáfrica	1	2
+2010	Sudáfrica	Moses Mabhida Stadium	Durban	(35)	2010-06-22	Nigeria	Corea del Sur	2	2
+2010	Sudáfrica	Peter Mokaba Stadium	Polokwane	(36)	2010-06-22	Grecia	Argentina	0	2
+2010	Sudáfrica	Loftus Versfeld Stadium	Pretoria	(38)	2010-06-23	Estados Unidos	Argelia	1	0
+2010	Sudáfrica	Nelson Mandela Bay Stadium	Port Elizabeth	(37)	2010-06-23	Eslovenia	Inglaterra	0	1
+2010	Sudáfrica	Mbombela Stadium	Nelspruit	(40)	2010-06-23	Australia	Serbia	2	1
+2010	Sudáfrica	Soccer City	Johannesburg	(39)	2010-06-23	Ghana	Alemania	0	1
+2010	Sudáfrica	Royal Bafokeng Stadium	Rustenburg	(43)	2010-06-24	Dinamarca	Japón	1	3
+2010	Sudáfrica	Cape Town Stadium	Cape Town	(44)	2010-06-24	Camerún	Países Bajos	1	2
+2010	Sudáfrica	Ellis Park Stadium	Johannesburg	(41)	2010-06-24	Eslovaquia	Italia	3	2
+2010	Sudáfrica	Peter Mokaba Stadium	Polokwane	(42)	2010-06-24	Paraguay	Nueva Zelanda	0	0
+2010	Sudáfrica	Moses Mabhida Stadium	Durban	(45)	2010-06-25	Portugal	Brasil	0	0
+2010	Sudáfrica	Mbombela Stadium	Nelspruit	(46)	2010-06-25	Corea del Norte	Costa de Marfil	0	3
+2010	Sudáfrica	Loftus Versfeld Stadium	Pretoria	(47)	2010-06-25	Chile	España	1	2
+2010	Sudáfrica	Free State Stadium	Bloemfontein	(48)	2010-06-25	Suiza	Honduras	0	0
+2010	Sudáfrica	Nelson Mandela Bay Stadium	Port Elizabeth	(49)	2010-06-26	Uruguay	Corea del Sur	2	1
+2010	Sudáfrica	Royal Bafokeng Stadium	Rustenburg	(50)	2010-06-26	Estados Unidos	Ghana	1	2
+2010	Sudáfrica	Free State Stadium	Bloemfontein	(51)	2010-06-27	Alemania	Inglaterra	4	1
+2010	Sudáfrica	Soccer City	Johannesburg	(52)	2010-06-27	Argentina	Mexico	3	1
+2010	Sudáfrica	Moses Mabhida Stadium	Durban	(53)	2010-06-28	Países Bajos	Eslovaquia	2	1
+2010	Sudáfrica	Ellis Park Stadium	Johannesburg	(54)	2010-06-28	Brasil	Chile	3	0
+2010	Sudáfrica	Loftus Versfeld Stadium	Pretoria	(55)	2010-06-29	Paraguay	Japón	5	3
+2010	Sudáfrica	Cape Town Stadium	Cape Town	(56)	2010-06-29	España	Portugal	1	0
+2010	Sudáfrica	Nelson Mandela Bay Stadium	Port Elizabeth	(57)	2010-07-02	Países Bajos	Brasil	2	1
+2010	Sudáfrica	Soccer City	Johannesburg	(58)	2010-07-02	Uruguay	Ghana	4	2
+2010	Sudáfrica	Cape Town Stadium	Cape Town	(59)	2010-07-03	Argentina	Alemania	0	4
+2010	Sudáfrica	Ellis Park Stadium	Johannesburg	(60)	2010-07-03	Paraguay	España	0	1
+2010	Sudáfrica	Cape Town Stadium	Cape Town	(61)	2010-07-06	Uruguay	Países Bajos	2	3
+2010	Sudáfrica	Moses Mabhida Stadium	Durban	(62)	2010-07-07	Alemania	España	0	1
+2010	Sudáfrica	Nelson Mandela Bay Stadium	Port Elizabeth	(63)	2010-07-10	Uruguay	Alemania	2	3
+2010	Sudáfrica	Soccer City	Johannesburg	(64)	2010-07-11	Países Bajos	España	0	1
+2014	Brasil	Arena de São Paulo	São Paulo (UTC-3)	(1)	2014-06-12	Brasil	Croacia	3	1
+2014	Brasil	Estádio das Dunas	Natal (UTC-3)	(2)	2014-06-13	Mexico	Camerún	1	0
+2014	Brasil	Arena Fonte Nova	Salvador (UTC-3)	(3)	2014-06-13	España	Países Bajos	1	5
+2014	Brasil	Arena Pantanal	Cuiabá (UTC-4)	(4)	2014-06-13	Chile	Australia	3	1
+2014	Brasil	Estádio Mineirão	Belo Horizonte (UTC-3)	(5)	2014-06-14	Colombia	Grecia	3	0
+2014	Brasil	Arena Pernambuco	Recife (UTC-3)	(6)	2014-06-14	Costa de Marfil	Japón	2	1
+2014	Brasil	Estádio Castelão	Fortaleza (UTC-3)	(7)	2014-06-14	Uruguay	Costa Rica	1	3
+2014	Brasil	Arena Amazônia	Manaus (UTC-4)	(8)	2014-06-14	Inglaterra	Italia	1	2
+2014	Brasil	Estádio Nacional Mané Garrincha	Brasília (UTC-3)	(9)	2014-06-15	Suiza	Ecuador	2	1
+2014	Brasil	Estádio Beira-Rio	Porto Alegre (UTC-3)	(10)	2014-06-15	Francia	Honduras	3	0
+2014	Brasil	Estádio do Maracanã	Rio de Janeiro (UTC-3)	(11)	2014-06-15	Argentina	Bosnia Herzegovina	2	1
+2014	Brasil	Arena da Baixada	Curitiba (UTC-3)	(12)	2014-06-16	Irán	Nigeria	0	0
+2014	Brasil	Arena Fonte Nova	Salvador (UTC-3)	(13)	2014-06-16	Alemania	Portugal	4	0
+2014	Brasil	Estádio das Dunas	Natal (UTC-3)	(14)	2014-06-16	Ghana	Estados Unidos	1	2
+2014	Brasil	Estádio Castelão	Fortaleza (UTC-3)	(17)	2014-06-17	Brasil	Mexico	0	0
+2014	Brasil	Estádio Mineirão	Belo Horizonte (UTC-3)	(15)	2014-06-17	Bélgica	Argelia	2	1
+2014	Brasil	Arena Pantanal	Cuiabá (UTC-4)	(16)	2014-06-17	Rusia	Corea del Sur	1	1
+2014	Brasil	Arena Amazônia	Manaus (UTC-4)	(18)	2014-06-18	Camerún	Croacia	0	4
+2014	Brasil	Estádio do Maracanã	Rio de Janeiro (UTC-3)	(19)	2014-06-18	España	Chile	0	2
+2014	Brasil	Estádio Beira-Rio	Porto Alegre (UTC-3)	(20)	2014-06-18	Australia	Países Bajos	2	3
+2014	Brasil	Estádio Nacional Mané Garrincha	Brasília (UTC-3)	(21)	2014-06-19	Colombia	Costa de Marfil	2	1
+2014	Brasil	Estádio das Dunas	Natal (UTC-3)	(22)	2014-06-19	Japón	Grecia	0	0
+2014	Brasil	Arena de São Paulo	São Paulo (UTC-3)	(23)	2014-06-19	Uruguay	Inglaterra	2	1
+2014	Brasil	Arena Pernambuco	Recife (UTC-3)	(24)	2014-06-20	Italia	Costa Rica	0	1
+2014	Brasil	Arena Fonte Nova	Salvador (UTC-3)	(25)	2014-06-20	Suiza	Francia	2	5
+2014	Brasil	Arena da Baixada	Curitiba (UTC-3)	(26)	2014-06-20	Honduras	Ecuador	1	2
+2014	Brasil	Estádio Mineirão	Belo Horizonte (UTC-3)	(27)	2014-06-21	Argentina	Irán	1	0
+2014	Brasil	Arena Pantanal	Cuiabá (UTC-4)	(28)	2014-06-21	Nigeria	Bosnia Herzegovina	1	0
+2014	Brasil	Estádio Castelão	Fortaleza (UTC-3)	(29)	2014-06-21	Alemania	Ghana	2	2
+2014	Brasil	Arena Amazônia	Manaus (UTC-4)	(30)	2014-06-22	Estados Unidos	Portugal	2	2
+2014	Brasil	Estádio do Maracanã	Rio de Janeiro (UTC-3)	(31)	2014-06-22	Bélgica	Rusia	1	0
+2014	Brasil	Estádio Beira-Rio	Porto Alegre (UTC-3)	(32)	2014-06-22	Corea del Sur	Argelia	2	4
+2014	Brasil	Estádio Nacional Mané Garrincha	Brasília (UTC-3)	(33)	2014-06-23	Camerún	Brasil	1	4
+2014	Brasil	Arena Pernambuco	Recife (UTC-3)	(34)	2014-06-23	Croacia	Mexico	1	3
+2014	Brasil	Arena da Baixada	Curitiba (UTC-3)	(35)	2014-06-23	Australia	España	0	3
+2014	Brasil	Arena de São Paulo	São Paulo (UTC-3)	(36)	2014-06-23	Países Bajos	Chile	2	0
+2014	Brasil	Arena Pantanal	Cuiabá (UTC-4)	(37)	2014-06-24	Japón	Colombia	1	4
+2014	Brasil	Estádio Castelão	Fortaleza (UTC-3)	(38)	2014-06-24	Grecia	Costa de Marfil	2	1
+2014	Brasil	Estádio das Dunas	Natal (UTC-3)	(39)	2014-06-24	Italia	Uruguay	0	1
+2014	Brasil	Estádio Mineirão	Belo Horizonte (UTC-3)	(40)	2014-06-24	Costa Rica	Inglaterra	0	0
+2014	Brasil	Arena Amazônia	Manaus (UTC-4)	(41)	2014-06-25	Honduras	Suiza	0	3
+2014	Brasil	Estádio do Maracanã	Rio de Janeiro (UTC-3)	(42)	2014-06-25	Ecuador	Francia	0	0
+2014	Brasil	Estádio Beira-Rio	Porto Alegre (UTC-3)	(43)	2014-06-25	Nigeria	Argentina	2	3
+2014	Brasil	Arena Fonte Nova	Salvador (UTC-3)	(44)	2014-06-25	Bosnia Herzegovina	Irán	3	1
+2014	Brasil	Arena Pernambuco	Recife (UTC-3)	(45)	2014-06-26	Estados Unidos	Alemania	0	1
+2014	Brasil	Estádio Nacional Mané Garrincha	Brasília (UTC-3)	(46)	2014-06-26	Portugal	Ghana	2	1
+2014	Brasil	Arena de São Paulo	São Paulo (UTC-3)	(47)	2014-06-26	Corea del Sur	Bélgica	0	1
+2014	Brasil	Arena da Baixada	Curitiba (UTC-3)	(48)	2014-06-26	Argelia	Rusia	1	1
+2014	Brasil	Estádio Mineirão	Belo Horizonte (UTC-3)  # 1A - 2B	(49)	2014-06-28	Brasil	Chile	3	2
+2014	Brasil	Estádio do Maracanã	Rio de Janeiro (UTC-3)   # 1C - 2D	(50)	2014-06-28	Colombia	Uruguay	2	0
+2014	Brasil	Estádio Castelão	Fortaleza (UTC-3)        # 1B - 2A	(51)	2014-06-29	Países Bajos	Mexico	2	1
+2014	Brasil	Arena Pernambuco	Recife (UTC-3)     # 1D - 2C	(52)	2014-06-29	Costa Rica	Grecia	5	3
+2014	Brasil	Estádio Nacional Mané Garrincha	Brasília (UTC-3)     # 1E - 2F	(53)	2014-06-30	Francia	Nigeria	2	0
+2014	Brasil	Estádio Beira-Rio	Porto Alegre (UTC-3)    # 1G - 2H	(54)	2014-06-30	Alemania	Argelia	2	1
+2014	Brasil	Arena de São Paulo	São Paulo    # 1F - 2E	(55)	2014-07-01	Argentina	Suiza	1	0
+2014	Brasil	Arena Fonte Nova	Salvador     # 1H - 2G	(56)	2014-07-01	Bélgica	Estados Unidos	2	1
+2014	Brasil	Estádio Castelão	Fortaleza    # W49 - W50	(57)	2014-07-04	Brasil	Colombia	2	1
+2014	Brasil	Estádio do Maracanã	Rio de Janeiro (UTC-3)   # W53 - W54	(58)	2014-07-04	Francia	Alemania	0	1
+2014	Brasil	Arena Fonte Nova	Salvador (UTC-3)    # W51 - W52	(59)	2014-07-05	Países Bajos	Costa Rica	4	3
+2014	Brasil	Estádio Nacional Mané Garrincha	Brasília (UTC-3)    # W55 - W56	(60)	2014-07-05	Argentina	Bélgica	1	0
+2014	Brasil	Estádio Mineirão	Belo Horizonte (UTC-3)   # W57 - W58	(61)	2014-07-08	Brasil	Alemania	1	7
+2014	Brasil	Arena de São Paulo	São Paulo (UTC-3)    # W59 - W69	(62)	2014-07-09	Países Bajos	Argentina	2	4
+2014	Brasil	Estádio Nacional Mané Garrincha	Brasília (UTC-3)   # L61 - L62	(63)	2014-07-12	Brasil	Países Bajos	0	3
+2014	Brasil	Estádio do Maracanã	Rio de Janeiro (UTC-3)   # W61 - W62	(64)	2014-07-13	Alemania	Argentina	1	0
+2018	Rusia	Luzhniki Stadium	Moscow (UTC+3)	(1)	2018-06-14	Rusia	Arabia Saudita	5	0
+2018	Rusia	Ekaterinburg Arena	Ekaterinburg (UTC+5)	(2)	2018-06-15	Egipto	Uruguay	0	1
+2018	Rusia	Saint Petersburg Stadium	Saint Petersburg (UTC+3)	(4)	2018-06-15	Marruecos	Irán	0	1
+2018	Rusia	Fisht Stadium	Sochi (UTC+3)	(3)	2018-06-15	Portugal	España	2	1
+2018	Rusia	Kazan Arena	Kazan (UTC+3)	(5)	2018-06-16	Francia	Australia	2	1
+2018	Rusia	Mordovia Arena	Saransk (UTC+3)	(6)	2018-06-16	Perú	Dinamarca	0	1
+2018	Rusia	Spartak Stadium	Moscow (UTC+3)	(7)	2018-06-16	Argentina	Islandia	1	1
+2018	Rusia	Kaliningrad Stadium	Kaliningrad (UTC+2)	(8)	2018-06-16	Croacia	Nigeria	2	0
+2018	Rusia	Samara Arena	Samara (UTC+4)	(10)	2018-06-17	Costa Rica	Serbia	0	1
+2018	Rusia	Rostov Arena	Rostov-on-Don (UTC+3)	(9)	2018-06-17	Brasil	Suiza	1	0
+2018	Rusia	Luzhniki Stadium	Moscow (UTC+3)	(11)	2018-06-17	Alemania	Mexico	0	1
+2018	Rusia	Nizhny Novgorod Stadium	Nizhny Novgorod (UTC+3)	(12)	2018-06-18	Suecia	Corea del Sur	1	0
+2018	Rusia	Fisht Stadium	Sochi (UTC+3)	(13)	2018-06-18	Bélgica	Panamá	3	0
+2018	Rusia	Volgograd Arena	Volgograd (UTC+3)	(14)	2018-06-18	Túnez	Inglaterra	1	2
+2018	Rusia	Saint Petersburg Stadium	Saint Petersburg (UTC+3)	(17)	2018-06-19	Rusia	Egipto	3	1
+2018	Rusia	Mordovia Arena	Saransk (UTC+3)	(16)	2018-06-19	Colombia	Japón	1	2
+2018	Rusia	Spartak Stadium	Moscow (UTC+3)	(15)	2018-06-19	Polonia	Senegal	1	2
+2018	Rusia	Rostov Arena	Rostov-on-Don (UTC+3)	(18)	2018-06-20	Uruguay	Arabia Saudita	1	0
+2018	Rusia	Luzhniki Stadium	Moscow (UTC+3)	(19)	2018-06-20	Portugal	Marruecos	1	0
+2018	Rusia	Kazan Arena	Kazan (UTC+3)	(20)	2018-06-20	Irán	España	0	1
+2018	Rusia	Samara Arena	Samara (UTC+4)	(22)	2018-06-21	Dinamarca	Australia	1	1
+2018	Rusia	Ekaterinburg Arena	Ekaterinburg (UTC+5)	(21)	2018-06-21	Francia	Perú	1	0
+2018	Rusia	Nizhny Novgorod Stadium	Nizhny Novgorod (UTC+3)	(23)	2018-06-21	Argentina	Croacia	0	3
+2018	Rusia	Volgograd Arena	Volgograd (UTC+3)	(24)	2018-06-22	Nigeria	Islandia	2	0
+2018	Rusia	Saint Petersburg Stadium	Saint Petersburg (UTC+3)	(25)	2018-06-22	Brasil	Costa Rica	2	0
+2018	Rusia	Kaliningrad Stadium	Kaliningrad (UTC+2)	(26)	2018-06-22	Serbia	Suiza	1	2
+2018	Rusia	Rostov Arena	Rostov-on-Don (UTC+3)	(28)	2018-06-23	Corea del Sur	Mexico	1	2
+2018	Rusia	Fisht Stadium	Sochi (UTC+3)	(27)	2018-06-23	Alemania	Suecia	2	1
+2018	Rusia	Spartak Stadium	Moscow (UTC+3)	(29)	2018-06-23	Bélgica	Túnez	5	2
+2018	Rusia	Nizhny Novgorod Stadium	Nizhny Novgorod (UTC+3)	(30)	2018-06-24	Inglaterra	Panamá	6	1
+2018	Rusia	Ekaterinburg Arena	Ekaterinburg (UTC+5)	(32)	2018-06-24	Japón	Senegal	1	1
+2018	Rusia	Kazan Arena	Kazan (UTC+3)	(31)	2018-06-24	Polonia	Colombia	0	3
+2018	Rusia	Samara Arena	Samara (UTC+4)	(33)	2018-06-25	Uruguay	Rusia	3	0
+2018	Rusia	Volgograd Arena	Volgograd (UTC+3)	(34)	2018-06-25	Arabia Saudita	Egipto	2	1
+2018	Rusia	Mordovia Arena	Saransk (UTC+3)	(35)	2018-06-25	Irán	Portugal	0	1
+2018	Rusia	Kaliningrad Stadium	Kaliningrad (UTC+2)	(36)	2018-06-25	España	Marruecos	1	1
+2018	Rusia	Luzhniki Stadium	Moscow (UTC+3)	(37)	2018-06-26	Dinamarca	Francia	0	0
+2018	Rusia	Fisht Stadium	Sochi (UTC+3)	(38)	2018-06-26	Australia	Perú	0	2
+2018	Rusia	Saint Petersburg Stadium	Saint Petersburg (UTC+3)	(39)	2018-06-26	Nigeria	Argentina	1	2
+2018	Rusia	Rostov Arena	Rostov-on-Don (UTC+3)	(40)	2018-06-26	Islandia	Croacia	1	2
+2018	Rusia	Spartak Stadium	Moscow (UTC+3)	(41)	2018-06-27	Serbia	Brasil	0	2
+2018	Rusia	Nizhny Novgorod Stadium	Nizhny Novgorod (UTC+3)	(42)	2018-06-27	Suiza	Costa Rica	1	0
+2018	Rusia	Kazan Arena	Kazan (UTC+3)	(43)	2018-06-27	Corea del Sur	Alemania	2	0
+2018	Rusia	Ekaterinburg Arena	Ekaterinburg (UTC+5)	(44)	2018-06-27	Mexico	Suecia	0	3
+2018	Rusia	Kaliningrad Stadium	Kaliningrad (UTC+2)	(45)	2018-06-28	Inglaterra	Bélgica	0	1
+2018	Rusia	Mordovia Arena	Saransk (UTC+3)	(46)	2018-06-28	Panamá	Túnez	1	2
+2018	Rusia	Volgograd Arena	Volgograd (UTC+3)	(47)	2018-06-28	Japón	Polonia	0	1
+2018	Rusia	Samara Arena	Samara (UTC+4)	(48)	2018-06-28	Senegal	Colombia	0	1
+2018	Rusia	Fisht Stadium	Sochi (UTC+3)	(49)	2018-06-30	Uruguay	Portugal	2	1
+2018	Rusia	Kazan Arena	Kazan (UTC+3)	(50)	2018-06-30	Francia	Argentina	4	3
+2018	Rusia	Luzhniki Stadium	Moscow (UTC+3)	(51)	2018-07-01	España	Rusia	3	4
+2018	Rusia	Nizhny Novgorod Stadium	Nizhny Novgorod (UTC+3)	(52)	2018-07-01	Croacia	Dinamarca	3	2
+2018	Rusia	Samara Arena	Samara (UTC+4)	(53)	2018-07-02	Brasil	Mexico	2	0
+2018	Rusia	Rostov Arena	Rostov-on-Don (UTC+3)	(54)	2018-07-02	Bélgica	Japón	3	2
+2018	Rusia	Saint Petersburg Stadium	Saint Petersburg (UTC+3)	(55)	2018-07-03	Suecia	Suiza	1	0
+2018	Rusia	Spartak Stadium	Moscow (UTC+3)	(56)	2018-07-03	Colombia	Inglaterra	3	4
+2018	Rusia	Nizhny Novgorod Stadium	Nizhny Novgorod (UTC+3)	(57)	2018-07-06	Uruguay	Francia	0	2
+2018	Rusia	Kazan Arena	Kazan (UTC+3)	(58)	2018-07-06	Brasil	Bélgica	1	2
+2018	Rusia	Fisht Stadium	Sochi (UTC+3)	(59)	2018-07-07	Rusia	Croacia	3	4
+2018	Rusia	Samara Arena	Samara (UTC+4)	(60)	2018-07-07	Suecia	Inglaterra	0	2
+2018	Rusia	Saint Petersburg Stadium	St. Petersburg (UTC+3)	(61)	2018-07-10	Francia	Bélgica	1	0
+2018	Rusia	Luzhniki Stadium	Moscow (UTC+3)	(62)	2018-07-11	Croacia	Inglaterra	2	1
+2018	Rusia	Saint Petersburg Stadium	St. Petersburg (UTC+3)	(63)	2018-07-14	Bélgica	Inglaterra	2	0
+2018	Rusia	Luzhniki Stadium	Moscow (UTC+3)	(64)	2018-07-15	Francia	Croacia	4	2

@@ -1,0 +1,901 @@
+anio	anfitrion	partidos_crudo
+1930	uruguay	(1)  13 July     France     4-1 (3-0)  Mexico    @ Estadio Pocitos, Montevideo
+1930	uruguay	(5)  15 July     Argentina  1-0 (0-0)  France    @ Estadio Parque Central, Montevideo
+1930	uruguay	(6)  16 July     Chile      3-0 (1-0)  Mexico    @ Estadio Parque Central, Montevideo
+1930	uruguay	(10) 19 July     Chile      1-0 (0-0)  France    @ Estadio Centenario, Montevideo
+1930	uruguay	(11) 19 July     Argentina  6-3 (3-1)  Mexico    @ Estadio Centenario, Montevideo
+1930	uruguay	(15) 22 July     Argentina  3-1 (2-1)  Chile     @ Estadio Centenario, Montevideo
+1930	uruguay	(3)  14 July     Yugoslavia   2-1 (2-0)  Brazil   @ Estadio Parque Central, Montevideo
+1930	uruguay	(7)  17 July     Yugoslavia   4-0 (0-0)   Bolivia  @ Estadio Parque Central, Montevideo
+1930	uruguay	(12) 20 July     Brazil       4-0 (1-0)  Bolivia  @ Estadio Centenario, Montevideo
+1930	uruguay	(4)  14 July     Romania      3-1 (1-0)  Peru    @ Estadio Pocitos, Montevideo
+1930	uruguay	(9)  18 July     Uruguay      1-0 (0-0)  Peru    @ Estadio Centenario, Montevideo
+1930	uruguay	(14) 21 July     Uruguay      4-0 (4-0)  Romania  @ Estadio Centenario, Montevideo
+1930	uruguay	(2)  13 July     United States   3-0 (2-0)  Belgium  @ Estadio Parque Central, Montevideo
+1930	uruguay	(8)  17 July     United States   3-0 (2-0)  Paraguay @ Estadio Parque Central, Montevideo
+1930	uruguay	(13) 20 July     Paraguay        1-0 (1-0)  Belgium  @ Estadio Centenario, Montevideo
+1930	uruguay	(16) 26 July     Argentina       6-1 (1-0)  United States  @ Estadio Centenario, Montevideo
+1930	uruguay	(17) 27 July     Uruguay         6-1 (3-1)  Yugoslavia     @ Estadio Centenario, Montevideo
+1930	uruguay	(18) 30 July     Uruguay         4-2 (1-2)  Argentina      @ Estadio Centenario, Montevideo
+1934	italy	(1) 27 May   Sweden         3–2 (1-1)  Argentina      @ Stadio Littoriale, Bologna
+1934	italy	(2) 27 May   Austria        3–2 a.e.t. (1-1, 1-1) France   @ Stadio Benito Mussolini, Turin
+1934	italy	(3) 27 May   Germany        5–2 (1-2)  Belgium        @ Stadio Giovanni Berta, Florence
+1934	italy	(4) 27 May   Spain          3–1 (3-0)  Brazil   @ Stadio Luigi Ferraris, Genoa
+1934	italy	(5) 27 May   Hungary        4–2 (2-2)  Egypt          @ Stadio Giorgio Ascarelli, Naples
+1934	italy	(6) 27 May   Switzerland    3–2 (2-1)  Netherlands    @ Stadio San Siro, Milan
+1934	italy	(7) 27 May   Italy          7–1 (3-0)  United States  @ Stadio Nazionale PNF, Rome
+1934	italy	(8) 27 May   Czechoslovakia 2–1 (0-1)  Romania        @ Stadio Littorio, Trieste
+1934	italy	(9)  31 May   Czechoslovakia 3–2 (1-1)   Switzerland @ Stadio Benito Mussolini, Turin
+1934	italy	(10) 31 May   Germany        2–1 (0-0)   Sweden      @ Stadio San Siro, Milan
+1934	italy	(11) 31 May   Italy        1–1 a.e.t. (1-1, 1-1)  Spain  @ Stadio Giovanni Berta, Florence
+1934	italy	(12) 31 May   Austria        2–1 (1-0)  Hungary     @ Stadio Littoriale, Bologna
+1934	italy	(13) 1 June   Italy           1–0 (1-0)  Spain   @ Stadio Giovanni Berta, Florence
+1934	italy	(14) 3 June   Italy           1-0 (1-0)   Austria  @ Stadio San Siro, Milan
+1934	italy	(15) 3 June   Czechoslovakia  3–1 (1-0)  Germany  @ Stadio Nazionale PNF, Rome
+1934	italy	(16) 7 June   Germany          3–2 (3-1) Austria    @ Stadio Giorgio Ascarelli, Naples
+1934	italy	(17) 10 June   Italy 2–1 a.e.t. (1-1, 0-0)  Czechoslovakia  @ Stadio Nazionale PNF, Rome
+1938	france	(1) 4 June     Switzerland     1-1aet (1-1, 1-1)   Germany            @ Parc des Princes, Paris
+1938	france	(2) 5 June     Hungary         6-0 (4-0)         Dutch East Indies  @ Vélodrome Municipal, Reims
+1938	france	(3) 5 June     France          3-1 (2-1)         Belgium            @ Stade Olympique de Colombes, Paris
+1938	france	(4) 5 June     Cuba            3-3aet (2-2, 1-1)   Romania            @ Stade Chapou, Toulouse
+1938	france	(5) 5 June     Italy           2-1aet (1-1, 1-0)   Norway             @ Stade Vélodrome, Marseille
+1938	france	(6) 5 June     Brazil          6-5aet (4-4, 3-1)   Poland             @ Stade de la Meinau, Strasbourg
+1938	france	(7) 5 June     Czechoslovakia  3-0aet (0-0, 0-0)  Netherlands        @ Stade municipal, Le Havre
+1938	france	(8) 9 June     Cuba        2-1 (0-1)   Romania             @ Stade Chapou, Toulouse
+1938	france	(9) 9 June     Germany     2-4 (2-1)  Switzerland         @ Parc des Princes, Paris
+1938	france	(10) 12 June   Brazil        1-1aet (1-1, 1-0)  Czechoslovakia  @ Parc Lescure, Bordeaux
+1938	france	(11) 12 June   Switzerland   0-2 (0-1)  Hungary           @ Stade Victor Boucquey, Lille
+1938	france	(12) 12 June   Sweden        8-0 (4-0)  Cuba              @ Stade du Fort Carré, Antibes
+1938	france	(13) 12 June   France        1-3 (1-1)  Italy             @ Stade Olympique de Colombes, Paris
+1938	france	(14) 14 June   Brazil        2-1 (0-1)   Czechoslovakia    @ Parc Lescure, Bordeaux
+1938	france	(15) 16 June   Hungary    5-1 (3-1)   Sweden      @ Parc des Princes, Paris
+1938	france	(16) 16 June   Italy      2-1 (0-0)   Brazil      @ Stade Vélodrome, Marseille
+1938	france	(17) 19 June   Sweden     2-4 (2-1)   Brazil     @ Parc Lescure, Bordeaux
+1938	france	(18) 19 June   Hungary   2-4 (1-3)   Italy        @ Stade Olympique de Colombes, Paris
+1950	brazil	(1)  24 June    Brazil       4-0 (1-0) Mexico       @ Estádio do Maracanã, Rio de Janeiro
+1950	brazil	(5)  25 June    Yugoslavia   3-0 (0-0)  Switzerland  @ Estádio Independência, Belo Horizonte
+1950	brazil	(6)  28 June    Brazil       2-2 (2-1)  Switzerland  @ Estádio do Pacaembu, São Paulo
+1950	brazil	(7)  28 June    Yugoslavia   4-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+1950	brazil	(11) 1 July     Brazil       2-0 (1-0)  Yugoslavia   @ Estádio do Maracanã, Rio de Janeiro
+1950	brazil	(14) 2 July     Switzerland  2-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+1950	brazil	(2)  25 June     England        2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
+1950	brazil	(3)  25 June     Spain          3-1  United States   @ Estádio Durival de Britto, Curitiba
+1950	brazil	(8)  29 June     Spain          2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
+1950	brazil	(10) 29 June     United States  1-0  England         @ Estádio Independência, Belo Horizonte
+1950	brazil	(12)  2 July     Spain          1-0  England         @ Estádio do Maracanã, Rio de Janeiro
+1950	brazil	(15)  2 July     Chile          5-2  United States   @ Estádio Ilha do Retiro, Recife
+1950	brazil	(4)  25 June     Sweden         3-2  Italy           @ Estádio do Pacaembu, São Paulo
+1950	brazil	(9)  29 June     Sweden         2-2  Paraguay        @ Estádio Durival Britto, Curitiba
+1950	brazil	(13)  2 July     Italy          2-0  Paraguay        @ Estádio do Pacaembu, São Paulo
+1950	brazil	(16)  2 July     Uruguay        8-0  Bolivia         @ Estádio Independência, Belo Horizonte
+1950	brazil	(17)  9 July     Uruguay        2-2  Spain           @ Estádio do Pacaembu, São Paulo
+1950	brazil	(18)  9 July     Brazil         7-1  Sweden          @ Estádio do Maracanã, Rio de Janeiro
+1950	brazil	(19) 13 July     Brazil         6-1  Spain           @ Estádio do Maracanã, Rio de Janeiro
+1950	brazil	(20) 13 July     Uruguay        3-2  Sweden          @ Estádio do Pacaembu, São Paulo
+1950	brazil	(21) 16 July     Sweden         3-1  Spain           @ Estádio do Pacaembu, São Paulo
+1950	brazil	(22) 16 July     Uruguay        2-1  Brazil          @ Estádio do Maracanã, Rio de Janeiro
+1954	switzerland	(3)  16 June    Brazil       5-0   Mexico    @ Charmilles Stadium, Geneva
+1954	switzerland	(4)  16 June    Yugoslavia   1-0   France    @ Stade Olympique de la Pontaise, Lausanne
+1954	switzerland	(10) 19 June    Brazil     1-1 a.e.t. 1-1  Yugoslavia  @ Stade Olympique de la Pontaise, Lausanne
+1954	switzerland	(11) 19 June    France     3-2             Mexico      @ Charmilles Stadium, Geneva
+1954	switzerland	(5)  17 June    West Germany    4-1   Turkey         @ Wankdorf Stadium, Bern
+1954	switzerland	(8)  17 June    Hungary         9-0   South Korea    @ Hardturm Stadium, Zürich
+1954	switzerland	(14) 20 June    Hungary         8-3   West Germany   @ St. Jakob Stadium, Basel
+1954	switzerland	(15) 20 June    Turkey          7-0   South Korea    @ Charmilles Stadium, Geneva
+1954	switzerland	(25) 23 June    West Germany     7-2  Turkey     @ Hardturm Stadium, Zürich
+1954	switzerland	(1)  16 June    Uruguay          2-0  Czechoslovakia    @ Wankdorf Stadium, Bern
+1954	switzerland	(2)  16 June    Austria          1-0  Scotland          @ Hardturm Stadium, Zürich
+1954	switzerland	(9)  19 June    Austria          5-0  Czechoslovakia    @ Hardturm Stadium, Zürich
+1954	switzerland	(12) 19 June    Uruguay          7-0  Scotland          @ St. Jakob Stadium, Basel
+1954	switzerland	(6)  17 June    England          4-4 a.e.t. 3-3  Belgium    @ St. Jakob Stadium, Basel
+1954	switzerland	(7)  17 June    Switzerland      2-1  Italy                 @ Stade Olympique de la Pontaise, Lausanne
+1954	switzerland	(13) 20 June    England          2-0  Switzerland     @ Wankdorf Stadium, Bern
+1954	switzerland	(16) 20 June    Italy            4-1  Belgium         @ Cornaredo Stadium, Lugano
+1954	switzerland	(26) 23 June    Switzerland      4-1   Italy      @ St. Jakob Stadium, Basel
+1954	switzerland	(19) 26 June    Austria          7-5   Switzerland    @ Stade Olympique de la Pontaise, Lausanne
+1954	switzerland	(20) 26 June    Uruguay          4-2   England        @ St. Jakob Stadium, Basel
+1954	switzerland	(17) 27 June    Yugoslavia       0-2   West Germany   @ Charmilles Stadium, Geneva
+1954	switzerland	(18) 27 June    Brazil           2-4   Hungary        @ Wankdorf Stadium, Bern
+1954	switzerland	(21) 30 June    West Germany     6-1         Austria        @ St. Jakob Stadium, Basel
+1954	switzerland	(22) 30 June    Hungary      4-2 a.e.t. 2-2  Uruguay        @ Stade Olympique de la Pontaise, Lausanne
+1954	switzerland	(23) 3 July     Uruguay         1-3    Austria   @ Hardturm Stadium, Zürich
+1954	switzerland	(24) 4 July     Hungary         2-3    West Germany    @ Wankdorf Stadium, Bern
+1958	sweden	(7)  8 June     West Germany      3-1  Argentina       @ Malmö Stadion, Malmö
+1958	sweden	(8)  8 June     Northern Ireland  1-0  Czechoslovakia  @ Örjans Vall, Halmstad
+1958	sweden	(15) 11 June    Argentina         3-1  Northern Ireland  @ Örjans Vall, Halmstad
+1958	sweden	(14) 11 June    West Germany      2-2  Czechoslovakia    @ Olympiastadion, Helsingborg
+1958	sweden	(23) 15 June    West Germany      2-2  Northern Ireland  @ Malmö Stadion, Malmö
+1958	sweden	(24) 15 June    Czechoslovakia    6-1  Argentina         @ Olympiastadion, Helsingborg
+1958	sweden	(35) 17 June   Northern Ireland   2-1 a.e.t. 1-1   Czechoslovakia  @ Malmö Stadion, Malmö
+1958	sweden	(3)   8 June      France       7-3  Paraguay   @ Idrottsparken, Norrköping
+1958	sweden	(4)   8 June      Yugoslavia   1-1  Scotland   @ Arosvallen, Västerås
+1958	sweden	(11) 11 June     Yugoslavia   3-2  France     @ Arosvallen, Västerås
+1958	sweden	(10) 11 June     Paraguay     3-2  Scotland   @ Idrottsparken, Norrköping
+1958	sweden	(20) 15 June     France       2-1  Scotland     @ Eyravallen, Örebro
+1958	sweden	(19) 15 June     Paraguay     3-3  Yugoslavia   @ Tunavallen, Eskilstuna
+1958	sweden	(1)  8 June      Sweden     3-0  Mexico    @ Råsunda Stadium, Solna
+1958	sweden	(2)  8 June      Hungary    1-1  Wales     @ Jernvallen, Sandviken
+1958	sweden	(9)  11 June     Mexico     1-1  Wales     @ Råsunda Stadium, Solna
+1958	sweden	(16) 12 June     Sweden     2-1  Hungary   @ Råsunda Stadium, Solna
+1958	sweden	(17) 15 June     Sweden     0-0  Wales     @ Råsunda Stadium, Solna
+1958	sweden	(18) 15 June     Hungary    4-0  Mexico    @ Jernvallen, Sandviken
+1958	sweden	(33) 17 June     Wales      2-1  Hungary     @ Råsunda Stadium, Solna
+1958	sweden	(6)  8 June     Brazil         3-0  Austria     @ Rimnersvallen, Uddevalla
+1958	sweden	(5)  8 June     Soviet Union   2-2  England     @ Ullevi, Gothenburg
+1958	sweden	(12) 11 June    Brazil        0-0  England    @ Ullevi, Gothenburg
+1958	sweden	(13) 11 June    Soviet Union  2-0  Austria    @ Ryavallen, Borås
+1958	sweden	(22) 15 June    England       2-2  Austria        @ Ryavallen, Borås
+1958	sweden	(21) 15 June    Brazil        2-0  Soviet Union   @ Ullevi, Gothenburg
+1958	sweden	(34) 17 June    Soviet Union   1-0  England   @ Ullevi, Gothenburg
+1958	sweden	(26) 19 June   France        4-0   Northern Ireland   @ Idrottsparken, Norrköping
+1958	sweden	(25) 19 June   Sweden        2-0   Soviet Union       @ Råsunda Stadium, Solna
+1958	sweden	(27) 19 June   Brazil        1-0   Wales              @ Ullevi, Gothenburg
+1958	sweden	(28) 19 June   West Germany  1-0   Yugoslavia         @ Malmö Stadion, Malmö
+1958	sweden	(29) 24 June   France         2-5  Brazil    @ Råsunda Stadium, Solna
+1958	sweden	(30) 24 June   West Germany   1-3  Sweden    @ Ullevi, Gothenburg
+1958	sweden	(31) 28 June   West Germany   3-6  France    @ Ullevi, Gothenburg
+1958	sweden	(32) 29 June   Sweden         2-5  Brazil    @ Råsunda Stadium, Solna
+1962	chile	(1)  30 May    Uruguay         2-1  Colombia      @ Estadio Carlos Dittborn, Arica
+1962	chile	(5)  31 May    Soviet Union    2-0  Yugoslavia    @ Estadio Carlos Dittborn, Arica
+1962	chile	(9)  2 June    Yugoslavia      3-1  Uruguay      @ Estadio Carlos Dittborn, Arica
+1962	chile	(13) 3 June    Soviet Union    4-4  Colombia     @ Estadio Carlos Dittborn, Arica
+1962	chile	(17) 6 June    Soviet Union    2-1  Uruguay      @ Estadio Carlos Dittborn, Arica
+1962	chile	(21) 7 June    Yugoslavia      5-0  Colombia     @ Estadio Carlos Dittborn, Arica
+1962	chile	(2)  30 May    Chile           3-1  Switzerland   @ Estadio Nacional, Santiago
+1962	chile	(6)  31 May    West Germany    0-0  Italy         @ Estadio Nacional, Santiago
+1962	chile	(10)  2 June    Chile           2-0  Italy        @ Estadio Nacional, Santiago
+1962	chile	(14)  3 June    West Germany    2-1  Switzerland  @ Estadio Nacional, Santiago
+1962	chile	(18)  6 June    West Germany    2-0  Chile         @ Estadio Nacional, Santiago
+1962	chile	(22)  7 June    Italy           3-0  Switzerland   @ Estadio Nacional, Santiago
+1962	chile	(3)  30 May    Brazil           2-0  Mexico    @ Estadio Sausalito, Viña del Mar
+1962	chile	(7)  31 May    Czechoslovakia   1-0  Spain     @ Estadio Sausalito, Viña del Mar
+1962	chile	(11)  2 June    Brazil           0-0  Czechoslovakia  @ Estadio Sausalito, Viña del Mar
+1962	chile	(15)  3 June    Spain            1-0  Mexico          @ Estadio Sausalito, Viña del Mar
+1962	chile	(19)  6 June    Brazil           2-1  Spain            @ Estadio Sausalito, Viña del Mar
+1962	chile	(23)  7 June    Mexico           3-1  Czechoslovakia   @ Estadio Sausalito, Viña del Mar
+1962	chile	(4)  30 May    Argentina  1-0  Bulgaria    @ Estadio El Teniente, Rancagua
+1962	chile	(8)  31 May    Hungary    2-1  England     @ Estadio El Teniente, Rancagua
+1962	chile	(12)  2 June    England    3-1  Argentina   @ Estadio El Teniente, Rancagua
+1962	chile	(16)  3 June    Hungary    6-1  Bulgaria    @ Estadio El Teniente, Rancagua
+1962	chile	(20)  6 June    Hungary    0-0  Argentina   @ Estadio El Teniente, Rancagua
+1962	chile	(24)  7 June    England    0-0  Bulgaria    @ Estadio El Teniente, Rancagua
+1962	chile	(25) 10 June   Chile           2-1  Soviet Union   @ Estadio Carlos Dittborn, Arica
+1962	chile	(26) 10 June   Yugoslavia      1-0  West Germany   @ Estadio Nacional, Santiago
+1962	chile	(27) 10 June   Brazil          3-1  England        @ Estadio Sausalito, Viña del Mar
+1962	chile	(28) 10 June   Czechoslovakia  1-0  Hungary        @ Estadio El Teniente, Rancagua
+1962	chile	(29) 13 June   Brazil           4-2  Chile       @ Estadio Nacional, Santiago
+1962	chile	(30) 13 June   Czechoslovakia   3-1  Yugoslavia  @ Estadio Sausalito, Viña del Mar
+1962	chile	(31) 16 June   Chile            1-0  Yugoslavia  @ Estadio Nacional, Santiago
+1962	chile	(32) 17 June   Brazil           3-1  Czechoslovakia  @ Estadio Nacional, Santiago
+1966	england	(1)  11 July   England    0-0    Uruguay   @ Wembley Stadium, London
+1966	england	(5)  13 July   France     1-1    Mexico    @ Wembley Stadium, London
+1966	england	(9)  15 July   Uruguay    2-1    France    @ White City Stadium, London
+1966	england	(13) 16 July   England    2-0    Mexico    @ Wembley Stadium, London
+1966	england	(17) 19 July   Mexico     0-0    Uruguay   @ Wembley Stadium, London
+1966	england	(21) 20 July   England    2-0    France    @ Wembley Stadium, London
+1966	england	(2)  12 July   West Germany    5-0   Switzerland   @ Hillsborough Stadium, Sheffield
+1966	england	(6)  13 July   Argentina       2-1   Spain         @ Villa Park, Birmingham
+1966	england	(10) 15 July   Spain           2-1   Switzerland   @ Hillsborough Stadium, Sheffield
+1966	england	(14) 16 July   Argentina       0-0   West Germany  @ Villa Park, Birmingham
+1966	england	(18) 19 July   Argentina       2-0   Switzerland   @ Hillsborough Stadium, Sheffield
+1966	england	(22) 20 July   West Germany    2-1   Spain         @ Villa Park, Birmingham
+1966	england	(3)  12 July   Brazil      2-0    Bulgaria         @ Goodison Park, Liverpool
+1966	england	(7)  13 July   Portugal    3-1    Hungary          @ Old Trafford, Manchester
+1966	england	(11) 15 July   Hungary     3-1    Brazil           @ Goodison Park, Liverpool
+1966	england	(15) 16 July   Portugal    3-0    Bulgaria         @ Old Trafford, Manchester
+1966	england	(19) 19 July   Portugal    3-1    Brazil           @ Goodison Park, Liverpool
+1966	england	(23) 20 July   Hungary     3-1    Bulgaria         @ Old Trafford, Manchester
+1966	england	(4)  12 July   Soviet Union    3-0  North Korea   @ Ayresome Park, Middlesbrough
+1966	england	(8)  13 July   Italy           2-0  Chile         @ Roker Park, Sunderland
+1966	england	(12) 15 July   Chile           1-1  North Korea   @ Ayresome Park, Middlesbrough
+1966	england	(16) 16 July   Soviet Union    1-0  Italy         @ Roker Park, Sunderland
+1966	england	(20) 19 July   North Korea     1-0  Italy         @ Ayresome Park, Middlesbrough
+1966	england	(24) 20 July   Soviet Union    2-1  Chile         @ Roker Park, Sunderland
+1966	england	(25) 23 July   England         1-0   Argentina     @ Wembley Stadium, London
+1966	england	(26) 23 July   West Germany    4-0   Uruguay       @ Hillsborough Stadium, Sheffield
+1966	england	(27) 23 July   Soviet Union    2-1   Hungary       @ Roker Park, Sunderland
+1966	england	(28) 23 July   Portugal        5-3   North Korea   @ Goodison Park, Liverpool
+1966	england	(29) 25 July   West Germany   2-1   Soviet Union  @ Goodison Park, Liverpool
+1966	england	(30) 26 July   England        2-1   Portugal      @ Wembley Stadium, London
+1966	england	(31) 28 July   Portugal    2-1   Soviet Union  @ Wembley Stadium, London
+1966	england	(32) 30 July    England   4-2 a.e.t. 2-2   West Germany  @ Wembley Stadium, London
+1970	mexico	(1)  31 May     Mexico          0-0    Soviet Union   @ Estadio Azteca, Mexico City
+1970	mexico	(5)   3 June    Belgium         3-0    El Salvador    @ Estadio Azteca, Mexico City
+1970	mexico	(9)   6 June    Soviet Union    4-1    Belgium        @ Estadio Azteca, Mexico City
+1970	mexico	(13)  7 June    Mexico          4-0    El Salvador    @ Estadio Azteca, Mexico City
+1970	mexico	(17) 10 June    Soviet Union    2-0    El Salvador    @ Estadio Azteca, Mexico City
+1970	mexico	(21) 11 June    Mexico          1-0    Belgium        @ Estadio Azteca, Mexico City
+1970	mexico	(2)   2 June   Uruguay    2-0    Israel      @ Estadio Cuauhtémoc, Puebla
+1970	mexico	(6)   3 June   Italy      1-0    Sweden      @ Estadio Luis Dosal, Toluca
+1970	mexico	(10)  6 June   Uruguay    0-0    Italy       @ Estadio Cuauhtémoc, Puebla
+1970	mexico	(14)  7 June   Sweden     1-1    Israel      @ Estadio Luis Dosal, Toluca
+1970	mexico	(18) 10 June   Uruguay    0-1    Sweden      @ Estadio Cuauhtémoc, Puebla
+1970	mexico	(22) 11 June   Israel     0-0    Italy       @ Estadio Luis Dosal, Toluca
+1970	mexico	(3)   2 June   Romania    0-1    England          @ Estadio Jalisco, Guadalajara
+1970	mexico	(7)   3 June   Czechoslovakia    1-4    Brazil     @ Estadio Jalisco, Guadalajara
+1970	mexico	(11)  6 June   Romania    2-1    Czechoslovakia   @ Estadio Jalisco, Guadalajara
+1970	mexico	(15)  7 June   England    0-1    Brazil           @ Estadio Jalisco, Guadalajara
+1970	mexico	(19) 10 June   Romania    2-3    Brazil           @ Estadio Jalisco, Guadalajara
+1970	mexico	(23) 11 June   England    1-0    Czechoslovakia   @ Estadio Jalisco, Guadalajara
+1970	mexico	(4)   2 June   Peru        3-2   Bulgaria       @ Estadio Nou Camp, León
+1970	mexico	(8)   3 June   Morocco     1-2   West Germany   @ Estadio Nou Camp, León
+1970	mexico	(12)  6 June   Peru        3-0   Morocco        @ Estadio Nou Camp, León
+1970	mexico	(16)  7 June   Bulgaria    2-5   West Germany   @ Estadio Nou Camp, León
+1970	mexico	(20) 10 June   Peru        1-3   West Germany   @ Estadio Nou Camp, León
+1970	mexico	(24) 11 June   Bulgaria    1-1   Morocco        @ Estadio Nou Camp, León
+1970	mexico	(25) 14 June    Soviet Union  0-1 a.e.t. 0-0   Uruguay    @ Estadio Azteca, Mexico City
+1970	mexico	(26) 14 June    Italy         4-1              Mexico     @ Estadio Luis Dosal, Toluca
+1970	mexico	(27) 14 June    Brazil        4-2              Peru       @ Estadio Jalisco, Guadalajara
+1970	mexico	(28) 14 June    West Germany  3-2 a.e.t. 2-2   England    @ Estadio Nou Camp, León
+1970	mexico	(29) 17 June    Uruguay    1-3               Brazil        @ Estadio Jalisco, Guadalajara
+1970	mexico	(30) 17 June    Italy      4-3 a.e.t. 1-1    West Germany  @ Estadio Azteca, Mexico City
+1970	mexico	(31) 20 June    Uruguay    0-1    West Germany   @ Estadio Azteca, Mexico City
+1970	mexico	(32) 21 June    Brazil     4-1    Italy     @ Estadio Azteca, Mexico City
+1974	west-germany	(1)  14 June    West Germany  1-0   Chile        @ Olympiastadion, West Berlin
+1974	west-germany	(2)  14 June    East Germany  2-0   Australia    @ Volksparkstadion, Hamburg
+1974	west-germany	(9)  18 June    Chile         1-1   East Germany   @ Olympiastadion, West Berlin
+1974	west-germany	(10) 18 June    Australia     0-3   West Germany   @ Volksparkstadion, Hamburg
+1974	west-germany	(17) 22 June    Australia     0-0   Chile          @ Olympiastadion, West Berlin
+1974	west-germany	(18) 22 June    East Germany  1-0   West Germany   @ Volksparkstadion, Hamburg
+1974	west-germany	(3)  13 June    Brazil      0-0   Yugoslavia      @ Waldstadion, Frankfurt
+1974	west-germany	(4)  14 June    Zaire       0-2   Scotland        @ Westfalenstadion, Dortmund
+1974	west-germany	(11) 18 June    Yugoslavia  9-0   Zaire           @ Parkstadion, Gelsenkirchen
+1974	west-germany	(12) 18 June    Scotland    0-0   Brazil          @ Waldstadion, Frankfurt
+1974	west-germany	(19) 22 June    Scotland    1-1   Yugoslavia      @ Waldstadion, Frankfurt
+1974	west-germany	(20) 22 June    Zaire       0-3   Brazil          @ Parkstadion, Gelsenkirchen
+1974	west-germany	(5)  15 June    Uruguay      0-2    Netherlands    @ Niedersachsenstadion, Hanover
+1974	west-germany	(6)  15 June    Sweden       0-0    Bulgaria       @ Rheinstadion, Düsseldorf
+1974	west-germany	(13) 19 June    Netherlands  0-0    Sweden         @ Westfalenstadion, Dortmund
+1974	west-germany	(14) 19 June    Uruguay      1-1    Bulgaria       @ Niedersachsenstadion, Hanover
+1974	west-germany	(21) 23 June    Netherlands  4-1    Bulgaria       @ Westfalenstadion, Dortmund
+1974	west-germany	(22) 23 June    Sweden       3-0    Uruguay        @ Rheinstadion, Düsseldorf
+1974	west-germany	(7)  15 June    Italy       3-1    Haiti          @ Olympiastadion, Munich
+1974	west-germany	(8)  15 June    Poland      3-2    Argentina      @ Neckarstadion, Stuttgart
+1974	west-germany	(15) 19 June    Haiti       0-7    Poland         @ Olympiastadion, Munich
+1974	west-germany	(16) 19 June    Argentina   1-1    Italy          @ Neckarstadion, Stuttgart
+1974	west-germany	(23) 23 June    Argentina   4-1    Haiti          @ Olympiastadion, Munich
+1974	west-germany	(24) 23 June    Poland      2-1    Italy          @ Neckarstadion, Stuttgart
+1974	west-germany	(25) 26 June    Brazil         1-0   East Germany     @ Niedersachsenstadion, Hanover
+1974	west-germany	(26) 26 June    Netherlands    4-0   Argentina        @ Parkstadion, Gelsenkirchen
+1974	west-germany	(29) 30 June    East Germany   0-2   Netherlands      @ Parkstadion, Gelsenkirchen
+1974	west-germany	(30) 30 June    Argentina      1-2   Brazil           @ Niedersachsenstadion, Hanover
+1974	west-germany	(33) 3 July     Argentina      1-1   East Germany     @ Parkstadion, Gelsenkirchen
+1974	west-germany	(34) 3 July     Netherlands    2-0   Brazil           @ Westfalenstadion, Dortmund
+1974	west-germany	(27) 26 June    Yugoslavia    0-2   West Germany   @ Rheinstadion, Düsseldorf
+1974	west-germany	(28) 26 June    Sweden        0-1   Poland         @ Neckarstadion, Stuttgart
+1974	west-germany	(31) 30 June    West Germany  4-2   Sweden         @ Rheinstadion, Düsseldorf
+1974	west-germany	(32) 30 June    Poland        2-1   Yugoslavia     @ Waldstadion, Frankfurt
+1974	west-germany	(35) 3 July     Poland        0-1   West Germany   @ Waldstadion, Frankfurt
+1974	west-germany	(36) 3 July     Sweden        2-1   Yugoslavia     @ Rheinstadion, Düsseldorf
+1974	west-germany	(37) 6 July     Brazil        0-1  Poland        @ Olympiastadion, Munich
+1974	west-germany	(38) 7 July     Netherlands   1-2  West Germany  @ Olympiastadion, Munich
+1978	argentina	(2)  2 June   Argentina    2-1    Hungary  @ Estadio Monumental, Buenos Aires
+1978	argentina	(3)  2 June   Italy        2-1    France   @ Estadio José María Minella, Mar del Plata
+1978	argentina	(9)  6 June   Argentina    2-1    France    @ Estadio Monumental, Buenos Aires
+1978	argentina	(10) 6 June   Italy        3-1    Hungary   @ Estadio José María Minella, Mar del Plata
+1978	argentina	(17) 10 June  Argentina    0-1    Italy     @ Estadio Monumental, Buenos Aires
+1978	argentina	(18) 10 June  France       3-1    Hungary   @ Estadio José María Minella, Mar del Plata
+1978	argentina	(1)  1 June   West Germany    0-0    Poland   @ Estadio Monumental, Buenos Aires
+1978	argentina	(4)  2 June   Tunisia         3-1    Mexico   @ Estadio Gigante de Arroyito, Rosario
+1978	argentina	(11) 6 June   Poland          1-0    Tunisia  @ Estadio Gigante de Arroyito, Rosario
+1978	argentina	(12) 6 June   West Germany    6-0    Mexico   @ Estadio Chateau Carreras, Córdoba
+1978	argentina	(19) 10 June  Poland          3-1    Mexico   @ Estadio Gigante de Arroyito, Rosario
+1978	argentina	(20) 10 June  West Germany    0-0    Tunisia  @ Estadio Olímpico Chateau Carreras, Córdoba
+1978	argentina	(5)  3 June   Austria      2-1    Spain     @ Estadio José Amalfitani, Buenos Aires
+1978	argentina	(6)  3 June   Brazil       1-1    Sweden    @ Estadio José Maria Minella, Mar del Plata
+1978	argentina	(13) 7 June   Austria      1-0    Sweden    @ Estadio José Amalfitani, Buenos Aires
+1978	argentina	(14) 7 June   Brazil       0-0    Spain     @ Estadio José Maria Minella, Mar del Plata
+1978	argentina	(21) 11 June  Spain        1-0    Sweden    @ Estadio José Amalfitani, Buenos Aires
+1978	argentina	(22) 11 June  Brazil       1-0    Austria   @ Estadio José Maria Minella, Mar del Plata
+1978	argentina	(7)  3 June   Peru           3-1    Scotland     @ Estadio Chateau Carreras, Córdoba
+1978	argentina	(8)  3 June   Netherlands    3-0    Iran         @ Estadio Ciudad de Mendoza, Mendoza
+1978	argentina	(15) 7 June   Scotland       1-1    Iran         @ Estadio Chateau Carreras, Córdoba
+1978	argentina	(16) 7 June   Netherlands    0-0    Peru         @ Estadio Ciudad de Mendoza, Mendoza
+1978	argentina	(23) 11 June  Peru           4-1    Iran         @ Estadio Chateau Carreras, Córdoba
+1978	argentina	(24) 11 June  Scotland       3-2    Netherlands  @ Estadio Ciudad de Mendoza, Mendoza
+1978	argentina	(25) 14 June   Italy          0-0    West Germany  @ Estadio Monumental, Buenos Aires
+1978	argentina	(27) 14 June   Austria        1-5    Netherlands   @ Estadio Chateau Carreras, Córdoba
+1978	argentina	(29) 18 June   Italy          1-0    Austria       @ Estadio Monumental, Buenos Aires
+1978	argentina	(31) 18 June   Netherlands    2-2    West Germany  @ Estadio Chateau Carreras, Córdoba
+1978	argentina	(33) 21 June   Italy          1-2    Netherlands    @ Estadio Monumental, Buenos Aires
+1978	argentina	(35) 21 June   Austria        3-2    West Germany   @ Estadio Chateau Carreras, Córdoba
+1978	argentina	(26) 14 June   Argentina      2-0    Poland    @ Estadio Gigante de Arroyito, Rosario
+1978	argentina	(28) 14 June   Peru           0-3    Brazil    @ Estadio Ciudad de Mendoza, Mendoza
+1978	argentina	(30) 18 June   Argentina      0-0    Brazil    @ Estadio Gigante de Arroyito, Rosario
+1978	argentina	(32) 18 June   Peru           0-1    Poland    @ Estadio Ciudad de Mendoza, Mendoza
+1978	argentina	(34) 21 June   Argentina      6-0    Peru      @ Estadio Gigante de Arroyito, Rosario
+1978	argentina	(36) 21 June   Poland         1-3    Brazil    @ Estadio Ciudad de Mendoza, Mendoza
+1978	argentina	(37) 24 June    Brazil        2-1    Italy       @ Estadio Monumental, Buenos Aires
+1978	argentina	(38) 25 June   Netherlands    1-3 a.e.t. 1-1   Argentina   @ Estadio Monumental, Buenos Aires
+1982	spain	(2)  14 June   Italy     0-0    Poland     @ Balaídos, Vigo
+1982	spain	(4)  15 June   Peru      0-0    Cameroon   @ Estadio de Riazor, A Coruña
+1982	spain	(13) 18 June   Italy     1-1    Peru         @ Balaídos, Vigo
+1982	spain	(16) 19 June   Poland    0-0    Cameroon   @ Estadio de Riazor, A Coruña
+1982	spain	(25) 22 June   Poland    5-1    Peru     @ Estadio de Riazor, A Coruña
+1982	spain	(28) 23 June   Italy     1-1    Cameroon   @ Balaídos, Vigo
+1982	spain	(7)  16 June   West Germany    1-2    Algeria  @ El Molinón, Gijón
+1982	spain	(10) 17 June   Chile           0-1    Austria  @ Estadio Carlos Tartiere, Oviedo
+1982	spain	(19) 20 June   West Germany    4-1    Chile   @ El Molinón, Gijón
+1982	spain	(22) 21 June   Algeria         0-2    Austria   @ Estadio Carlos Tartiere, Oviedo
+1982	spain	(31) 24 June   Algeria         3-2    Chile   @ Estadio Carlos Tartiere, Oviedo
+1982	spain	(34) 25 June   West Germany    1-0    Austria  @ El Molinón, Gijón
+1982	spain	(1)  13 June   Argentina    0-1    Belgium    @ Camp Nou, Barcelona
+1982	spain	(5)  15 June   Hungary     10-1    El Salvador  @ Nuevo Estadio, Elche
+1982	spain	(14) 18 June   Argentina    4-1    Hungary    @ Estadio José Rico Pérez, Alicante
+1982	spain	(17) 19 June   Belgium      1-0    El Salvador  @ Nuevo Estadio, Elche
+1982	spain	(26) 22 June   Belgium      1-1    Hungary        @ Nuevo Estadio, Elche
+1982	spain	(29) 23 June   Argentina    2-0    El Salvador  @ Estadio José Rico Pérez, Alicante
+1982	spain	(8)  16 June   England         3-1    France   @ Estadio San Mamés, Bilbao
+1982	spain	(11) 17 June   Czechoslovakia  1-1    Kuwait  @ Estadio José Zorrilla, Valladolid
+1982	spain	(20) 20 June   England         2-0    Czechoslovakia   @ Estadio San Mamés, Bilbao
+1982	spain	(23) 21 June   France          4-1    Kuwait           @ Estadio José Zorrilla, Valladolid
+1982	spain	(32) 24 June   France          1-1    Czechoslovakia   @ Estadio José Zorrilla, Valladolid
+1982	spain	(35) 25 June   England         1-0    Kuwait           @ Estadio San Mamés, Bilbao
+1982	spain	(9)  16 June   Spain           1-1    Honduras     @ Estadio Luis Casanova, Valencia
+1982	spain	(12) 17 June   Yugoslavia      0-0    Northern Ireland  @ La Romareda, Zaragoza
+1982	spain	(21) 20 June   Spain           2-1    Yugoslavia   @ Estadio Luis Casanova, Valencia
+1982	spain	(24) 21 June   Honduras        1-1    Northern Ireland  @ La Romareda, Zaragoza
+1982	spain	(33) 24 June   Honduras        0-1    Yugoslavia    @ La Romareda, Zaragoza
+1982	spain	(36) 25 June   Spain           0-1    Northern Ireland  @ Estadio Luis Casanova, Valencia
+1982	spain	(3)  14 June   Brazil          2-1    Soviet Union   @ Estadio Ramón Sánchez Pizjuán, Seville
+1982	spain	(6)  15 June   Scotland        5-2    New Zealand  @ Estadio La Rosaleda, Málaga
+1982	spain	(15) 18 June   Brazil          4-1    Scotland   @ Estadio Benito Villamarín, Seville
+1982	spain	(18) 19 June   Soviet Union    3-0    New Zealand   @ Estadio La Rosaleda, Málaga
+1982	spain	(27) 22 June   Soviet Union    2-2    Scotland   @ Estadio La Rosaleda, Málaga
+1982	spain	(30) 23 June   Brazil          4-0    New Zealand    @ Estadio Benito Villamarín, Seville
+1982	spain	(38) 28 June   Poland          3-0    Belgium        @ Camp Nou, Barcelona
+1982	spain	(42) 1 July    Belgium         0-1    Soviet Union   @ Camp Nou, Barcelona
+1982	spain	(46) 4 July    Soviet Union    0-0    Poland   @ Camp Nou, Barcelona
+1982	spain	(40) 29 June   West Germany    0-0    England  @ Estadio Santiago Bernabéu, Madrid
+1982	spain	(44) 2 July    West Germany    2-1    Spain    @ Estadio Santiago Bernabéu, Madrid
+1982	spain	(48) 5 July    Spain           0-0    England          @ Estadio Santiago Bernabéu, Madrid
+1982	spain	(39) 29 June   Italy        2-1    Argentina      @ Estadio Sarriá, Barcelona
+1982	spain	(43) 2 July    Argentina    1-3    Brazil     @ Estadio Sarriá, Barcelona
+1982	spain	(47) 5 July    Italy         3-2    Brazil         @ Estadio Sarriá, Barcelona
+1982	spain	(37) 28 June   Austria           0-1    France    @ Estadio Vicente Calderón, Madrid
+1982	spain	(41) 1 July    Austria           2-2    Northern Ireland   @ Estadio Vicente Calderón, Madrid
+1982	spain	(45) 4 July    Northern Ireland  1-4    France   @ Estadio Vicente Calderón, Madrid
+1982	spain	(49) 8 July    Poland        0-2    Italy   @ Camp Nou, Barcelona
+1982	spain	(50) 8 July    West Germany  5-4pen 3-3aet 1-1  France  @ Estadio Ramón Sánchez Pizjuán, Seville
+1982	spain	(51) 10 July   Poland    3-2    France  @ Estadio José Rico Pérez, Alicante
+1982	spain	(52) 11 July   Italy     3-1    West Germany   @ Estadio Santiago Bernabéu
+1986	mexico	(1)  31 May   Bulgaria       1-1    Italy   @ Estadio Azteca, Mexico City
+1986	mexico	(4)   2 June   Argentina      3-1    South Korea  @ Estadio Olímpico Universitario, Mexico City
+1986	mexico	(13)  5 June   Italy          1-1    Argentina   @ Estadio Cuauhtémoc, Puebla
+1986	mexico	(14)  5 June   South Korea    1-1    Bulgaria  @ Estadio Olímpico Universitario, Mexico City
+1986	mexico	(27) 10 June  South Korea    2-3    Italy  @ Estadio Cuauhtémoc, Puebla
+1986	mexico	(28) 10 June  Argentina      2-0    Bulgaria @ Estadio Olímpico Universitario, Mexico City
+1986	mexico	(7)  3 June   Belgium       1-2    Mexico   @ Estadio Azteca, Mexico City
+1986	mexico	(10) 4 June   Paraguay      1-0    Iraq     @ Estadio Nemesio Díez, Toluca
+1986	mexico	(19) 7 June   Mexico        1-1    Paraguay   @ Estadio Azteca, Mexico City
+1986	mexico	(22) 8 June   Iraq          1-2    Belgium      @ Estadio Nemesio Díez, Toluca
+1986	mexico	(29) 11 June  Iraq          0-1    Mexico       @ Estadio Azteca, Mexico City
+1986	mexico	(30) 11 June  Paraguay      2-2    Belgium  @ Estadio Nemesio Díez, Toluca
+1986	mexico	(2)  1 June   Canada          0-1    France         @ Estadio Nou Camp, León
+1986	mexico	(5)  2 June   Soviet Union    6-0    Hungary  @ Estadio Sergio León Chavez, Irapuato
+1986	mexico	(15) 5 June   France          1-1    Soviet Union   @ Estadio Nou Camp, León
+1986	mexico	(16) 6 June   Hungary         2-0    Canada       @ Estadio Sergio León Chavez, Irapuato
+1986	mexico	(25) 9 June   Hungary         0-3    France       @ Estadio Nou Camp, León
+1986	mexico	(26) 9 June   Soviet Union    2-0    Canada   @ Estadio Sergio León Chavez, Irapuato
+1986	mexico	(3)  1 June   Spain               0-1    Brazil   @ Estadio Jalisco, Guadalajara
+1986	mexico	(8)  3 June   Algeria             1-1    Northern Ireland  @ Estadio Tres de Marzo, Guadalajara
+1986	mexico	(17) 6 June   Brazil              1-0    Algeria  @ Estadio Jalisco, Guadalajara
+1986	mexico	(20) 7 June   Northern Ireland    1-2    Spain   @ Estadio Tres de Marzo, Guadalajara
+1986	mexico	(33) 12 June  Northern Ireland    0-3    Brazil  @ Estadio Jalisco, Guadalajara
+1986	mexico	(34) 12 June  Algeria             0-3    Spain   @ Estadio Tecnológico, Monterrey
+1986	mexico	(11) 4 June  Uruguay         1-1    West Germany    @ Estadio La Corregidora, Querétaro
+1986	mexico	(12) 4 June  Scotland        0-1    Denmark       @ Estadio Neza 86, Nezahualcóyotl
+1986	mexico	(23) 8 June  West Germany    2-1    Scotland  @ Estadio La Corregidora, Querétaro
+1986	mexico	(24) 8 June  Denmark         6-1    Uruguay         @ Estadio Neza 86, Nezahualcóyotl
+1986	mexico	(35) 13 June Denmark         2-0    West Germany    @ Estadio La Corregidora, Querétaro
+1986	mexico	(36) 13 June Scotland        0-0    Uruguay       @ Estadio Neza 86, Nezahualcóyotl
+1986	mexico	(6)  2 June   Morocco     0-0    Poland     @ Estadio Universitario, Monterrey
+1986	mexico	(9)  3 June   Portugal    1-0    England    @ Estadio Tecnológico, Monterrey
+1986	mexico	(18) 6 June   England     0-0    Morocco    @ Estadio Tecnológico, Monterrey
+1986	mexico	(21) 7 June   Poland      1-0    Portugal     @ Estadio Universitario, Monterrey
+1986	mexico	(31) 11 June  Portugal    1-3    Morocco    @ Estadio Tres de Marzo, Guadalajara
+1986	mexico	(32) 11 June  England     3-0    Poland     @ Estadio Tecnológico, Monterrey
+1986	mexico	(37) 15 June   Mexico       2-0    Bulgaria   @ Estadio Azteca, Mexico City
+1986	mexico	(38) 15 June   Soviet Union  3-4 a.e.t.  2-2   Belgium  @ Estadio Nou Camp, León
+1986	mexico	(39) 16 June   Argentina    1-0    Uruguay  @ Estadio Cuauhtémoc, Puebla
+1986	mexico	(40) 16 June   Brazil       4-0    Poland     @ Estadio Jalisco, Guadalajara
+1986	mexico	(41) 17 June   Italy      0-2    France       @ Estadio Olímpico Universitario, Mexico City
+1986	mexico	(42) 17 June   Morocco    0-1    West Germany  @ Estadio Universitario, Monterrey
+1986	mexico	(43) 18 June   England    3-0    Paraguay   @ Estadio Azteca, Mexico City
+1986	mexico	(44) 18 June   Denmark    1-5    Spain      @ Estadio La Corregidora, Querétaro
+1986	mexico	(45) 21 June    Brazil  3-4pen 1-1aet 1-1  France          @ Estadio Jalisco, Guadalajara
+1986	mexico	(46) 21 June    West Germany  4-1pen 0-0 aet 0-0  Mexico   @ Estadio Universitario, Monterrey
+1986	mexico	(47) 22 June    Spain    4-5pen 1-1 aet 1-1    Belgium      @ Estadio Cuauhtémoc, Puebla
+1986	mexico	(48) 22 June    Argentina    2-1    England              @ Estadio Azteca, Mexico City
+1986	mexico	(49) 25 June    Argentina    2-0    Belgium      @ Estadio Azteca, Mexico City
+1986	mexico	(50) 25 June    France       0-2    West Germany     @ Estadio Jalisco, Guadalajara
+1986	mexico	(51) 28 June    France   4-2aet 2-2   Belgium      @ Estadio Cuauhtémoc, Puebla
+1986	mexico	(52) 29 June    Argentina    3-2    West Germany  @ Estadio Azteca, Mexico City
+1990	italy	(3)   9 June   Italy      1-0    Austria   @ Stadio Olimpico, Rome
+1990	italy	(5)  10 June  United States    1-5    Czechoslovakia  @ Stadio Comunale, Florence
+1990	italy	(15) 14 June  Italy      1-0    United States   @ Stadio Olimpico, Rome
+1990	italy	(17) 15 June  Austria    0-1    Czechoslovakia  @ Stadio Comunale, Florence
+1990	italy	(29) 19 June  Italy      2-0    Czechoslovakia    @ Stadio Olimpico, Rome
+1990	italy	(30) 19 June  Austria    2-1    United States   @ Stadio Comunale, Florence
+1990	italy	(1)   8 June   Argentina       0-1    Cameroon   @ San Siro, Milan
+1990	italy	(2)   9 June   Soviet Union    0-2    Romania  @ Stadio San Nicola, Bari
+1990	italy	(13) 13 June  Argentina       2-0    Soviet Union  @ Stadio San Paolo, Naples
+1990	italy	(16) 14 June  Cameroon        2-1    Romania   @ Stadio San Nicola, Bari
+1990	italy	(25) 18 June  Argentina       1-1    Romania  @ Stadio San Paolo, Naples
+1990	italy	(26) 18 June  Cameroon        0-4    Soviet Union   @ Stadio San Nicola, Bari
+1990	italy	(6)  10 June   Brazil        2-1    Sweden    @ Stadio Delle Alpi, Turin
+1990	italy	(8)  11 June   Costa Rica    1-0    Scotland  @ Stadio Luigi Ferraris, Genoa
+1990	italy	(19) 16 June   Brazil        1-0    Costa Rica  @ Stadio Delle Alpi, Turin
+1990	italy	(20) 16 June   Sweden        1-2    Scotland   @ Stadio Luigi Ferraris, Genoa
+1990	italy	(31) 20 June   Brazil        1-0    Scotland   @ Stadio Delle Alpi, Turin
+1990	italy	(32) 20 June   Sweden        1-2    Costa Rica  @ Stadio Luigi Ferraris, Genoa
+1990	italy	(4)   9 June    United Arab Emirates    0-2    Colombia  @ Stadio Renato Dall'Ara, Bologna
+1990	italy	(7)  10 June   West Germany    4-1    Yugoslavia  @ San Siro, Milan
+1990	italy	(14) 14 June   Yugoslavia      1-0    Colombia  @ Stadio Renato Dall'Ara, Bologna
+1990	italy	(18) 15 June   West Germany    5-1    United Arab Emirates  @ San Siro, Milan
+1990	italy	(27) 19 June   West Germany    1-1    Colombia   @ San Siro, Milan
+1990	italy	(28) 19 June   Yugoslavia      4-1    United Arab Emirates  @ Stadio Renato Dall'Ara, Bologna
+1990	italy	(10)  12 June    Belgium       2-0    South Korea  @ Stadio Marc'Antonio Bentegodi, Verona
+1990	italy	(12)  13 June    Uruguay       0-0    Spain   @ Stadio Friuli, Udine
+1990	italy	(23)  17 June    Belgium       3-1    Uruguay   @ Stadio Marc'Antonio Bentegodi, Verona
+1990	italy	(24)  17 June    South Korea   1-3    Spain   @ Stadio Friuli, Udine
+1990	italy	(33)  21 June    Belgium       1-2    Spain    @ Stadio Marc'Antonio Bentegodi, Verona
+1990	italy	(34)  21 June    South Korea   0-1    Uruguay  @ Stadio Friuli, Udine
+1990	italy	(9)  11 June    England      1-1    Ireland     @ Stadio Sant'Elia, Cagliari
+1990	italy	(11) 12 June    Netherlands  1-1    Egypt   @ Stadio La Favorita, Palermo
+1990	italy	(21) 16 June    England      0-0    Netherlands   @ Stadio Sant'Elia, Cagliari
+1990	italy	(22) 17 June    Ireland      0-0    Egypt        @ Stadio La Favorita, Palermo
+1990	italy	(35) 21 June    England      1-0    Egypt        @ Stadio Sant'Elia, Cagliari
+1990	italy	(36) 21 June    Ireland      1-1    Netherlands   @ Stadio La Favorita, Palermo
+1990	italy	(37) 23 June   Cameroon    2-1 a.e.t. 0-0    Colombia   @ Stadio San Paolo, Naples
+1990	italy	(38) 23 June   Czechoslovakia    4-1    Costa Rica     @ Stadio San Nicola, Bari
+1990	italy	(39) 24 June   Brazil          0-1    Argentina   @ Stadio Delle Alpi, Turin
+1990	italy	(40) 24 June   West Germany    2-1    Netherlands  @ San Siro, Milan
+1990	italy	(41) 25 June   Ireland   5-4pen  0-0 a.e.t. 0-0   Romania  @ Stadio Luigi Ferraris, Genoa
+1990	italy	(42) 25 June   Italy    2-0    Uruguay    @ Stadio Olimpico, Rome
+1990	italy	(43) 26 June   Spain    1-2 a.e.t. 1-1  Yugoslavia  @ Stadio Marc'Antonio Bentegodi, Verona
+1990	italy	(44) 26 June   England    1-0 a.e.t. 0-0  Belgium   @ Stadio Renato Dall'Ara, Bologna
+1990	italy	(45) 30 June    Yugoslavia   2-3pen   0-0 a.e.t. 0-0    Argentina  @ Stadio Artemio Franchi, Florence
+1990	italy	(46) 30 June    Italy        1-0     Ireland  @ Stadio Olimpico, Rome
+1990	italy	(47) 1 July     West Germany    1-0    Czechoslovakia  @ San Siro, Milan
+1990	italy	(48) 1 July     England    3-2 a.e.t.  2-2    Cameroon  @ Stadio San Paolo, Naples
+1990	italy	(49) 3 July     Italy    3-4pen  1-1 a.e.t. 1-1    Argentina  @ Stadio San Paolo, Naples
+1990	italy	(50) 4 July     West Germany   4-3pen  1-1 a.e.t. 1-1   England  @ Stadio delle Alpi, Turin
+1990	italy	(51) 7 July     Italy    2-1    England   @ Stadio San Nicola, Bari
+1990	italy	(52) 8 July     West Germany    1-0    Argentina   @ Stadio Olimpico, Rome
+1994	united-states	(3)  18 June    United States    1-1     Switzerland   @ Pontiac Silverdome, Pontiac
+1994	united-states	(5)  18 June    Colombia         1-3    Romania  @ Rose Bowl, Pasadena
+1994	united-states	(14) 22 June    Romania          1-4     Switzerland   @ Pontiac Silverdome, Pontiac
+1994	united-states	(15) 22 June    United States    2-1    Colombia   @ Rose Bowl, Pasadena
+1994	united-states	(25) 26 June    United States    0-1    Romania    @ Rose Bowl, Pasadena
+1994	united-states	(26) 26 June    Switzerland      0-2    Colombia    @ Stanford Stadium, Stanford
+1994	united-states	(8)  19 June   Cameroon    2-2    Sweden   @ Rose Bowl, Pasadena
+1994	united-states	(9)  20 June   Brazil      2-0    Russia   @ Stanford Stadium, Stanford
+1994	united-states	(19) 24 June   Brazil      3-0    Cameroon   @ Stanford Stadium, Stanford
+1994	united-states	(20) 24 June   Sweden      3-1    Russia   @ Pontiac Silverdome, Pontiac
+1994	united-states	(31) 28 June   Russia      6-1    Cameroon   @ Stanford Stadium, Stanford
+1994	united-states	(32) 28 June   Brazil      1-1    Sweden   @ Pontiac Silverdome, Pontiac
+1994	united-states	(1)  17 June   Germany      1-0    Bolivia    @ Soldier Field, Chicago
+1994	united-states	(2)  17 June   Spain        2-2    South Korea    @ Cotton Bowl, Dallas
+1994	united-states	(12) 21 June   Germany      1-1    Spain    @ Soldier Field, Chicago
+1994	united-states	(17) 23 June   South Korea  0-0    Bolivia    @ Foxboro Stadium, Foxborough
+1994	united-states	(27) 27 June   Bolivia      1-3    Spain     @ Soldier Field, Chicago
+1994	united-states	(28) 27 June   Germany      3-2    South Korea    @ Cotton Bowl, Dallas
+1994	united-states	(11) 21 June   Argentina    4-0    Greece   @ Foxboro Stadium, Foxborough
+1994	united-states	(13) 21 June   Nigeria      3-0    Bulgaria   @ Cotton Bowl, Dallas
+1994	united-states	(23) 25 June   Argentina    2-1    Nigeria   @ Foxboro Stadium, Foxborough
+1994	united-states	(24) 26 June   Greece       0-4    Bulgaria   @ Soldier Field, Chicago
+1994	united-states	(35) 30 June   Greece       0-2    Nigeria   @ Foxboro Stadium, Foxborough
+1994	united-states	(36) 30 June   Argentina    0-2    Bulgaria   @ Cotton Bowl, Dallas
+1994	united-states	(4)  18 June   Italy     0-1    Ireland   @ Giants Stadium, East Rutherford
+1994	united-states	(7)  19 June   Norway    1-0    Mexico   @ RFK Stadium, Washington
+1994	united-states	(16) 23 June   Italy     1-0    Norway   @ Giants Stadium, East Rutherford
+1994	united-states	(18) 24 June   Mexico    2-1    Ireland   @ Citrus Bowl, Orlando
+1994	united-states	(29) 28 June   Ireland   0-0    Norway   @ Giants Stadium, East Rutherford
+1994	united-states	(30) 28 June   Italy     1-1    Mexico   @ RFK Stadium, Washington
+1994	united-states	(6)  19 June   Belgium        1-0    Morocco    @ Citrus Bowl, Orlando
+1994	united-states	(10) 20 June   Netherlands    2-1    Saudi Arabia   @ RFK Stadium, Washington
+1994	united-states	(21) 25 June   Belgium        1-0    Netherlands   @ Citrus Bowl, Orlando
+1994	united-states	(22) 25 June   Saudi Arabia   2-1    Morocco   @ Giants Stadium, East Rutherford
+1994	united-states	(33) 29 June   Morocco        1-2    Netherlands   @ Citrus Bowl, Orlando
+1994	united-states	(34) 29 June   Belgium        0-1    Saudi Arabia   @ RFK Stadium, Washington
+1994	united-states	(37)  2 July   Germany       3-2    Belgium      @ Soldier Field, Chicago
+1994	united-states	(38)  2 July   Spain         3-0    Switzerland  @ RFK Stadium, Washington
+1994	united-states	(39)  3 July   Saudi Arabia  1-3    Sweden      @ Cotton Bowl, Dallas
+1994	united-states	(40)  3 July   Romania       3-2    Argentina   @ Rose Bowl, Pasadena
+1994	united-states	(41)  4 July   Netherlands   2-0    Ireland        @ Citrus Bowl, Orlando
+1994	united-states	(42)  4 July   Brazil        1-0    United States  @ Stanford Stadium, Stanford
+1994	united-states	(43)  5 July   Nigeria    1-2 a.e.t. 1-1    Italy  @ Foxboro Stadium, Foxborough
+1994	united-states	(44)  5 July   Mexico  1-3pen 1-1 a.e.t. 1-1    Bulgaria  @ Giants Stadium, East Rutherford
+1994	united-states	(45)  9 July   Italy         2-1    Spain    @ Foxboro Stadium, Foxborough
+1994	united-states	(46)  9 July   Netherlands   2-3    Brazil   @ Cotton Bowl, Dallas
+1994	united-states	(47) 10 July  Bulgaria      2-1    Germany   @ Giants Stadium, East Rutherford
+1994	united-states	(48) 10 July  Romania    4-5pen 2-2aet 1-1   Sweden  @ Stanford Stadium, Stanford
+1994	united-states	(49) 13 July  Bulgaria    1-2    Italy     @ Giants Stadium, East Rutherford
+1994	united-states	(50) 13 July  Sweden      0-1    Brazil    @ Rose Bowl, Pasadena
+1994	united-states	(51) 16 July  Sweden    4-0    Bulgaria   @ Rose Bowl, Pasadena
+1994	united-states	(52) 17 July  Brazil    3-2pen 0-0 aet 0-0    Italy  @ Rose Bowl, Pasadena
+1998	france	(1)  10 June    Brazil      2-1    Scotland    @ Stade de France, Saint-Denis
+1998	france	(2)  10 June    Morocco     2-2    Norway      @ Stade de la Mosson, Montpellier
+1998	france	(17) 16 June    Scotland    1-1    Norway      @ Parc Lescure, Bordeaux
+1998	france	(18) 16 June    Brazil      3-0    Morocco     @ Stade de la Beaujoire, Nantes
+1998	france	(34) 23 June    Scotland    0-3    Morocco     @ Stade Geoffroy-Guichard, Saint-Étienne
+1998	france	(35) 23 June    Brazil      1-2    Norway      @ Stade Vélodrome, Marseille
+1998	france	(3)  11 June   Cameroon    1-1    Austria    @ Stade de Toulouse, Toulouse
+1998	france	(4)  11 June   Italy       2-2    Chile    @ Parc Lescure, Bordeaux
+1998	france	(19) 17 June   Chile       1-1    Austria    @ Stade Geoffroy-Guichard, Saint-Étienne
+1998	france	(20) 17 June   Italy       3-0    Cameroon   @ Stade de la Mosson, Montpellier
+1998	france	(33) 23 June   Italy       2-1    Austria   @ Stade de France, Saint-Denis
+1998	france	(36) 23 June   Chile       1-1    Cameroon   @ Stade de la Beaujoire, Nantes
+1998	france	(5)  12 June   Saudi Arabia   0-1    Denmark   @ Stade Félix Bollaert, Lens
+1998	france	(6)  12 June   France         3-0    South Africa   @ Stade Vélodrome, Marseille
+1998	france	(21) 18 June   France         4-0    Saudi Arabia   @ Stade de France, Saint-Denis
+1998	france	(22) 18 June   South Africa   1-1    Denmark   @ Stade de Toulouse, Toulouse
+1998	france	(38) 24 June   France         2-1    Denmark         @ Stade Gerland, Lyon
+1998	france	(40) 24 June   South Africa   2-2    Saudi Arabia   @ Parc Lescure, Bordeaux
+1998	france	(7)  12 June   Paraguay   0-0    Bulgaria    @ Stade de la Mosson, Montpellier
+1998	france	(10) 13 June   Spain      2-3    Nigeria    @ Stade de la Beaujoire, Nantes
+1998	france	(23) 19 June   Nigeria    1-0    Bulgaria   @ Parc des Princes, Paris
+1998	france	(24) 19 June   Spain      0-0    Paraguay   @ Stade Geoffroy-Guichard, Saint-Étienne
+1998	france	(37) 24 June   Spain      6-1    Bulgaria   @ Stade Félix Bollaert, Lens
+1998	france	(39) 24 June   Nigeria    1-3    Paraguay   @ Stade de Toulouse, Toulouse
+1998	france	(8)  13 June   Netherlands    0-0    Belgium   @ Stade de France, Saint-Denis
+1998	france	(9)  13 June   South Korea    1-3    Mexico   @ Stade Gerland, Lyon
+1998	france	(25) 20 June   Netherlands    5-0    South Korea   @ Stade Vélodrome, Marseille
+1998	france	(26) 20 June   Belgium        2-2    Mexico   @ Parc Lescure, Bordeaux
+1998	france	(41) 25 June   Belgium        1-1    South Korea   @ Parc des Princes, Paris
+1998	france	(42) 25 June   Netherlands    2-2    Mexico   @ Stade Geoffroy-Guichard, Saint-Étienne
+1998	france	(12) 14 June   Yugoslavia       1-0    Iran   @ Stade Geoffroy-Guichard, Saint-Étienne
+1998	france	(14) 15 June   Germany          2-0    United States   @ Parc des Princes, Paris
+1998	france	(29) 21 June   Germany          2-2    Yugoslavia   @ Stade Félix Bollaert, Lens
+1998	france	(30) 21 June   United States    1-2    Iran   @ Stade Gerland, Lyon
+1998	france	(43) 25 June   Germany          2-0    Iran   @ Stade de la Mosson, Montpellier
+1998	france	(44) 25 June   United States    0-1    Yugoslavia   @ Stade de la Beaujoire, Nantes
+1998	france	(15) 15 June   Romania     1-0    Colombia   @ Stade Gerland, Lyon
+1998	france	(16) 15 June   England     2-0    Tunisia   @ Stade Vélodrome, Marseille
+1998	france	(31) 22 June   Colombia    1-0    Tunisia   @ Stade de la Mosson, Montpellier
+1998	france	(32) 22 June   Romania     2-1    England   @ Stade de Toulouse, Toulouse
+1998	france	(45) 26 June   Romania     1-1    Tunisia   @ Stade de France, Saint-Denis
+1998	france	(46) 26 June   Colombia    0-2    England   @ Stade Félix Bollaert, Lens
+1998	france	(11) 14 June   Jamaica      1-3    Croatia   @ Stade Félix Bollaert, Lens
+1998	france	(13) 14 June   Argentina    1-0    Japan   @ Stade de Toulouse, Toulouse
+1998	france	(27) 20 June   Japan        0-1    Croatia   @ Stade de la Beaujoire, Nantes
+1998	france	(28) 21 June   Argentina    5-0    Jamaica   @ Parc des Princes, Paris
+1998	france	(47) 26 June   Japan        1-2    Jamaica   @ Stade Gerland, Lyon
+1998	france	(48) 26 June   Argentina    1-0    Croatia   @ Parc Lescure, Bordeaux
+1998	france	(49) 27 June   Brazil    4-1    Chile  @ Parc des Princes, Paris
+1998	france	(50) 27 June   Italy     1-0    Norway   @ Stade Vélodrome, Marseille
+1998	france	(51) 28 June   Nigeria    1-4    Denmark   @ Stade de France, Saint-Denis
+1998	france	(52) 28 June   France    1-0 a.e.t. 0-0    Paraguay   @ Stade Félix Bollaert, Lens
+1998	france	(53) 29 June   Germany       2-1    Mexico   @ Stade de la Mosson, Montpellier
+1998	france	(54) 29 June   Netherlands   2-1    Yugoslavia  @ Stade de Toulouse, Toulouse
+1998	france	(55) 30 June   Argentina   4-3pen 2-2aet 2-2   England  @ Stade Geoffroy-Guichard, Saint-Étienne
+1998	france	(56) 30 June   Romania       0-1    Croatia  @ Parc Lescure, Bordeaux
+1998	france	(57)  3 July    Italy    3-4pen 0-0 aet 0-0   France   @ Stade de France, Saint-Denis
+1998	france	(58)  3 July    Brazil    3-2    Denmark           @ Stade de la Beaujoire, Nantes
+1998	france	(59)  4 July    Germany       0-3    Croatia           @ Stade Gerland, Lyon
+1998	france	(60)  4 July    Netherlands   2-1    Argentina     @ Stade Vélodrome, Marseille
+1998	france	(61)  7 July  Brazil    4-2pen 1-1aet 1-1    Netherlands   @ Stade Vélodrome, Marseille
+1998	france	(62)  8 July  France    2-1    Croatia    @ Stade de France, Saint-Denis
+1998	france	(63) 11 July Netherlands    1-2    Croatia   @ Parc des Princes, Paris
+1998	france	(64) 12 July   Brazil       0-3    France   @ Stade de France, Saint-Denis
+2002	south-korea-n-japan	(1)  31 May   France     0-1    Senegal   @ Seoul World Cup Stadium, Seoul
+2002	south-korea-n-japan	(3)   1 June   Uruguay    1-2    Denmark   @ Munsu Cup Stadium, Ulsan
+2002	south-korea-n-japan	(18)  6 June   France     0-0    Uruguay   @ Asiad Main Stadium, Busan
+2002	south-korea-n-japan	(19)  6 June   Denmark    1-1    Senegal   @ Daegu World Cup Stadium, Daegu
+2002	south-korea-n-japan	(33) 11 June  Denmark    2-0    France    @ Incheon Munhak Stadium, Incheon
+2002	south-korea-n-japan	(34) 11 June  Senegal    3-3    Uruguay   @ Suwon World Cup Stadium, Suwon
+2002	south-korea-n-japan	(6)  2 June   Paraguay        2-2    South Africa   @ Asiad Main Stadium, Busan
+2002	south-korea-n-japan	(8)  2 June   Spain           3-1    Slovenia  @ Gwangju World Cup Stadium, Gwangju
+2002	south-korea-n-japan	(22) 7 June   Spain           3-1    Paraguay  @ Jeonju World Cup Stadium, Jeonju
+2002	south-korea-n-japan	(24) 8 June   South Africa    1-0    Slovenia  @ Daegu World Cup Stadium, Daegu
+2002	south-korea-n-japan	(39) 12 June  South Africa    2-3    Spain   @ Daejeon World Cup Stadium, Daejeon
+2002	south-korea-n-japan	(40) 12 June  Slovenia        1-3    Paraguay   @ Jeju World Cup Stadium, Jeju
+2002	south-korea-n-japan	(10)  3 June   Brazil        2-1    Turkey   @ Munsu Cup Stadium, Ulsan
+2002	south-korea-n-japan	(12)  4 June   China         0-2    Costa Rica   @ Gwangju World Cup Stadium, Gwangju
+2002	south-korea-n-japan	(26)  8 June   Brazil        4-0    China   @ Jeju World Cup Stadium, Jeju
+2002	south-korea-n-japan	(28)  9 June   Costa Rica    1-1    Turkey   @ Incheon Munhak Stadium, Incheon
+2002	south-korea-n-japan	(41) 13 June  Costa Rica    2-5    Brazil   @ Suwon World Cup Stadium, Suwon
+2002	south-korea-n-japan	(42) 13 June  Turkey        3-0    China   @ Seoul World Cup Stadium, Seoul
+2002	south-korea-n-japan	(14)  4 June   South Korea    2-0    Poland   @ Asiad Main Stadium, Busan
+2002	south-korea-n-japan	(16)  5 June   United States  3-2    Portugal   @ Suwon World Cup Stadium, Suwon
+2002	south-korea-n-japan	(30) 10 June   South Korea    1-1    United States   @ Daegu World Cup Stadium, Daegu
+2002	south-korea-n-japan	(32) 10 June   Portugal       4-0    Poland   @ Jeonju World Cup Stadium, Jeonju
+2002	south-korea-n-japan	(47) 14 June   Portugal       0-1    South Korea   @ Incheon Munhak Stadium, Incheon
+2002	south-korea-n-japan	(48) 14 June   Poland         3-1    United States   @ Daejeon World Cup Stadium, Daejeon
+2002	south-korea-n-japan	(2)   1 June   Ireland         1-1    Cameroon   @ Niigata Stadium, Niigata
+2002	south-korea-n-japan	(4)   1 June   Germany         8-0    Saudi Arabia   @ Sapporo Dome, Sapporo
+2002	south-korea-n-japan	(17)  5 June   Germany         1-1    Republic of Ireland   @ Kashima Soccer Stadium, Ibaraki
+2002	south-korea-n-japan	(19)  6 June   Cameroon        1-0    Saudi Arabia   @ Saitama Stadium, Saitama
+2002	south-korea-n-japan	(35) 11 June   Cameroon        0-2    Germany   @ Shizuoka Stadium, Shizuoka
+2002	south-korea-n-japan	(36) 11 June   Saudi Arabia    0-3    Ireland   @ International Stadium Yokohama, Yokohama
+2002	south-korea-n-japan	(5)   2 June   England      1-1    Sweden   @ Saitama Stadium, Saitama
+2002	south-korea-n-japan	(7)   2 June   Argentina    1-0    Nigeria   @ Kashima Soccer Stadium, Ibaraki
+2002	south-korea-n-japan	(21)  7 June   Sweden       2-1    Nigeria   @ Kobe Wing Stadium, Kobe
+2002	south-korea-n-japan	(23)  7 June   Argentina    0-1    England   @ Sapporo Dome, Sapporo
+2002	south-korea-n-japan	(37) 12 June   Sweden       1-1    Argentina   @ Miyagi Stadium, Miyagi
+2002	south-korea-n-japan	(38) 12 June   Nigeria      0-0    England   @ Nagai Stadium, Osaka
+2002	south-korea-n-japan	(9)   3 June    Croatia    0-1    Mexico    @ Niigata Stadium, Niigata
+2002	south-korea-n-japan	(11)  3 June    Italy      2-0    Ecuador   @ Sapporo Dome, Sapporo
+2002	south-korea-n-japan	(25)  8 June    Italy      1-2    Croatia   @ Kashima Soccer Stadium, Ibaraki
+2002	south-korea-n-japan	(27)  9 June    Mexico     2-1    Ecuador   @ Miyagi Stadium, Miyagi
+2002	south-korea-n-japan	(43) 13 June    Mexico     1-1    Italy     @ Ōita Stadium, Ōita
+2002	south-korea-n-japan	(44) 13 June    Ecuador    1-0    Croatia   @ International Stadium Yokohama, Yokohama
+2002	south-korea-n-japan	(13)  4 June    Japan       2-2    Belgium   @ Saitama Stadium, Saitama
+2002	south-korea-n-japan	(15)  5 June    Russia      2-0    Tunisia   @ Kobe Wing Stadium, Kobe
+2002	south-korea-n-japan	(29)  9 June    Japan       1-0    Russia    @ International Stadium Yokohama, Yokohama
+2002	south-korea-n-japan	(31) 10 June    Tunisia     1-1    Belgium   @ Ōita Stadium, Ōita
+2002	south-korea-n-japan	(45) 14 June    Tunisia     0-2    Japan     @ Nagai Stadium, Osaka
+2002	south-korea-n-japan	(46) 14 June    Belgium     3-2    Russia    @ Shizuoka Stadium, Shizuoka
+2002	south-korea-n-japan	(49) 15 June   Germany    1-0    Paraguay   @ Jeju World Cup Stadium, Jeju
+2002	south-korea-n-japan	(50) 15 June   Denmark    0-3    England    @ Niigata Stadium, Niigata
+2002	south-korea-n-japan	(51) 16 June   Sweden    1-2 aet 1-1  Senegal  @ Ōita Stadium, Ōita
+2002	south-korea-n-japan	(52) 16 June   Spain     3-2pen 1-1aet 1-1   Ireland  @ Suwon World Cup Stadium, Suwon
+2002	south-korea-n-japan	(53) 17 June   Mexico    0-2    United States  @ Jeonju World Cup Stadium, Jeonju
+2002	south-korea-n-japan	(54) 17 June   Brazil    2-0    Belgium        @ Kobe Wing Stadium, Kobe
+2002	south-korea-n-japan	(55) 18 June   Japan     0-1    Turkey         @ Miyagi Stadium, Miyagi
+2002	south-korea-n-japan	(56) 18 June   South Korea    2-1aet 1-1    Italy   @ Daejeon World Cup Stadium, Daejeon
+2002	south-korea-n-japan	(57) 21 June   England    1-2    Brazil    @ Shizuoka Stadium, Shizuoka
+2002	south-korea-n-japan	(58) 21 June   Germany    1-0    United States   @ Munsu Cup Stadium, Ulsan
+2002	south-korea-n-japan	(59) 22 June   Spain    3-5pen 0-0aet 0-0    South Korea  @ Gwangju World Cup Stadium, Gwangju
+2002	south-korea-n-japan	(60) 22 June   Senegal    0-1aet 0-0   Turkey    @ Nagai Stadium, Osaka
+2002	south-korea-n-japan	(61) 25 June   Germany    1-0    South Korea   @ Seoul World Cup Stadium, Seoul
+2002	south-korea-n-japan	(62) 26 June   Brazil    1-0    Turkey        @ Saitama Stadium, Saitama
+2002	south-korea-n-japan	(63) 29 June   South Korea    2-3    Turkey    @ Daegu World Cup Stadium, Daegu
+2002	south-korea-n-japan	(64) 30 June   Germany    0-2    Brazil        @ International Stadium Yokohama, Yokohama
+2006	germany	(1)  Fri Jun/9     Germany     4-2 (2-1)  Costa Rica   @ Allianz Arena, München
+2006	germany	(2)  Fri Jun/9     Poland      0-2 (0-1)  Ecuador      @ Veltins-Arena, Gelsenkirchen
+2006	germany	(17)  Wed Jun/14   Germany     1-0 (0-0)  Poland       @ Signal Iduna Park, Dortmund
+2006	germany	(18)  Thu Jun/15   Ecuador     3-0 (1-0)  Costa Rica   @ AOL Arena, Hamburg
+2006	germany	(33)  Tue Jun/20   Ecuador     0-3 (0-2)  Germany      @ Olympiastadion, Berlin
+2006	germany	(34)  Tue Jun/20   Costa Rica  1-2 (1-1)  Poland       @ AWD-Arena, Hannover
+2006	germany	(3)  Sat Jun/10    England  1-0 (1-0)  Paraguay          @ Commerzbank-Arena, Frankfurt
+2006	germany	(4)  Sat Jun/10    Trinidad and Tobago  0-0  Sweden      @ Signal Iduna Park, Dortmund
+2006	germany	(19)  Thu Jun/15   England   2-0 (0-0)  Trinidad and Tobago  @ Frankenstadion, Nürnberg
+2006	germany	(20)  Thu Jun/15   Sweden    1-0 (0-0)  Paraguay             @ Olympiastadion, Berlin
+2006	germany	(35)  Tue Jun/20   Sweden    2-2 (0-1)  England               @ RheinEnergieStadion, Köln
+2006	germany	(36)  Tue Jun/20   Paraguay  2-0 (1-0)  Trinidad and Tobago   @ Fritz-Walter-Stadion, Kaiserslautern
+2006	germany	(5)  Sat Jun/10    Argentina  2-1 (2-0)  Côte d'Ivoire         @ AOL Arena, Hamburg
+2006	germany	(6)  Sun Jun/11    Serbia and Montenegro  0-1 (0-1)  Netherlands  @ Zentralstadion, Leipzig
+2006	germany	(21)  Fri Jun/16   Argentina  6-0 (3-0)  Serbia and Montenegro     @ Veltins-Arena, Gelsenkirchen
+2006	germany	(22)  Fri Jun/16   Netherlands  2-1 (2-1)  Côte d'Ivoire           @ Gottlieb-Daimler-Stadion, Stuttgart
+2006	germany	(37)  Wed Jun/21   Netherlands  0-0  Argentina                       @ Commerzbank-Arena, Frankfurt
+2006	germany	(38)  Wed Jun/21   Côte d'Ivoire  3-2 (1-2)  Serbia and Montenegro   @ Allianz Arena, München
+2006	germany	(7)  Sun Jun/11     Mexico    3-1 (1-1)  Iran        @ Frankenstadion, Nürnberg
+2006	germany	(8)  Sun Jun/11     Angola    0-1 (0-1)  Portugal    @ RheinEnergieStadion, Köln
+2006	germany	(23)  Fri Jun/16    Mexico    0-0        Angola      @ AWD-Arena, Hannover
+2006	germany	(24)  Sat Jun/17    Portugal  2-0 (0-0)  Iran        @ Commerzbank-Arena, Frankfurt
+2006	germany	(39)  Wed Jun/21    Portugal  2-1 (2-1)  Mexico      @ Veltins-Arena, Gelsenkirchen
+2006	germany	(40)  Wed Jun/21    Iran      1-1 (0-0)  Angola      @ Zentralstadion, Leipzig
+2006	germany	(9)  Mon Jun/12    Italy           2-0 (1-0)  Ghana           @ AWD-Arena, Hannover
+2006	germany	(10) Mon Jun/12    United States   0-3 (0-2)  Czech Republic  @ Veltins-Arena, Gelsenkirchen
+2006	germany	(25) Sat Jun/17    Italy           1-1 (1-1)  United States    @ Fritz-Walter-Stadion, Kaiserslautern
+2006	germany	(26) Sat Jun/17    Czech Republic  0-2 (0-1)  Ghana            @ RheinEnergieStadion, Köln
+2006	germany	(41) Thu Jun/22    Czech Republic  0-2 (0-1)  Italy            @ AOL Arena, Hamburg
+2006	germany	(42) Thu Jun/22    Ghana           2-1 (2-1)  United States    @ Frankenstadion, Nürnberg
+2006	germany	(11)  Tue Jun/13    Brazil     1-0 (1-0)  Croatia       @ Olympiastadion, Berlin
+2006	germany	(12)  Mon Jun/12    Australia  3-1 (0-1)  Japan         @ Fritz-Walter-Stadion, Kaiserslautern
+2006	germany	(27)  Sun Jun/18    Brazil     2-0 (0-0)  Australia     @ Allianz Arena, München
+2006	germany	(28)  Sun Jun/18    Japan      0-0        Croatia       @ Frankenstadion, Nürnberg
+2006	germany	(43)  Thu Jun/22    Japan      1-4 (1-1)  Brazil        @ Signal Iduna Park, Dortmund
+2006	germany	(44)  Thu Jun/22    Croatia    2-2 (1-1)  Australia     @ Gottlieb-Daimler-Stadion, Stuttgart
+2006	germany	(13)  Tue Jun/13    France          0-0        Switzerland     @ Gottlieb-Daimler-Stadion, Stuttgart
+2006	germany	(14)  Tue Jun/13    South Korea     2-1 (0-1)  Togo            @ Commerzbank-Arena, Frankfurt
+2006	germany	(29)  Sun Jun/18    France          1-1 (1-0)  South Korea     @ Zentralstadion, Leipzig
+2006	germany	(30)  Mon Jun/19    Togo            0-2 (0-1)  Switzerland     @ Signal Iduna Park, Dortmund
+2006	germany	(45)  Fri Jun/23    Togo            0-2 (0-0)  France          @ RheinEnergieStadion, Köln
+2006	germany	(46)  Fri Jun/23    Switzerland     2-0 (1-0)  South Korea     @ AWD-Arena, Hannover
+2006	germany	(15)  Wed Jun/14    Spain         4-0 (2-0)  Ukraine         @ Zentralstadion, Leipzig
+2006	germany	(16)  Wed Jun/14    Tunisia       2-2 (1-0)  Saudi Arabia    @ Allianz Arena, München
+2006	germany	(31)  Mon Jun/19    Spain         3-1 (0-1)  Tunisia        @ Gottlieb-Daimler-Stadion, Stuttgart
+2006	germany	(32)  Mon Jun/19    Saudi Arabia  0-4 (0-2)  Ukraine        @ AOL Arena, Hamburg
+2006	germany	(47)  Fri Jun/23    Saudi Arabia  0-1 (0-1)  Spain         @ Fritz-Walter-Stadion, Kaiserslautern
+2006	germany	(48)  Fri Jun/23    Ukraine       1-0 (0-0)  Tunisia       @ Olympiastadion, Berlin
+2006	germany	(49)  Sat Jun/24    Germany      2-0 (2-0)  Sweden          @ Allianz Arena, München
+2006	germany	(50)  Sat Jun/24    Argentina    2-1nV (1-1, 1-1)  Mexico   @ Zentralstadion, Leipzig
+2006	germany	(51)  Sun Jun/25    England      1-0 (0-0)  Ecuador         @ Gottlieb-Daimler-Stadion, Stuttgart
+2006	germany	(52)  Sun Jun/25    Portugal     1-0 (1-0)  Netherlands     @ Frankenstadion, Nürnberg
+2006	germany	(53)  Mon Jun/26    Italy        1-0 (0-0)  Australia       @ Fritz-Walter-Stadion, Kaiserslautern
+2006	germany	(54)  Mon Jun/26    Switzerland  0-3iE 0-0nV 0-0   Ukraine  @ RheinEnergieStadion, Köln
+2006	germany	(55)  Tue Jun/27    Brazil       3-0 (2-0)  Ghana           @ Signal Iduna Park, Dortmund
+2006	germany	(56)  Tue Jun/27    Spain        1-3 (1-1)  France          @ AWD-Arena, Hannover
+2006	germany	(57)  Fri Jun/30    Germany  4-2iE 1-1nV (1-1, 0-0)  Argentina   @ Olympiastadion, Berlin
+2006	germany	(58)  Fri Jun/30    Italy    3-0 (1-0)  Ukraine                  @ AOL Arena, Hamburg
+2006	germany	(59)  Sat Jul/1     England   1-3iE 0-0nV 0-0  Portugal          @ Veltins-Arena, Gelsenkirchen
+2006	germany	(60)  Sat Jul/1     Brazil    0-1 (0-0)  France                  @ Commerzbank-Arena, Frankfurt
+2006	germany	(61)  Tue Jul/4    Germany   0-2nV  0-0  Italy              @ Signal Iduna Park, Dortmund
+2006	germany	(62)  Wed Jul/5    Portugal  0-1 (0-1)  France         @ Allianz Arena, München
+2006	germany	(63)  Sat Jul/8    Germany  3-1 (0-0)  Portugal         @ Gottlieb-Daimler-Stadion, Stuttgart
+2006	germany	(64)  Sun Jul/9    Italy  5-3iE 1-1nV (1-1, 1-1)   France      @ Olympiastadion, Berlin
+2010	south-africa	(1) Fri Jun/11 16:00    South Africa  1-1  Mexico      @ Soccer City, Johannesburg
+2010	south-africa	(2) Fri Jun/11 20:30    Uruguay       0-0  France      @ Cape Town Stadium, Cape Town
+2010	south-africa	(17) Wed Jun/16 20:30    South Africa  0-3  Uruguay    @ Loftus Versfeld Stadium, Pretoria
+2010	south-africa	(18) Thu Jun/17 20:30    France        0-2  Mexico     @ Peter Mokaba Stadium, Polokwane
+2010	south-africa	(33) Tue Jun/22 16:00    Mexico        0-1  Uruguay        @ Royal Bafokeng Stadium, Rustenburg
+2010	south-africa	(34) Tue Jun/22 16:00    France        1-2  South Africa   @ Free State Stadium, Bloemfontein
+2010	south-africa	(4) Sat Jun/12 13:30    South Korea     2-0  Greece       @ Nelson Mandela Bay Stadium, Port Elizabeth
+2010	south-africa	(3) Sat Jun/12 16:00    Argentina       1-0  Nigeria      @ Ellis Park Stadium, Johannesburg
+2010	south-africa	(20) Thu Jun/17 13:30    Argentina      4-1  South Korea   @ Soccer City, Johannesburg
+2010	south-africa	(19) Thu Jun/17 16:00    Greece         2-1  Nigeria       @ Free State Stadium, Bloemfontein
+2010	south-africa	(35) Tue Jun/22 20:30    Nigeria        2-2  South Korea   @ Moses Mabhida Stadium, Durban
+2010	south-africa	(36) Tue Jun/22 20:30    Greece         0-2  Argentina     @ Peter Mokaba Stadium, Polokwane
+2010	south-africa	(5) Sat Jun/12 20:30    England         1-1  United States    @ Royal Bafokeng Stadium, Rustenburg
+2010	south-africa	(6) Sun Jun/13 13:30    Algeria         0-1 Slovenia          @ Peter Mokaba Stadium, Polokwane
+2010	south-africa	(22) Fri Jun/18 16:00    Slovenia       2-2  United States    @ Ellis Park Stadium, Johannesburg
+2010	south-africa	(23) Fri Jun/18 20:30    England        0-0  Algeria          @ Cape Town Stadium, Cape Town
+2010	south-africa	(38) Wed Jun/23 16:00    United States  1-0  Algeria      @ Loftus Versfeld Stadium, Pretoria
+2010	south-africa	(37) Wed Jun/23 16:00    Slovenia       0-1  England      @ Nelson Mandela Bay Stadium, Port Elizabeth
+2010	south-africa	(8) Sun Jun/13 16:00    Serbia         0-1  Ghana         @ Loftus Versfeld Stadium, Pretoria
+2010	south-africa	(7) Sun Jun/13 20:30    Germany        4-0  Australia     @ Moses Mabhida Stadium, Durban
+2010	south-africa	(21) Fri Jun/18 13:30    Germany        0-1  Serbia        @ Nelson Mandela Bay Stadium, Port Elizabeth
+2010	south-africa	(24) Sat Jun/19 16:00    Ghana         1-1  Australia      @ Royal Bafokeng Stadium, Rustenburg
+2010	south-africa	(40) Wed Jun/23 20:30    Australia     2-1 Serbia          @ Mbombela Stadium, Nelspruit
+2010	south-africa	(39) Wed Jun/23 20:30    Ghana         0-1 Germany         @ Soccer City, Johannesburg
+2010	south-africa	(9)  Mon Jun/14 13:30   Netherlands    2-0  Denmark       @ Soccer City, Johannesburg
+2010	south-africa	(10) Mon Jun/14 16:00   Japan          1-0  Cameroon      @ Free State Stadium, Bloemfontein
+2010	south-africa	(25) Sat Jun/19 13:30   Netherlands    1-0  Japan         @ Moses Mabhida Stadium, Durban
+2010	south-africa	(26) Sat Jun/19 20:30   Cameroon       1-2  Denmark       @ Loftus Versfeld Stadium, Pretoria
+2010	south-africa	(43) Thu Jun/24 20:30   Denmark   1-3  Japan              @ Royal Bafokeng Stadium, Rustenburg
+2010	south-africa	(44) Thu Jun/24 20:30   Cameroon  1-2  Netherlands        @ Cape Town Stadium, Cape Town
+2010	south-africa	(11) Mon Jun/14 20:30   Italy  1-1  Paraguay              @ Cape Town Stadium, Cape Town
+2010	south-africa	(12) Tue Jun/15 13:30   New Zealand  1-1  Slovakia        @ Royal Bafokeng Stadium, Rustenburg
+2010	south-africa	(27) Sun Jun/20 13:30   Slovakia  0-2  Paraguay           @ Free State Stadium, Bloemfontein
+2010	south-africa	(28) Sun Jun/20 16:00   Italy     1-1  New Zealand        @ Mbombela Stadium, Nelspruit
+2010	south-africa	(41) Thu Jun/24 16:00   Slovakia  3-2  Italy              @ Ellis Park Stadium, Johannesburg
+2010	south-africa	(42) Thu Jun/24 16:00   Paraguay  0-0  New Zealand        @ Peter Mokaba Stadium, Polokwane
+2010	south-africa	(13) Tue Jun/15 16:00   Côte d'Ivoire  0-0  Portugal       @ Nelson Mandela Bay Stadium, Port Elizabeth
+2010	south-africa	(14) Tue Jun/15 20:30   Brazil         2-1  North Korea    @ Ellis Park Stadium, Johannesburg
+2010	south-africa	(29) Sun Jun/20 20:30   Brazil  3-1  Côte d'Ivoire        @ Soccer City, Johannesburg
+2010	south-africa	(30) Mon Jun/21 13:30   Portugal  7-0  North Korea        @ Cape Town Stadium, Cape Town
+2010	south-africa	(45) Fri Jun/25 16:00   Portugal     0-0  Brazil          @ Moses Mabhida Stadium, Durban
+2010	south-africa	(46) Fri Jun/25 16:00   North Korea  0-3  Côte d'Ivoire   @ Mbombela Stadium, Nelspruit
+2010	south-africa	(15) Wed Jun/16 13:30   Honduras  0-1  Chile             @ Mbombela Stadium, Nelspruit
+2010	south-africa	(16) Wed Jun/16 16:00   Spain     0-1  Switzerland       @ Moses Mabhida Stadium, Durban
+2010	south-africa	(31) Mon Jun/21 16:00   Chile  1-0  Switzerland          @ Nelson Mandela Bay Stadium, Port Elizabeth
+2010	south-africa	(32) Mon Jun/21 20:30   Spain  2-0  Honduras             @ Ellis Park Stadium, Johannesburg
+2010	south-africa	(47) Fri Jun/25 20:30   Chile        1-2  Spain          @ Loftus Versfeld Stadium, Pretoria
+2010	south-africa	(48) Fri Jun/25 20:30   Switzerland  0-0  Honduras       @ Free State Stadium, Bloemfontein
+2010	south-africa	(49) Sat Jun/26 16:00   Uruguay        2-1              South Korea   @ Nelson Mandela Bay Stadium, Port Elizabeth
+2010	south-africa	(50) Sat Jun/26 20:30   United States  1-1 1-2nV        Ghana         @ Royal Bafokeng Stadium, Rustenburg
+2010	south-africa	(51) Sun Jun/27 16:00   Germany        4-1              England       @ Free State Stadium, Bloemfontein
+2010	south-africa	(52) Sun Jun/27 20:30   Argentina      3-1              Mexico        @ Soccer City, Johannesburg
+2010	south-africa	(53) Mon Jun/28 16:00   Netherlands    2-1              Slovakia      @ Moses Mabhida Stadium, Durban
+2010	south-africa	(54) Mon Jun/28 20:30   Brazil         3-0              Chile         @ Ellis Park Stadium, Johannesburg
+2010	south-africa	(55) Tue Jun/29 16:00   Paraguay       0-0 0-0nV 5-3iE  Japan         @ Loftus Versfeld Stadium, Pretoria
+2010	south-africa	(56) Tue Jun/29 20:30   Spain          1-0              Portugal      @ Cape Town Stadium, Cape Town
+2010	south-africa	(57) Fri Jul/2 16:00   Netherlands    2-1               Brazil        @ Nelson Mandela Bay Stadium, Port Elizabeth
+2010	south-africa	(58) Fri Jul/2 20:30   Uruguay        1-1 1-1nV 4-2iE   Ghana         @ Soccer City, Johannesburg
+2010	south-africa	(59) Sat Jul/3 16:00   Argentina      0-4               Germany       @ Cape Town Stadium, Cape Town
+2010	south-africa	(60) Sat Jul/3 20:30   Paraguay       0-1               Spain         @ Ellis Park Stadium, Johannesburg
+2010	south-africa	(61) Tue Jul/6 20:30   Uruguay        2-3  Netherlands          @ Cape Town Stadium, Cape Town
+2010	south-africa	(62) Wed Jul/7 20:30   Germany        0-1  Spain                @ Moses Mabhida Stadium, Durban
+2010	south-africa	(63) Sat Jul/10 20:30  Uruguay  2-3  Germany         @ Nelson Mandela Bay Stadium, Port Elizabeth
+2010	south-africa	(64) Sun Jul/11 20:30  Netherlands  0-0 0-1nV  Spain     @ Soccer City, Johannesburg
+2014	brazil	(1) Thu Jun/12 17:00   Brazil 3-1 (1-1) Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
+2014	brazil	(2) Fri Jun/13 13:00   Mexico 1-0 (0-0) Cameroon      @ Estádio das Dunas, Natal (UTC-3)
+2014	brazil	(17) Tue Jun/17 16:00   Brazil 0-0 Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
+2014	brazil	(18) Wed Jun/18 18:00   Cameroon 0-4 Croatia     @ Arena Amazônia, Manaus (UTC-4)
+2014	brazil	(33) Mon Jun/23 17:00   Cameroon 1-4 Brazil      @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+2014	brazil	(34) Mon Jun/23 17:00   Croatia  1-3 Mexico      @ Arena Pernambuco, Recife (UTC-3)
+2014	brazil	(3) Fri Jun/13 16:00   Spain 1-5 (1-1) Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
+2014	brazil	(4) Fri Jun/13 18:00   Chile 3-1 (2-1) Australia       @ Arena Pantanal, Cuiabá (UTC-4)
+2014	brazil	(19) Wed Jun/18 16:00   Spain 0-2 Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+2014	brazil	(20) Wed Jun/18 13:00   Australia 2-3 Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+2014	brazil	(35) Mon Jun/23 13:00   Australia 0-3 Spain         @ Arena da Baixada, Curitiba (UTC-3)
+2014	brazil	(36) Mon Jun/23 13:00   Netherlands 2-0 Chile       @ Arena de São Paulo, São Paulo (UTC-3)
+2014	brazil	(5) Sat Jun/14 13:00   Colombia 3-0 Greece          @ Estádio Mineirão, Belo Horizonte (UTC-3)
+2014	brazil	(6) Sat Jun/14 22:00   Côte d'Ivoire 2-1 Japan      @ Arena Pernambuco, Recife (UTC-3)
+2014	brazil	(21) Thu Jun/19 13:00   Colombia 2-1 Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+2014	brazil	(22) Thu Jun/19 19:00   Japan 0-0 Greece             @ Estádio das Dunas, Natal (UTC-3)
+2014	brazil	(37) Tue Jun/24 16:00   Japan 1-4 Colombia            @ Arena Pantanal, Cuiabá (UTC-4)
+2014	brazil	(38) Tue Jun/24 17:00   Greece 2-1 Côte d'Ivoire      @ Estádio Castelão, Fortaleza (UTC-3)
+2014	brazil	(7) Sat Jun/14 16:00   Uruguay 1-3 Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
+2014	brazil	(8) Sat Jun/14 18:00   England 1-2 Italy            @ Arena Amazônia, Manaus (UTC-4)
+2014	brazil	(23) Thu Jun/19 16:00   Uruguay 2-1 England          @ Arena de São Paulo, São Paulo (UTC-3)
+2014	brazil	(24) Fri Jun/20 13:00   Italy 0-1 Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
+2014	brazil	(39) Tue Jun/24 13:00   Italy 0-1 Uruguay             @ Estádio das Dunas, Natal (UTC-3)
+2014	brazil	(40) Tue Jun/24 13:00   Costa Rica 0-0 England        @ Estádio Mineirão, Belo Horizonte (UTC-3)
+2014	brazil	(9)  Sun Jun/15 13:00   Switzerland 2-1 Ecuador      @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+2014	brazil	(10) Sun Jun/15 16:00   France 3-0 Honduras          @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+2014	brazil	(25) Fri Jun/20 16:00   Switzerland 2-5 France       @ Arena Fonte Nova, Salvador (UTC-3)
+2014	brazil	(26) Fri Jun/20 19:00   Honduras 1-2 Ecuador         @ Arena da Baixada, Curitiba (UTC-3)
+2014	brazil	(41) Wed Jun/25 16:00   Honduras 0-3 Switzerland     @ Arena Amazônia, Manaus (UTC-4)
+2014	brazil	(42) Wed Jun/25 17:00   Ecuador  0-0 France          @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+2014	brazil	(11) Sun Jun/15 19:00   Argentina 2-1 Bosnia-Herzegovina    @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+2014	brazil	(12) Mon Jun/16 16:00   Iran 0-0 Nigeria                    @ Arena da Baixada, Curitiba (UTC-3)
+2014	brazil	(27) Sat Jun/21 13:00   Argentina 1-0 Iran                  @ Estádio Mineirão, Belo Horizonte (UTC-3)
+2014	brazil	(28) Sat Jun/21 18:00   Nigeria 1-0 Bosnia-Herzegovina      @ Arena Pantanal, Cuiabá (UTC-4)
+2014	brazil	(43) Wed Jun/25 13:00   Nigeria 2-3 Argentina               @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+2014	brazil	(44) Wed Jun/25 13:00   Bosnia-Herzegovina 3-1 Iran         @ Arena Fonte Nova, Salvador (UTC-3)
+2014	brazil	(13) Mon Jun/16 13:00   Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
+2014	brazil	(14) Mon Jun/16 19:00   Ghana 1-2 United States        @ Estádio das Dunas, Natal (UTC-3)
+2014	brazil	(29) Sat Jun/21 16:00   Germany 2-2 Ghana              @ Estádio Castelão, Fortaleza (UTC-3)
+2014	brazil	(30) Sun Jun/22 18:00   United States 2-2 Portugal     @ Arena Amazônia, Manaus (UTC-4)
+2014	brazil	(45) Thu Jun/26 13:00   United States 0-1 Germany       @ Arena Pernambuco, Recife (UTC-3)
+2014	brazil	(46) Thu Jun/26 13:00   Portugal 2-1 Ghana              @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+2014	brazil	(15) Tue Jun/17 13:00   Belgium 2-1 Algeria         @ Estádio Mineirão, Belo Horizonte (UTC-3)
+2014	brazil	(16) Tue Jun/17 18:00   Russia 1-1 South Korea      @ Arena Pantanal, Cuiabá (UTC-4)
+2014	brazil	(31) Sun Jun/22 13:00   Belgium 1-0 Russia          @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+2014	brazil	(32) Sun Jun/22 16:00   South Korea 2-4 Algeria     @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+2014	brazil	(47) Thu Jun/26 17:00   South Korea 0-1 Belgium     @ Arena de São Paulo, São Paulo (UTC-3)
+2014	brazil	(48) Thu Jun/26 17:00   Algeria 1-1 Russia          @ Arena da Baixada, Curitiba (UTC-3)
+2014	brazil	(49) Sat Jun/28 13:00   Brazil      3-2 pen. 1-1 a.e.t. (1-1, 1-1)  Chile    @ Estádio Mineirão, Belo Horizonte (UTC-3)  # 1A - 2B
+2014	brazil	(50) Sat Jun/28 17:00   Colombia    2-0 (1-0)  Uruguay       @ Estádio do Maracanã, Rio de Janeiro (UTC-3)   # 1C - 2D
+2014	brazil	(51) Sun Jun/29 13:00   Netherlands  2-1 (0-0)  Mexico         @ Estádio Castelão, Fortaleza (UTC-3)        # 1B - 2A
+2014	brazil	(52) Sun Jun/29 17:00   Costa Rica  5-3 pen. 1-1 a.e.t. (1-1, 0-0)  Greece         @ Arena Pernambuco, Recife (UTC-3)     # 1D - 2C
+2014	brazil	(53) Mon Jun/30 13:00   France      2-0 (0-0) Nigeria        @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)     # 1E - 2F
+2014	brazil	(54) Mon Jun/30 17:00   Germany     2-1 a.e.t. (0-0, 0-0) Algeria        @ Estádio Beira-Rio, Porto Alegre (UTC-3)    # 1G - 2H
+2014	brazil	(55) Tue Jul/1 13:00    Argentina   1-0 a.e.t. (0-0, 0-0) Switzerland    @ Arena de São Paulo, São Paulo    # 1F - 2E
+2014	brazil	(56) Tue Jul/1 17:00    Belgium     2-1 a.e.t. (0-0, 0-0) United States  @ Arena Fonte Nova, Salvador     # 1H - 2G
+2014	brazil	(57) Fri Jul/4 17:00   Brazil  2-1 (1-0)  Colombia          @ Estádio Castelão, Fortaleza    # W49 - W50
+2014	brazil	(58) Fri Jul/4 13:00   France  0-1 (0-1)  Germany           @ Estádio do Maracanã, Rio de Janeiro (UTC-3)   # W53 - W54
+2014	brazil	(59) Sat Jul/5 17:00   Netherlands  4-3 pen. 0-0 a.e.t. (0-0, 0-0)  Costa Rica    @ Arena Fonte Nova, Salvador (UTC-3)    # W51 - W52
+2014	brazil	(60) Sat Jul/5 13:00   Argentina    1-0 (1-0)  Belgium       @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)    # W55 - W56
+2014	brazil	(61) Tue Jul/8 17:00  Brazil  1-7 (0-5)  Germany          @ Estádio Mineirão, Belo Horizonte (UTC-3)   # W57 - W58
+2014	brazil	(62) Wed Jul/9 17:00  Netherlands  2-4 pen. 0-0 a.e.t. (0-0, 0-0)  Argentina        @ Arena de São Paulo, São Paulo (UTC-3)    # W59 - W69
+2014	brazil	(63) Sat Jul/12 17:00  Brazil 0-3 (0-2) Netherlands    @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)   # L61 - L62
+2014	brazil	(64) Sun Jul/13 16:00  Germany 1-0 a.e.t. (0-0, 0-0) Argentina     @ Estádio do Maracanã, Rio de Janeiro (UTC-3)   # W61 - W62
+2018	russia	(1) Thu Jun/14 18:00      Russia       5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
+2018	russia	(2) Fri Jun/15 17:00      Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+2018	russia	(17) Tue Jun/19 21:00      Russia        3-1 (0-0)  Egypt            @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+2018	russia	(18) Wed Jun/20 18:00      Uruguay       1-0 (1-0)  Saudi Arabia     @ Rostov Arena, Rostov-on-Don (UTC+3)
+2018	russia	(33) Mon Jun/25 18:00      Uruguay       3-0 (2-0)  Russia           @ Samara Arena, Samara (UTC+4)
+2018	russia	(34) Mon Jun/25 17:00      Saudi Arabia  2-1 (1-1)  Egypt            @ Volgograd Arena, Volgograd (UTC+3)
+2018	russia	(4) Fri Jun/15 18:00     Morocco       0-1 (0-0)  Iran    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+2018	russia	(3) Fri Jun/15 21:00     Portugal      3-3 (2-1)  Spain   @ Fisht Stadium, Sochi (UTC+3)
+2018	russia	(19) Wed Jun/20 15:00     Portugal      1-0 (1-0)  Morocco  @ Luzhniki Stadium, Moscow (UTC+3)
+2018	russia	(20) Wed Jun/20 21:00     Iran          0-1 (0-0)  Spain    @ Kazan Arena, Kazan (UTC+3)
+2018	russia	(35) Mon Jun/25 21:00     Iran          1-1 (0-1)  Portugal @ Mordovia Arena, Saransk (UTC+3)
+2018	russia	(36) Mon Jun/25 20:00     Spain         2-2 (1-1)  Morocco  @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+2018	russia	(5) Sat Jun/16 13:00     France        2-1 (0-0)  Australia  @ Kazan Arena, Kazan (UTC+3)
+2018	russia	(6) Sat Jun/16 19:00     Peru          0-1 (0-0)  Denmark    @ Mordovia Arena, Saransk (UTC+3)
+2018	russia	(22) Thu Jun/21 16:00     Denmark       1-1 (1-1)  Australia  @ Samara Arena, Samara (UTC+4)
+2018	russia	(21) Thu Jun/21 20:00     France        1-0 (1-0)  Peru       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+2018	russia	(37) Tue Jun/26 17:00     Denmark       0-0 (0-0) France    @ Luzhniki Stadium, Moscow (UTC+3)
+2018	russia	(38) Tue Jun/26 17:00     Australia     0-2 (0-1)  Peru      @ Fisht Stadium, Sochi (UTC+3)
+2018	russia	(7) Sat Jun/16 16:00      Argentina   1-1 (1-1)   Iceland    @ Spartak Stadium, Moscow (UTC+3)
+2018	russia	(8) Sat Jun/16 21:00      Croatia     2-0 (1-0)   Nigeria    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+2018	russia	(23) Thu Jun/21 21:00      Argentina   0-3 (0-0)   Croatia    @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+2018	russia	(24) Fri Jun/22 18:00      Nigeria     2-0 (0-0)   Iceland    @ Volgograd Arena, Volgograd (UTC+3)
+2018	russia	(39) Tue Jun/26 21:00      Nigeria     1-2 (0-1)   Argentina    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+2018	russia	(40) Tue Jun/26 21:00      Iceland     1-2 (0-0)   Croatia      @ Rostov Arena, Rostov-on-Don (UTC+3)
+2018	russia	(10) Sun Jun/17 16:00       Costa Rica   0-1 (0-0)  Serbia          @ Samara Arena, Samara (UTC+4)
+2018	russia	(9) Sun Jun/17 21:00       Brazil       1-1 (1-0)  Switzerland     @ Rostov Arena, Rostov-on-Don (UTC+3)
+2018	russia	(25) Fri Jun/22 15:00       Brazil   2-0 (0-0)   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+2018	russia	(26) Fri Jun/22 20:00       Serbia   1-2 (1-0)    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+2018	russia	(41) Wed Jun/27 21:00       Serbia   0-2 (0-1) Brazil         @ Spartak Stadium, Moscow (UTC+3)
+2018	russia	(42) Wed Jun/27 21:00       Switzerland 2-2 (1-0) Costa Rica     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+2018	russia	(11) Sun Jun/17 18:00        Germany   0-1 (0-1)   Mexico       @ Luzhniki Stadium, Moscow (UTC+3)
+2018	russia	(12) Mon Jun/18 15:00        Sweden    1-0 (0-0)   South Korea  @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+2018	russia	(28) Sat Jun/23 18:00        South Korea   1-2 (0-1)   Mexico       @ Rostov Arena, Rostov-on-Don (UTC+3)
+2018	russia	(27) Sat Jun/23 21:00        Germany       2-1 (0-1)   Sweden       @ Fisht Stadium, Sochi (UTC+3)
+2018	russia	(43) Wed Jun/27 17:00        South Korea 2-0 (0-0) Germany      @ Kazan Arena, Kazan (UTC+3)
+2018	russia	(44) Wed Jun/27 19:00        Mexico 0-3 (0-0)         Sweden       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+2018	russia	(13) Mon Jun/18 18:00          Belgium   3-0 (0-0)   Panama     @ Fisht Stadium, Sochi (UTC+3)
+2018	russia	(14) Mon Jun/18 21:00          Tunisia   1-2 (1-1)   England    @ Volgograd Arena, Volgograd (UTC+3)
+2018	russia	(29) Sat Jun/23 15:00          Belgium   5-2 (3-1)   Tunisia    @ Spartak Stadium, Moscow (UTC+3)
+2018	russia	(30) Sun Jun/24 15:00          England   6-1 (5-0)   Panama     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+2018	russia	(45) Thu Jun/28 20:00          England   0-1 (0-0)   Belgium    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+2018	russia	(46) Thu Jun/28 21:00          Panama    1-2 (1-0)   Tunisia    @ Mordovia Arena, Saransk (UTC+3)
+2018	russia	(16) Tue Jun/19 15:00          Colombia   1-2 (1-1)  Japan      @ Mordovia Arena, Saransk (UTC+3)
+2018	russia	(15) Tue Jun/19 18:00          Poland     1-2 (0-1)  Senegal    @ Spartak Stadium, Moscow (UTC+3)
+2018	russia	(32) Sun Jun/24 20:00          Japan      2-2 (1-1)  Senegal      @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+2018	russia	(31) Sun Jun/24 21:00          Poland     0-3 (0-1)  Colombia     @ Kazan Arena, Kazan (UTC+3)
+2018	russia	(47) Thu Jun/28 17:00          Japan     0-1 (0-1)  Poland       @ Volgograd Arena, Volgograd (UTC+3)
+2018	russia	(48) Thu Jun/28 18:00          Senegal   0-1 (0-1)  Colombia     @ Samara Arena, Samara (UTC+4)
+2018	russia	(49) Sat Jun/30 21:00        Uruguay     2-1 (1-0)   Portugal       @ Fisht Stadium, Sochi (UTC+3)
+2018	russia	(50) Sat Jun/30 17:00        France      4-3 (1-1)   Argentina      @ Kazan Arena, Kazan (UTC+3)
+2018	russia	(51) Sun Jul/1  17:00        Spain       3-4 pen. 1-1 a.e.t. (1-1, 1-1)   Russia         @ Luzhniki Stadium, Moscow (UTC+3)
+2018	russia	(52) Sun Jul/1  21:00        Croatia     3-2 pen. 1-1 a.e.t. (1-1, 1-1)   Denmark        @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+2018	russia	(53) Mon Jul/2  18:00        Brazil      2-0 (0-0)   Mexico         @ Samara Arena, Samara (UTC+4)
+2018	russia	(54) Mon Jul/2  21:00        Belgium     3-2 (0-0)   Japan          @ Rostov Arena, Rostov-on-Don (UTC+3)
+2018	russia	(55) Tue Jul/3  17:00        Sweden      1-0 (0-0)   Switzerland    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+2018	russia	(56) Tue Jul/3  21:00        Colombia    3-4 pen. 1-1 a.e.t. (1-1, 0-0)   England        @ Spartak Stadium, Moscow (UTC+3)
+2018	russia	(57) Fri Jul/6  17:00        Uruguay     0-2 (0-1)   France         @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+2018	russia	(58) Fri Jul/6  21:00        Brazil      1-2 (0-2)   Belgium        @ Kazan Arena, Kazan (UTC+3)
+2018	russia	(59) Sat Jul/7  21:00        Russia      3-4 pen. 2-2 a.e.t. (1-1, 1-1)   Croatia        @ Fisht Stadium, Sochi (UTC+3)
+2018	russia	(60) Sat Jul/7  18:00        Sweden      0-2 (0-1)   England        @ Samara Arena, Samara (UTC+4)
+2018	russia	(61) Tue Jul/10  21:00       France      1-0 (0-0)   Belgium        @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
+2018	russia	(62) Wed Jul/11  21:00        Croatia    2-1 a.e.t. (1-1, 0-1)   England        @ Luzhniki Stadium, Moscow (UTC+3)
+2018	russia	(63) Sat Jul/14  17:00        Belgium    2-0 (1-0)  England         @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
+2018	russia	(64) Sun Jul/15  18:00       France     4-2 (2-1)   Croatia         @ Luzhniki Stadium, Moscow (UTC+3)
