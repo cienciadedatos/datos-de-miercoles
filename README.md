@@ -12,12 +12,13 @@ _Datos de miércoles_ es la versión en español de [#tidytuesday](https://githu
 ### Cómo participar
 
 * Cada miércoles en la mañana publicaremos un set de datos y, de ser posible, incluiremos un enlace a algún artículo en español para darles contexto.
-* Los cargaremos en la carpeta [datos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos) en formato `.csv` y/o `.xlsx` y anunciaremos que están disponibles desde la cuenta de [R4DS en español](https://twitter.com/r4ds_es) en Twitter. En la carpeta con los datos encontrarás un archivo `readme` con una descripción del dataset y las variables que lo componen. 
-* Puedes descargar los datos directamente o, si quieres explorar las posibilidades de Git(hub), hacerle _fork_ a este repositorio. 
-* ¡Pon en práctica tus habilidades procesando y visualizando datos! ¿Cómo? Puedes elegir algún aspecto que explorar en los datos y proponer una visualización. Piensa en alguna pregunta que sería interesante responder explora las posibilidades que entrega R para visualizar tus resultados. 
-* ¡Comparte tus resultados! Incluye una imagen de la visualización que creaste y una copia del código utilizado para crearla. Incluye comentarios en tu código cuando sea posible para que el resto de la comunidad entienda tu proceso. En la sección "enlaces útiles" encontrarás sugerencias sobre cómo compartir una imagen del código y cómo exportar tus visualizaciones desde R.
+* Los cargaremos en la carpeta [datos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos) en formato `.csv` y/o `.xlsx` y anunciaremos que están disponibles desde la cuenta de [R4DS en español](https://twitter.com/r4ds_es) en Twitter. Más abajo encontrarás un enlace directo a la carpeta de cada semana. 
+* Dentro de la carpeta encontrarás un archivo `readme` con una descripción del dataset y las variables que lo componen. También incluiremos el código para importar directamente los datos a R. 
+* ¡Pon en práctica tus habilidades procesando y visualizando datos! ¿Cómo? Puedes elegir algún aspecto que explorar y proponer una visualización. Piensa en alguna pregunta que sería interesante responder y explora las posibilidades que entrega R para visualizar tus resultados. 
+* ¡Comparte lo que hiciste! Incluye una imagen de la visualización que creaste y una copia del código utilizado para crearla. Incluye comentarios en tu código cuando sea posible para que el resto de la comunidad entienda tu proceso. En la sección "enlaces útiles" encontrarás sugerencias sobre cómo compartir una imagen del código y cómo exportar tus visualizaciones desde R.
 * Usa el _hashtag_ `#DatosDeMiercoles` en Twitter para compartir tu trabajo. Si te alcanzan los caracteres, agrega el de la comunidad de R en español: `#rstatsES`.
 * Dale crédito a la fuente original, cuando sea posible. 
+* Si quieres ver ejemplos, puedes explorar en Twitter lo que otras personas han hecho para la versión en inglés del proyecto buscando el _hashtag_ [#TidyTuesday](https://twitter.com/search?q=%23TidyTuesday).
 
 ### Cosas a considerar
 
