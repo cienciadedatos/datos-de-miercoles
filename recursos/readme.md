@@ -1,104 +1,86 @@
-# Recursos: 
+# Recursos
 
-En esta sección se irán cargando utilidades / cosnejos respecto de #datosdemiercoles
+En esta sección se irán cargando utilidades y consejos respecto de #DatosDeMiercoles
 
-## Ejemplos de obtener los datos: 
+## Ejemplos sobre cómo obtener los datos
 
-### Bajar los datos desde R
+### 1. Bajar los datos directamente desde R
 
-En cada edición semanal se va a incluir un readme.md que tiene detalles de como bajar el conjunto de datos.
-
-se van a encontrar con algo como: 
+Cada edición semanal incluye un archivo `readme.md` con la información sobre el conjunto de datos y el código necesario para descargar los datos en R. Algo así: 
 
 ```
-library(readr) # install.packages(readr)
+# install.packages(readr)
 conjunto_datos <- readr::read_delim("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/blob/master/datos/2019/2019-04-10/partidos.txt",delim = "\t")
 ```
 
-Esta opción es útil cuando los archivos de datos no son muy grandes y no nos molesta utilizar internet cada vez que ejecutemos el código.
+Esta opción es útil cuando los archivos de datos no son muy grandes y no tenemos problemas con utilizar internet cada vez que ejecutemos el código.
 
-### Bajar los datos de la semana de forma directa:
+### 2. Bajar los datos de la semana de forma directa
 
-Vas a https://github.com/cienciadedatos/datos-de-miercoles y abajo de todo del readme hay un listado de donde esta el conjunto de datos.
+En [el `readme` de inicio del repositorio de Datos de Miércoles](https://github.com/cienciadedatos/datos-de-miercoles) encontrás una tabla con el listado de los datos de cada semana. Si haces clic sobre la fecha que te interesa, llegarás a la carpeta que contiene los datos. 
 
-Otra opción es navegar a la carpeta datos
+También puedes navegar directamente a la [carpeta de los datos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos) y acceder a la subcarpeta de la fecha correspondiente. Por ejemplo, en la carpeta `2019/2019-04-10` encontrarás los datos del día 10 de abril de 2019. 
 
-https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos 
-y navegar a la carpeta correspondiente de la fecha.
-
-ej: 2019/2019-04-10 , correponde al año 2019 , y la edición de la semana del dia 10 de abril.
-
-
-Una vez que bajamos el archivo y lo ubicamos donde nos guste dentro de nuestra computadora para leerlo: 
-
-Un ejemplo de uso sería: 
-
-"c:/datos_de_miercoles/2019-04-10/"
-
+Desde ahí puedes descargar el archivo y ubicarlo en el directorio de tu computadora que te interese e importarlo a R desde ahí. Si estás trabajando en un _proyecto_ en RStudio, podrías importarlo aquí. 
 
 ```
-library(readr) # install.packages(readr)
-conjunto_datos <- readr::read_delim("c:/datos_de_miercoles/2019-04-10/datos.txt",delim = "\t")
+# install.packages(readr)
+conjunto_datos <- readr::read_delim("partidos.txt",delim = "\t")
 
 ```
+Esta opción es útil cuando los archivos de datos son más grandes o cuando sabemos que no tendremos disponibilidad de internet con frecuencia.
 
-Esta opción es útil cuando los archivos de datos son más grandes para no tener que bajar el archivo cada vez que ejecutamos el codigo, o para cuando sabemos que no vamos a tener disponibilidad de internet con frecuencia.
+### 3. Crear una copia local del repositorio usando Git
 
-### Git
+(Para esta opción tienes que tener instalado antes `git` en tu computadora)
 
-Para usar git deben instalar git en su computadora.
+#### Clona el repositorio
 
-#### clonar el repositorio: 
-
-Para los que esten mas familiarizados con git y deseen tener su rama del repositorio, pueden clonarlo
-
+Puedes clonar el repositorio directamente desde la Terminal.
 ```
-cd carpeta_donde_guardarlo
+cd ruta/carpeta/donde/quieres/guardarlo
 git clone https://github.com/cienciadedatos/datos-de-miercoles.git
 ```
 
-Esta opción es útil cuando se desea tener todo el historial de los datos de forma local. 
-Es útil cuando se desea poder trabajar sin conexion de internet ( recordar bajar los paquetes que van a usar tambien ;) )
+Esta opción es útil cuando quieres tener todo el historial de los datos de forma local, o para poder trabajar sin conexion de internet.
 
-#### En caso de ya tener el repositorio clonado y desear actualizarlo: 
+#### Actualizar el repositorio 
+
+Puedes actualizar semanalmente tu copia del repositorio, para que aparezca la incorporación de los nuevos datos:
 
 ```
 git pull https://github.com/cienciadedatos/datos-de-miercoles.git master
 ```
 
-## Ejemplos de que hacer con los datos
+## ¿Qué hacer con los datos?
 
-Se pueden hacer muchas cosas, desde "jugar" hasta análisis elaborados.
-Se recomienda hacer algo que asegure la constancia semanal, la idea es practicar las habilidades de manejo de datos y de interpretación de los mismos de forma semanal.
-
-Un modo mas "de juego" es: 
-ir a twitter o alguna nota y ver que hacen los demas con los datos, luego, tratar de imitar. 
-Eventualmente se te van a ocurrir tus propias ideas.
-
-
-Si no sabes nada de datos se recomienda leer: 
-https://es.r4ds.hadley.nz/explora-introduccion.html para empezar a entender un poco mas profundamente de que se trata todo esto.
-
-
+Lo que hagas con los datos dependerá de los objetivos que tengas. Puedes simplemente jugar con los datos o hacer algo m{as elaborado. Lo importante es que trates de plantearte objetivos realistas que te permitan ser constante y participar semanalmente. No olvides que el foco es poner en pŕactica tus habilidades manejando, visualizando e interpretando datos. 
+Si no sabes por donde partir, puedes revisar las herramientas que se proponen en [el capítulo sobre exploración de datos](https://es.r4ds.hadley.nz/explora-introduccion.html) de "R para Ciencia de Datos" y ponerlas en práctica con los datos de la semana. También puedes buscar algún tipo de análisis o visualización que alguien ya haya hecho y tratar de realizarla con el dataset de la semana. O ocupar los datos para aprender a usar algún paquete nuevo. 
+No importa si al inicio no se te ocurre nada o solo replicas trabajos que ya existen: la idea de hacer este ejercicio semanal es adquirir experiencia y poco a poco adquirir mayor autonomía. 
 
 ## Difusión
 
-Se recomienda publicar las cosas que hagas. Esto te va a ayudar a participar de la comunidad, y seguramente te va a sorprender como se van interesando en los trabajos que realizas. Tambien te sirve para mostrar lo que vas haciendo.
+Incluso si hiciste algo muy simple, ¡no dudes en compartirlo! El objetivo de _Datos de miércoles_ es generar comunidad y para esto es fundamental que te involucres. Tu trabajo puede inspirar a otras personas para participar, y mostrar tu trabajo semanalmente te puede servir para visibilizar las habilidades que tienes y las que vas adquiriendo :cohete:.  
 
-El canal principal es twitter con los hashtags: #datosdemiercoles #rstatsES
-Se recomienda publicar en twitter mas alla de que tengas tu blog personal. 
 
-Se recomienda tener constancia semanal porque más practica, más experiencia ;)
+### ¿Cómo compartir tu trabajo?
 
-### Ejemplos de tweet: 
+¡Hay varias opciones!
+El canal principal es Twitter. Si tienes un blog personal y publicas tu análisis ahí, no olvides avisarle a la comunidad por Twitter.
+En tu tuit, incluye imágenes de la(s) visualización(es) que creaste y una copia del código utilizado. Es muy útil comentar tu código cuando sea posible para que el resto de la comunidad entienda tu proceso. En la sección [enlaces útiles](https://github.com/cienciadedatos/datos-de-miercoles#enlaces-%C3%BAtiles) encontrarás sugerencias sobre cómo compartir una imagen del código usando _Carbon_ y cómo exportar tus visualizaciones desde R.
+
+No olvides usar los _hashtags_ `#DatosDeMiercoles` y `#rstatsES` para que podamos compartir tu trabajo desde la cuenta [@R4DS_es](https://twitter.com/r4ds_es).
+
+
+### Ejemplos de tuits
 
 ```
-Esta semana para #datosdemiercoles #rstatsES, estuve practicando ggplot
-<adjuntar imagen del plot que hiciste>
+Esta semana para #DatosDeMiercoles estuve practicando con los paquetes ggplot2 y gganimate. #rstatsES
+<adjuntar imagen de tu visualización que hiciste>
+<adjuntar imagen de tu código>
 ```
 
 ```
-La semana del 2019-04-10 para #datosdemiercoles #rstatsES hice un post en mi blog:
-<link a tu blog / post >
-<adjuntar imagen o resumen del informe que hiciste>
+En esta primera semana de #DatosdeMiercoles analicé la ubicación de los distintos estadios en que se han jugado los partidos de los mundiales de fútbol. Pueden ver el análisis en mi blog: <link a tu blog / post >
+<adjuntar imagen que ilustre tu post>
 ```
