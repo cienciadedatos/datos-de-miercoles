@@ -1,4 +1,4 @@
-# Partidos de las Copas del Mundo de Fútbol: 1930 a 2018
+# Partidos de las Copas del Mundo de Fútbol (1930 a 2018)
 
 Esta primera semana trabajaremos con datos de los partidos de todas las ediciones de la Copa del Mundo de fútbol masculino. Los datos fueron extraídos del repositorio sobre copas del mundo de [Open Public Domain Football Data](https://github.com/openfootball/world-cup). 
 
@@ -74,13 +74,13 @@ Dado que esta adaptación de los datos no considera todos los goles anotados en 
 
 ### Base de partidos sin procesar (`partidos_crudo`)
 
-La base de datos de partidos sin procesar está diseñada para quienes se animen a practicar habilidades de limpieza y transformación de datos. En esta versión hay más información que en `partidos`, que puedes intentar explorar. Los valores de las variables se encuentran en inglés. 
+La base de datos de partidos sin procesar está diseñada para quienes se animen a practicar habilidades de limpieza y transformación de datos. Incluye más información que `partidos`, como resultados parciales o la hora del partido, en algunos casos. Los valores de las variables se encuentran en inglés. 
 
 
-## Fuente original 
+## Fuente original y adaptación
 
-Como se señaló anteriormente, los datos fueron extraídos del repositorio sobre Copas del Mudno de [Open Public Domain Football Data](https://github.com/openfootball/world-cup). En ese repositorio puedes encontrar más información cada edición de la copa, como quiénes fueron los jugadores en cada edición, quiénes anotaron los goles, etc. Toda la información se encuentra en inglés. 
-Si quieres ver cómo se procesaron y transformaron los datos para llegar a la versión acá publicada, puedes revisar el código de [en este repositorio](https://github.com/jas1/world-cup/tree/master/r)
+Como se señaló anteriormente, los datos fueron extraídos del repositorio sobre Copas del Mundo de [Open Public Domain Football Data](https://github.com/openfootball/world-cup). En ese repositorio puedes encontrar más información sobre cada edición de la copa, como quiénes fueron los jugadores de cada equipo, quiénes anotaron los goles, etc. Toda la información se encuentra en inglés. 
+La adaptación acá publicada existe gracias al trabajo de procesamiento y transformación de los datos realizado por Julio Spairani. Puedes ver el código que utilizó [en este repositorio](https://github.com/jas1/world-cup/tree/master/r). 
 
 ## Inspiración
 
