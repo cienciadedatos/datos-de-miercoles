@@ -1,16 +1,14 @@
-# Partidos de la Copa del mundo de Fútbol. FIFA: Copas del mundo desde 1930 a 2018
+# Partidos de las Copas del Mundo de Fútbol: 1930 a 2018
 
-Un listado de todos los partidos ocurridos en la copa del mundo de fútbol a lo largo de sus ediciones. 
-
-Los datos fueron extraídos de: https://github.com/openfootball/world-cup
-
-y transformados en: https://github.com/jas1/world-cup/tree/master/r
+Esta primera semana trabajaremos con datos de los partidos de todas las ediciones de la Copa del Mundo de fútbol masculino. Los datos fueron extraídos del repositorio sobre copas del mundo de [Open Public Domain Football Data](https://github.com/openfootball/world-cup). Si quieres ver cómo se procesaron y transformaron los datos para llegar a la versión acá publicadas, puedes revisar el código de [en este repositorio](https://github.com/jas1/world-cup/tree/master/r)
 
 
-## Obtener los datos !
+## Obtener los datos
 
+Puedes utilizar el siguiente código para importar los datos a R:
 ```
-library(readr) # install.packages(readr)
+# install.packages(readr)
+
 partidos_fifa_copa_mundial_procesado <- readr::read_delim("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/blob/master/datos/2019/2019-04-10/partidos.txt",delim = "\t")
 
 partidos_fifa_copa_mundial_crudo <- readr::read_delim("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/blob/master/datos/2019/2019-04-10/partidos_crudo.txt",delim = "\t")
@@ -19,101 +17,71 @@ partidos_fifa_copa_mundial_crudo <- readr::read_delim("https://raw.githubusercon
 ## Diccionario de datos
 
 
-### Diccionario partidos
+### `partidos`
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
-|anio           |entero              |Año del torneo mundial |
-|anfitrion      |caracter            |Anfitrión del torneo mundial |
+|anio           |entero              |Año de la copa mundial |
+|anfitrion      |caracter            |Anfitrión de la copa mundial |
 |estadio        |caracter            |Estadio donde se jugo el partido |
 |ciudad         |caracter            |Ciudad donde se jugó el partido |
-|partido_orden  |caracter            |Orden en el cuál se jugó el partido en el torneo |
-|fecha          |fecha (fecha y-m-d) |Fecha del partido en el torneo |
+|partido_orden  |caracter            |Orden en el cual se jugó el partido en el torneo |
+|fecha          |fecha (fecha y-m-d) |Fecha en que se jugó el partido |
 |equipo_1       |caracter            |Equipo 1 en el partido |
 |equipo_2       |caracter            |Equipo 2 en el partido |
 |equipo_1_final |entero              |Resultado final del equipo 1 en el partido |
 |equipo_2_final |entero              |Resultado final del equipo 2 en el partido |
 
 
-### Diccionario de partidos sin procesar: 
+### `partidos_crudo`
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
-|anio           |entero              |Año del torneo mundial |
-|anfitrion      |caracter            |Anfitrión del torneo mundial |
-|partidos_crudo |caracter            |Linea de resultado de partido, se aconseja abrir el archivo en crudo para ver formato|
+|anio           |entero              |Año de la copa mundial |
+|anfitrion      |caracter            |Anfitrión de la copa mundial |
+|partidos_crudo |caracter            |Muchas variables en una sola columna. Se aconseja abrir el archivo para explorar|
 
-
-## Base de partidos procesada
 
 ## Consideraciones
 
-Respecto de las variables: equipo_1_final y equipo_2_final ; 
+### Base procesada (`partidos`)
 
-se toma el resultado final del partido sin contar las etapas de empate ( salvo que se pueda empatar ).
+En el caso de las variables `equipo_1_final` y `equipo_2_final`, si se trata de un partido de eliminación directa solo se consigna el resultado final, sin considerar las instancias de empate. 
 
-ejemplos: 
+#### Ejemplos 
 
-#### si el partido fue resultado directo, 
+* __Resultado directo.__ Si el resultado a los 90 minutos fue Francia 4 - 1 México, entonces en la base figura como:
 
-ej: Francia - Mexico: 4-1 
-
-entonces figura: 4-1
-
-#### si el partido fue a tiempo extendido: 
-
-ej: Francia - Italia: 
-
-final 90 minutos: 1-1, 
-
-final tiempo extendido: 1-0, 
-
-entonces figura: 1-0
+|equipo_1_final |equipo_2_final |
+|:--------------|:---------------|
+| 4 | 1|
 
 
-#### si el partido se definio por penales 
+* __Resultado en alargue.__ Si el resultado a los 90 minutos fue Francia 1 - 1 Italia y en el tiempo extendido Francia anotó un gol, entonces el resultado final figura como:
 
-ej: Austria - Francia: 
-
-final 90 minutos: 1-1, 
-
-final tiempo extendido: 1-1, 
-
-final penales: 3–2  ; 
-
-entonces figura: 3-2 ( no se contaran donde hubo empates.)
-
-## Base de partidos sin procesar: 
-
-La base de datos de partidos sin procesar esta armada para que el que se anime y quiera practicar habilidades de transformacion de datos, pueda extraer de la misma. Es una version simplificada de la fuente original que se centra solo en los partidos. 
-
-En esta base aparecen mas valores respecto de los resultados del partido.
-
-Este archivo se encuentra en Inglés.
+|equipo_1_final |equipo_2_final |
+|:--------------|:---------------|
+| 2 | 1|
 
 
-## Fuente original: 
+* Definición a penales:
+Si el resultado a los 90 minutos fue Austria 1 - 1 Francia, en el alargue nadie anotó goles y en penales anotaron 3 - 2, el resultado final solo consigna los penales: 
 
-Los datos fueron extraidos de: https://github.com/openfootball/world-cup
-en esta base se encuentra mucha mas informacion respecto de cada edicion de la copa, como podrian ser los
-datos de los jugadores de cada equipo en cada edicion. 
+|equipo_1_final |equipo_2_final |
+|:--------------|:---------------|
+| 3 | 2|
 
-La fuente original se encuentra en Inglés.
+Dado que esta adaptación de los datos no considera todos los goles anotados en el partido, si te interesa obtener ese detalle puedes revisar la base sin procesar.
+
+### Base de partidos sin procesar (`partidos_crudo`)
+
+La base de datos de partidos sin procesar está diseñada para quienes se animen a practicar habilidades de limpieza y transformación de datos. En esta versión hay más información que en `partidos`, que puedes intentar explorar. Los valores de las variables se encuentran en inglés. 
+
+
+## Fuente original 
+
+Como se señaló anteriormente, los datos fueron extraídos del repositorio sobre Copas del Mudno de [Open Public Domain Football Data](https://github.com/openfootball/world-cup). En ese repositorio puedes encontrar más información cada edición de la copa, como quiénes fueron los jugadores en cada edición, quiénes anotaron los goles, etc. Toda la información se encuentra en inglés. 
 
 ## Inspiración
 
-porque a veces cuesta saber para donde ir : 
-
-Con visualizaciones que se pueden aproximar con estos datos: 
-
-- https://www.mundodeportivo.com/md/futbol/estadisticas-mundial/grupod/index.html
-
-
-Con tablas que se pueden aproximar con estos datos:
-
-- http://www.losmundialesdefutbol.com/estadisticas.php
-
-
-Dado que la adaptación de los datos no considera todos los goles algunos datos se van a aproximar no siendo exactos. Si se desea mayor exactitud se puede revisar la base sin procesar. 
-Si se desean datos de los jugadores, se puede ver la fuente original.
-Si hacen algo al respecto y desean compartirlo pueden crear issues en github.
+Si no sabes por dónde empezar, puedes mirar las propuestas de visualización de datos del mundial de Rusia 2018 publicadas por [Mundo Deportivo](https://www.mundodeportivo.com/md/futbol/estadisticas-mundial/grupoa/index.html). 
