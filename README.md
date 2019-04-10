@@ -16,7 +16,7 @@ _Datos de miércoles_ es la versión en español de [#tidytuesday](https://githu
 * Dentro de la carpeta encontrarás un archivo `readme` con una descripción del dataset y las variables que lo componen. También incluiremos el código para importar directamente los datos a R. 
 * ¡Pon en práctica tus habilidades procesando y visualizando datos! ¿Cómo? Puedes elegir algún aspecto que explorar y proponer una visualización. Piensa en alguna pregunta que sería interesante responder y explora las posibilidades que entrega R para visualizar tus resultados. 
 * ¡Comparte lo que hiciste! Incluye una imagen de la visualización que creaste y una copia del código utilizado para crearla. Incluye comentarios en tu código cuando sea posible para que el resto de la comunidad entienda tu proceso. En la sección "enlaces útiles" encontrarás sugerencias sobre cómo compartir una imagen del código y cómo exportar tus visualizaciones desde R.
-* Usa el _hashtag_ `#DatosDeMiercoles` en Twitter para compartir tu trabajo. Si te alcanzan los caracteres, agrega el de la comunidad de R en español: `#rstatsES`.
+* Usa el _hashtag_ [#DatosDeMiercoles](https://twitter.com/search?q=%23DatosDeMiercoles) en Twitter para compartir tu trabajo. Si te alcanzan los caracteres, agrega el de la comunidad de R en español: [#rstatsES](https://twitter.com/search?q=%23rstatsES).
 * Retuitearemos las contribuciones desde la cuenta de [R4DS en español](https://twitter.com/r4ds_es).
 * Dale crédito a la fuente original, cuando sea posible. 
 * Si quieres ver ejemplos, puedes explorar en Twitter lo que otras personas han hecho para la versión en inglés del proyecto buscando el _hashtag_ [#TidyTuesday](https://twitter.com/search?q=%23TidyTuesday).
