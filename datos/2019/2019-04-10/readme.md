@@ -1,6 +1,6 @@
 # Partidos de las Copas del Mundo de Fútbol: 1930 a 2018
 
-Esta primera semana trabajaremos con datos de los partidos de todas las ediciones de la Copa del Mundo de fútbol masculino. Los datos fueron extraídos del repositorio sobre copas del mundo de [Open Public Domain Football Data](https://github.com/openfootball/world-cup). Si quieres ver cómo se procesaron y transformaron los datos para llegar a la versión acá publicadas, puedes revisar el código de [en este repositorio](https://github.com/jas1/world-cup/tree/master/r)
+Esta primera semana trabajaremos con datos de los partidos de todas las ediciones de la Copa del Mundo de fútbol masculino. Los datos fueron extraídos del repositorio sobre copas del mundo de [Open Public Domain Football Data](https://github.com/openfootball/world-cup). 
 
 
 ## Obtener los datos
@@ -52,24 +52,23 @@ En el caso de las variables `equipo_1_final` y `equipo_2_final`, si se trata de 
 
 * __Resultado directo.__ Si el resultado a los 90 minutos fue Francia 4 - 1 México, entonces en la base figura como:
 
-|equipo_1_final |equipo_2_final |
+|`equipo_1_final` |`equipo_2_final` |
 |:--------------|:---------------|
-| 4 | 1|
+| `4` | `1`|
 
 
 * __Resultado en alargue.__ Si el resultado a los 90 minutos fue Francia 1 - 1 Italia y en el tiempo extendido Francia anotó un gol, entonces el resultado final figura como:
 
-|equipo_1_final |equipo_2_final |
+|`equipo_1_final` |`equipo_2_final` |
 |:--------------|:---------------|
-| 2 | 1|
+| `2` | `1`|
 
 
-* Definición a penales:
-Si el resultado a los 90 minutos fue Austria 1 - 1 Francia, en el alargue nadie anotó goles y en penales anotaron 3 - 2, el resultado final solo consigna los penales: 
+* __Definición a penales.__ Si el resultado a los 90 minutos fue Austria 1 - 1 Francia, en el alargue nadie anotó goles y en penales anotaron 3 - 2, el resultado final solo consigna los penales: 
 
-|equipo_1_final |equipo_2_final |
+|`equipo_1_final` |`equipo_2_final` |
 |:--------------|:---------------|
-| 3 | 2|
+| `3` | `2`|
 
 Dado que esta adaptación de los datos no considera todos los goles anotados en el partido, si te interesa obtener ese detalle puedes revisar la base sin procesar.
 
@@ -81,6 +80,7 @@ La base de datos de partidos sin procesar está diseñada para quienes se animen
 ## Fuente original 
 
 Como se señaló anteriormente, los datos fueron extraídos del repositorio sobre Copas del Mudno de [Open Public Domain Football Data](https://github.com/openfootball/world-cup). En ese repositorio puedes encontrar más información cada edición de la copa, como quiénes fueron los jugadores en cada edición, quiénes anotaron los goles, etc. Toda la información se encuentra en inglés. 
+Si quieres ver cómo se procesaron y transformaron los datos para llegar a la versión acá publicada, puedes revisar el código de [en este repositorio](https://github.com/jas1/world-cup/tree/master/r)
 
 ## Inspiración
 
