@@ -9,9 +9,9 @@ Puedes utilizar el siguiente código para importar los datos a R:
 ```
 # install.packages(readr)
 
-partidos_fifa_copa_mundial_procesado <- readr::read_delim("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/blob/master/datos/2019/2019-04-10/partidos.txt",delim = "\t")
+partidos_fifa_copa_mundial_procesado <- readr::read_delim("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-04-10/partidos.txt",delim = "\t")
 
-partidos_fifa_copa_mundial_crudo <- readr::read_delim("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/blob/master/datos/2019/2019-04-10/partidos_crudo.txt",delim = "\t")
+partidos_fifa_copa_mundial_crudo <- readr::read_delim("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-04-10/partidos_crudo.txt",delim = "\t")
 ```
 
 ## Diccionario de datos
