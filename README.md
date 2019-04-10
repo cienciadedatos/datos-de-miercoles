@@ -21,6 +21,7 @@ _Datos de miércoles_ es la versión en español de [#tidytuesday](https://githu
 * Dale crédito a la fuente original, cuando sea posible. 
 * Si quieres ver ejemplos, puedes explorar en Twitter lo que otras personas han hecho para la versión en inglés del proyecto buscando el _hashtag_ [#TidyTuesday](https://twitter.com/search?q=%23TidyTuesday).
 
+
 ### Cosas a considerar
 
 Todas las personas son bienvenidas para participar, independiente de si recién están empezando a usar R o ya tienen más experiencia. Ten en cuenta lo siguiente: 
@@ -45,7 +46,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 # Datos
 | Semana | Fecha | Datos | Fuente | Artículo relacionado
 | :---: | :---: | :--- | :--- | :---|
-| 1 | `2019-04-10` | | | |
+| 1 | `2019-04-10` |[Copas Mundiales de fútbol masculino](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-10)|[OpenFootball](https://github.com/openfootball/world-cup) |[Visualizaciones Rusia 2018](https://www.mundodeportivo.com/md/futbol/estadisticas-mundial/grupoa/index.html) |
 
 
 ***
