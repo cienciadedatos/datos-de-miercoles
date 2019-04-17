@@ -1,0 +1,489 @@
+nombre,origen,lealtad_inicial,fin_t1,fin_t2,fin_t3,fin_t4,fin_t5,fin_t6,fin_t7,episodios
+Tyrion Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,61
+Cersei Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,58
+Daenerys Targaryen,Casa Targaryen,Viserys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,56
+Jon Nieve,Casa Stark,Rey Robert Baratheon,Guardia de la Noche,Salvajes,Guardia de la Noche,Guardia de la Noche,Muerta/o,"Jon Nieve, Rey del Norte",Daenerys Targaryen,56
+Sansa Stark,Casa Stark,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,"Petyr Baelish, Lord Protector del Valle","Roose Bolton, Lord Guardián del Norte","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",54
+Arya Stark,Casa Stark,Rey Robert Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Essos","Otra, Essos","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",53
+Jaime Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,49
+Jorah Mormont,Casa Stark,Viserys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,48
+Theon Greyjoy,Casa Greyjoy,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Balon Greyjoy, Rey de las Islas de Hierro",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro",Daenerys Targaryen,Daenerys Targaryen,43
+Samwell Tarly,Casa Tyrell,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,43
+Petyr 'Meñique' Baelish,Casa Arryn,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle",Muerta/o,41
+Lord Varys,Essos,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,41
+Brienne of Tarth,Casa Baratheon,Rey Robert Baratheon,Rey Renly Baratheon,"Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",37
+Davos Seaworth,Casa Baratheon,Rey Robert Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,"Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",36
+Bran Stark,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",35
+Bronn,Westeros,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,34
+Missandei,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,34
+Sandor 'El Perro' Clegane,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros",Hermandad sin Estandartes,Hermandad sin Estandartes,"Jon Nieve, Rey del Norte",33
+Grand Maester Pycelle,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,31
+Eddison Tollett,Casa Arryn,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,30
+Podrick Payne,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,"Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",30
+Melisandre,Essos,"Otra, Essos",Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros",28
+Tormund Matagigantes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",28
+Gusano Gris,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,28
+Tywin Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,27
+Margaery Tyrell,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,26
+Joffrey Baratheon,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,26
+Catelyn Stark,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,25
+Barristan Selmy,Casa Targaryen,Rey Robert Baratheon,"Otra, Essos","Otra, Essos",Daenerys Targaryen,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,25
+Stannis Baratheon,Casa Baratheon,Rey Robert Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Muerta/o,Muerta/o,Muerta/o,24
+Gilly,Salvajes,Salvajes,Salvajes,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,24
+Hodor,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,23
+Grenn,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,22
+Robb Stark,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,21
+Loras Tyrell,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,21
+Shae,Essos,"Otra, Essos",Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,20
+Ramsay Bolton,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,20
+Roose Bolton,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,19
+Alliser Thorne,Casa Targaryen,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,19
+Gendry,Casa Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Hermandad sin Estandartes,"Jon Nieve, Rey del Norte",19
+Qyburn,Westeros,"Otra, Westeros","Otra, Westeros","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,19
+Daario Naharis,Essos,"Otra, Essos","Otra, Essos","Otra, Essos",Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,21
+Olenna Tyrell,Casa Tyrell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Daenerys Targaryen,Muerta/o,18
+Tommen Baratheon,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,26
+Ygritte,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,Muerta/o,Muerta/o,17
+Jaqen H'ghar,Essos,"Otra, Essos",Guardia de la Noche,Rey Joffrey Baratheon,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",17
+Olly,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,17
+Meryn Trant,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,Muerta/o,17
+Osha,Salvajes,Salvajes,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,16
+Meera Reed,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",16
+Lancel Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,High Sparrow,Muerta/o,Muerta/o,16
+Janos Slynt,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,15
+Wun Wun,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,15
+Maester Luwin,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,14
+Yara Greyjoy,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro",Daenerys Targaryen,Daenerys Targaryen,14
+Gregor Clegane,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,16
+Ros,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,14
+Rickon Stark,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,14
+Othell Yarwyck,Casa Lannister,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,14
+Ellaria Arena,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Serpientes de Arena,Serpientes de Arena,Daenerys Targaryen,Daenerys Targaryen,13
+Rodrik Cassel,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,13
+Mace Tyrell,Casa Tyrell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,13
+Pypar,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,13
+Irri,Essos,Khal Drogo,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,13
+Gorrión Supremo,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",High Sparrow,Muerta/o,Muerta/o,12
+Jeor Mormont,Casa Stark,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,12
+Kevan Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,12
+Rast,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,12
+Pastel Caliente,Westeros,"Otra, Westeros",Guardia de la Noche,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",12
+Talisa Stark,Essos,"Otra, Essos","Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,11
+Maester Aemon,Casa Targaryen,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,11
+La niña abandonada,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",Muerta/o,Muerta/o,11
+Doreah,Essos,"Otra, Essos",Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,11
+Eddard 'Ned' Stark,Casa Stark,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,11
+Thoros of Myr,Casa Baratheon,Rey Robert Baratheon,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,"Jon Nieve, Rey del Norte",10
+Selyse Baratheon,Casa Baratheon,Rey Robert Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Muerta/o,Muerta/o,Muerta/o,12
+Jojen Reed,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,10
+Shireen Baratheon,Casa Baratheon,Rey Robert Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Muerta/o,Muerta/o,Muerta/o,10
+Bowen Marsh,Casa Stark,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,10
+Khal Drogo,Essos,Khal Drogo,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,10
+Beric Dondarrion,Casa Baratheon,Rey Robert Baratheon,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,"Jon Nieve, Rey del Norte",9
+Tyene Arena,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Serpientes de Arena,Serpientes de Arena,Daenerys Targaryen,Muerta/o,9
+Yohn Royce,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",9
+Renly Baratheon,Casa Baratheon,Rey Robert Baratheon,Rey Renly Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,8
+Edmure Tully,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,8
+Locke,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,8
+Obara Arena,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Serpientes de Arena,Serpientes de Arena,Daenerys Targaryen,Muerta/o,8
+Hizdahr zo Loraq,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,8
+Nymeria Arena,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Serpientes de Arena,Serpientes de Arena,Daenerys Targaryen,Muerta/o,8
+Maester Wolkan,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",8
+Septa Unella,Westeros,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,High Sparrow,Reina Cersei Lannister,Reina Cersei Lannister,8
+Myranda,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,8
+Kovarro,Essos,Khal Drogo,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,8
+Robin Arryn,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",8
+Myrcella Baratheon,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,Muerta/o,14
+Robert Baratheon,Casa Baratheon,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,7
+Oberyn Martell,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,7
+Yoren,Westeros,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,7
+Brynden 'Pez Negro' Tully,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,7
+Olyvar,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",7
+Qhono,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,7
+Rakharo,Essos,Esclavistas de Essos,Esclavistas de Essos,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,7
+Marei,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",7
+Walder Frey,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,6
+Benjen Stark,Casa Stark,Guardia de la Noche,Guardia de la Noche,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,6
+Euron Greyjoy,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Euron Greyjoy, Rey de las Islas de Hierro",Reina Cersei Lannister,6
+Orell,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,6
+Areo Hotah,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,6
+Septa Mordane,Casa Stark,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,6
+Black Walder Rivers,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,6
+Qotho,Essos,Khal Drogo,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,6
+Dontos Hollard,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,6
+Anguy,Casa Baratheon,Rey Robert Baratheon,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,"Jon Nieve, Rey del Norte",6
+High Septon,Westeros,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,High Sparrow,Muerta/o,Muerta/o,6
+Bernadette,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,6
+Night's Watch Officer,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,6
+Viserys Targaryen,Casa Targaryen,Viserys Targaryen,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,5
+Jory Cassel,Casa Stark,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,5
+Lysa Arryn,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),Muerta/o,Muerta/o,Muerta/o,Muerta/o,5
+Mance Rayder,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,Muerta/o,5
+Craster,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,5
+Doran Martell,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,5
+Xaro Xhoan Daxos,Essos,Qarth,Qarth,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,5
+Randyll Tarly,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Muerta/o,5
+Robett Glover,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",5
+Rickard Karstark,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,6
+Dagmer Cleftjaw,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,5
+Lyanna Mormont,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",5
+Walda Bolton,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,5
+Trystane Martell,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,5
+Steelshanks Walton,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,5
+Archmaester Ebrose,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",4
+Tycho Nestoris,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",Rey Stannis Baratheon,"Otra, Essos","Otra, Essos",Reina Cersei Lannister,4
+Balon Greyjoy,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro",Muerta/o,Muerta/o,4
+Pyat Pree,Essos,Qarth,Qarth,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Styr,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Yezzan zo Qaggaz,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,4
+Karl Tanner,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Ilyn Payne,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,4
+Marillion,Casa Baratheon,Rey Robert Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",4
+Dickon Tarly,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Muerta/o,5
+Qhorin Halfhand,Westeros,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Lothar Frey,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,6
+Rorge,Westeros,"Otra, Westeros",Guardia de la Noche,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Lommy Greenhands,Westeros,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Matthos Seaworth,Casa Baratheon,Rey Robert Baratheon,Rey Stannis Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Armeca,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",4
+Royal Steward,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,4
+Black Lorren,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Amory Lorch,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Biter,Westeros,"Otra, Westeros",Guardia de la Noche,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,4
+Baby Sam,Salvajes,Salvajes,Salvajes,Salvajes,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,4
+El rey de la noche,White Walkers,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,4
+Timett,Westeros,"Otra, Westeros",Rey Joffrey Baratheon,Rey Joffrey Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",4
+Izembaro,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",3
+Dama Crane,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",3
+Spice King,Essos,Qarth,Qarth,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+El cuervo de tres ojos,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,5
+Syrio Forel,Essos,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+Harrag,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro",Daenerys Targaryen,Daenerys Targaryen,3
+Salladhor Saan,Essos,"Otra, Essos","Otra, Essos",Rey Stannis Baratheon,"Otra, Essos",Rey Stannis Baratheon,"Otra, Essos","Otra, Essos","Otra, Essos",3
+Greatjon Umber,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+Camello,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",3
+Harald Karstark,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros",Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,3
+Giant Wight #2,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,3
+Hoja,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,4
+Bobono,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",3
+Razdal mo Eraz,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Hijos de la Arpía,Hijos de la Arpía,Muerta/o,Muerta/o,3
+Lhara,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",3
+Clarenzo,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",3
+Thenn Warg,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+Mirri Maz Duur,Essos,Otra Dothraki,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+Polliver,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+Alton Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+Khal Moro,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Muerta/o,Muerta/o,3
+Kraznys mo Nakloz,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+Mossador,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,3
+White Walker,White Walkers,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,3
+Rattleshirt,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,3
+Vala,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,"Otra, Essos","Otra, Essos",3
+Daisy,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",3
+Bathhouse Prostitute,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",3
+Silk King,Essos,Qarth,Qarth,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,3
+Dothraki Bloodrider #1,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,3
+Musician #1,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,3
+Dothraki Bloodrider #2,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,3
+Musician #2,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,3
+Musician #3,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,3
+Musician #4,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,3
+Loyal Night's Watchman #2,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,3
+Musician #5,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,3
+King's Landing Whore,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",3
+Dothraki Woman Having Sex,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,3
+Alys Karstark,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros",Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",3
+Aggo,Essos,Khal Drogo,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,3
+Frances,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",3
+Hallyne,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,2
+Illyrio Mopatis,Essos,Viserys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,2
+Lem Lemoncloak,Westeros,"Otra, Westeros",Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Muerta/o,Muerta/o,2
+Smalljon Umber,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,2
+Mord,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",2
+Aeron Greyjoy,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Euron Greyjoy, Rey de las Islas de Hierro",Reina Cersei Lannister,2
+Dim Dalba,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",2
+Belicho Paenymion,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Hijos de la Arpía,Hijos de la Arpía,Muerta/o,Muerta/o,2
+Gatins,Westeros,"Otra, Westeros",Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Muerta/o,Muerta/o,2
+Old Nan,Casa Stark,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+El rey de la noche,White Walkers,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,2
+Morgan,Westeros,"Otra, Westeros",Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Muerta/o,Muerta/o,4
+Malko,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Thin Man,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Bianca,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Vardis Egen,Casa Arryn,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Shagga,Westeros,"Otra, Westeros",Rey Joffrey Baratheon,Rey Joffrey Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Quaithe,Essos,Qarth,Qarth,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Margaery Tyrell Mummer,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Hugh of the Vale,Casa Arryn,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Morag,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Todder,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,2
+Johnna,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",2
+Willa,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",2
+Dama Kitty Frey,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,2
+Lyanna Stark,Casa Stark,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Farlen,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Donnel Waynwood,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",2
+Drennan,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Ned Umber,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros",Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",2
+Sissy,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Dosh khaleen High Priestess,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,2
+Zanrush,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",Daenerys Targaryen,Daenerys Targaryen,2
+Ornela,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,2
+Kurleket,Casa Tully,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Winterfell Shepherd,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+The Tickler,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Ghita,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",Muerta/o,Muerta/o,Muerta/o,2
+Greizhen mo Ullhor,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Mole's Town Whore,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Jacks,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",2
+Ternesio Terys,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Moro's Wife #2,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,2
+Master Torturer,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Great Master #1,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,2
+Mhaegen,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Mole's Town Madam,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Quent,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Dothraki Widow #1,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,2
+Mummer #2,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Kayla,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Mummer #3,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Tobho Mott,Essos,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Mummer #4,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",2
+Night's Watchman #1,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,2
+Dothraki Widow #2,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,2
+Willem Lannister,Casa Lannister,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Baratheon Soldier #2,Casa Baratheon,Rey Robert Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Muerta/o,Muerta/o,Muerta/o,2
+Loyal Night's Watchman #1,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,2
+Night's Watchman #2,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,2
+Night's Watchman,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,2
+Male Prostitute,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Arthur,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Little Bird #4,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Little Bird #3,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Little Bird #6,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Little Bird #5,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Little Bird #7,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",2
+Joyeuse Frey,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Tommy,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Leo Lefford,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,2
+Willis Wode,Casa Tully,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Ironborn #2,Casa Greyjoy,Rey Robert Baratheon,"Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Euron Greyjoy, Rey de las Islas de Hierro",Reina Cersei Lannister,2
+Brother Ray,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,1
+Karsi,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Dying Man,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Loboda,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Imry Florent,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Stannis Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Captain of the Bolton Archers,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,1
+Koner,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Mandon Moore,Casa Arryn,Rey Robert Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Bolton General,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,1
+Jhiqui,Essos,Khal Drogo,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,1
+Melessa Tarly,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Will,Westeros,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Captain of the Archers,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Mycah,Casa Stark,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Jon Arryn,Casa Arryn,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Mero,Essos,"Otra, Essos","Otra, Essos","Otra, Essos",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Waymar Royce,Casa Arryn,Guardia de la Noche,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Prendahl na Ghezn,Essos,"Otra, Essos","Otra, Essos","Otra, Essos",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Catspaw Assassin,Casa Lannister,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Maester Cressen,Westeros,Rey Robert Baratheon,Rey Stannis Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Citadel Maester,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Citadel Maester,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Roslin Frey,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Anya Waynwood,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",1
+Black Armored White Walker,White Walkers,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Essos Slavers,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Bear Island Maester,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Great Master #1,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Joss,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+High Septon,Westeros,Rey Robert Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Merry Frey,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,"Otra, Westeros",1
+Bolton Guard,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,Muerta/o,1
+Ralf Kenning,Casa Greyjoy,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro",Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Pit Announcer,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,1
+Varly,Casa Stark,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Elder Meereen Slave,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,1
+Great Master #2,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+White Walker #2,White Walkers,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Drowned Priest,Casa Greyjoy,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro","Euron Greyjoy, Rey de las Islas de Hierro",Reina Cersei Lannister,1
+Theon's Master of Hounds,Casa Greyjoy,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Balon Greyjoy, Rey de las Islas de Hierro",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Fennesz,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Tansy,Westeros,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Merchant Captain,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",1
+Great Master #3,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Talla Tarly,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Ash,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Dothraki Crone,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,1
+Jaremy Rykker,Casa Targaryen,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Wight Wildling Girl,Salvajes,Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Captain's Daughter,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Rennick,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Wendel Manderly,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Adrack Humble,Casa Greyjoy,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Balon Greyjoy, Rey de las Islas de Hierro","Balon Greyjoy, Rey de las Islas de Hierro",Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Morgan's Friend,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Young Braavosi,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",1
+Great Master #4,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Lead Dornish Guard,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,Muerta/o,1
+Moro's Wife #1,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,1
+Kesh,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Riddell,Westeros,Rey Robert Baratheon,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Muerta/o,Muerta/o,1
+Torrhen Karstark,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Great Master #5,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Kinvara,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",Daenerys Targaryen,Daenerys Targaryen,1
+Steve,Westeros,Rey Robert Baratheon,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Muerta/o,Muerta/o,1
+Tomard,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Stiv,Westeros,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Lordsport Dockhand,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Bolton Soldier,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Vance Corbray,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",1
+Valyrian Slave,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,1
+Axell Florent,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Stannis Baratheon,Rey Stannis Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Great Master #6,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Khal Forzho,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Muerta/o,Muerta/o,1
+Little Bird,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Knight of House Lynderly,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",1
+Mirelle,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Sorcerer,Essos,"Otra, Essos","Otra, Essos","Otra, Essos",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Unsullied,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Lord Blackmont,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Great Master #7,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Faith Militant #1,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",High Sparrow,Muerta/o,Muerta/o,1
+Stevron Frey,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Muerta/o,1
+Eon Hunter,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Gerald,Casa Baratheon,Rey Robert Baratheon,Rey Renly Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Boat Commander,Essos,"Otra, Essos","Otra, Essos",Rey Stannis Baratheon,"Otra, Essos",Rey Stannis Baratheon,"Otra, Essos","Otra, Essos","Otra, Essos",1
+Musician #1,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Kegs,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Derek,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Lollys Stokeworth,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Faith Militant #2,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",High Sparrow,Muerta/o,Muerta/o,1
+Ryger Rivers,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Muerta/o,1
+Colen of Greenpools,Casa Baratheon,Rey Robert Baratheon,Rey Renly Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Wounded Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Margaery's Handmaiden,Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,1
+Musician #2,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Black Jack Bulwer,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Ser Endrew Tarth,Casa Baratheon,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Craster's Wife #2,Salvajes,Salvajes,Salvajes,Salvajes,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Brant,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Second Son,Essos,"Otra, Essos","Otra, Essos","Otra, Essos",Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Poisoned Frey,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Muerta/o,1
+Musician #3,Casa Baratheon,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Craster's Wife #3,Salvajes,Salvajes,Salvajes,Salvajes,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Mully,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Frey Lord,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Muerta/o,1
+Reginald Lannister,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Violet,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Warlock,Essos,Qarth,Qarth,Qarth,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",1
+Wight,Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Little Bird,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Clea,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",1
+Brusco,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",1
+Iggo,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Muerta/o,Muerta/o,1
+Sick Maester,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Unsullied,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Denys Mallister,Casa Tully,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Khal Brozho,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Muerta/o,Muerta/o,1
+Jonos Bracken,Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Desmond Crakehall,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Guymon,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Khal Rhalko,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Muerta/o,Muerta/o,1
+Lannister Torturer,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Yunkai'i Slave #1,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,1
+Olly's Mother,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Septa Moelle,Westeros,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,High Sparrow,Muerta/o,Muerta/o,1
+White Rat,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,1
+Anara,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",1
+Citadel Maester,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Khal Qorro,Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Muerta/o,Muerta/o,1
+Addam Marbrand,Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Vayon Poole,Casa Stark,Rey Robert Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Yunkai'i Slave #2,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,1
+Bolton Soldier,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,1
+Strong Sam Stone,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",1
+Septa Scolera,Westeros,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,High Sparrow,Muerta/o,Muerta/o,1
+Mallister Supporter,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Brea,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",1
+Masha Heddle,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Night's Watch Messenger,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Craster's Wife,Salvajes,Salvajes,Salvajes,Salvajes,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Yunkai'i Slave #3,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Eyrie Guard,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Yunkai'i Slave #4,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Craster's Younger Wife,Salvajes,Salvajes,Salvajes,Salvajes,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Aya,Essos,"Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos","Otra, Essos",1
+Bolton Officer,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,1
+Rhaego,Essos,Otra Dothraki,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Yunkai'i Slave #5,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Maester Helliweg,Casa Arryn,Rey Robert Baratheon,House Arryn (Neutral),House Arryn (Neutral),House Arryn (Neutral),"Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Petyr Baelish, Lord Protector del Valle","Jon Nieve, Rey del Norte",1
+Bolton Soldier,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,1
+Genna,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Son of the Harpy,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Hijos de la Arpía,Hijos de la Arpía,Muerta/o,Muerta/o,1
+Maester Caleotte,Casa Martell,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,1
+Chella,Westeros,"Otra, Westeros",Rey Joffrey Baratheon,Rey Joffrey Baratheon,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Wyman Manderly,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Lord Portan,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Simpson,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,Muerta/o,1
+Cley Cerwyn,Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Tortured Slave,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,1
+Dothraki Man Having Sex,Essos,Khal Drogo,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,1
+Great Master #2,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Meereen Slave,Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Night's Watch Officer / ... (uncredited) 1,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Night's Watch / ... (uncredited) 1,Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Brotherhood Member (uncredited),Westeros,"Otra, Westeros",Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,Hermandad sin Estandartes,"Jon Nieve, Rey del Norte",1
+Craster's Wife / ... (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Slaver / ... (uncredited),Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Hijos de la Arpía,Hijos de la Arpía,Daenerys Targaryen,Daenerys Targaryen,1
+Lord Galbart Glover (uncredited),Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Mikken (uncredited),Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Frey Wedding Guest / ... (uncredited),Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,1
+Frey Wedding Guest / ... (uncredited),Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Muerta/o,Muerta/o,1
+Night's Watch (uncredited),Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Dothraki Rider / ... (uncredited),Essos,Khal Drogo,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Mole's Town Whore (uncredited),Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Burning Lannister / ... (uncredited),Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Muerta/o,1
+Wildling (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Bolton Infantry (uncredited),Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,"Roose Bolton, Lord Guardián del Norte",Muerta/o,Muerta/o,1
+Glover General (uncredited),Casa Stark,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Captured Wight (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Mago (uncredited),Essos,Khal Drogo,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Wight (uncredited),Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Weasel (uncredited),Casa Stark,Rey Robert Baratheon,Rey Joffrey Baratheon,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Craster's Daughter (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",1
+Marianne Frey (uncredited),Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Hoster Tully (uncredited),Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Khaleesi Handmaiden #1 (uncredited),Essos,Khal Drogo,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Dothraki (uncredited),Essos,Khal Drogo,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,1
+Cooper (uncredited),Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Frey Serving Boy (uncredited),Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Donnel Hill (uncredited),Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Muerta/o,Muerta/o,Muerta/o,Muerta/o,1
+Wildling (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Wildling Archer (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Wight (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Wildling (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Pit Fighter (uncredited),Essos,Esclavistas de Essos,Esclavistas de Essos,Esclavistas de Essos,Daenerys Targaryen,Daenerys Targaryen,Muerta/o,Muerta/o,Muerta/o,1
+Wilding Gladiator (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,"Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",1
+Wildling (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,1
+Wildling Archer (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,1
+Wight (uncredited),Salvajes,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,Caminantes Blancos,1
+Wildling (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,1
+Child of the Forest #1 (uncredited),Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,1
+Child of the Forest #2 (uncredited),Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,1
+Frey Daughter (uncredited),Casa Tully,Rey Robert Baratheon,"Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Child of the Forest #3 (uncredited),Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,1
+Dothraki Rider (uncredited),Essos,Otra Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Dothraki,Daenerys Targaryen,Daenerys Targaryen,1
+Wildling (uncredited),Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Salvajes,Muerta/o,Muerta/o,1
+Night's Watch (uncredited),Westeros,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,1
+Tyrell guard (uncredited),Casa Tyrell,Rey Robert Baratheon,Rey Renly Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Daenerys Targaryen,Muerta/o,1
+Lannister Map Painter (uncredited),Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Muerta/o,1
+Lannister Spearman (uncredited),Casa Lannister,Rey Robert Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Joffrey Baratheon,Rey Tommen Baratheon,Rey Tommen Baratheon,Reina Cersei Lannister,Reina Cersei Lannister,1
+Drogon,Essos,"Otra, Essos",Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,25
+Rhaegal,Essos,"Otra, Essos",Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,19
+Viserion,Essos,"Otra, Essos",Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Daenerys Targaryen,Caminantes Blancos,21
+Fantasma,Westeros,"Otra, Westeros",Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,Guardia de la Noche,"Otra, Westeros","Jon Nieve, Rey del Norte","Jon Nieve, Rey del Norte",20
+Viento gris,Westeros,"Otra, Westeros","Robb Stark, Rey del Norte","Robb Stark, Rey del Norte",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,8
+Dama,Westeros,"Otra, Westeros",Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,Muerta/o,2
+Nymeria,Westeros,"Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros","Otra, Westeros",3
+Verano,Westeros,"Otra, Westeros","Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,15
+Peludodog,Westeros,"Otra, Westeros","Robb Stark, Rey del Norte","Robb Stark, Rey del Norte","Otra, Westeros","Otra, Westeros","Otra, Westeros",Muerta/o,Muerta/o,8
