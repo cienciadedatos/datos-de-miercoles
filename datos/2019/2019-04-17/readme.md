@@ -9,7 +9,6 @@ Estrenaron la última temporada de _Game of Thrones_ y no podíamos perder esta 
 ![](https://github.com/rivaquiroga/datos-de-miercoles/blob/master/datos/2019/2019-04-17/spoilers.gif)
 
 
-
 ## Obtener los datos
 
 Puedes utilizar el siguiente código para importar los datos a R:
@@ -27,7 +26,7 @@ personajes_libros <- readr::read_csv("https://raw.githubusercontent.com/cienciad
 ## Diccionario de datos
 
 
-### `tiempo_en_pantalla`
+### `tiempo_pantalla`
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
