@@ -7,7 +7,7 @@ Estrenaron la última temporada de _Game of Thrones_ y no podíamos perder esta 
 * Información sobre los libros en los que aparece cada personaje y su estado vital (:skull:)
 
 <p align="center">
-![](spoilers.gif)
+![](https://github.com/rivaquiroga/datos-de-miercoles/blob/master/datos/2019/2019-04-17/spoilers.gif)
 </p>
 
 
@@ -83,7 +83,7 @@ Los datos fueron extraídos de tres fuentes distintas:
 * Personajes del libro > [Kaggle](https://www.kaggle.com/mylesoneill/game-of-thrones)
 
 
-La traducción de los datos estuvo a cargo de [Riva Quiroga](twitter.com/rivaquiroga). Si prefieres trabajar con una base que tenga los nombres de las variables en español, pero que mantenga los nombres originales de los personajes, puedes revisar [este repositorio](https://github.com/jas1/world-cup/tree/master/r).
+La traducción de los datos estuvo a cargo de [Riva Quiroga](twitter.com/rivaquiroga). Si prefieres trabajar con una base que tenga los nombres de las variables en español, pero que mantenga los nombres originales de los personajes, puedes revisar [este repositorio](https://github.com/rivaquiroga/para-datos-de-miercoles/tree/master/semana2_GOT).
 
 ## Inspiración
 
