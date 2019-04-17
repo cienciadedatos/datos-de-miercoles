@@ -6,9 +6,7 @@ Estrenaron la última temporada de _Game of Thrones_ y no podíamos perder esta 
 * Minutos de aparición y cantidad de capítulos en pantalla de los personajes de la series (temporadas 1 a 6)
 * Información sobre los libros en los que aparece cada personaje y su estado vital (:skull:)
 
-<p align="center">
 ![](https://github.com/rivaquiroga/datos-de-miercoles/blob/master/datos/2019/2019-04-17/spoilers.gif)
-</p>
 
 
 
