@@ -9,7 +9,7 @@ Puedes utilizar el siguiente código para importar los datos a R:
 ```
 # install.packages(readr)
 
-gapminder <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-04-23/gapminder_es.csv")
+gapminder <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-04-24/gapminder_es.csv")
 
 ```
 
