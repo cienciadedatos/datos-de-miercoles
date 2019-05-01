@@ -9,10 +9,12 @@ Esta semana exploraremos datos sobre el comercio mundial que son parte del proye
 
 ## Obtener los datos
 
-Puedes utilizar el siguiente código para importar los datos directamente como un objeto de R. Quedará en tu ambiente global como `comercio_hispanoamerica_mundo`
+Puedes utilizar el siguiente código para importar los datos a R.
 
 ```
-read("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-05-01/comercio_hispanoamerica_mundo.rda")
+#install.packages("readr")
+
+comercio_hispanoamerica_mundo <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-05-01/comercio_hispanoamerica_mundo_agregado.csv")
 ```
 
 ## Diccionario de datos
