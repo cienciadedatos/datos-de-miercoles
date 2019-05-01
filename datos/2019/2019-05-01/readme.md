@@ -1,6 +1,6 @@
 # Comercio Hispanoamérica-Mundo
 
-Esta semana exploraremos datos sobre el comercio mundial que son parte del proyecto [Open Trade Statistics](https://tradestatistics.io/). Los datos permiten conocer qué categorías de producto se importan/exportan desde y hacia Hispanoamérica. Algunas preguntas que es posible plantear a partir de ellos:
+Esta semana exploraremos datos sobre el comercio mundial que son parte del proyecto [Open Trade Statistics](https://tradestatistics.io/). Los datos permiten conocer qué categorías de productos se importan/exportan desde y hacia Hispanoamérica. Algunas preguntas que es posible plantear a partir de ellos:
 
 * ¿Cómo ha evolucionado el comercio entre los países de la región?
 * ¿Qué porcentaje de lo que un determinado país exporta va al resto de la región vs. resto del mundo?
@@ -44,4 +44,4 @@ install.packages("tradestatistics")
 
 ## Contexto e inspiración
 
-Puedes revisar [este artículo del periódico El País](https://elpais.com/internacional/2017/05/19/america/1495207746_872725.html) para tener un poco de contexto sobre el tema. Ahí encontrarás una propuesta de visualización de datos sobre comercio que puede servirte como inspiración o como motivación para mejorar (¡hay un gráfico de torta!)
+Puedes revisar [este artículo del periódico El País](https://elpais.com/internacional/2017/05/19/america/1495207746_872725.html) para tener un poco de contexto sobre el tema. Ahí encontrarás una propuesta de visualización de datos sobre comercio que puede servirte como inspiración o como motivación para mejorar (¡hay un gráfico de torta!).
