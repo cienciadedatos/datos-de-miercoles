@@ -1,0 +1,84 @@
+---
+title: "Ejemplos de visualización"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+load("comercio_hispanoamerica_mundo_agregado.rda")
+
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, treemapify)
+```
+
+```{r}
+comercio_chile_mundo <- comercio_hispanoamerica_mundo_agregado %>% 
+  filter(codigo_iso_origen == "chl")
+
+comercio_chile_mundo %>% 
+  mutate(
+    region = ifelse(pais_destino_pertenece_a_hispanoamerica == 1, "Hispanoam\u00e9rica", "Otras regiones")
+  ) %>% 
+  group_by(anio, region) %>% 
+  summarise(valor_exportado_dolares = sum(valor_exportado_dolares, na.rm = T)) %>% 
+  ggplot(aes(x = anio, y = valor_exportado_dolares, fill = region)) +
+    geom_col(position = "dodge2") +
+    labs(
+      x = "A\u00f1o", 
+      y = "Valor Exportado (D\u00f3lares)", 
+      title = "Exportaciones de Chile por A\u00f1o y Regi\u00f3n"
+    ) +
+    coord_flip() +
+    theme_bw() +
+    theme(legend.position = "bottom")
+```
+
+```{r}
+comercio_chile_mundo_2017 <- comercio_chile_mundo %>% 
+  filter(anio == 2017) %>% 
+  group_by(anio, nombre_comunidad_producto, color_comunidad_producto) %>% 
+  summarise(valor_exportado_dolares = sum(valor_exportado_dolares, na.rm = T)) %>% 
+  ungroup() %>% 
+  mutate(
+    etiquetas = paste0(nombre_comunidad_producto, "\n", round(100*valor_exportado_dolares/sum(valor_exportado_dolares), 2), "%")
+  )
+
+comercio_chile_hispanoamerica_2017 <- comercio_chile_mundo %>% 
+  filter(anio == 2017, pais_destino_pertenece_a_hispanoamerica == 1) %>% 
+  group_by(anio, nombre_comunidad_producto, color_comunidad_producto) %>% 
+  summarise(valor_exportado_dolares = sum(valor_exportado_dolares, na.rm = T)) %>% 
+  ungroup() %>% 
+  mutate(
+    etiquetas = paste0(nombre_comunidad_producto, "\n", round(100*valor_exportado_dolares/sum(valor_exportado_dolares), 2), "%")
+  )
+```
+
+```{r}
+ggplot(comercio_chile_mundo_2017, 
+       aes(area = valor_exportado_dolares, fill = nombre_comunidad_producto, label = etiquetas)) +
+  geom_treemap() +
+  geom_treemap_text(colour = "white",
+                    place = "centre",
+                    grow = F,
+                    reflow = T) +
+  scale_fill_manual(values = comercio_chile_mundo_2017$color_comunidad_producto) +
+  labs(title = "Exportaciones de Chile a nivel Mundial (2017)") +
+  theme_bw() +
+  theme(legend.position = "none")
+
+ggplot(comercio_chile_hispanoamerica_2017, 
+       aes(area = valor_exportado_dolares, fill = nombre_comunidad_producto, label = etiquetas)) +
+  geom_treemap() +
+  geom_treemap_text(colour = "white",
+                    place = "centre",
+                    grow = F,
+                    reflow = T) +
+  scale_fill_manual(values = comercio_chile_hispanoamerica_2017$color_comunidad_producto) +
+  labs(title = "Exportaciones de Chile a nivel de Hispanoam\u00e9rica (2017)") +
+  theme_bw() +
+  theme(legend.position = "none")
+```
+
