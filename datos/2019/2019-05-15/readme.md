@@ -13,9 +13,9 @@ Para obtener los datos deberás seguir estos 3 sencillos pasos:
     -   Crea una cuenta si no tienes una
     -   Crea una app declarando si es comercial o no (en nuestro caso, no lo es).
     -   Copia tu `client ID` y tu `client Secret`.
-    -   Haz clic en "Edit settings" y cambia Redirect URIs a <http://localhost:1410/>
+    -   Haz clic en "Edit settings" y cambia Redirect URLs a <http://localhost:1410/>
 - Instala el paquete `Rspotify` si no lo tienes (`install_packages("Rspotify")`)
-- En el siguiente código, cambia `app\_id`, `client\_id` y `client\_secret` por tus datos (línea 8).
+- En el siguiente código, cambia en la línea que se definen las `keys` los valores de `app\_id`, `client\_id` y `client\_secret` por tus datos (línea 8. contando los saltos de línea).
 - Corre el código. Dependiendo de tu conexión, tardará en ejecutarse unos 3 minutos.
 
 <!-- -->
@@ -227,5 +227,3 @@ Si no sabes por dónde empezar, puedes mirar algunas propuestas de visualizació
 -----------
 
 Si estás interesado en obtener más datos musicales puedes obtenerlos mediante el paquete `Rspotify`.
-
-<iframe src="https://spotifymaps.github.io/musicalcities/" width="100%" height="600" frameborder="0"></iframe>
