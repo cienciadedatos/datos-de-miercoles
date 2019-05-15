@@ -1,0 +1,905 @@
+cancion,popularidad,artista,artista_completo,album,top_pais,puesto,bailabilidad,energia,nota_musical,volumen,modo,hablado,acustico,instrumental,en_vivo,positividad,tempo,duracion,tiempo_compas,fecha
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Uruguay,1,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Hope,43,Mike Wit,Mike Wit,Hope,El Top 50 de Uruguay,2,0.694,0.581,6,-7.382,1,0.0496,0.843,2.12e-6,0.0823,0.664,107.059,172722,4,2019-04-12
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Uruguay,3,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de Uruguay,4,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+Tuyo,43,J.Beren,J.Beren,Tuyo,El Top 50 de Uruguay,5,0.811,0.881,7,-2.757,0,0.0405,0.183,0.00148,0.0651,0.649,99.987,175800,4,2019-02-22
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de Uruguay,6,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Uruguay,7,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+Baila Baila Baila,91,Ozuna,Ozuna,Baila Baila Baila,El Top 50 de Uruguay,8,0.816,0.754,11,-2.75,0,0.111,0.0361,0,0.217,0.533,99.966,158400,4,2019-01-05
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Uruguay,9,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Uruguay,10,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Uruguay,11,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Uruguay,12,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Uruguay,13,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Sin Culpa (feat. DrefQuila),77,Duki,Duki feat. DrefQuila,Sin Culpa (feat. DrefQuila),El Top 50 de Uruguay,14,0.641,0.652,8,-8.575,0,0.264,0.42,1.74e-6,0.094,0.406,175.022,244771,4,2018-12-07
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Uruguay,15,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Imposible,72,Luis Fonsi,Luis Fonsi feat. Ozuna,VIDA,El Top 50 de Uruguay,16,0.783,0.738,11,-4.078,1,0.0741,0.127,0,0.127,0.925,90.976,164533,4,2019-02-01
+Me Voy,73,Rombai,Rombai,Me Voy,El Top 50 de Uruguay,17,0.531,0.752,9,-3.33,0,0.2,0.214,0,0.145,0.884,192.443,177787,4,2018-09-28
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Uruguay,18,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Un Año,87,Sebastian Yatra,Sebastian Yatra feat. Reik,Un Año,El Top 50 de Uruguay,19,0.771,0.382,1,-6.808,0,0.0514,0.148,0,0.104,0.535,94.931,164440,4,2019-01-18
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Uruguay,20,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Uruguay,21,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Uruguay,22,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Uruguay,23,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Leña para el Carbón - Remix,33,FIESTA!,FIESTA!,Éxitos (Fiestero Remix),El Top 50 de Uruguay,24,0.615,0.787,8,-4.742,0,0.108,0.062,2.1e-6,0.0707,0.869,203.932,143805,4,2019-01-19
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Uruguay,25,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+7 rings,92,Ariana Grande,Ariana Grande,7 rings,El Top 50 de Uruguay,26,0.725,0.321,1,-10.744,0,0.323,0.578,0,0.0884,0.319,70.142,178640,4,2019-01-18
+Tan Bien (feat. Agus Padilla),70,Lit Killah,Lit Killah feat. Agus Padilla,Tan Bien (feat. Agus Padilla),El Top 50 de Uruguay,27,0.784,0.761,10,-4.253,0,0.0343,0.108,5.05e-5,0.05,0.385,105.005,204989,4,2018-11-29
+Ta To Gucci (Remix),82,Cauty,Cauty feat. Brytiago feat. Darell feat. Cosculluela feat. Rafa Pabön feat. Chencho Corleone,Cauty VS Young Cauty,El Top 50 de Uruguay,28,0.73,0.648,1,-6.405,0,0.378,0.383,1.12e-4,0.103,0.675,187.991,304859,4,2018-12-07
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Uruguay,29,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Uruguay,30,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Uruguay,31,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de Uruguay,32,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Uruguay,33,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de Uruguay,34,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+Dile la Verdad,80,The Rudeboyz,The Rudeboyz feat. Jowell & Randy feat. Manuel Turizo,Dile la Verdad,El Top 50 de Uruguay,35,0.886,0.701,7,-3.504,1,0.141,0.292,1.16e-5,0.0574,0.823,103.002,219029,4,2019-01-11
+Me Vas a Extrañar - En Vivo,71,Damas Gratis,Damas Gratis feat. Viru Kumbieron,Me Vas a Extrañar (En Vivo),El Top 50 de Uruguay,36,0.419,0.809,11,-4.596,1,0.0357,0.323,0,0.699,0.635,88.418,238528,4,2018-09-07
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Uruguay,37,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+MALA (feat. Anuel Aa),80,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Uruguay,38,0.719,0.825,5,-3.627,0,0.0424,0.689,0,0.103,0.789,100.006,206550,4,2018-11-27
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Uruguay,39,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Uruguay,40,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Booty,78,C. Tangana,C. Tangana feat. Becky G feat. Alizzz,Booty,El Top 50 de Uruguay,41,0.825,0.771,1,-4.116,1,0.0804,0.0167,2.04e-6,0.0901,0.718,102.927,173366,4,2018-10-24
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de Uruguay,42,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Hablar Es Gratis,58,Dame 5,Dame 5 feat. Papichamp,Hablar Es Gratis,El Top 50 de Uruguay,43,0.811,0.682,0,-5.416,0,0.145,0.374,8.51e-5,0.0792,0.753,96.001,166554,4,2018-12-22
+Control,54,Agus Padilla,Agus Padilla feat. Ecko,Control,El Top 50 de Uruguay,44,0.72,0.711,6,-5.831,0,0.0792,0.17,4.58e-5,0.0783,0.732,177.937,188764,4,2018-09-28
+Luz Apaga,78,Ozuna,Ozuna feat. Lunay feat. Rauw Alejandro feat. Lyanno,Luz Apaga,El Top 50 de Uruguay,45,0.611,0.791,1,-3.558,1,0.173,0.19,3.02e-6,0.12,0.658,192.07,245000,4,2018-11-16
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de Uruguay,46,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Uruguay,47,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Pim Pum Pam Mamucha,62,DJ Alex,DJ Alex,Pim Pum Pam Mamucha,El Top 50 de Uruguay,48,0.827,0.781,8,-4.981,0,0.0484,0.0366,2.28e-6,0.0943,0.85,104.257,140612,4,2019-01-23
+No Lo Entiendo,68,Bhavi,Bhavi feat. Khea,No Lo Entiendo,El Top 50 de Uruguay,49,0.87,0.542,2,-6.959,1,0.0397,0.248,7.74e-5,0.112,0.323,105.03,176018,4,2019-01-24
+Sin Pijama,82,Becky G,Becky G feat. Natti Natasha,Sin Pijama,El Top 50 de Uruguay,50,0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-5,0.104,0.82,94.014,188560,4,2018-04-20
+Sola,64,Luis Fonsi,Luis Fonsi,VIDA,El Top 50 de Uruguay,51,0.737,0.525,6,-6.677,0,0.25,0.509,0,0.0608,0.483,127.97,205053,3,2019-02-01
+Verte Ir,91,DJ Luian,DJ Luian feat. Mambo Kingz feat. Anuel Aa feat. Nicky Jam feat. Darell feat. Brytiago,Verte Ir,El Top 50 de la Republica Dominicana,1,0.857,0.647,11,-4.152,0,0.0984,0.391,1.2e-6,0.0842,0.553,95.982,267500,4,2019-03-28
+Hope,43,Mike Wit,Mike Wit,Hope,El Top 50 de la Republica Dominicana,2,0.694,0.581,6,-7.382,1,0.0496,0.843,2.12e-6,0.0823,0.664,107.059,172722,4,2019-04-12
+Pa Mí - Remix,92,Dalex,Dalex feat. Rafa Pabön feat. Khea feat. Sech feat. Cazzu feat. Feid feat. Lenny Tavárez,Pa Mí (Remix),El Top 50 de la Republica Dominicana,3,0.688,0.62,11,-8.029,0,0.22,0.753,5.27e-6,0.158,0.727,170.018,360960,4,2019-02-07
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de la Republica Dominicana,4,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+Si Se Da,86,Myke Towers,Myke Towers feat. Farruko,Si Se Da,El Top 50 de la Republica Dominicana,5,0.83,0.71,11,-5.523,0,0.326,0.374,0,0.0877,0.703,93.977,237013,4,2019-02-26
+Tiempo,50,Albert Gonzalez,Albert Gonzalez feat. J.Beren feat. Kira Brown,Tiempo,El Top 50 de la Republica Dominicana,6,0.88,0.6,0,-8.21,1,0.0924,0.282,8.94e-5,0.0872,0.535,95.015,192000,4,2019-04-05
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de la Republica Dominicana,7,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+Caro,81,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de la Republica Dominicana,8,0.651,0.575,0,-7.739,1,0.299,0.627,2.02e-4,0.0961,0.248,160.007,229456,4,2018-12-23
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de la Republica Dominicana,9,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Tuyo,43,J.Beren,J.Beren,Tuyo,El Top 50 de la Republica Dominicana,10,0.811,0.881,7,-2.757,0,0.0405,0.183,0.00148,0.0651,0.649,99.987,175800,4,2019-02-22
+La Romana,81,Bad Bunny,Bad Bunny feat. El Alfa,X 100PRE,El Top 50 de la Republica Dominicana,11,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,300579,4,2018-12-23
+Baila Baila Baila,91,Ozuna,Ozuna,Baila Baila Baila,El Top 50 de la Republica Dominicana,12,0.816,0.754,11,-2.75,0,0.111,0.0361,0,0.217,0.533,99.966,158400,4,2019-01-05
+Si Estuviésemos Juntos,83,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de la Republica Dominicana,13,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-5,0.152,0.158,171.854,169248,4,2018-12-23
+Esclavo de Tus Besos,88,Manuel Turizo,Manuel Turizo feat. Ozuna,Esclavo de Tus Besos,El Top 50 de la Republica Dominicana,14,0.805,0.671,5,-5.316,1,0.111,0.113,0,0.278,0.522,90.979,219302,4,2019-02-15
+Ganas,44,D3llano,D3llano feat. Kira Brown feat. J. Parker,Ganas,El Top 50 de la Republica Dominicana,15,0.476,0.445,7,-10.239,0,0.387,0.448,7.13e-5,0.141,0.377,81.396,175243,4,2019-02-15
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de la Republica Dominicana,16,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Te Robaré,90,Nicky Jam,Nicky Jam feat. Ozuna,Te Robaré,El Top 50 de la Republica Dominicana,17,0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-5,0.0813,0.797,175.997,201818,4,2019-03-22
+Lo Prohibido,42,Mike Wit,Mike Wit feat. D3llano feat. Life After Party feat. J. Parker,Lo Prohibido,El Top 50 de la Republica Dominicana,18,0.633,0.677,7,-8.124,1,0.29,0.207,0,0.12,0.562,89.899,214667,4,2018-08-10
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de la Republica Dominicana,19,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Aullando,87,Wisin & Yandel,Wisin & Yandel feat. Romeo Santos,"Los Campeones del Pueblo ""The Big Leagues""",El Top 50 de la Republica Dominicana,20,0.8,0.74,10,-4.52,0,0.0479,0.184,0,0.0558,0.775,90.035,226200,4,2018-12-14
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de la Republica Dominicana,21,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de la Republica Dominicana,22,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+"Pomposo (Remix) [feat. Yomel el Meloso, Shadow Blow & Bulova]",66,El Alfa,El Alfa feat. Jowell & Randy feat. Zion & Lennox feat. Bulova feat. Shadow Blow feat. Yomel El Meloso,"Pomposo (Remix) [feat. Yomel el Meloso, Shadow Blow & Bulova]",El Top 50 de la Republica Dominicana,23,0.871,0.931,8,-3.647,1,0.0503,0.305,0.00275,0.232,0.767,125.03,225600,4,2019-02-22
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de la Republica Dominicana,24,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+Ella Quiere Beber - Remix,87,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de la Republica Dominicana,25,0.75,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.697,95.239,219357,4,2018-11-02
+Un Año,87,Sebastian Yatra,Sebastian Yatra feat. Reik,Un Año,El Top 50 de la Republica Dominicana,26,0.771,0.382,1,-6.808,0,0.0514,0.148,0,0.104,0.535,94.931,164440,4,2019-01-18
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de la Republica Dominicana,27,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de la Republica Dominicana,28,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Que Le De,84,Rauw Alejandro,Rauw Alejandro feat. Nicky Jam,Que Le De,El Top 50 de la Republica Dominicana,29,0.77,0.75,0,-2.715,1,0.0785,0.19,0,0.0618,0.609,99.997,225600,4,2019-01-25
+Otra Noche en Miami,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de la Republica Dominicana,30,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-5,0.0958,0.297,88.661,233128,4,2018-12-23
+Con Altura,90,ROSALÍA,ROSALÍA feat. J Balvin feat. El Guincho,Con Altura,El Top 50 de la Republica Dominicana,31,0.882,0.689,6,-4.027,1,0.124,0.39,0.00325,0.0501,0.746,97.963,161627,4,2019-03-28
+200 Mph,77,Bad Bunny,Bad Bunny feat. Diplo feat. Nitti Gritti,X 100PRE,El Top 50 de la Republica Dominicana,32,0.85,0.5,8,-6.708,1,0.0665,0.0139,3.84e-4,0.0947,0.816,160.02,170509,4,2018-12-23
+HP,92,Maluma,Maluma,HP,El Top 50 de la Republica Dominicana,33,0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-6,0.188,0.618,91.98,184436,4,2019-03-01
+Me Ignoras (feat. Kayl),34,Mike Wit,Mike Wit feat. Kayl,Me Ignoras (feat. Kayl),El Top 50 de la Republica Dominicana,34,0.659,0.744,5,-4.801,0,0.0449,0.24,0,0.166,0.694,105.988,173595,4,2019-03-01
+Baby,84,Amenazzy,Amenazzy feat. Nicky Jam feat. Farruko,Baby,El Top 50 de la Republica Dominicana,35,0.7,0.71,11,-4.835,1,0.0532,0.327,0,0.129,0.582,167.971,235973,4,2018-12-21
+Controla,82,Brytiago,Brytiago feat. Anuel Aa,Controla,El Top 50 de la Republica Dominicana,36,0.758,0.699,6,-5.636,1,0.171,0.504,0,0.0922,0.594,90.013,208000,4,2019-02-15
+bad guy,100,Billie Eilish,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",El Top 50 de la Republica Dominicana,37,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,4,2019-03-29
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de la Republica Dominicana,38,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de la Republica Dominicana,39,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de la Republica Dominicana,40,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de la Republica Dominicana,41,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Soltera,86,Lunay,Lunay feat. Chris Jeday feat. Gaby Music,Soltera,El Top 50 de la Republica Dominicana,42,0.778,0.731,5,-4.325,1,0.0399,0.446,0,0.251,0.854,91.991,213913,4,2019-02-21
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de la Republica Dominicana,43,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Pa Olvidarte (feat. Manuel Turizo) - Remix,84,ChocQuibTown,ChocQuibTown feat. Zion & Lennox feat. Farruko feat. Manuel Turizo,Pa Olvidarte (feat. Manuel Turizo) [Remix],El Top 50 de la Republica Dominicana,44,0.724,0.791,7,-5.411,1,0.169,0.0441,6.55e-6,0.239,0.856,176.011,256418,4,2019-02-01
+7 rings,90,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de la Republica Dominicana,45,0.778,0.317,1,-10.732,0,0.334,0.592,0,0.0881,0.327,140.048,178627,4,2019-02-08
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de la Republica Dominicana,46,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Ta To Gucci (Remix),82,Cauty,Cauty feat. Brytiago feat. Darell feat. Cosculluela feat. Rafa Pabön feat. Chencho Corleone,Cauty VS Young Cauty,El Top 50 de la Republica Dominicana,47,0.73,0.648,1,-6.405,0,0.378,0.383,1.12e-4,0.103,0.675,187.991,304859,4,2018-12-07
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de la Republica Dominicana,48,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de la Republica Dominicana,49,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Estamos Bien,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de la Republica Dominicana,50,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-6,0.107,0.439,119.883,208080,4,2018-12-23
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de Perú,1,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+Pa Mí - Remix,92,Dalex,Dalex feat. Rafa Pabön feat. Khea feat. Sech feat. Cazzu feat. Feid feat. Lenny Tavárez,Pa Mí (Remix),El Top 50 de Perú,2,0.688,0.62,11,-8.029,0,0.22,0.753,5.27e-6,0.158,0.727,170.018,360960,4,2019-02-07
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de Perú,3,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Perú,4,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+HP,92,Maluma,Maluma,HP,El Top 50 de Perú,5,0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-6,0.188,0.618,91.98,184436,4,2019-03-01
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Perú,6,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Perú,7,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Perú,8,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Un Año,87,Sebastian Yatra,Sebastian Yatra feat. Reik,Un Año,El Top 50 de Perú,9,0.771,0.382,1,-6.808,0,0.0514,0.148,0,0.104,0.535,94.931,164440,4,2019-01-18
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Perú,10,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Ella Quiere Beber - Remix,87,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Perú,11,0.75,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.697,95.239,219357,4,2018-11-02
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Perú,12,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Baila Baila Baila,91,Ozuna,Ozuna,Baila Baila Baila,El Top 50 de Perú,13,0.816,0.754,11,-2.75,0,0.111,0.0361,0,0.217,0.533,99.966,158400,4,2019-01-05
+Faldita,70,Leslie Shaw,Leslie Shaw feat. Mau y Ricky,Faldita,El Top 50 de Perú,14,0.846,0.789,11,-3.245,0,0.0653,0.00828,5.42e-5,0.058,0.806,98,190193,4,2019-03-08
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Perú,15,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Verte Ir,91,DJ Luian,DJ Luian feat. Mambo Kingz feat. Anuel Aa feat. Nicky Jam feat. Darell feat. Brytiago,Verte Ir,El Top 50 de Perú,16,0.857,0.647,11,-4.152,0,0.0984,0.391,1.2e-6,0.0842,0.553,95.982,267500,4,2019-03-28
+Baby,84,Amenazzy,Amenazzy feat. Nicky Jam feat. Farruko,Baby,El Top 50 de Perú,17,0.7,0.71,11,-4.835,1,0.0532,0.327,0,0.129,0.582,167.971,235973,4,2018-12-21
+Esclavo de Tus Besos,88,Manuel Turizo,Manuel Turizo feat. Ozuna,Esclavo de Tus Besos,El Top 50 de Perú,18,0.805,0.671,5,-5.316,1,0.111,0.113,0,0.278,0.522,90.979,219302,4,2019-02-15
+Pa Olvidarte (feat. Manuel Turizo) - Remix,84,ChocQuibTown,ChocQuibTown feat. Zion & Lennox feat. Farruko feat. Manuel Turizo,Pa Olvidarte (feat. Manuel Turizo) [Remix],El Top 50 de Perú,19,0.724,0.791,7,-5.411,1,0.169,0.0441,6.55e-6,0.239,0.856,176.011,256418,4,2019-02-01
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Perú,20,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Perú,21,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Te Robaré,90,Nicky Jam,Nicky Jam feat. Ozuna,Te Robaré,El Top 50 de Perú,22,0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-5,0.0813,0.797,175.997,201818,4,2019-03-22
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Perú,23,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Dile la Verdad,80,The Rudeboyz,The Rudeboyz feat. Jowell & Randy feat. Manuel Turizo,Dile la Verdad,El Top 50 de Perú,24,0.886,0.701,7,-3.504,1,0.141,0.292,1.16e-5,0.0574,0.823,103.002,219029,4,2019-01-11
+Aullando,87,Wisin & Yandel,Wisin & Yandel feat. Romeo Santos,"Los Campeones del Pueblo ""The Big Leagues""",El Top 50 de Perú,25,0.8,0.74,10,-4.52,0,0.0479,0.184,0,0.0558,0.775,90.035,226200,4,2018-12-14
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Perú,26,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Perú,27,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+Imposible,72,Luis Fonsi,Luis Fonsi feat. Ozuna,VIDA,El Top 50 de Perú,28,0.783,0.738,11,-4.078,1,0.0741,0.127,0,0.127,0.925,90.976,164533,4,2019-02-01
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Perú,29,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Perú,30,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Tal Vez,90,Paulo Londra,Paulo Londra,Tal Vez,El Top 50 de Perú,31,0.849,0.655,8,-2.899,1,0.106,0.266,0,0.0781,0.76,161.966,264483,4,2019-04-03
+Cristina,82,Sebastian Yatra,Sebastian Yatra,Cristina,El Top 50 de Perú,32,0.649,0.502,5,-4.368,1,0.0437,0.286,0,0.166,0.695,87,202040,3,2019-03-22
+Déjalo,78,Nacho,Nacho feat. Manuel Turizo,Déjalo,El Top 50 de Perú,33,0.743,0.795,11,-5.733,1,0.0732,0.199,0,0.0577,0.682,95.003,202893,4,2018-11-30
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de Perú,34,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+Que Le De,84,Rauw Alejandro,Rauw Alejandro feat. Nicky Jam,Que Le De,El Top 50 de Perú,35,0.77,0.75,0,-2.715,1,0.0785,0.19,0,0.0618,0.609,99.997,225600,4,2019-01-25
+Destino,80,Greeicy,Greeicy feat. Nacho,Destino,El Top 50 de Perú,36,0.708,0.761,0,-3.02,1,0.093,0.0105,8.51e-6,0.0462,0.71,188.124,180480,4,2019-03-15
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Perú,37,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+Con Altura,90,ROSALÍA,ROSALÍA feat. J Balvin feat. El Guincho,Con Altura,El Top 50 de Perú,38,0.882,0.689,6,-4.027,1,0.124,0.39,0.00325,0.0501,0.746,97.963,161627,4,2019-03-28
+Señor Mentira,65,Daniela Darcourt,Daniela Darcourt,Señor Mentira,El Top 50 de Perú,39,0.613,0.89,10,-5.504,0,0.0418,0.382,5.69e-6,0.137,0.837,179.931,269232,4,2019-02-14
+Déjate Querer,83,Lalo Ebratt,Lalo Ebratt feat. Sebastian Yatra feat. Yera feat. Trapical Minds,Déjate Querer,El Top 50 de Perú,40,0.755,0.792,6,-4.238,1,0.0484,0.028,0,0.0754,0.844,106.014,202824,4,2019-02-28
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Perú,41,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+A Solas - Remix,82,Lunay,Lunay feat. Lyanno feat. Anuel Aa feat. Brytiago feat. Alex Rose,A Solas Remix,El Top 50 de Perú,42,0.618,0.743,6,-2.576,0,0.141,0.657,5.95e-6,0.143,0.589,180.021,273198,4,2018-12-07
+Adiós Amor,64,Daniela Darcourt,Daniela Darcourt,Adiós Amor,El Top 50 de Perú,43,0.677,0.771,1,-6.204,1,0.034,0.205,2.71e-6,0.0912,0.304,92.514,268214,4,2018-10-01
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Perú,44,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+PPP - Remix,78,Kevin Roldan,Kevin Roldan feat. Zion & Lennox feat. DJ Maff,PPP (Remix),El Top 50 de Perú,45,0.803,0.749,4,-4.358,1,0.143,0.287,0,0.369,0.67,93.005,214600,4,2019-01-25
+Por Perro,71,Sebastian Yatra,Sebastian Yatra feat. Luis Figueroa feat. Lary Over,MANTRA,El Top 50 de Perú,46,0.684,0.762,0,-5.18,1,0.0501,0.429,0,0.0852,0.892,172.009,245440,4,2018-05-18
+Soltera,86,Lunay,Lunay feat. Chris Jeday feat. Gaby Music,Soltera,El Top 50 de Perú,47,0.778,0.731,5,-4.325,1,0.0399,0.446,0,0.251,0.854,91.991,213913,4,2019-02-21
+Hipócrita,79,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de Perú,48,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Perú,49,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+Swing,84,Danny Ocean,Danny Ocean,54+1,El Top 50 de Perú,50,0.729,0.616,8,-6.422,1,0.249,0.458,0,0.082,0.532,106.486,155058,4,2019-03-22
+Otro Trago,88,Sech,Sech feat. Darell,Sueños,El Top 50 de Paraguay,1,0.747,0.7,0,-4.669,1,0.341,0.136,1.67e-4,0.11,0.62,176.036,225933,4,2019-04-19
+Tal Vez,90,Paulo Londra,Paulo Londra,Tal Vez,El Top 50 de Paraguay,2,0.849,0.655,8,-2.899,1,0.106,0.266,0,0.0781,0.76,161.966,264483,4,2019-04-03
+Tuyo,43,J.Beren,J.Beren,Tuyo,El Top 50 de Paraguay,3,0.811,0.881,7,-2.757,0,0.0405,0.183,0.00148,0.0651,0.649,99.987,175800,4,2019-02-22
+Que Mas Pues - Remix,83,Sech,Sech feat. Justin Quiles feat. Maluma feat. Nicky Jam feat. Farruko feat. Dalex feat. Lenny Tavárez,Sueños,El Top 50 de Paraguay,4,0.648,0.661,11,-5.027,1,0.195,0.121,2.33e-6,0.12,0.813,113.363,305962,5,2019-04-19
+Apagar la luz (feat. Gustavo Elis),17,Polo Nandez,Polo Nandez feat. Gustavo Elis,Apagar la luz (feat. Gustavo Elis),El Top 50 de Paraguay,5,0.445,0.78,0,-6.525,1,0.121,0.573,0,0.135,0.712,100.008,190081,3,2019-05-10
+Soltera - Remix,75,Lunay,Lunay feat. Daddy Yankee feat. Bad Bunny,Soltera (Remix),El Top 50 de Paraguay,6,0.795,0.783,5,-4.271,1,0.0432,0.361,0,0.437,0.8,92.016,266087,4,2019-05-10
+Verte Ir,91,DJ Luian,DJ Luian feat. Mambo Kingz feat. Anuel Aa feat. Nicky Jam feat. Darell feat. Brytiago,Verte Ir,El Top 50 de Paraguay,7,0.857,0.647,11,-4.152,0,0.0984,0.391,1.2e-6,0.0842,0.553,95.982,267500,4,2019-03-28
+Pa Mí - Remix,51,Dalex,Dalex feat. Rafa Pabön feat. Khea feat. Sech feat. Feid feat. Cazzu feat. Lenny Tavárez,Climaxxx,El Top 50 de Paraguay,8,0.688,0.62,11,-8.029,0,0.22,0.753,5.27e-6,0.158,0.727,170.018,360960,4,2019-05-10
+Tiempo,50,Albert Gonzalez,Albert Gonzalez feat. J.Beren feat. Kira Brown,Tiempo,El Top 50 de Paraguay,9,0.88,0.6,0,-8.21,1,0.0924,0.282,8.94e-5,0.0872,0.535,95.015,192000,4,2019-04-05
+Solita,72,Sech,Sech feat. Farruko feat. Zion & Lennox,Sueños,El Top 50 de Paraguay,10,0.679,0.831,2,-1.866,1,0.109,0.159,1.1e-6,0.097,0.88,88.792,219520,4,2019-04-19
+Cuaderno,65,Dalex,Dalex feat. Nicky Jam feat. Justin Quiles feat. Sech feat. Lenny Tavárez feat. Feid feat. Rafa Pabön,Climaxxx,El Top 50 de Paraguay,11,0.681,0.648,1,-5.021,0,0.38,0.524,0,0.104,0.687,172.019,286507,4,2019-05-10
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de Paraguay,12,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+La Regalada,38,Maria Campos,Maria Campos,La Regalada,El Top 50 de Paraguay,13,0.532,0.726,4,-4.066,0,0.293,0.247,0.00204,0.177,0.363,179.605,200762,4,2019-04-26
+Si Se Da,86,Myke Towers,Myke Towers feat. Farruko,Si Se Da,El Top 50 de Paraguay,14,0.83,0.71,11,-5.523,0,0.326,0.374,0,0.0877,0.703,93.977,237013,4,2019-02-26
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de Paraguay,15,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+Hope,43,Mike Wit,Mike Wit,Hope,El Top 50 de Paraguay,16,0.694,0.581,6,-7.382,1,0.0496,0.843,2.12e-6,0.0823,0.664,107.059,172722,4,2019-04-12
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Paraguay,17,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Te Robaré,90,Nicky Jam,Nicky Jam feat. Ozuna,Te Robaré,El Top 50 de Paraguay,18,0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-5,0.0813,0.797,175.997,201818,4,2019-03-22
+Miss Lonely - Dimelo Flow Remix,72,Sech,Sech feat. Justin Quiles feat. De La Ghetto feat. Dimelo Flow,Sueños,El Top 50 de Paraguay,19,0.669,0.711,0,-5.461,1,0.156,0.176,0,0.024,0.717,81.921,240366,4,2019-04-19
+Desconocidos,63,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Para Aventuras y Curiosidades,El Top 50 de Paraguay,20,0.719,0.753,7,-4.891,1,0.179,0.118,4.21e-6,0.212,0.675,174.107,204564,4,2019-05-03
+Esclavo de Tus Besos,88,Manuel Turizo,Manuel Turizo feat. Ozuna,Esclavo de Tus Besos,El Top 50 de Paraguay,21,0.805,0.671,5,-5.316,1,0.111,0.113,0,0.278,0.522,90.979,219302,4,2019-02-15
+HP,92,Maluma,Maluma,HP,El Top 50 de Paraguay,22,0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-6,0.188,0.618,91.98,184436,4,2019-03-01
+Baila Baila Baila - Remix,84,Ozuna,Ozuna feat. Daddy Yankee feat. J Balvin feat. Farruko feat. Anuel Aa,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",El Top 50 de Paraguay,23,0.785,0.572,2,-7.504,1,0.123,0.0598,0,0.218,0.49,100.016,235284,4,2019-04-25
+Delincuente,76,Farruko,Farruko feat. Anuel Aa feat. Kendo Kaponi,Gangalee,El Top 50 de Paraguay,24,0.655,0.858,0,-5.607,0,0.315,0.53,0,0.344,0.65,83.489,396120,4,2019-04-26
+Sígueme - Remix,75,Feid,Feid feat. Sech,Sígueme (Remix),El Top 50 de Paraguay,25,0.753,0.522,1,-5.649,0,0.259,0.618,5.66e-5,0.106,0.651,174.016,202547,4,2019-02-01
+Someone Else,6,Mike Wit,Mike Wit feat. Carlota Mad,What The End of A Relationship Sounds Like,El Top 50 de Paraguay,26,0.609,0.734,5,-4.527,1,0.0419,0.522,4.46e-6,0.0721,0.572,109.925,218662,4,2019-05-03
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Paraguay,27,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Controla,82,Brytiago,Brytiago feat. Anuel Aa,Controla,El Top 50 de Paraguay,28,0.758,0.699,6,-5.636,1,0.171,0.504,0,0.0922,0.594,90.013,208000,4,2019-02-15
+A Solas - Remix,82,Lunay,Lunay feat. Lyanno feat. Anuel Aa feat. Brytiago feat. Alex Rose,A Solas Remix,El Top 50 de Paraguay,29,0.618,0.743,6,-2.576,0,0.141,0.657,5.95e-6,0.143,0.589,180.021,273198,4,2018-12-07
+Soltera,86,Lunay,Lunay feat. Chris Jeday feat. Gaby Music,Soltera,El Top 50 de Paraguay,30,0.778,0.731,5,-4.325,1,0.0399,0.446,0,0.251,0.854,91.991,213913,4,2019-02-21
+Qué Más Pues,77,Sech,Sech feat. Justin Quiles,The Sensation,El Top 50 de Paraguay,31,0.563,0.565,8,-5.514,0,0.376,0.065,1.69e-4,0.0855,0.818,169.841,203667,4,2018-12-06
+Rebota,84,Guaynaa,Guaynaa,Rebota,El Top 50 de Paraguay,32,0.796,0.911,1,-1.998,1,0.285,0.188,0,0.499,0.918,180.128,204631,4,2018-12-14
+Dices Que Te Vas,71,Karol G,Karol G feat. Anuel Aa,OCEAN,El Top 50 de Paraguay,33,0.506,0.287,7,-10.009,1,0.0643,0.861,0,0.605,0.57,147.076,202053,4,2019-05-03
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Paraguay,34,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Baby,84,Amenazzy,Amenazzy feat. Nicky Jam feat. Farruko,Baby,El Top 50 de Paraguay,35,0.7,0.71,11,-4.835,1,0.0532,0.327,0,0.129,0.582,167.971,235973,4,2018-12-21
+Aullando,87,Wisin & Yandel,Wisin & Yandel feat. Romeo Santos,"Los Campeones del Pueblo ""The Big Leagues""",El Top 50 de Paraguay,36,0.8,0.74,10,-4.52,0,0.0479,0.184,0,0.0558,0.775,90.035,226200,4,2018-12-14
+Que Le De,84,Rauw Alejandro,Rauw Alejandro feat. Nicky Jam,Que Le De,El Top 50 de Paraguay,37,0.77,0.75,0,-2.715,1,0.0785,0.19,0,0.0618,0.609,99.997,225600,4,2019-01-25
+Si Estuviésemos Juntos,83,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Paraguay,38,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-5,0.152,0.158,171.854,169248,4,2018-12-23
+Ella Quiere Beber - Remix,87,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Paraguay,39,0.75,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.697,95.239,219357,4,2018-11-02
+Punto G,67,Karol G,Karol G,OCEAN,El Top 50 de Paraguay,40,0.791,0.746,6,-4.716,1,0.0907,0.00938,1.17e-4,0.125,0.905,165.994,183160,4,2019-05-03
+Un Año,74,Sebastian Yatra,Sebastian Yatra feat. Reik,FANTASÍA,El Top 50 de Paraguay,41,0.773,0.378,1,-7.062,0,0.0531,0.14,0,0.133,0.513,94.946,163813,4,2019-04-12
+Vuelva A Ver - Remix,42,Dalex,Dalex feat. Lyanno feat. Sech feat. Justin Quiles feat. Rauw Alejandro,Climaxxx,El Top 50 de Paraguay,42,0.704,0.592,9,-5.368,1,0.194,0.644,0,0.802,0.386,159.872,267110,4,2019-05-10
+Pa Olvidarte (feat. Manuel Turizo) - Remix,84,ChocQuibTown,ChocQuibTown feat. Zion & Lennox feat. Farruko feat. Manuel Turizo,Pa Olvidarte (feat. Manuel Turizo) [Remix],El Top 50 de Paraguay,43,0.724,0.791,7,-5.411,1,0.169,0.0441,6.55e-6,0.239,0.856,176.011,256418,4,2019-02-01
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Paraguay,44,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Paraguay,45,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Contra La Pared,74,Sean Paul,Sean Paul feat. J Balvin,Contra La Pared,El Top 50 de Paraguay,46,0.828,0.588,2,-7.14,1,0.118,0.0156,0,0.124,0.598,94.052,224681,4,2019-03-14
+Ocean,73,Karol G,Karol G,OCEAN,El Top 50 de Paraguay,47,0.727,0.482,11,-6.193,1,0.115,0.933,0,0.388,0.487,74.93,155947,4,2019-05-03
+Créeme,63,Karol G,Karol G feat. Maluma,OCEAN,El Top 50 de Paraguay,48,0.715,0.874,6,-3.576,1,0.0548,0.126,1.62e-4,0.105,0.652,96.995,214293,4,2019-05-03
+Culpables,61,Karol G,Karol G feat. Anuel Aa,OCEAN,El Top 50 de Paraguay,49,0.728,0.812,8,-3.017,0,0.0833,0.287,2.9e-6,0.13,0.418,130.029,228960,4,2019-05-03
+I Don't Care (with Justin Bieber),88,Ed Sheeran,Ed Sheeran feat. Justin Bieber,I Don't Care (with Justin Bieber),El Top 50 de Paraguay,50,0.798,0.675,6,-5.041,1,0.0442,0.0912,0,0.0894,0.842,101.956,219947,4,2019-05-10
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Panamá,1,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Ganas,44,D3llano,D3llano feat. Kira Brown feat. J. Parker,Ganas,El Top 50 de Panamá,2,0.476,0.445,7,-10.239,0,0.387,0.448,7.13e-5,0.141,0.377,81.396,175243,4,2019-02-15
+Lollipop,57,Boza,Boza feat. Faster,Lollipop,El Top 50 de Panamá,3,0.667,0.935,10,-2.98,0,0.164,0.365,0,0.105,0.877,194.115,227653,4,2018-11-20
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Panamá,4,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Panamá,5,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Panamá,6,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Panamá,7,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Panamá,8,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Panamá,9,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Panamá,10,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Panamá,11,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Me Gustaría,62,Sech,Sech feat. Justin Quiles feat. Jowell & Randy,The Sensation,El Top 50 de Panamá,12,0.683,0.486,8,-7.014,0,0.236,0.328,0,0.08,0.721,170.053,219706,4,2018-12-06
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Panamá,13,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Panamá,14,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Panamá,15,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de Panamá,16,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de Panamá,17,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Panamá,18,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Panamá,19,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Luz Apaga,78,Ozuna,Ozuna feat. Lunay feat. Rauw Alejandro feat. Lyanno,Luz Apaga,El Top 50 de Panamá,20,0.611,0.791,1,-3.558,1,0.173,0.19,3.02e-6,0.12,0.658,192.07,245000,4,2018-11-16
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Panamá,21,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Panamá,22,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Panamá,23,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+Caro,81,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Panamá,24,0.651,0.575,0,-7.739,1,0.299,0.627,2.02e-4,0.0961,0.248,160.007,229456,4,2018-12-23
+Otra Noche en Miami,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Panamá,25,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-5,0.0958,0.297,88.661,233128,4,2018-12-23
+Devuelveme,78,Ozuna,Ozuna,Aura,El Top 50 de Panamá,26,0.744,0.769,11,-4.112,1,0.156,0.554,6.96e-6,0.102,0.784,176.002,188907,4,2018-08-24
+MALA (feat. Anuel Aa),80,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Panamá,27,0.719,0.825,5,-3.627,0,0.0424,0.689,0,0.103,0.789,100.006,206550,4,2018-11-27
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de Panamá,28,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Quiere Beber,58,Anuel Aa,Anuel Aa,Real Hasta la Muerte,El Top 50 de Panamá,29,0.773,0.57,8,-3.482,1,0.113,0.372,0.00524,0.108,0.772,95.038,187125,4,2018-07-17
+Hipócrita,58,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de Panamá,30,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Panamá,31,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de Panamá,32,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+A Solas - Remix,82,Lunay,Lunay feat. Lyanno feat. Anuel Aa feat. Brytiago feat. Alex Rose,A Solas Remix,El Top 50 de Panamá,33,0.618,0.743,6,-2.576,0,0.141,0.657,5.95e-6,0.143,0.589,180.021,273198,4,2018-12-07
+Si Estuviésemos Juntos,83,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Panamá,34,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-5,0.152,0.158,171.854,169248,4,2018-12-23
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Panamá,35,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+Está Rico,77,Marc Anthony,Marc Anthony feat. Will Smith feat. Bad Bunny,Está Rico,El Top 50 de Panamá,36,0.817,0.74,11,-4.566,0,0.283,0.266,0,0.0992,0.674,130.04,215151,4,2018-09-28
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Panamá,37,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Te Gusta Hacerla,51,Eddy Lover,Eddy Lover feat. Akim,Te Gusta Hacerla,El Top 50 de Panamá,38,0.633,0.719,6,-4.396,0,0.256,0.0251,0,0.0161,0.85,133.192,229000,5,2018-07-12
+La Vida,63,Sech,Sech,The Sensation,El Top 50 de Panamá,39,0.528,0.315,5,-11.42,1,0.0787,0.931,0,0.112,0.354,86.09,220457,4,2018-12-06
+Qué Más Pues,77,Sech,Sech feat. Justin Quiles,The Sensation,El Top 50 de Panamá,40,0.563,0.565,8,-5.514,0,0.376,0.065,1.69e-4,0.0855,0.818,169.841,203667,4,2018-12-06
+Estamos Bien,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Panamá,41,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-6,0.107,0.439,119.883,208080,4,2018-12-23
+Cumpleaños,60,Sech,Sech,The Sensation,El Top 50 de Panamá,42,0.559,0.531,5,-5.337,1,0.11,0.449,1.59e-4,0.217,0.663,179.892,198000,4,2018-12-06
+Mocca,70,Lalo Ebratt,Lalo Ebratt feat. Trapical,Mocca,El Top 50 de Panamá,43,0.786,0.695,1,-5.343,0,0.353,0.185,0,0.123,0.591,97.957,200293,4,2018-04-27
+200 Mph,77,Bad Bunny,Bad Bunny feat. Diplo feat. Nitti Gritti,X 100PRE,El Top 50 de Panamá,44,0.85,0.5,8,-6.708,1,0.0665,0.0139,3.84e-4,0.0947,0.816,160.02,170509,4,2018-12-23
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Panamá,45,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de Panamá,46,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de Panamá,47,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Déjalo,78,Nacho,Nacho feat. Manuel Turizo,Déjalo,El Top 50 de Panamá,48,0.743,0.795,11,-5.733,1,0.0732,0.199,0,0.0577,0.682,95.003,202893,4,2018-11-30
+Desde el Corazón,73,Bad Bunny,Bad Bunny,Más de un Siglo,El Top 50 de Panamá,49,0.739,0.663,10,-6.398,0,0.266,0.0529,0,0.198,0.368,180.025,127040,4,2018-12-03
+La Romana,81,Bad Bunny,Bad Bunny feat. El Alfa,X 100PRE,El Top 50 de Panamá,50,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,300579,4,2018-12-23
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Nicaragua,1,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,2,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Nicaragua,3,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Nicaragua,4,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,5,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+Si Estuviésemos Juntos,83,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,6,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-5,0.152,0.158,171.854,169248,4,2018-12-23
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Nicaragua,7,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Nicaragua,8,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+Otra Noche en Miami,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,9,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-5,0.0958,0.297,88.661,233128,4,2018-12-23
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de Nicaragua,10,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+200 Mph,77,Bad Bunny,Bad Bunny feat. Diplo feat. Nitti Gritti,X 100PRE,El Top 50 de Nicaragua,11,0.85,0.5,8,-6.708,1,0.0665,0.0139,3.84e-4,0.0947,0.816,160.02,170509,4,2018-12-23
+Caro,81,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,12,0.651,0.575,0,-7.739,1,0.299,0.627,2.02e-4,0.0961,0.248,160.007,229456,4,2018-12-23
+¿Quien Tu Eres?,73,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,13,0.727,0.58,2,-6.804,0,0.136,0.185,3.58e-6,0.125,0.325,137.048,159229,4,2018-12-23
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Nicaragua,14,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Nicaragua,15,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Nicaragua,16,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Estamos Bien,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,17,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-6,0.107,0.439,119.883,208080,4,2018-12-23
+Tenemos Que Hablar,72,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,18,0.855,0.512,11,-8.165,1,0.0534,0.146,8.54e-4,0.107,0.144,146.075,224512,4,2018-12-23
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Nicaragua,19,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Quiere Beber,58,Anuel Aa,Anuel Aa,Real Hasta la Muerte,El Top 50 de Nicaragua,20,0.773,0.57,8,-3.482,1,0.113,0.372,0.00524,0.108,0.772,95.038,187125,4,2018-07-17
+La Romana,81,Bad Bunny,Bad Bunny feat. El Alfa,X 100PRE,El Top 50 de Nicaragua,21,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,300579,4,2018-12-23
+Ser Bichote,72,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,22,0.785,0.626,4,-8.03,0,0.0675,0.158,4.6e-6,0.181,0.183,154.946,193211,4,2018-12-23
+Cuando Perriabas,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,23,0.787,0.705,0,-7.582,1,0.0695,0.137,1.06e-6,0.108,0.499,81.998,188654,4,2018-12-23
+Como Antes,72,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,24,0.767,0.379,0,-10.348,1,0.0385,0.668,1.45e-4,0.217,0.252,103.956,230578,4,2018-12-23
+Feliz Navidad,47,José Feliciano,José Feliciano,The Definite Best,El Top 50 de Nicaragua,25,0.485,0.857,2,-7.059,1,0.0442,0.534,0,0.347,0.963,148.749,182360,4,2001-09-03
+RLNDT,71,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Nicaragua,26,0.6,0.528,0,-6.554,1,0.0308,0.263,0,0.588,0.142,108.025,284853,4,2018-12-23
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Nicaragua,27,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de Nicaragua,28,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Nicaragua,29,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+Mocca,70,Lalo Ebratt,Lalo Ebratt feat. Trapical,Mocca,El Top 50 de Nicaragua,30,0.786,0.695,1,-5.343,0,0.353,0.185,0,0.123,0.591,97.957,200293,4,2018-04-27
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de Nicaragua,31,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Nicaragua,32,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Nicaragua,33,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+Hipócrita,58,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de Nicaragua,34,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+I Like It,87,Cardi B,Cardi B feat. Bad Bunny feat. J Balvin,Invasion of Privacy,El Top 50 de Nicaragua,35,0.816,0.726,5,-3.998,0,0.129,0.099,0,0.372,0.65,136.048,253390,4,2018-04-06
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de Nicaragua,36,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Nicaragua,37,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Nicaragua,38,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Girls Like You (feat. Cardi B),80,Maroon 5,Maroon 5 feat. Cardi B,Red Pill Blues (Deluxe),El Top 50 de Nicaragua,39,0.851,0.541,0,-6.825,1,0.0505,0.568,0,0.13,0.448,124.959,235545,4,2018-06-15
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de Nicaragua,40,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+All I Want for Christmas Is You,65,Mariah Carey,Mariah Carey,Merry Christmas,El Top 50 de Nicaragua,41,0.335,0.625,7,-7.462,1,0.0386,0.164,0,0.0708,0.346,150.277,241107,4,1994
+Está Rico,77,Marc Anthony,Marc Anthony feat. Will Smith feat. Bad Bunny,Está Rico,El Top 50 de Nicaragua,42,0.817,0.74,11,-4.566,0,0.283,0.266,0,0.0992,0.674,130.04,215151,4,2018-09-28
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de Nicaragua,43,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Bohemian Rhapsody - Remastered 2011,79,Queen,Queen,A Night At The Opera (Deluxe Remastered Version),El Top 50 de Nicaragua,44,0.397,0.396,3,-9.91,1,0.05,0.254,0,0.268,0.227,142.913,354320,4,1975-11-21
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de Nicaragua,45,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+Toda - Remix,26,Alex Rose,Alex Rose feat. Lenny Tavárez feat. Cazzu feat. Rauw Alejandro feat. Lyanno,Fresh,El Top 50 de Nicaragua,46,0.535,0.453,5,-7.5,0,0.136,0.178,0,0.0716,0.425,160.143,378021,4,2018-06-23
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Nicaragua,47,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Nicaragua,48,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Mocca - Remix,74,Lalo Ebratt,Lalo Ebratt feat. J Balvin feat. Trapical,Mocca (Remix),El Top 50 de Nicaragua,49,0.732,0.758,11,-1.694,1,0.189,0.213,0,0.388,0.78,98.007,202876,4,2018-10-05
+Desde el Corazón,73,Bad Bunny,Bad Bunny,Más de un Siglo,El Top 50 de Nicaragua,50,0.739,0.663,10,-6.398,0,0.266,0.0529,0,0.198,0.368,180.025,127040,4,2018-12-03
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de México,1,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de México,2,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de México,3,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de México,4,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de México,5,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de México,6,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+Baby Girl (feat. Lalo Ebratt),79,Mario Bautista,Mario Bautista feat. Lalo Ebratt,Baby Girl (feat. Lalo Ebratt),El Top 50 de México,7,0.804,0.705,1,-5.272,1,0.199,0.0275,1.38e-4,0.202,0.45,103.009,218470,4,2018-08-17
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de México,8,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+No Te Contaron Mal,77,Christian Nodal,Christian Nodal,No Te Contaron Mal,El Top 50 de México,9,0.617,0.57,9,-3.074,0,0.0374,0.388,0,0.143,0.632,163.2,156947,4,2018-09-07
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de México,10,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+A Través Del Vaso,76,Grupo Arranke,Grupo Arranke,A Través Del Vaso,El Top 50 de México,11,0.612,0.694,5,-2.979,1,0.0297,0.358,1.31e-5,0.347,0.92,143.851,188662,3,2017-10-25
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de México,12,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de México,13,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de México,14,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de México,15,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de México,16,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+In My Mind,86,Dynoro,Dynoro feat. Gigi D'Agostino,In My Mind,El Top 50 de México,17,0.694,0.77,6,-5.335,1,0.149,0.176,1.1e-5,0.118,0.163,125.905,184560,4,2018-06-08
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de México,18,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de México,19,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Sunflower - Spider-Man: Into the Spider-Verse,96,Post Malone,Post Malone feat. Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),El Top 50 de México,20,0.76,0.479,2,-5.574,1,0.0466,0.556,0,0.0703,0.913,89.911,158040,4,2018-12-14
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de México,21,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Bohemian Rhapsody - Remastered 2011,79,Queen,Queen,A Night At The Opera (Deluxe Remastered Version),El Top 50 de México,22,0.397,0.396,3,-9.91,1,0.05,0.254,0,0.268,0.227,142.913,354320,4,1975-11-21
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de México,23,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de México,24,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de México,25,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Happier,93,Marshmello,Marshmello feat. Bastille,Happier,El Top 50 de México,26,0.687,0.792,5,-2.749,1,0.0452,0.191,0,0.167,0.671,100.015,214290,4,2018-08-17
+Rucón,72,Aleman,Aleman,Eclipse,El Top 50 de México,27,0.863,0.59,1,-8.768,1,0.5,0.0196,0,0.093,0.579,161.98,168560,4,2018-05-30
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de México,28,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+En Peligro de Extinción,76,La Adictiva Banda San José de Mesillas,La Adictiva Banda San José de Mesillas,En Peligro de Extinción,El Top 50 de México,29,0.709,0.483,0,-3.734,1,0.0281,0.219,2.33e-6,0.241,0.834,123.566,234198,4,2018-06-18
+Ponle,77,Rvssian,Rvssian feat. Farruko feat. J Balvin,Ponle,El Top 50 de México,30,0.857,0.772,10,-4.736,0,0.194,0.187,0.00181,0.0851,0.589,94.028,164765,4,2018-09-06
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de México,31,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de México,32,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de México,33,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Promises (with Sam Smith),87,Calvin Harris,Calvin Harris feat. Sam Smith feat. Jessie Reyez,Promises (with Sam Smith),El Top 50 de México,34,0.781,0.768,11,-5.991,1,0.0394,0.0119,4.9099999999999996e-006,0.325,0.486,123.07,213309,4,2018-08-17
+Mejor Me Alejo,67,Banda Sinaloense MS de Sergio Lizárraga,Banda Sinaloense MS de Sergio Lizárraga,Con Todas Las Fuerzas,El Top 50 de México,35,0.823,0.378,0,-6.906,1,0.0431,0.206,3.95e-6,0.106,0.54,124.084,201960,4,2018-09-14
+Aerolínea Carrillo,75,T3R Elemento,T3R Elemento feat. Gerardo Ortiz,The Green Trip,El Top 50 de México,36,0.669,0.561,1,-6.613,1,0.0318,0.337,0,0.198,0.867,114.405,174276,3,2018-11-16
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de México,37,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Me Rehúso,80,Danny Ocean,Danny Ocean,Me Rehúso,El Top 50 de México,38,0.744,0.804,1,-6.327,1,0.0677,0.0231,0,0.0494,0.426,104.823,205715,4,2017-06-16
+Déjala que vuelva (feat. Manuel Turizo),71,Piso 21,Piso 21 feat. Manuel Turizo,Ubuntu,El Top 50 de México,39,0.681,0.788,1,-4.323,1,0.0785,0.0482,0,0.0753,0.839,170.019,220117,4,2018-05-11
+Ahora Te Puedes Marchar,75,Luis Miguel,Luis Miguel,Soy Como Quiero Ser,El Top 50 de México,40,0.78,0.877,6,-3.683,0,0.0427,0.148,2.36e-6,0.0627,0.909,133.263,191973,4,1987-07-15
+Nunca Es Suficiente,68,Los Angeles Azules,Los Angeles Azules feat. Natalia Lafourcade,Esto Sí Es Cumbia,El Top 50 de México,41,0.789,0.518,2,-5.417,0,0.0406,0.398,0,0.0891,0.78,94.001,266213,4,2018-06-08
+Sin Pijama,82,Becky G,Becky G feat. Natti Natasha,Sin Pijama,El Top 50 de México,42,0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-5,0.104,0.82,94.014,188560,4,2018-04-20
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de México,43,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Cuando Nadie Ve,68,Morat,Morat,Balas Perdidas,El Top 50 de México,44,0.806,0.778,1,-4.577,0,0.0616,0.133,0,0.218,0.84,95.993,219587,4,2018-10-25
+No Me Acuerdo,78,Thalía,Thalía feat. Natti Natasha,Valiente,El Top 50 de México,45,0.837,0.784,7,-4.531,0,0.101,0.175,0,0.0897,0.748,94.036,217653,4,2018-11-09
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de México,46,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Another One Bites The Dust - Remastered 2011,83,Queen,Queen,The Game (2011 Remaster),El Top 50 de México,47,0.933,0.528,5,-6.472,0,0.161,0.112,0.312,0.163,0.754,109.967,214653,4,1980-06-27
+Natural,85,Imagine Dragons,Imagine Dragons,Origins (Deluxe),El Top 50 de México,48,0.704,0.611,2,-6.112,1,0.0409,0.217,0,0.0812,0.22,100,189467,4,2018-11-09
+Girls Like You (feat. Cardi B),80,Maroon 5,Maroon 5 feat. Cardi B,Red Pill Blues (Deluxe),El Top 50 de México,49,0.851,0.541,0,-6.825,1,0.0505,0.568,0,0.13,0.448,124.959,235545,4,2018-06-15
+El Color de Tus Ojos,75,Banda Sinaloense MS de Sergio Lizárraga,Banda Sinaloense MS de Sergio Lizárraga,La Mejor Versión De Mí,El Top 50 de México,50,0.765,0.339,8,-8.965,1,0.0365,0.278,0,0.131,0.864,123.95,202560,4,2017-04-21
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Honduras,1,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Ganas,44,D3llano,D3llano feat. Kira Brown feat. J. Parker,Ganas,El Top 50 de Honduras,2,0.476,0.445,7,-10.239,0,0.387,0.448,7.13e-5,0.141,0.377,81.396,175243,4,2019-02-15
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Honduras,3,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Honduras,4,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Honduras,5,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Honduras,6,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Honduras,7,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Honduras,8,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Honduras,9,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de Honduras,10,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Honduras,11,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Honduras,12,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Honduras,13,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Honduras,14,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Honduras,15,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Honduras,16,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+Quiere Beber,58,Anuel Aa,Anuel Aa,Real Hasta la Muerte,El Top 50 de Honduras,17,0.773,0.57,8,-3.482,1,0.113,0.372,0.00524,0.108,0.772,95.038,187125,4,2018-07-17
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de Honduras,18,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+Mocca,70,Lalo Ebratt,Lalo Ebratt feat. Trapical,Mocca,El Top 50 de Honduras,19,0.786,0.695,1,-5.343,0,0.353,0.185,0,0.123,0.591,97.957,200293,4,2018-04-27
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Honduras,20,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+Otra Noche en Miami,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Honduras,21,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-5,0.0958,0.297,88.661,233128,4,2018-12-23
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Honduras,22,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de Honduras,23,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Honduras,24,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Estamos Bien,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Honduras,25,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-6,0.107,0.439,119.883,208080,4,2018-12-23
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Honduras,26,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de Honduras,27,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Hipócrita,58,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de Honduras,28,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+Caro,81,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Honduras,29,0.651,0.575,0,-7.739,1,0.299,0.627,2.02e-4,0.0961,0.248,160.007,229456,4,2018-12-23
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de Honduras,30,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de Honduras,31,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+Si Estuviésemos Juntos,83,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Honduras,32,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-5,0.152,0.158,171.854,169248,4,2018-12-23
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Honduras,33,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Sunflower - Spider-Man: Into the Spider-Verse,96,Post Malone,Post Malone feat. Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),El Top 50 de Honduras,34,0.76,0.479,2,-5.574,1,0.0466,0.556,0,0.0703,0.913,89.911,158040,4,2018-12-14
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de Honduras,35,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de Honduras,36,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Subete,71,Lary Over,Lary Over feat. Lirico En La Casa,Subete,El Top 50 de Honduras,37,0.888,0.864,10,-2.11,0,0.127,0.609,2.07e-5,0.106,0.77,115.96,224019,4,2018-09-06
+Está Rico,77,Marc Anthony,Marc Anthony feat. Will Smith feat. Bad Bunny,Está Rico,El Top 50 de Honduras,38,0.817,0.74,11,-4.566,0,0.283,0.266,0,0.0992,0.674,130.04,215151,4,2018-09-28
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de Honduras,39,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Honduras,40,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Cuando Perriabas,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Honduras,41,0.787,0.705,0,-7.582,1,0.0695,0.137,1.06e-6,0.108,0.499,81.998,188654,4,2018-12-23
+Bohemian Rhapsody - Remastered 2011,79,Queen,Queen,A Night At The Opera (Deluxe Remastered Version),El Top 50 de Honduras,42,0.397,0.396,3,-9.91,1,0.05,0.254,0,0.268,0.227,142.913,354320,4,1975-11-21
+Mocca - Remix,74,Lalo Ebratt,Lalo Ebratt feat. J Balvin feat. Trapical,Mocca (Remix),El Top 50 de Honduras,43,0.732,0.758,11,-1.694,1,0.189,0.213,0,0.388,0.78,98.007,202876,4,2018-10-05
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Honduras,44,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+Girls Like You (feat. Cardi B),80,Maroon 5,Maroon 5 feat. Cardi B,Red Pill Blues (Deluxe),El Top 50 de Honduras,45,0.851,0.541,0,-6.825,1,0.0505,0.568,0,0.13,0.448,124.959,235545,4,2018-06-15
+I Like It,87,Cardi B,Cardi B feat. Bad Bunny feat. J Balvin,Invasion of Privacy,El Top 50 de Honduras,46,0.816,0.726,5,-3.998,0,0.129,0.099,0,0.372,0.65,136.048,253390,4,2018-04-06
+A Través Del Vaso,76,Grupo Arranke,Grupo Arranke,A Través Del Vaso,El Top 50 de Honduras,47,0.612,0.694,5,-2.979,1,0.0297,0.358,1.31e-5,0.347,0.92,143.851,188662,3,2017-10-25
+200 Mph,77,Bad Bunny,Bad Bunny feat. Diplo feat. Nitti Gritti,X 100PRE,El Top 50 de Honduras,48,0.85,0.5,8,-6.708,1,0.0665,0.0139,3.84e-4,0.0947,0.816,160.02,170509,4,2018-12-23
+La Romana,81,Bad Bunny,Bad Bunny feat. El Alfa,X 100PRE,El Top 50 de Honduras,49,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,300579,4,2018-12-23
+Déjala que vuelva (feat. Manuel Turizo),71,Piso 21,Piso 21 feat. Manuel Turizo,Ubuntu,El Top 50 de Honduras,50,0.681,0.788,1,-4.323,1,0.0785,0.0482,0,0.0753,0.839,170.019,220117,4,2018-05-11
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Guatemala,1,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Guatemala,2,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Guatemala,3,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Guatemala,4,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Guatemala,5,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Guatemala,6,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Guatemala,7,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Guatemala,8,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Guatemala,9,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Guatemala,10,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Guatemala,11,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Guatemala,12,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Guatemala,13,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de Guatemala,14,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Guatemala,15,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Guatemala,16,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Guatemala,17,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Nunca Es Suficiente,68,Los Angeles Azules,Los Angeles Azules feat. Natalia Lafourcade,Esto Sí Es Cumbia,El Top 50 de Guatemala,18,0.789,0.518,2,-5.417,0,0.0406,0.398,0,0.0891,0.78,94.001,266213,4,2018-06-08
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Guatemala,19,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de Guatemala,20,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+Quiere Beber,58,Anuel Aa,Anuel Aa,Real Hasta la Muerte,El Top 50 de Guatemala,21,0.773,0.57,8,-3.482,1,0.113,0.372,0.00524,0.108,0.772,95.038,187125,4,2018-07-17
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de Guatemala,22,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de Guatemala,23,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+Baby Girl (feat. Lalo Ebratt),79,Mario Bautista,Mario Bautista feat. Lalo Ebratt,Baby Girl (feat. Lalo Ebratt),El Top 50 de Guatemala,24,0.804,0.705,1,-5.272,1,0.199,0.0275,1.38e-4,0.202,0.45,103.009,218470,4,2018-08-17
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Guatemala,25,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de Guatemala,26,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Guatemala,27,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Guatemala,28,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Guatemala,29,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de Guatemala,30,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de Guatemala,31,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de Guatemala,32,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+Sunflower - Spider-Man: Into the Spider-Verse,96,Post Malone,Post Malone feat. Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),El Top 50 de Guatemala,33,0.76,0.479,2,-5.574,1,0.0466,0.556,0,0.0703,0.913,89.911,158040,4,2018-12-14
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Guatemala,34,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Guatemala,35,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Por Perro,71,Sebastian Yatra,Sebastian Yatra feat. Luis Figueroa feat. Lary Over,MANTRA,El Top 50 de Guatemala,36,0.684,0.762,0,-5.18,1,0.0501,0.429,0,0.0852,0.892,172.009,245440,4,2018-05-18
+Déjalo,78,Nacho,Nacho feat. Manuel Turizo,Déjalo,El Top 50 de Guatemala,37,0.743,0.795,11,-5.733,1,0.0732,0.199,0,0.0577,0.682,95.003,202893,4,2018-11-30
+A Través Del Vaso,76,Grupo Arranke,Grupo Arranke,A Través Del Vaso,El Top 50 de Guatemala,38,0.612,0.694,5,-2.979,1,0.0297,0.358,1.31e-5,0.347,0.92,143.851,188662,3,2017-10-25
+Hipócrita,58,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de Guatemala,39,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+Caro,81,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Guatemala,40,0.651,0.575,0,-7.739,1,0.299,0.627,2.02e-4,0.0961,0.248,160.007,229456,4,2018-12-23
+Déjala que vuelva (feat. Manuel Turizo),71,Piso 21,Piso 21 feat. Manuel Turizo,Ubuntu,El Top 50 de Guatemala,41,0.681,0.788,1,-4.323,1,0.0785,0.0482,0,0.0753,0.839,170.019,220117,4,2018-05-11
+Reggaetón en lo Oscuro,78,Wisin & Yandel,Wisin & Yandel,"Los Campeones del Pueblo ""The Big Leagues""",El Top 50 de Guatemala,42,0.747,0.898,1,-3.683,1,0.0709,0.0613,1.66e-6,0.0886,0.689,91.97,208947,4,2018-12-14
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de Guatemala,43,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+Epa Wei,76,Danny Ocean,Danny Ocean,Epa Wei,El Top 50 de Guatemala,44,0.688,0.82,6,-4.715,0,0.155,0.233,0,0.091,0.804,107.833,208254,4,2018-08-10
+Estamos Bien,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Guatemala,45,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-6,0.107,0.439,119.883,208080,4,2018-12-23
+Nena Maldición (feat. Lenny Tavárez),77,Paulo Londra,Paulo Londra feat. Lenny Tavárez,Nena Maldición (feat. Lenny Tavárez),El Top 50 de Guatemala,46,0.762,0.631,6,-4.837,1,0.0544,0.178,0,0.146,0.379,118.969,228875,4,2018-01-30
+Me Rehúso,80,Danny Ocean,Danny Ocean,Me Rehúso,El Top 50 de Guatemala,47,0.744,0.804,1,-6.327,1,0.0677,0.0231,0,0.0494,0.426,104.823,205715,4,2017-06-16
+Está Rico,77,Marc Anthony,Marc Anthony feat. Will Smith feat. Bad Bunny,Está Rico,El Top 50 de Guatemala,48,0.817,0.74,11,-4.566,0,0.283,0.266,0,0.0992,0.674,130.04,215151,4,2018-09-28
+Fíjate Que Si,71,Edwin Luna y La Trakalosa de Monterrey,Edwin Luna y La Trakalosa de Monterrey,Fíjate Que Si,El Top 50 de Guatemala,49,0.69,0.434,4,-4.455,1,0.033,0.385,0,0.104,0.617,115.476,204587,3,2018-01-05
+Girls Like You (feat. Cardi B),80,Maroon 5,Maroon 5 feat. Cardi B,Red Pill Blues (Deluxe),El Top 50 de Guatemala,50,0.851,0.541,0,-6.825,1,0.0505,0.568,0,0.13,0.448,124.959,235545,4,2018-06-15
+Soltera - Remix,75,Lunay,Lunay feat. Daddy Yankee feat. Bad Bunny,Soltera (Remix),El Top 50 de España,1,0.795,0.783,5,-4.271,1,0.0432,0.361,0,0.437,0.8,92.016,266087,4,2019-05-10
+Con Altura,90,ROSALÍA,ROSALÍA feat. J Balvin feat. El Guincho,Con Altura,El Top 50 de España,2,0.882,0.689,6,-4.027,1,0.124,0.39,0.00325,0.0501,0.746,97.963,161627,4,2019-03-28
+La Playa,81,Myke Towers,Myke Towers,La Playa,El Top 50 de España,3,0.796,0.683,10,-2.754,0,0.15,0.108,0,0.107,0.353,140.108,207731,4,2019-04-09
+Apagar la luz (feat. Gustavo Elis),17,Polo Nandez,Polo Nandez feat. Gustavo Elis,Apagar la luz (feat. Gustavo Elis),El Top 50 de España,4,0.445,0.78,0,-6.525,1,0.121,0.573,0,0.135,0.712,100.008,190081,3,2019-05-10
+Contando Lunares (feat. Cruz Cafuné),69,Don Patricio,Don Patricio feat. Cruz Cafuné,La Dura Vida del Joven Rapero,El Top 50 de España,5,0.856,0.523,4,-10.481,0,0.131,0.444,0,0.0537,0.709,105.935,219667,4,2019-01-27
+Tal Vez,90,Paulo Londra,Paulo Londra,Tal Vez,El Top 50 de España,6,0.849,0.655,8,-2.899,1,0.106,0.266,0,0.0781,0.76,161.966,264483,4,2019-04-03
+Verte Ir,91,DJ Luian,DJ Luian feat. Mambo Kingz feat. Anuel Aa feat. Nicky Jam feat. Darell feat. Brytiago,Verte Ir,El Top 50 de España,7,0.857,0.647,11,-4.152,0,0.0984,0.391,1.2e-6,0.0842,0.553,95.982,267500,4,2019-03-28
+Tiempo,50,Albert Gonzalez,Albert Gonzalez feat. J.Beren feat. Kira Brown,Tiempo,El Top 50 de España,8,0.88,0.6,0,-8.21,1,0.0924,0.282,8.94e-5,0.0872,0.535,95.015,192000,4,2019-04-05
+Fashion,33,Dominique Young Unique,Dominique Young Unique,Fashion,El Top 50 de España,9,0.762,0.666,1,-7.742,1,0.124,0.0366,0,0.206,0.223,79.994,256500,4,2019-05-03
+Tuyo,43,J.Beren,J.Beren,Tuyo,El Top 50 de España,10,0.811,0.881,7,-2.757,0,0.0405,0.183,0.00148,0.0651,0.649,99.987,175800,4,2019-02-22
+Otro Trago,88,Sech,Sech feat. Darell,Sueños,El Top 50 de España,11,0.747,0.7,0,-4.669,1,0.341,0.136,1.67e-4,0.11,0.62,176.036,225933,4,2019-04-19
+Pa Mí - Remix,51,Dalex,Dalex feat. Rafa Pabön feat. Khea feat. Sech feat. Feid feat. Cazzu feat. Lenny Tavárez,Climaxxx,El Top 50 de España,12,0.688,0.62,11,-8.029,0,0.22,0.753,5.27e-6,0.158,0.727,170.018,360960,4,2019-05-10
+Enchochado de Ti,67,Don Patricio,Don Patricio,La Dura Vida del Joven Rapero,El Top 50 de España,13,0.556,0.508,7,-6.564,1,0.352,0.402,0.00533,0.165,0.53,180.071,213373,4,2019-01-27
+Someone Else,6,Mike Wit,Mike Wit feat. Carlota Mad,What The End of A Relationship Sounds Like,El Top 50 de España,14,0.609,0.734,5,-4.527,1,0.0419,0.522,4.46e-6,0.0721,0.572,109.925,218662,4,2019-05-03
+Contra La Pared,74,Sean Paul,Sean Paul feat. J Balvin,Contra La Pared,El Top 50 de España,15,0.828,0.588,2,-7.14,1,0.118,0.0156,0,0.124,0.598,94.052,224681,4,2019-03-14
+Te Robaré,90,Nicky Jam,Nicky Jam feat. Ozuna,Te Robaré,El Top 50 de España,16,0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-5,0.0813,0.797,175.997,201818,4,2019-03-22
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de España,17,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+HP,92,Maluma,Maluma,HP,El Top 50 de España,18,0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-6,0.188,0.618,91.98,184436,4,2019-03-01
+Cristina (feat. Shelow Shaq),76,Maffio,Maffio feat. Justin Quiles feat. Nacho feat. Shelow Shaq,Cristina (feat. Shelow Shaq),El Top 50 de España,19,0.861,0.599,1,-4.205,1,0.246,0.183,0,0.0921,0.869,102.119,186893,4,2019-03-29
+Si Se Da,86,Myke Towers,Myke Towers feat. Farruko,Si Se Da,El Top 50 de España,20,0.83,0.71,11,-5.523,0,0.326,0.374,0,0.0877,0.703,93.977,237013,4,2019-02-26
+Swing,84,Danny Ocean,Danny Ocean,54+1,El Top 50 de España,21,0.729,0.616,8,-6.422,1,0.249,0.458,0,0.082,0.532,106.486,155058,4,2019-03-22
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de España,22,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Presiento,49,Morat,Morat feat. Aitana,Balas Perdidas (Edición Especial),El Top 50 de España,23,0.711,0.727,2,-3.15,1,0.162,0.168,0,0.296,0.465,180.039,174380,4,2018-10-25
+Soltera,86,Lunay,Lunay feat. Chris Jeday feat. Gaby Music,Soltera,El Top 50 de España,24,0.778,0.731,5,-4.325,1,0.0399,0.446,0,0.251,0.854,91.991,213913,4,2019-02-21
+Déjate Querer,83,Lalo Ebratt,Lalo Ebratt feat. Sebastian Yatra feat. Yera feat. Trapical Minds,Déjate Querer,El Top 50 de España,25,0.755,0.792,6,-4.238,1,0.0484,0.028,0,0.0754,0.844,106.014,202824,4,2019-02-28
+Ganas,44,D3llano,D3llano feat. Kira Brown feat. J. Parker,Ganas,El Top 50 de España,26,0.476,0.445,7,-10.239,0,0.387,0.448,7.13e-5,0.141,0.377,81.396,175243,4,2019-02-15
+Baila Baila Baila - Remix,84,Ozuna,Ozuna feat. Daddy Yankee feat. J Balvin feat. Farruko feat. Anuel Aa,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",El Top 50 de España,27,0.785,0.572,2,-7.504,1,0.123,0.0598,0,0.218,0.49,100.016,235284,4,2019-04-25
+I Don't Care (with Justin Bieber),88,Ed Sheeran,Ed Sheeran feat. Justin Bieber,I Don't Care (with Justin Bieber),El Top 50 de España,28,0.798,0.675,6,-5.041,1,0.0442,0.0912,0,0.0894,0.842,101.956,219947,4,2019-05-10
+Ganas Sobran,79,Bryant Myers,Bryant Myers feat. Miky Woodz feat. Justin Quiles,Cambio de Clima,El Top 50 de España,29,0.803,0.597,9,-4.144,1,0.127,0.369,0,0.0998,0.688,85.056,237920,4,2019-02-08
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de España,30,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+Que Mas Pues - Remix,83,Sech,Sech feat. Justin Quiles feat. Maluma feat. Nicky Jam feat. Farruko feat. Dalex feat. Lenny Tavárez,Sueños,El Top 50 de España,31,0.648,0.661,11,-5.027,1,0.195,0.121,2.33e-6,0.12,0.813,113.363,305962,5,2019-04-19
+Date La Vuelta,79,Luis Fonsi,Luis Fonsi feat. Sebastian Yatra feat. Nicky Jam,Date La Vuelta,El Top 50 de España,32,0.747,0.825,6,-2.903,1,0.0566,0.0487,0,0.107,0.866,94.006,219773,4,2019-04-24
+La Regalada,38,Maria Campos,Maria Campos,La Regalada,El Top 50 de España,33,0.532,0.726,4,-4.066,0,0.293,0.247,0.00204,0.177,0.363,179.605,200762,4,2019-04-26
+Aullando,87,Wisin & Yandel,Wisin & Yandel feat. Romeo Santos,"Los Campeones del Pueblo ""The Big Leagues""",El Top 50 de España,34,0.8,0.74,10,-4.52,0,0.0479,0.184,0,0.0558,0.775,90.035,226200,4,2018-12-14
+Me llama,73,Beret,Beret,Me llama,El Top 50 de España,35,0.682,0.55,1,-5.91,1,0.105,0.175,0,0.116,0.271,90.727,211180,4,2019-04-26
+Hope,14,Mike Wit,Mike Wit,What The End of A Relationship Sounds Like,El Top 50 de España,36,0.694,0.581,6,-7.382,1,0.0496,0.843,2.12e-6,0.0823,0.664,107.059,172722,4,2019-05-03
+Esclavo de Tus Besos,88,Manuel Turizo,Manuel Turizo feat. Ozuna,Esclavo de Tus Besos,El Top 50 de España,37,0.805,0.671,5,-5.316,1,0.111,0.113,0,0.278,0.522,90.979,219302,4,2019-02-15
+Serpiente Veneno (feat. Ele A El Dominio),73,Kidd Keo,Kidd Keo feat. Ele A El Dominio,Serpiente Veneno (feat. Ele A El Dominio),El Top 50 de España,38,0.918,0.527,1,-6.733,1,0.276,0.108,8.62e-5,0.0549,0.553,99.973,268437,4,2019-04-26
+Un Año,74,Sebastian Yatra,Sebastian Yatra feat. Reik,FANTASÍA,El Top 50 de España,39,0.773,0.378,1,-7.062,0,0.0531,0.14,0,0.133,0.513,94.946,163813,4,2019-04-12
+Pa' Llamar Tu Atención (feat. MC Bin Laden),76,C. Tangana,C. Tangana feat. Alizzz feat. MC Bin Laden,Pa' Llamar Tu Atención (feat. MC Bin Laden),El Top 50 de España,40,0.884,0.738,5,-3.265,0,0.0837,0.188,0,0.0812,0.678,131.91,177614,4,2019-01-24
+La Respuesta,80,Becky G,Becky G feat. Maluma,La Respuesta,El Top 50 de España,41,0.757,0.832,4,-3.674,0,0.229,0.127,0,0.167,0.53,180.05,182400,4,2019-04-19
+Ella Quiere Beber - Remix,87,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de España,42,0.75,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.697,95.239,219357,4,2018-11-02
+Ontas?,67,C. Tangana,C. Tangana,Ontas?,El Top 50 de España,43,0.711,0.804,10,-3.606,0,0.0543,0.182,0,0.0973,0.88,172.001,197442,4,2019-04-26
+bad guy,100,Billie Eilish,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",El Top 50 de España,44,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,4,2019-03-29
+Punto G,67,Karol G,Karol G,OCEAN,El Top 50 de España,45,0.791,0.746,6,-4.716,1,0.0907,0.00938,1.17e-4,0.125,0.905,165.994,183160,4,2019-05-03
+El Efecto,75,Rauw Alejandro,Rauw Alejandro feat. Chencho Corleone,El Efecto,El Top 50 de España,46,0.849,0.781,0,-4.635,0,0.159,0.406,0,0.0801,0.893,84.041,217143,4,2019-03-15
+Baila Baila Baila,91,Ozuna,Ozuna,Baila Baila Baila,El Top 50 de España,47,0.816,0.754,11,-2.75,0,0.111,0.0361,0,0.217,0.533,99.966,158400,4,2019-01-05
+Maldición,69,Lola Indigo,Lola Indigo feat. Lalo Ebratt,Maldición,El Top 50 de España,48,0.807,0.613,6,-7.955,0,0.175,0.0191,0.00316,0.287,0.533,100.036,188693,4,2019-04-26
+Ocean,73,Karol G,Karol G,OCEAN,El Top 50 de España,49,0.727,0.482,11,-6.193,1,0.115,0.933,0,0.388,0.487,74.93,155947,4,2019-05-03
+Baby,84,Amenazzy,Amenazzy feat. Nicky Jam feat. Farruko,Baby,El Top 50 de España,50,0.7,0.71,11,-4.835,1,0.0532,0.327,0,0.129,0.582,167.971,235973,4,2018-12-21
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de El Salvador,1,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de El Salvador,2,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de El Salvador,3,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de El Salvador,4,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de El Salvador,5,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de El Salvador,6,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de El Salvador,7,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de El Salvador,8,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de El Salvador,9,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de El Salvador,10,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de El Salvador,11,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de El Salvador,12,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de El Salvador,13,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de El Salvador,14,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de El Salvador,15,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de El Salvador,16,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de El Salvador,17,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de El Salvador,18,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de El Salvador,19,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de El Salvador,20,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de El Salvador,21,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de El Salvador,22,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+Quiere Beber,58,Anuel Aa,Anuel Aa,Real Hasta la Muerte,El Top 50 de El Salvador,23,0.773,0.57,8,-3.482,1,0.113,0.372,0.00524,0.108,0.772,95.038,187125,4,2018-07-17
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de El Salvador,24,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de El Salvador,25,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de El Salvador,26,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Baby Girl (feat. Lalo Ebratt),79,Mario Bautista,Mario Bautista feat. Lalo Ebratt,Baby Girl (feat. Lalo Ebratt),El Top 50 de El Salvador,27,0.804,0.705,1,-5.272,1,0.199,0.0275,1.38e-4,0.202,0.45,103.009,218470,4,2018-08-17
+Sunflower - Spider-Man: Into the Spider-Verse,96,Post Malone,Post Malone feat. Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),El Top 50 de El Salvador,28,0.76,0.479,2,-5.574,1,0.0466,0.556,0,0.0703,0.913,89.911,158040,4,2018-12-14
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de El Salvador,29,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de El Salvador,30,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de El Salvador,31,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de El Salvador,32,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+Hipócrita,58,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de El Salvador,33,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+Nena Maldición (feat. Lenny Tavárez),77,Paulo Londra,Paulo Londra feat. Lenny Tavárez,Nena Maldición (feat. Lenny Tavárez),El Top 50 de El Salvador,34,0.762,0.631,6,-4.837,1,0.0544,0.178,0,0.146,0.379,118.969,228875,4,2018-01-30
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de El Salvador,35,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+Déjala que vuelva (feat. Manuel Turizo),71,Piso 21,Piso 21 feat. Manuel Turizo,Ubuntu,El Top 50 de El Salvador,36,0.681,0.788,1,-4.323,1,0.0785,0.0482,0,0.0753,0.839,170.019,220117,4,2018-05-11
+Estamos Bien,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de El Salvador,37,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-6,0.107,0.439,119.883,208080,4,2018-12-23
+Por Perro,71,Sebastian Yatra,Sebastian Yatra feat. Luis Figueroa feat. Lary Over,MANTRA,El Top 50 de El Salvador,38,0.684,0.762,0,-5.18,1,0.0501,0.429,0,0.0852,0.892,172.009,245440,4,2018-05-18
+I Like It,87,Cardi B,Cardi B feat. Bad Bunny feat. J Balvin,Invasion of Privacy,El Top 50 de El Salvador,39,0.816,0.726,5,-3.998,0,0.129,0.099,0,0.372,0.65,136.048,253390,4,2018-04-06
+Happier,93,Marshmello,Marshmello feat. Bastille,Happier,El Top 50 de El Salvador,40,0.687,0.792,5,-2.749,1,0.0452,0.191,0,0.167,0.671,100.015,214290,4,2018-08-17
+Déjalo,78,Nacho,Nacho feat. Manuel Turizo,Déjalo,El Top 50 de El Salvador,41,0.743,0.795,11,-5.733,1,0.0732,0.199,0,0.0577,0.682,95.003,202893,4,2018-11-30
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de El Salvador,42,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+Sin Pijama,82,Becky G,Becky G feat. Natti Natasha,Sin Pijama,El Top 50 de El Salvador,43,0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-5,0.104,0.82,94.014,188560,4,2018-04-20
+Caro,81,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de El Salvador,44,0.651,0.575,0,-7.739,1,0.299,0.627,2.02e-4,0.0961,0.248,160.007,229456,4,2018-12-23
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de El Salvador,45,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Girls Like You (feat. Cardi B),80,Maroon 5,Maroon 5 feat. Cardi B,Red Pill Blues (Deluxe),El Top 50 de El Salvador,46,0.851,0.541,0,-6.825,1,0.0505,0.568,0,0.13,0.448,124.959,235545,4,2018-06-15
+Epa Wei,76,Danny Ocean,Danny Ocean,Epa Wei,El Top 50 de El Salvador,47,0.688,0.82,6,-4.715,0,0.155,0.233,0,0.091,0.804,107.833,208254,4,2018-08-10
+Me Rehúso,80,Danny Ocean,Danny Ocean,Me Rehúso,El Top 50 de El Salvador,48,0.744,0.804,1,-6.327,1,0.0677,0.0231,0,0.0494,0.426,104.823,205715,4,2017-06-16
+Otra Noche en Miami,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de El Salvador,49,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-5,0.0958,0.297,88.661,233128,4,2018-12-23
+Bohemian Rhapsody - Remastered 2011,79,Queen,Queen,A Night At The Opera (Deluxe Remastered Version),El Top 50 de El Salvador,50,0.397,0.396,3,-9.91,1,0.05,0.254,0,0.268,0.227,142.913,354320,4,1975-11-21
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Ecuador,1,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Ganas,44,D3llano,D3llano feat. Kira Brown feat. J. Parker,Ganas,El Top 50 de Ecuador,2,0.476,0.445,7,-10.239,0,0.387,0.448,7.13e-5,0.141,0.377,81.396,175243,4,2019-02-15
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Ecuador,3,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Ecuador,4,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Ecuador,5,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Ecuador,6,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Ecuador,7,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Ecuador,8,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Ecuador,9,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de Ecuador,10,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Ecuador,11,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Ecuador,12,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Ecuador,13,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Ecuador,14,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de Ecuador,15,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de Ecuador,16,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Ecuador,17,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Ecuador,18,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Ecuador,19,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Ecuador,20,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de Ecuador,21,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Ecuador,22,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de Ecuador,23,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Ecuador,24,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Ecuador,25,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Mocca,70,Lalo Ebratt,Lalo Ebratt feat. Trapical,Mocca,El Top 50 de Ecuador,26,0.786,0.695,1,-5.343,0,0.353,0.185,0,0.123,0.591,97.957,200293,4,2018-04-27
+Déjalo,78,Nacho,Nacho feat. Manuel Turizo,Déjalo,El Top 50 de Ecuador,27,0.743,0.795,11,-5.733,1,0.0732,0.199,0,0.0577,0.682,95.003,202893,4,2018-11-30
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Ecuador,28,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Ecuador,29,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Quiere Beber,58,Anuel Aa,Anuel Aa,Real Hasta la Muerte,El Top 50 de Ecuador,30,0.773,0.57,8,-3.482,1,0.113,0.372,0.00524,0.108,0.772,95.038,187125,4,2018-07-17
+Baby Girl (feat. Lalo Ebratt),79,Mario Bautista,Mario Bautista feat. Lalo Ebratt,Baby Girl (feat. Lalo Ebratt),El Top 50 de Ecuador,31,0.804,0.705,1,-5.272,1,0.199,0.0275,1.38e-4,0.202,0.45,103.009,218470,4,2018-08-17
+Por Perro,71,Sebastian Yatra,Sebastian Yatra feat. Luis Figueroa feat. Lary Over,MANTRA,El Top 50 de Ecuador,32,0.684,0.762,0,-5.18,1,0.0501,0.429,0,0.0852,0.892,172.009,245440,4,2018-05-18
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de Ecuador,33,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de Ecuador,34,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de Ecuador,35,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+Me Voy,73,Rombai,Rombai,Me Voy,El Top 50 de Ecuador,36,0.531,0.752,9,-3.33,0,0.2,0.214,0,0.145,0.884,192.443,177787,4,2018-09-28
+Justicia,70,Silvestre Dangond,Silvestre Dangond feat. Natti Natasha,Justicia,El Top 50 de Ecuador,37,0.809,0.899,9,-1.098,0,0.103,0.0431,0,0.171,0.733,95.016,209227,4,2018-06-29
+Llegaste Tú,75,CNCO,CNCO feat. Prince Royce,Llegaste Tú,El Top 50 de Ecuador,38,0.702,0.914,7,-2.934,0,0.0376,0.153,0,0.0625,0.563,96.991,190916,4,2018-10-26
+Tanta Falta,74,Bryant Myers,Bryant Myers,Tanta Falta,El Top 50 de Ecuador,39,0.856,0.728,7,-3.497,1,0.0916,0.135,1e-6,0.2,0.797,89.999,181093,4,2018-10-10
+Cuando Nadie Ve,68,Morat,Morat,Balas Perdidas,El Top 50 de Ecuador,40,0.806,0.778,1,-4.577,0,0.0616,0.133,0,0.218,0.84,95.993,219587,4,2018-10-25
+Sin Pijama,82,Becky G,Becky G feat. Natti Natasha,Sin Pijama,El Top 50 de Ecuador,41,0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-5,0.104,0.82,94.014,188560,4,2018-04-20
+Hipócrita,58,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de Ecuador,42,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+Está Rico,77,Marc Anthony,Marc Anthony feat. Will Smith feat. Bad Bunny,Está Rico,El Top 50 de Ecuador,43,0.817,0.74,11,-4.566,0,0.283,0.266,0,0.0992,0.674,130.04,215151,4,2018-09-28
+Serenata,71,Mike Bahía,Mike Bahía,Serenata,El Top 50 de Ecuador,44,0.757,0.824,7,-2.657,1,0.134,0.0859,0,0.165,0.495,174.065,206968,4,2018-10-12
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de Ecuador,45,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Ecuador,46,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+Déjala que vuelva (feat. Manuel Turizo),71,Piso 21,Piso 21 feat. Manuel Turizo,Ubuntu,El Top 50 de Ecuador,47,0.681,0.788,1,-4.323,1,0.0785,0.0482,0,0.0753,0.839,170.019,220117,4,2018-05-11
+Bohemian Rhapsody - Remastered 2011,79,Queen,Queen,A Night At The Opera (Deluxe Remastered Version),El Top 50 de Ecuador,48,0.397,0.396,3,-9.91,1,0.05,0.254,0,0.268,0.227,142.913,354320,4,1975-11-21
+Mocca - Remix,74,Lalo Ebratt,Lalo Ebratt feat. J Balvin feat. Trapical,Mocca (Remix),El Top 50 de Ecuador,49,0.732,0.758,11,-1.694,1,0.189,0.213,0,0.388,0.78,98.007,202876,4,2018-10-05
+Culpables,76,Manuel Turizo,Manuel Turizo,Culpables,El Top 50 de Ecuador,50,0.573,0.31,3,-11.134,1,0.296,0.94,5.65e-6,0.198,0.764,177.601,233930,4,2018-07-27
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Costa Rica,1,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Costa Rica,2,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Costa Rica,3,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Costa Rica,4,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Costa Rica,5,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Costa Rica,6,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Costa Rica,7,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Costa Rica,8,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Costa Rica,9,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Costa Rica,10,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de Costa Rica,11,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de Costa Rica,12,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Costa Rica,13,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+Quiere Beber,58,Anuel Aa,Anuel Aa,Real Hasta la Muerte,El Top 50 de Costa Rica,14,0.773,0.57,8,-3.482,1,0.113,0.372,0.00524,0.108,0.772,95.038,187125,4,2018-07-17
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de Costa Rica,15,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Costa Rica,16,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de Costa Rica,17,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Costa Rica,18,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Costa Rica,19,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de Costa Rica,20,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Costa Rica,21,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Costa Rica,22,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de Costa Rica,23,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Costa Rica,24,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Costa Rica,25,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de Costa Rica,26,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Costa Rica,27,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de Costa Rica,28,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Bohemian Rhapsody - Remastered 2011,79,Queen,Queen,A Night At The Opera (Deluxe Remastered Version),El Top 50 de Costa Rica,29,0.397,0.396,3,-9.91,1,0.05,0.254,0,0.268,0.227,142.913,354320,4,1975-11-21
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Costa Rica,30,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Déjala que vuelva (feat. Manuel Turizo),71,Piso 21,Piso 21 feat. Manuel Turizo,Ubuntu,El Top 50 de Costa Rica,31,0.681,0.788,1,-4.323,1,0.0785,0.0482,0,0.0753,0.839,170.019,220117,4,2018-05-11
+Sunflower - Spider-Man: Into the Spider-Verse,96,Post Malone,Post Malone feat. Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),El Top 50 de Costa Rica,32,0.76,0.479,2,-5.574,1,0.0466,0.556,0,0.0703,0.913,89.911,158040,4,2018-12-14
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Costa Rica,33,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Luz Apaga,78,Ozuna,Ozuna feat. Lunay feat. Rauw Alejandro feat. Lyanno,Luz Apaga,El Top 50 de Costa Rica,34,0.611,0.791,1,-3.558,1,0.173,0.19,3.02e-6,0.12,0.658,192.07,245000,4,2018-11-16
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de Costa Rica,35,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Girls Like You (feat. Cardi B),80,Maroon 5,Maroon 5 feat. Cardi B,Red Pill Blues (Deluxe),El Top 50 de Costa Rica,36,0.851,0.541,0,-6.825,1,0.0505,0.568,0,0.13,0.448,124.959,235545,4,2018-06-15
+Nena Maldición (feat. Lenny Tavárez),77,Paulo Londra,Paulo Londra feat. Lenny Tavárez,Nena Maldición (feat. Lenny Tavárez),El Top 50 de Costa Rica,37,0.762,0.631,6,-4.837,1,0.0544,0.178,0,0.146,0.379,118.969,228875,4,2018-01-30
+Hipócrita,58,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de Costa Rica,38,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+Culpables,76,Manuel Turizo,Manuel Turizo,Culpables,El Top 50 de Costa Rica,39,0.573,0.31,3,-11.134,1,0.296,0.94,5.65e-6,0.198,0.764,177.601,233930,4,2018-07-27
+Estamos Bien,77,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Costa Rica,40,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-6,0.107,0.439,119.883,208080,4,2018-12-23
+Happier,93,Marshmello,Marshmello feat. Bastille,Happier,El Top 50 de Costa Rica,41,0.687,0.792,5,-2.749,1,0.0452,0.191,0,0.167,0.671,100.015,214290,4,2018-08-17
+I Like It,87,Cardi B,Cardi B feat. Bad Bunny feat. J Balvin,Invasion of Privacy,El Top 50 de Costa Rica,42,0.816,0.726,5,-3.998,0,0.129,0.099,0,0.372,0.65,136.048,253390,4,2018-04-06
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Costa Rica,43,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Shape of You,86,Ed Sheeran,Ed Sheeran,÷ (Deluxe),El Top 50 de Costa Rica,44,0.825,0.652,1,-3.183,0,0.0802,0.581,0,0.0931,0.931,95.977,233713,4,2017-03-03
+Me Rehúso,80,Danny Ocean,Danny Ocean,Me Rehúso,El Top 50 de Costa Rica,45,0.744,0.804,1,-6.327,1,0.0677,0.0231,0,0.0494,0.426,104.823,205715,4,2017-06-16
+Te Amo,77,Piso 21,Piso 21 feat. Paulo Londra,Te Amo,El Top 50 de Costa Rica,46,0.849,0.724,5,-4.139,1,0.0665,0.0204,5.98e-6,0.235,0.63,98.005,201122,4,2018-03-15
+SICKO MODE,89,Travis Scott,Travis Scott,ASTROWORLD,El Top 50 de Costa Rica,47,0.834,0.73,8,-3.714,1,0.222,0.00513,0,0.124,0.446,155.008,312820,4,2018-08-03
+Believer,87,Imagine Dragons,Imagine Dragons,Evolve,El Top 50 de Costa Rica,48,0.776,0.78,10,-4.374,0,0.128,0.0622,0,0.081,0.666,124.949,204347,4,2017-06-23
+Sin Pijama,82,Becky G,Becky G feat. Natti Natasha,Sin Pijama,El Top 50 de Costa Rica,49,0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-5,0.104,0.82,94.014,188560,4,2018-04-20
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Costa Rica,50,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+Pa Mí - Remix,92,Dalex,Dalex feat. Rafa Pabön feat. Khea feat. Sech feat. Cazzu feat. Feid feat. Lenny Tavárez,Pa Mí (Remix),El Top 50 de Colombia,1,0.688,0.62,11,-8.029,0,0.22,0.753,5.27e-6,0.158,0.727,170.018,360960,4,2019-02-07
+Destino,80,Greeicy,Greeicy feat. Nacho,Destino,El Top 50 de Colombia,2,0.708,0.761,0,-3.02,1,0.093,0.0105,8.51e-6,0.0462,0.71,188.124,180480,4,2019-03-15
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de Colombia,3,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+HP,92,Maluma,Maluma,HP,El Top 50 de Colombia,4,0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-6,0.188,0.618,91.98,184436,4,2019-03-01
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de Colombia,5,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Colombia,6,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+Verte Ir,91,DJ Luian,DJ Luian feat. Mambo Kingz feat. Anuel Aa feat. Nicky Jam feat. Darell feat. Brytiago,Verte Ir,El Top 50 de Colombia,7,0.857,0.647,11,-4.152,0,0.0984,0.391,1.2e-6,0.0842,0.553,95.982,267500,4,2019-03-28
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Colombia,8,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Esclavo de Tus Besos,88,Manuel Turizo,Manuel Turizo feat. Ozuna,Esclavo de Tus Besos,El Top 50 de Colombia,9,0.805,0.671,5,-5.316,1,0.111,0.113,0,0.278,0.522,90.979,219302,4,2019-02-15
+Si Se Da,86,Myke Towers,Myke Towers feat. Farruko,Si Se Da,El Top 50 de Colombia,10,0.83,0.71,11,-5.523,0,0.326,0.374,0,0.0877,0.703,93.977,237013,4,2019-02-26
+Un Año,87,Sebastian Yatra,Sebastian Yatra feat. Reik,Un Año,El Top 50 de Colombia,11,0.771,0.382,1,-6.808,0,0.0514,0.148,0,0.104,0.535,94.931,164440,4,2019-01-18
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Colombia,12,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Te Robaré,90,Nicky Jam,Nicky Jam feat. Ozuna,Te Robaré,El Top 50 de Colombia,13,0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-5,0.0813,0.797,175.997,201818,4,2019-03-22
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Colombia,14,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Pa Olvidarte (feat. Manuel Turizo) - Remix,84,ChocQuibTown,ChocQuibTown feat. Zion & Lennox feat. Farruko feat. Manuel Turizo,Pa Olvidarte (feat. Manuel Turizo) [Remix],El Top 50 de Colombia,15,0.724,0.791,7,-5.411,1,0.169,0.0441,6.55e-6,0.239,0.856,176.011,256418,4,2019-02-01
+Contra La Pared,87,Sean Paul,Sean Paul feat. J Balvin,Contra La Pared,El Top 50 de Colombia,16,0.828,0.588,2,-7.14,1,0.118,0.0156,0,0.124,0.598,94.052,224681,4,2019-03-14
+Baila Baila Baila,91,Ozuna,Ozuna,Baila Baila Baila,El Top 50 de Colombia,17,0.816,0.754,11,-2.75,0,0.111,0.0361,0,0.217,0.533,99.966,158400,4,2019-01-05
+Solita,77,Sech,Sech feat. Farruko feat. Zion & Lennox,Solita,El Top 50 de Colombia,18,0.679,0.831,2,-1.866,1,0.109,0.159,1.1e-6,0.097,0.88,88.792,219520,4,2019-02-28
+Qué Más Pues,77,Sech,Sech feat. Justin Quiles,The Sensation,El Top 50 de Colombia,19,0.563,0.565,8,-5.514,0,0.376,0.065,1.69e-4,0.0855,0.818,169.841,203667,4,2018-12-06
+Con Altura,90,ROSALÍA,ROSALÍA feat. J Balvin feat. El Guincho,Con Altura,El Top 50 de Colombia,20,0.882,0.689,6,-4.027,1,0.124,0.39,0.00325,0.0501,0.746,97.963,161627,4,2019-03-28
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Colombia,21,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+No Te Vayas,76,Camilo,Camilo,No Te Vayas,El Top 50 de Colombia,22,0.766,0.721,6,-4.46,0,0.0738,0.0527,0,0.128,0.81,92.001,201227,4,2019-03-29
+Ella Quiere Beber - Remix,87,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Colombia,23,0.75,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.697,95.239,219357,4,2018-11-02
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Colombia,24,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Baby,84,Amenazzy,Amenazzy feat. Nicky Jam feat. Farruko,Baby,El Top 50 de Colombia,25,0.7,0.71,11,-4.835,1,0.0532,0.327,0,0.129,0.582,167.971,235973,4,2018-12-21
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Colombia,26,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+Déjate Querer,83,Lalo Ebratt,Lalo Ebratt feat. Sebastian Yatra feat. Yera feat. Trapical Minds,Déjate Querer,El Top 50 de Colombia,27,0.755,0.792,6,-4.238,1,0.0484,0.028,0,0.0754,0.844,106.014,202824,4,2019-02-28
+Cristina,82,Sebastian Yatra,Sebastian Yatra,Cristina,El Top 50 de Colombia,28,0.649,0.502,5,-4.368,1,0.0437,0.286,0,0.166,0.695,87,202040,3,2019-03-22
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Colombia,29,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Colombia,30,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Colombia,31,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Soltera,86,Lunay,Lunay feat. Chris Jeday feat. Gaby Music,Soltera,El Top 50 de Colombia,32,0.778,0.731,5,-4.325,1,0.0399,0.446,0,0.251,0.854,91.991,213913,4,2019-02-21
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Colombia,33,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Colombia,34,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de Colombia,35,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+Dile la Verdad,80,The Rudeboyz,The Rudeboyz feat. Jowell & Randy feat. Manuel Turizo,Dile la Verdad,El Top 50 de Colombia,36,0.886,0.701,7,-3.504,1,0.141,0.292,1.16e-5,0.0574,0.823,103.002,219029,4,2019-01-11
+bad guy,100,Billie Eilish,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",El Top 50 de Colombia,37,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,4,2019-03-29
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Colombia,38,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",89,benny blanco,benny blanco feat. Selena Gomez feat. J Balvin feat. Tainy,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",El Top 50 de Colombia,39,0.541,0.468,10,-4.039,0,0.362,0.404,3.65e-6,0.358,0.69,95.266,158027,4,2019-02-28
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Colombia,40,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+7 rings,90,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de Colombia,41,0.778,0.317,1,-10.732,0,0.334,0.592,0,0.0881,0.327,140.048,178627,4,2019-02-08
+Domingo (feat. Cosculluela),75,Reykon,Reykon feat. Cosculluela,Domingo (feat. Cosculluela),El Top 50 de Colombia,42,0.816,0.733,0,-6.587,1,0.0448,0.124,0,0.0812,0.571,93.022,222483,4,2018-10-26
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de Colombia,43,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+Sígueme - Remix,75,Feid,Feid feat. Sech,Sígueme (Remix),El Top 50 de Colombia,44,0.753,0.522,1,-5.649,0,0.259,0.618,5.66e-5,0.106,0.651,174.016,202547,4,2019-02-01
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Colombia,45,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Esta Noche,71,Mike Bahía,Mike Bahía feat. Greeicy,Esta Noche,El Top 50 de Colombia,46,0.727,0.85,5,-5.728,1,0.0586,0.0125,0,0.102,0.796,129.972,168521,4,2018-11-30
+Déjalo,78,Nacho,Nacho feat. Manuel Turizo,Déjalo,El Top 50 de Colombia,47,0.743,0.795,11,-5.733,1,0.0732,0.199,0,0.0577,0.682,95.003,202893,4,2018-11-30
+Bohemian Rhapsody - Remastered 2011,85,Queen,Queen,A Night At The Opera (2011 Remaster),El Top 50 de Colombia,48,0.414,0.404,0,-9.928,0,0.0499,0.271,0,0.3,0.224,71.105,354320,4,1975-11-21
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Colombia,49,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Colombia,50,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Otro Trago,88,Sech,Sech feat. Darell,Sueños,El Top 50 de Chile,1,0.747,0.7,0,-4.669,1,0.341,0.136,1.67e-4,0.11,0.62,176.036,225933,4,2019-04-19
+Soltera - Remix,75,Lunay,Lunay feat. Daddy Yankee feat. Bad Bunny,Soltera (Remix),El Top 50 de Chile,2,0.795,0.783,5,-4.271,1,0.0432,0.361,0,0.437,0.8,92.016,266087,4,2019-05-10
+Verte Ir,91,DJ Luian,DJ Luian feat. Mambo Kingz feat. Anuel Aa feat. Nicky Jam feat. Darell feat. Brytiago,Verte Ir,El Top 50 de Chile,3,0.857,0.647,11,-4.152,0,0.0984,0.391,1.2e-6,0.0842,0.553,95.982,267500,4,2019-03-28
+Apagar la luz (feat. Gustavo Elis),17,Polo Nandez,Polo Nandez feat. Gustavo Elis,Apagar la luz (feat. Gustavo Elis),El Top 50 de Chile,4,0.445,0.78,0,-6.525,1,0.121,0.573,0,0.135,0.712,100.008,190081,3,2019-05-10
+Pa Mí - Remix,51,Dalex,Dalex feat. Rafa Pabön feat. Khea feat. Sech feat. Feid feat. Cazzu feat. Lenny Tavárez,Climaxxx,El Top 50 de Chile,5,0.688,0.62,11,-8.029,0,0.22,0.753,5.27e-6,0.158,0.727,170.018,360960,4,2019-05-10
+Tuyo,43,J.Beren,J.Beren,Tuyo,El Top 50 de Chile,6,0.811,0.881,7,-2.757,0,0.0405,0.183,0.00148,0.0651,0.649,99.987,175800,4,2019-02-22
+Fingías,82,Paloma Mami,Paloma Mami,Fingías,El Top 50 de Chile,7,0.729,0.805,6,-3.83,1,0.184,0.19,0.225,0.0909,0.345,191.994,225373,4,2019-03-22
+Te Robaré,90,Nicky Jam,Nicky Jam feat. Ozuna,Te Robaré,El Top 50 de Chile,8,0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-5,0.0813,0.797,175.997,201818,4,2019-03-22
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de Chile,9,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+Tal Vez,90,Paulo Londra,Paulo Londra,Tal Vez,El Top 50 de Chile,10,0.849,0.655,8,-2.899,1,0.106,0.266,0,0.0781,0.76,161.966,264483,4,2019-04-03
+Que Mas Pues - Remix,83,Sech,Sech feat. Justin Quiles feat. Maluma feat. Nicky Jam feat. Farruko feat. Dalex feat. Lenny Tavárez,Sueños,El Top 50 de Chile,11,0.648,0.661,11,-5.027,1,0.195,0.121,2.33e-6,0.12,0.813,113.363,305962,5,2019-04-19
+Lo Prohibido,42,Mike Wit,Mike Wit feat. D3llano feat. Life After Party feat. J. Parker,Lo Prohibido,El Top 50 de Chile,12,0.633,0.677,7,-8.124,1,0.29,0.207,0,0.12,0.562,89.899,214667,4,2018-08-10
+Sigue Bailandome,78,Yannc,Yannc feat. Darkiel feat. Eladio Carrion feat. Brray feat. Myke Towers,Sigue Bailandome,El Top 50 de Chile,13,0.799,0.69,7,-7.252,1,0.1,0.282,0.001,0.143,0.682,106.034,352442,4,2018-10-19
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de Chile,14,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+No Te Enamores,80,Paloma Mami,Paloma Mami,No Te Enamores,El Top 50 de Chile,15,0.806,0.735,7,-4.459,0,0.0425,0.587,0.00889,0.0812,0.353,100.101,183398,4,2018-12-21
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Chile,16,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Baila Baila Baila - Remix,84,Ozuna,Ozuna feat. Daddy Yankee feat. J Balvin feat. Farruko feat. Anuel Aa,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",El Top 50 de Chile,17,0.785,0.572,2,-7.504,1,0.123,0.0598,0,0.218,0.49,100.016,235284,4,2019-04-25
+Tiempo,50,Albert Gonzalez,Albert Gonzalez feat. J.Beren feat. Kira Brown,Tiempo,El Top 50 de Chile,18,0.88,0.6,0,-8.21,1,0.0924,0.282,8.94e-5,0.0872,0.535,95.015,192000,4,2019-04-05
+Someone Else,6,Mike Wit,Mike Wit feat. Carlota Mad,What The End of A Relationship Sounds Like,El Top 50 de Chile,19,0.609,0.734,5,-4.527,1,0.0419,0.522,4.46e-6,0.0721,0.572,109.925,218662,4,2019-05-03
+Con Altura,90,ROSALÍA,ROSALÍA feat. J Balvin feat. El Guincho,Con Altura,El Top 50 de Chile,20,0.882,0.689,6,-4.027,1,0.124,0.39,0.00325,0.0501,0.746,97.963,161627,4,2019-03-28
+Si Se Da,86,Myke Towers,Myke Towers feat. Farruko,Si Se Da,El Top 50 de Chile,21,0.83,0.71,11,-5.523,0,0.326,0.374,0,0.0877,0.703,93.977,237013,4,2019-02-26
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Chile,22,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Hookah & Sheridan s,76,Tommy Boysen,Tommy Boysen,Hookah & Sheridan s,El Top 50 de Chile,23,0.809,0.528,8,-6.886,0,0.12,0.353,5.86e-6,0.0897,0.491,103.923,195285,4,2017-10-05
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Chile,24,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Apagar la luz (feat. Gustavo Elis),17,Polo Nandez,Polo Nandez feat. Gustavo Elis,Apagar la luz (feat. Gustavo Elis),El Top 50 de Chile,25,0.445,0.78,0,-6.525,1,0.121,0.573,0,0.135,0.712,100.008,190081,3,2019-05-10
+La Romana,81,Bad Bunny,Bad Bunny feat. El Alfa,X 100PRE,El Top 50 de Chile,26,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,300579,4,2018-12-23
+Desconocidos,63,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Para Aventuras y Curiosidades,El Top 50 de Chile,27,0.719,0.753,7,-4.891,1,0.179,0.118,4.21e-6,0.212,0.675,174.107,204564,4,2019-05-03
+HP,92,Maluma,Maluma,HP,El Top 50 de Chile,28,0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-6,0.188,0.618,91.98,184436,4,2019-03-01
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Chile,29,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Not Steady,76,Paloma Mami,Paloma Mami,Not Steady,El Top 50 de Chile,30,0.876,0.444,8,-10.904,0,0.303,0.207,8.27e-4,0.105,0.339,92.011,190784,4,2018-09-21
+Un Año,74,Sebastian Yatra,Sebastian Yatra feat. Reik,FANTASÍA,El Top 50 de Chile,31,0.773,0.378,1,-7.062,0,0.0531,0.14,0,0.133,0.513,94.946,163813,4,2019-04-12
+Esclavo de Tus Besos,88,Manuel Turizo,Manuel Turizo feat. Ozuna,Esclavo de Tus Besos,El Top 50 de Chile,32,0.805,0.671,5,-5.316,1,0.111,0.113,0,0.278,0.522,90.979,219302,4,2019-02-15
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Chile,33,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+No Te Veo - Remix,73,Casper Magico,Casper Magico feat. Anuel Aa,No Te Veo,El Top 50 de Chile,34,0.861,0.786,1,-3.833,1,0.229,0.485,2.44e-5,0.113,0.778,104.017,252440,4,2019-04-30
+MY BLOOD,72,Polimá Westcoast,Polimá Westcoast feat. Pablo Chill-E,MY BLOOD,El Top 50 de Chile,35,0.658,0.65,1,-5.866,1,0.0614,0.11,0,0.0839,0.397,159.917,180938,4,2019-02-25
+Que Le De,84,Rauw Alejandro,Rauw Alejandro feat. Nicky Jam,Que Le De,El Top 50 de Chile,36,0.77,0.75,0,-2.715,1,0.0785,0.19,0,0.0618,0.609,99.997,225600,4,2019-01-25
+Baila Baila Baila,91,Ozuna,Ozuna,Baila Baila Baila,El Top 50 de Chile,37,0.816,0.754,11,-2.75,0,0.111,0.0361,0,0.217,0.533,99.966,158400,4,2019-01-05
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Chile,38,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Reggaetón en lo Oscuro,78,Wisin & Yandel,Wisin & Yandel,"Los Campeones del Pueblo ""The Big Leagues""",El Top 50 de Chile,39,0.747,0.898,1,-3.683,1,0.0709,0.0613,1.66e-6,0.0886,0.689,91.97,208947,4,2018-12-14
+La Playa,81,Myke Towers,Myke Towers,La Playa,El Top 50 de Chile,40,0.796,0.683,10,-2.754,0,0.15,0.108,0,0.107,0.353,140.108,207731,4,2019-04-09
+Si Estuviésemos Juntos,83,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Chile,41,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-5,0.152,0.158,171.854,169248,4,2018-12-23
+Ella Quiere Beber - Remix,87,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Chile,42,0.75,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.697,95.239,219357,4,2018-11-02
+Te Quiero Ver,70,Ceaese,Ceaese feat. Utopiko feat. Polimá Westcoast feat. Young Cister,Utopia,El Top 50 de Chile,43,0.769,0.839,7,-3.765,0,0.0606,0.411,0,0.324,0.547,90.019,205189,4,2018-08-16
+La Cartera,78,Farruko,Farruko feat. Bad Bunny,Gangalee,El Top 50 de Chile,44,0.771,0.796,10,-4.106,0,0.0798,0.0385,9.35e-6,0.218,0.636,87.985,289907,4,2019-04-26
+ShiShi Gang,69,Pablo Chill-E,Pablo Chill-E,ShiShi Gang,El Top 50 de Chile,45,0.92,0.57,7,-8.922,1,0.138,0.0143,0,0.163,0.494,130.109,185941,4,2018-05-10
+El Papi,69,Tommy Boysen,Tommy Boysen,El Papi,El Top 50 de Chile,46,0.704,0.589,6,-7.083,0,0.308,0.348,0,0.0739,0.618,189.989,170782,4,2019-04-05
+Cristina,73,Sebastian Yatra,Sebastian Yatra,FANTASÍA,El Top 50 de Chile,47,0.411,0.508,5,-4.342,1,0.0557,0.29,0,0.123,0.668,81.96,201627,3,2019-04-12
+A Solas - Remix,82,Lunay,Lunay feat. Lyanno feat. Anuel Aa feat. Brytiago feat. Alex Rose,A Solas Remix,El Top 50 de Chile,48,0.618,0.743,6,-2.576,0,0.141,0.657,5.95e-6,0.143,0.589,180.021,273198,4,2018-12-07
+Date La Vuelta,79,Luis Fonsi,Luis Fonsi feat. Sebastian Yatra feat. Nicky Jam,Date La Vuelta,El Top 50 de Chile,49,0.747,0.825,6,-2.903,1,0.0566,0.0487,0,0.107,0.866,94.006,219773,4,2019-04-24
+Rebota,84,Guaynaa,Guaynaa,Rebota,El Top 50 de Chile,50,0.796,0.911,1,-1.998,1,0.285,0.188,0,0.499,0.918,180.128,204631,4,2018-12-14
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Bolivia,1,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Ganas,44,D3llano,D3llano feat. Kira Brown feat. J. Parker,Ganas,El Top 50 de Bolivia,2,0.476,0.445,7,-10.239,0,0.387,0.448,7.13e-5,0.141,0.377,81.396,175243,4,2019-02-15
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Bolivia,3,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Desconocidos,89,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Desconocidos,El Top 50 de Bolivia,4,0.709,0.771,7,-4.598,1,0.166,0.146,3.29e-6,0.249,0.709,174.006,204453,4,2018-10-12
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Bolivia,5,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Bolivia,6,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",90,DJ Snake,DJ Snake feat. Selena Gomez feat. Ozuna feat. Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",El Top 50 de Bolivia,7,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-6,0.0618,0.591,95.948,212500,4,2018-09-28
+Ella Quiere Beber - Remix,67,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Bolivia,8,0.751,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.698,95.239,219357,4,2018-11-02
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Bolivia,9,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Ya No Tiene Novio,81,Sebastian Yatra,Sebastian Yatra feat. Mau y Ricky,Ya No Tiene Novio,El Top 50 de Bolivia,10,0.632,0.832,7,-1.948,0,0.154,0.048,0,0.0705,0.784,182.184,198933,4,2018-08-10
+Imposible,81,Luis Fonsi,Luis Fonsi feat. Ozuna,Imposible,El Top 50 de Bolivia,11,0.786,0.764,11,-2.935,1,0.0798,0.122,0,0.102,0.913,90.979,163880,4,2018-10-19
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Bolivia,12,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+Créeme,84,Karol G,Karol G feat. Maluma,Créeme,El Top 50 de Bolivia,13,0.715,0.872,6,-3.501,1,0.0547,0.154,1.46e-4,0.11,0.682,96.939,212493,4,2018-11-02
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Bolivia,14,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Bubalu,84,Becky G,Becky G feat. Prince Royce feat. DJ Luian feat. Mambo Kingz feat. Anuel Aa,Bubalu,El Top 50 de Bolivia,15,0.8,0.355,6,-10.47,0,0.0895,0.616,0,0.118,0.253,145.929,228493,4,2018-11-06
+Solo de Mi,76,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Bolivia,16,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-5,0.0778,0.15,179.972,197968,4,2018-12-23
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Bolivia,17,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Amigos Con Derechos,82,Reik,Reik feat. Maluma,Amigos Con Derechos,El Top 50 de Bolivia,18,0.686,0.807,1,-3.324,1,0.0613,0.0481,0,0.0652,0.63,183.971,227476,4,2018-08-31
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Bolivia,19,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+BEBE (feat. Anuel Aa),82,6ix9ine,6ix9ine feat. Anuel Aa,DUMMY BOY,El Top 50 de Bolivia,20,0.635,0.902,0,-3.559,1,0.109,0.172,0,0.125,0.286,102.063,217822,4,2018-11-27
+Mala Mía,79,Maluma,Maluma,Mala Mía,El Top 50 de Bolivia,21,0.749,0.752,6,-4.883,1,0.345,0.31,0,0.232,0.901,180.049,183753,4,2018-08-10
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Bolivia,22,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Me Voy,73,Rombai,Rombai,Me Voy,El Top 50 de Bolivia,23,0.531,0.752,9,-3.33,0,0.2,0.214,0,0.145,0.884,192.443,177787,4,2018-09-28
+PPP,80,Kevin Roldan,Kevin Roldan,PPP,El Top 50 de Bolivia,24,0.786,0.65,4,-6.839,1,0.109,0.363,8.17e-5,0.122,0.712,92.975,129040,4,2018-09-07
+Culpables,82,Karol G,Karol G feat. Anuel Aa,Culpables,El Top 50 de Bolivia,25,0.728,0.801,8,-2.942,0,0.0683,0.279,4.71e-6,0.143,0.416,130.059,226627,4,2018-09-14
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Bolivia,26,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+Por Perro,71,Sebastian Yatra,Sebastian Yatra feat. Luis Figueroa feat. Lary Over,MANTRA,El Top 50 de Bolivia,27,0.684,0.762,0,-5.18,1,0.0501,0.429,0,0.0852,0.892,172.009,245440,4,2018-05-18
+Ni Gucci Ni Prada,82,Kenny Man,Kenny Man,Ni Gucci Ni Prada,El Top 50 de Bolivia,28,0.799,0.676,2,-5.644,1,0.169,0.41,7.77e-4,0.325,0.91,104.956,175200,4,2018-09-14
+Baby Girl (feat. Lalo Ebratt),79,Mario Bautista,Mario Bautista feat. Lalo Ebratt,Baby Girl (feat. Lalo Ebratt),El Top 50 de Bolivia,29,0.804,0.705,1,-5.272,1,0.199,0.0275,1.38e-4,0.202,0.45,103.009,218470,4,2018-08-17
+Te Boté - Remix,84,Nio Garcia,Nio Garcia feat. Casper Magico feat. Bad Bunny feat. Darell feat. Ozuna feat. Nicky Jam,Te Boté (Remix),El Top 50 de Bolivia,30,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-5,0.0595,0.442,96.507,417920,4,2018-04-13
+Déjalo,78,Nacho,Nacho feat. Manuel Turizo,Déjalo,El Top 50 de Bolivia,31,0.743,0.795,11,-5.733,1,0.0732,0.199,0,0.0577,0.682,95.003,202893,4,2018-11-30
+Asesina - Remix,81,Brytiago,Brytiago feat. Daddy Yankee feat. Ozuna feat. Darell feat. Anuel Aa,Asesina (Remix),El Top 50 de Bolivia,32,0.825,0.69,10,-4.252,0,0.226,0.589,0,0.413,0.516,94.194,327467,4,2018-10-31
+Quiere Beber,58,Anuel Aa,Anuel Aa,Real Hasta la Muerte,El Top 50 de Bolivia,33,0.773,0.57,8,-3.482,1,0.113,0.372,0.00524,0.108,0.772,95.038,187125,4,2018-07-17
+Llegaste Tú,75,CNCO,CNCO feat. Prince Royce,Llegaste Tú,El Top 50 de Bolivia,34,0.702,0.914,7,-2.934,0,0.0376,0.153,0,0.0625,0.563,96.991,190916,4,2018-10-26
+"thank u, next",72,Ariana Grande,Ariana Grande,"thank u, next",El Top 50 de Bolivia,35,0.724,0.647,1,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333,4,2018-11-03
+Está Rico,77,Marc Anthony,Marc Anthony feat. Will Smith feat. Bad Bunny,Está Rico,El Top 50 de Bolivia,36,0.817,0.74,11,-4.566,0,0.283,0.266,0,0.0992,0.674,130.04,215151,4,2018-09-28
+Déjala que vuelva (feat. Manuel Turizo),71,Piso 21,Piso 21 feat. Manuel Turizo,Ubuntu,El Top 50 de Bolivia,37,0.681,0.788,1,-4.323,1,0.0785,0.0482,0,0.0753,0.839,170.019,220117,4,2018-05-11
+Chica Paranormal,77,Paulo Londra,Paulo Londra,Chica Paranormal,El Top 50 de Bolivia,38,0.84,0.596,6,-4.319,0,0.0918,0.216,0,0.0897,0.71,139.937,221214,4,2018-07-24
+Bohemian Rhapsody - Remastered 2011,79,Queen,Queen,A Night At The Opera (Deluxe Remastered Version),El Top 50 de Bolivia,39,0.397,0.396,3,-9.91,1,0.05,0.254,0,0.268,0.227,142.913,354320,4,1975-11-21
+Sin Pijama,82,Becky G,Becky G feat. Natti Natasha,Sin Pijama,El Top 50 de Bolivia,40,0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-5,0.104,0.82,94.014,188560,4,2018-04-20
+Hipócrita,58,Anuel Aa,Anuel Aa feat. Zion,Real Hasta la Muerte,El Top 50 de Bolivia,41,0.79,0.858,2,-2.78,1,0.0471,0.303,0,0.61,0.79,92.05,192000,4,2018-07-17
+Epa Wei,76,Danny Ocean,Danny Ocean,Epa Wei,El Top 50 de Bolivia,42,0.688,0.82,6,-4.715,0,0.155,0.233,0,0.091,0.804,107.833,208254,4,2018-08-10
+Te Amo,77,Piso 21,Piso 21 feat. Paulo Londra,Te Amo,El Top 50 de Bolivia,43,0.849,0.724,5,-4.139,1,0.0665,0.0204,5.98e-6,0.235,0.63,98.005,201122,4,2018-03-15
+No Me Acuerdo,78,Thalía,Thalía feat. Natti Natasha,Valiente,El Top 50 de Bolivia,44,0.837,0.784,7,-4.531,0,0.101,0.175,0,0.0897,0.748,94.036,217653,4,2018-11-09
+Nena Maldición (feat. Lenny Tavárez),77,Paulo Londra,Paulo Londra feat. Lenny Tavárez,Nena Maldición (feat. Lenny Tavárez),El Top 50 de Bolivia,45,0.762,0.631,6,-4.837,1,0.0544,0.178,0,0.146,0.379,118.969,228875,4,2018-01-30
+NI BIEN NI MAL,84,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Bolivia,46,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-5,0.273,0.337,128.028,236216,4,2018-12-23
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de Bolivia,47,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+Ibiza,80,Ozuna,Ozuna feat. Romeo Santos,Aura,El Top 50 de Bolivia,48,0.691,0.71,5,-5.144,1,0.334,0.254,0,0.108,0.726,192.046,200747,4,2018-08-24
+Mocca,70,Lalo Ebratt,Lalo Ebratt feat. Trapical,Mocca,El Top 50 de Bolivia,49,0.786,0.695,1,-5.343,0,0.353,0.185,0,0.123,0.591,97.957,200293,4,2018-04-27
+Caro,81,Bad Bunny,Bad Bunny,X 100PRE,El Top 50 de Bolivia,50,0.651,0.575,0,-7.739,1,0.299,0.627,2.02e-4,0.0961,0.248,160.007,229456,4,2018-12-23
+La Cobra,61,j mena,j mena,La Cobra,El Top 50 de Argentina,1,0.843,0.729,11,-4.138,0,0.342,0.0576,0,0.0267,0.472,172.017,188227,4,2019-05-10
+Tal Vez,90,Paulo Londra,Paulo Londra,Tal Vez,El Top 50 de Argentina,2,0.849,0.655,8,-2.899,1,0.106,0.266,0,0.0781,0.76,161.966,264483,4,2019-04-03
+Lo Prohibido,42,Mike Wit,Mike Wit feat. D3llano feat. Life After Party feat. J. Parker,Lo Prohibido,El Top 50 de Argentina,3,0.633,0.677,7,-8.124,1,0.29,0.207,0,0.12,0.562,89.899,214667,4,2018-08-10
+Otro Trago,88,Sech,Sech feat. Darell,Sueños,El Top 50 de Argentina,4,0.747,0.7,0,-4.669,1,0.341,0.136,1.67e-4,0.11,0.62,176.036,225933,4,2019-04-19
+Pa Mí - Remix,51,Dalex,Dalex feat. Rafa Pabön feat. Khea feat. Sech feat. Feid feat. Cazzu feat. Lenny Tavárez,Climaxxx,El Top 50 de Argentina,5,0.688,0.62,11,-8.029,0,0.22,0.753,5.27e-6,0.158,0.727,170.018,360960,4,2019-05-10
+Apagar la luz (feat. Gustavo Elis),17,Polo Nandez,Polo Nandez feat. Gustavo Elis,Apagar la luz (feat. Gustavo Elis),El Top 50 de Argentina,6,0.445,0.78,0,-6.525,1,0.121,0.573,0,0.135,0.712,100.008,190081,3,2019-05-10
+Con Altura,90,ROSALÍA,ROSALÍA feat. J Balvin feat. El Guincho,Con Altura,El Top 50 de Argentina,7,0.882,0.689,6,-4.027,1,0.124,0.39,0.00325,0.0501,0.746,97.963,161627,4,2019-03-28
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de Argentina,8,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+"Tumbando el Club (feat. C.R.O., Obiewanshot, Ysy A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) - Remix",80,Neo Pistea,Neo Pistea feat. Cro feat. Obie Wanshot feat. Ysy A feat. Cazzu feat. Khea feat. Lucho SSJ feat. Coqeéin Montana feat. Marcianos Crew feat. Duki,"Tumbando el Club (feat. C.R.O., Obiewanshot, Ysy A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) [Remix]",El Top 50 de Argentina,9,0.882,0.777,5,-4.445,1,0.0504,0.354,0,0.135,0.533,121.985,456940,4,2019-03-27
+Tuyo,43,J.Beren,J.Beren,Tuyo,El Top 50 de Argentina,10,0.811,0.881,7,-2.757,0,0.0405,0.183,0.00148,0.0651,0.649,99.987,175800,4,2019-02-22
+Te Robaré,90,Nicky Jam,Nicky Jam feat. Ozuna,Te Robaré,El Top 50 de Argentina,11,0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-5,0.0813,0.797,175.997,201818,4,2019-03-22
+Verte Ir,91,DJ Luian,DJ Luian feat. Mambo Kingz feat. Anuel Aa feat. Nicky Jam feat. Darell feat. Brytiago,Verte Ir,El Top 50 de Argentina,12,0.857,0.647,11,-4.152,0,0.0984,0.391,1.2e-6,0.0842,0.553,95.982,267500,4,2019-03-28
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de Argentina,13,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+HP,92,Maluma,Maluma,HP,El Top 50 de Argentina,14,0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-6,0.188,0.618,91.98,184436,4,2019-03-01
+Tiempo,50,Albert Gonzalez,Albert Gonzalez feat. J.Beren feat. Kira Brown,Tiempo,El Top 50 de Argentina,15,0.88,0.6,0,-8.21,1,0.0924,0.282,8.94e-5,0.0872,0.535,95.015,192000,4,2019-04-05
+Soltera - Remix,75,Lunay,Lunay feat. Daddy Yankee feat. Bad Bunny,Soltera (Remix),El Top 50 de Argentina,16,0.795,0.783,5,-4.271,1,0.0432,0.361,0,0.437,0.8,92.016,266087,4,2019-05-10
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Argentina,17,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Argentina,18,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+22,70,TINI,TINI feat. Greeicy,22,El Top 50 de Argentina,19,0.704,0.643,1,-4.705,0,0.0903,0.00807,0,0.0895,0.806,176.038,159188,4,2019-05-03
+Desconocidos,63,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Para Aventuras y Curiosidades,El Top 50 de Argentina,20,0.719,0.753,7,-4.891,1,0.179,0.118,4.21e-6,0.212,0.675,174.107,204564,4,2019-05-03
+Hope,43,Mike Wit,Mike Wit,Hope,El Top 50 de Argentina,21,0.694,0.581,6,-7.382,1,0.0496,0.843,2.12e-6,0.0823,0.664,107.059,172722,4,2019-04-12
+Que Mas Pues - Remix,83,Sech,Sech feat. Justin Quiles feat. Maluma feat. Nicky Jam feat. Farruko feat. Dalex feat. Lenny Tavárez,Sueños,El Top 50 de Argentina,22,0.648,0.661,11,-5.027,1,0.195,0.121,2.33e-6,0.12,0.813,113.363,305962,5,2019-04-19
+Un Año,74,Sebastian Yatra,Sebastian Yatra feat. Reik,FANTASÍA,El Top 50 de Argentina,23,0.773,0.378,1,-7.062,0,0.0531,0.14,0,0.133,0.513,94.946,163813,4,2019-04-12
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Argentina,24,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Argentina,25,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+Sin Culpa (feat. DrefQuila),77,Duki,Duki feat. DrefQuila,Sin Culpa (feat. DrefQuila),El Top 50 de Argentina,26,0.641,0.652,8,-8.575,0,0.264,0.42,1.74e-6,0.094,0.406,175.022,244771,4,2018-12-07
+Contra La Pared,74,Sean Paul,Sean Paul feat. J Balvin,Contra La Pared,El Top 50 de Argentina,27,0.828,0.588,2,-7.14,1,0.118,0.0156,0,0.124,0.598,94.052,224681,4,2019-03-14
+Cristina,73,Sebastian Yatra,Sebastian Yatra,FANTASÍA,El Top 50 de Argentina,28,0.411,0.508,5,-4.342,1,0.0557,0.29,0,0.123,0.668,81.96,201627,3,2019-04-12
+Forever Alone,81,Paulo Londra,Paulo Londra,Forever Alone,El Top 50 de Argentina,29,0.864,0.426,7,-8.392,0,0.0561,0.498,2.28e-4,0.145,0.477,129.954,215963,4,2019-02-13
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Argentina,30,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+Baila Baila Baila - Remix,84,Ozuna,Ozuna feat. Daddy Yankee feat. J Balvin feat. Farruko feat. Anuel Aa,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",El Top 50 de Argentina,31,0.785,0.572,2,-7.504,1,0.123,0.0598,0,0.218,0.49,100.016,235284,4,2019-04-25
+Baila Baila Baila,91,Ozuna,Ozuna,Baila Baila Baila,El Top 50 de Argentina,32,0.816,0.754,11,-2.75,0,0.111,0.0361,0,0.217,0.533,99.966,158400,4,2019-01-05
+bad guy,100,Billie Eilish,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",El Top 50 de Argentina,33,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,4,2019-03-29
+Si Se Da,86,Myke Towers,Myke Towers feat. Farruko,Si Se Da,El Top 50 de Argentina,34,0.83,0.71,11,-5.523,0,0.326,0.374,0,0.0877,0.703,93.977,237013,4,2019-02-26
+Esclavo de Tus Besos,88,Manuel Turizo,Manuel Turizo feat. Ozuna,Esclavo de Tus Besos,El Top 50 de Argentina,35,0.805,0.671,5,-5.316,1,0.111,0.113,0,0.278,0.522,90.979,219302,4,2019-02-15
+Eclipse,70,Lit Killah,Lit Killah,Eclipse,El Top 50 de Argentina,36,0.715,0.691,4,-5.405,0,0.111,0.413,0,0.166,0.381,93.024,208103,4,2019-04-25
+Rebota,84,Guaynaa,Guaynaa,Rebota,El Top 50 de Argentina,37,0.796,0.911,1,-1.998,1,0.285,0.188,0,0.499,0.918,180.128,204631,4,2018-12-14
+Cuando Te Besé,83,Becky G,Becky G feat. Paulo Londra,Cuando Te Besé,El Top 50 de Argentina,38,0.772,0.732,9,-3.713,0,0.213,0.307,5.14e-6,0.106,0.295,100.048,254383,4,2018-08-02
+Puntos Suspensivos,81,Piso 21,Piso 21,Ubuntu,El Top 50 de Argentina,39,0.823,0.731,11,-3.399,0,0.103,0.175,0,0.131,0.952,152.024,186316,4,2018-05-11
+Me Voy,73,Rombai,Rombai,Me Voy,El Top 50 de Argentina,40,0.531,0.752,9,-3.33,0,0.2,0.214,0,0.145,0.884,192.443,177787,4,2018-09-28
+Me Vas a Extrañar - En Vivo,71,Damas Gratis,Damas Gratis feat. Viru Kumbieron,Me Vas a Extrañar (En Vivo),El Top 50 de Argentina,41,0.419,0.809,11,-4.596,1,0.0357,0.323,0,0.699,0.635,88.418,238528,4,2018-09-07
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Argentina,42,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Créeme,63,Karol G,Karol G feat. Maluma,OCEAN,El Top 50 de Argentina,43,0.715,0.874,6,-3.576,1,0.0548,0.126,1.62e-4,0.105,0.652,96.995,214293,4,2019-05-03
+I Don't Care (with Justin Bieber),88,Ed Sheeran,Ed Sheeran feat. Justin Bieber,I Don't Care (with Justin Bieber),El Top 50 de Argentina,44,0.798,0.675,6,-5.041,1,0.0442,0.0912,0,0.0894,0.842,101.956,219947,4,2019-05-10
+Punto G,67,Karol G,Karol G,OCEAN,El Top 50 de Argentina,45,0.791,0.746,6,-4.716,1,0.0907,0.00938,1.17e-4,0.125,0.905,165.994,183160,4,2019-05-03
+Baby,84,Amenazzy,Amenazzy feat. Nicky Jam feat. Farruko,Baby,El Top 50 de Argentina,46,0.7,0.71,11,-4.835,1,0.0532,0.327,0,0.129,0.582,167.971,235973,4,2018-12-21
+Date La Vuelta,79,Luis Fonsi,Luis Fonsi feat. Sebastian Yatra feat. Nicky Jam,Date La Vuelta,El Top 50 de Argentina,47,0.747,0.825,6,-2.903,1,0.0566,0.0487,0,0.107,0.866,94.006,219773,4,2019-04-24
+Aullando,87,Wisin & Yandel,Wisin & Yandel feat. Romeo Santos,"Los Campeones del Pueblo ""The Big Leagues""",El Top 50 de Argentina,48,0.8,0.74,10,-4.52,0,0.0479,0.184,0,0.0558,0.775,90.035,226200,4,2018-12-14
+Ella Quiere Beber - Remix,87,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Argentina,49,0.75,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.697,95.239,219357,4,2018-11-02
+Vuelta a la Luna - Remix,68,Ysy A,Ysy A feat. Duki feat. Neo Pistea,Vuelta a la Luna (Remix),El Top 50 de Argentina,50,0.437,0.81,10,-7.004,0,0.0518,0.186,0,0.371,0.315,137.542,301647,4,2019-04-19
+Otro Trago,88,Sech,Sech feat. Darell,Sueños,El Top 50 de Venezuela,1,0.747,0.7,0,-4.669,1,0.341,0.136,1.67e-4,0.11,0.62,176.036,225933,4,2019-04-19
+Que Mas Pues - Remix,83,Sech,Sech feat. Justin Quiles feat. Maluma feat. Nicky Jam feat. Farruko feat. Dalex feat. Lenny Tavárez,Sueños,El Top 50 de Venezuela,2,0.648,0.661,11,-5.027,1,0.195,0.121,2.33e-6,0.12,0.813,113.363,305962,5,2019-04-19
+Soltera - Remix,75,Lunay,Lunay feat. Daddy Yankee feat. Bad Bunny,Soltera (Remix),El Top 50 de Venezuela,3,0.795,0.783,5,-4.271,1,0.0432,0.361,0,0.437,0.8,92.016,266087,4,2019-05-10
+Medusa,46,Fialo,Fialo,Medusa,El Top 50 de Venezuela,4,0.771,0.639,9,-7.898,0,0.103,0.0557,5.03e-5,0.294,0.703,156.103,194680,4,2019-04-12
+Pa Mí - Remix,92,Dalex,Dalex feat. Rafa Pabön feat. Khea feat. Sech feat. Cazzu feat. Feid feat. Lenny Tavárez,Pa Mí (Remix),El Top 50 de Venezuela,5,0.688,0.62,11,-8.029,0,0.22,0.753,5.27e-6,0.158,0.727,170.018,360960,4,2019-02-07
+Verte Ir,91,DJ Luian,DJ Luian feat. Mambo Kingz feat. Anuel Aa feat. Nicky Jam feat. Darell feat. Brytiago,Verte Ir,El Top 50 de Venezuela,6,0.857,0.647,11,-4.152,0,0.0984,0.391,1.2e-6,0.0842,0.553,95.982,267500,4,2019-03-28
+Te Robaré,90,Nicky Jam,Nicky Jam feat. Ozuna,Te Robaré,El Top 50 de Venezuela,7,0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-5,0.0813,0.797,175.997,201818,4,2019-03-22
+Cuaderno,65,Dalex,Dalex feat. Nicky Jam feat. Justin Quiles feat. Sech feat. Lenny Tavárez feat. Feid feat. Rafa Pabön,Climaxxx,El Top 50 de Venezuela,8,0.681,0.648,1,-5.021,0,0.38,0.524,0,0.104,0.687,172.019,286507,4,2019-05-10
+Destino,80,Greeicy,Greeicy feat. Nacho,Destino,El Top 50 de Venezuela,9,0.708,0.761,0,-3.02,1,0.093,0.0105,8.51e-6,0.0462,0.71,188.124,180480,4,2019-03-15
+Solita,72,Sech,Sech feat. Farruko feat. Zion & Lennox,Sueños,El Top 50 de Venezuela,10,0.679,0.831,2,-1.866,1,0.109,0.159,1.1e-6,0.097,0.88,88.792,219520,4,2019-04-19
+Desconocidos,63,Mau y Ricky,Mau y Ricky feat. Manuel Turizo feat. Camilo,Para Aventuras y Curiosidades,El Top 50 de Venezuela,11,0.719,0.753,7,-4.891,1,0.179,0.118,4.21e-6,0.212,0.675,174.107,204564,4,2019-05-03
+Con Calma,96,Daddy Yankee,Daddy Yankee feat. Snow,Con Calma,El Top 50 de Venezuela,12,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-6,0.0574,0.656,93.989,193227,4,2019-01-24
+Tal Vez,90,Paulo Londra,Paulo Londra,Tal Vez,El Top 50 de Venezuela,13,0.849,0.655,8,-2.899,1,0.106,0.266,0,0.0781,0.76,161.966,264483,4,2019-04-03
+Te Vi,89,Piso 21,Piso 21 feat. Micro Tdh,Te Vi,El Top 50 de Venezuela,14,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-5,0.0863,0.706,102.02,231848,4,2018-12-14
+HP,92,Maluma,Maluma,HP,El Top 50 de Venezuela,15,0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-6,0.188,0.618,91.98,184436,4,2019-03-01
+Si Se Da,86,Myke Towers,Myke Towers feat. Farruko,Si Se Da,El Top 50 de Venezuela,16,0.83,0.71,11,-5.523,0,0.326,0.374,0,0.0877,0.703,93.977,237013,4,2019-02-26
+Esclavo de Tus Besos,88,Manuel Turizo,Manuel Turizo feat. Ozuna,Esclavo de Tus Besos,El Top 50 de Venezuela,17,0.805,0.671,5,-5.316,1,0.111,0.113,0,0.278,0.522,90.979,219302,4,2019-02-15
+Con Altura,90,ROSALÍA,ROSALÍA feat. J Balvin feat. El Guincho,Con Altura,El Top 50 de Venezuela,18,0.882,0.689,6,-4.027,1,0.124,0.39,0.00325,0.0501,0.746,97.963,161627,4,2019-03-28
+La Boca,72,Mau y Ricky,Mau y Ricky feat. Camilo,Para Aventuras y Curiosidades,El Top 50 de Venezuela,19,0.618,0.795,2,-1.8,1,0.113,0.0655,0,0.309,0.76,185.901,206279,4,2019-05-03
+Un Año,74,Sebastian Yatra,Sebastian Yatra feat. Reik,FANTASÍA,El Top 50 de Venezuela,20,0.773,0.378,1,-7.062,0,0.0531,0.14,0,0.133,0.513,94.946,163813,4,2019-04-12
+Secreto,92,Anuel Aa,Anuel Aa feat. Karol G,Secreto,El Top 50 de Venezuela,21,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,258800,4,2019-01-15
+Calma - Remix,93,Pedro Capó,Pedro Capó feat. Farruko,Calma (Remix),El Top 50 de Venezuela,22,0.826,0.773,11,-4.218,0,0.0524,0.323,0,0.143,0.761,126.899,238200,4,2018-10-05
+Pa Olvidarte (feat. Manuel Turizo) - Remix,84,ChocQuibTown,ChocQuibTown feat. Zion & Lennox feat. Farruko feat. Manuel Turizo,Pa Olvidarte (feat. Manuel Turizo) [Remix],El Top 50 de Venezuela,23,0.724,0.791,7,-5.411,1,0.169,0.0441,6.55e-6,0.239,0.856,176.011,256418,4,2019-02-01
+Adan y Eva,89,Paulo Londra,Paulo Londra,Adan y Eva,El Top 50 de Venezuela,24,0.767,0.709,1,-4.47,1,0.336,0.323,0,0.0676,0.72,171.993,258639,4,2018-11-05
+Contra La Pared,87,Sean Paul,Sean Paul feat. J Balvin,Contra La Pared,El Top 50 de Venezuela,25,0.828,0.588,2,-7.14,1,0.118,0.0156,0,0.124,0.598,94.052,224681,4,2019-03-14
+Qué Más Pues,77,Sech,Sech feat. Justin Quiles,The Sensation,El Top 50 de Venezuela,26,0.563,0.565,8,-5.514,0,0.376,0.065,1.69e-4,0.0855,0.818,169.841,203667,4,2018-12-06
+No Te Vayas,76,Camilo,Camilo,No Te Vayas,El Top 50 de Venezuela,27,0.766,0.721,6,-4.46,0,0.0738,0.0527,0,0.128,0.81,92.001,201227,4,2019-03-29
+Baila Baila Baila - Remix,84,Ozuna,Ozuna feat. Daddy Yankee feat. J Balvin feat. Farruko feat. Anuel Aa,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",El Top 50 de Venezuela,28,0.785,0.572,2,-7.504,1,0.123,0.0598,0,0.218,0.49,100.016,235284,4,2019-04-25
+Déjate Querer,83,Lalo Ebratt,Lalo Ebratt feat. Sebastian Yatra feat. Yera feat. Trapical Minds,Déjate Querer,El Top 50 de Venezuela,29,0.755,0.792,6,-4.238,1,0.0484,0.028,0,0.0754,0.844,106.014,202824,4,2019-02-28
+Baby,84,Amenazzy,Amenazzy feat. Nicky Jam feat. Farruko,Baby,El Top 50 de Venezuela,30,0.7,0.71,11,-4.835,1,0.0532,0.327,0,0.129,0.582,167.971,235973,4,2018-12-21
+Créeme,63,Karol G,Karol G feat. Maluma,OCEAN,El Top 50 de Venezuela,31,0.715,0.874,6,-3.576,1,0.0548,0.126,1.62e-4,0.105,0.652,96.995,214293,4,2019-05-03
+Amanece,88,Anuel Aa,Anuel Aa feat. Haze,Amanece,El Top 50 de Venezuela,32,0.79,0.631,8,-5.549,0,0.0425,0.437,0,0.158,0.889,94.039,190005,4,2018-12-14
+Miss Lonely - Dimelo Flow Remix,72,Sech,Sech feat. Justin Quiles feat. De La Ghetto feat. Dimelo Flow,Sueños,El Top 50 de Venezuela,33,0.669,0.711,0,-5.461,1,0.156,0.176,0,0.024,0.717,81.921,240366,4,2019-04-19
+Cristina,73,Sebastian Yatra,Sebastian Yatra,FANTASÍA,El Top 50 de Venezuela,34,0.411,0.508,5,-4.342,1,0.0557,0.29,0,0.123,0.668,81.96,201627,3,2019-04-12
+Déjame Ir,67,Andrés Cepeda,Andrés Cepeda feat. Morat,Déjame Ir,El Top 50 de Venezuela,35,0.3,0.783,2,-1.943,1,0.0421,0.394,0,0.111,0.34,158.822,232743,4,2019-04-26
+Sígueme - Remix,75,Feid,Feid feat. Sech,Sígueme (Remix),El Top 50 de Venezuela,36,0.753,0.522,1,-5.649,0,0.259,0.618,5.66e-5,0.106,0.651,174.016,202547,4,2019-02-01
+Ella Quiere Beber - Remix,87,Anuel Aa,Anuel Aa feat. Romeo Santos,Ella Quiere Beber (Remix),El Top 50 de Venezuela,37,0.75,0.665,8,-3.083,1,0.124,0.265,0,0.0515,0.697,95.239,219357,4,2018-11-02
+Tiene Novio,73,Sech,Sech feat. Manuel Turizo,Sueños,El Top 50 de Venezuela,38,0.711,0.716,5,-5.914,1,0.0424,0.146,4.05e-6,0.0542,0.842,92.996,220945,4,2019-04-19
+Sola,79,Manuel Turizo,Manuel Turizo,Sola,El Top 50 de Venezuela,39,0.704,0.706,11,-5.233,0,0.111,0.483,0,0.0965,0.856,92.965,195044,4,2018-11-09
+bad guy,100,Billie Eilish,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",El Top 50 de Venezuela,40,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,4,2019-03-29
+Presiento,80,Morat,Morat feat. Aitana,Presiento,El Top 50 de Venezuela,41,0.711,0.727,2,-3.15,1,0.162,0.168,0,0.296,0.465,180.039,174380,4,2019-04-12
+No Es Justo,78,J Balvin,J Balvin feat. Zion & Lennox,Vibras,El Top 50 de Venezuela,42,0.684,0.811,7,-4.494,1,0.0714,0.161,3.63e-4,0.0871,0.721,87.866,250840,4,2018-05-25
+Ocean,73,Karol G,Karol G,OCEAN,El Top 50 de Venezuela,43,0.727,0.482,11,-6.193,1,0.115,0.933,0,0.388,0.487,74.93,155947,4,2019-05-03
+Punto G,67,Karol G,Karol G,OCEAN,El Top 50 de Venezuela,44,0.791,0.746,6,-4.716,1,0.0907,0.00938,1.17e-4,0.125,0.905,165.994,183160,4,2019-05-03
+Adictiva,86,Daddy Yankee,Daddy Yankee feat. Anuel Aa,Adictiva,El Top 50 de Venezuela,45,0.788,0.771,4,-3.206,0,0.0563,0.291,5.62e-5,0.172,0.701,99.038,207853,4,2018-11-09
+Falsas Promesas,72,Sech,Sech,Sueños,El Top 50 de Venezuela,46,0.412,0.737,5,-5.234,0,0.0896,0.427,8.71e-4,0.13,0.864,179.952,206607,4,2019-04-19
+Vaina Loca,84,Ozuna,Ozuna feat. Manuel Turizo,Aura,El Top 50 de Venezuela,47,0.754,0.805,6,-4.249,1,0.0752,0.315,0,0.203,0.555,93.983,176133,4,2018-08-24
+MIA (feat. Drake),89,Bad Bunny,Bad Bunny feat. Drake,MIA (feat. Drake),El Top 50 de Venezuela,48,0.817,0.539,6,-6.349,0,0.0621,0.0141,4.96e-4,0.099,0.158,97.062,210368,4,2018-10-11
+Soltera,86,Lunay,Lunay feat. Chris Jeday feat. Gaby Music,Soltera,El Top 50 de Venezuela,49,0.778,0.731,5,-4.325,1,0.0399,0.446,0,0.251,0.854,91.991,213913,4,2019-02-21
+Reggaeton,85,J Balvin,J Balvin,Reggaeton,El Top 50 de Venezuela,50,0.747,0.74,4,-4.325,0,0.191,0.0165,9.94e-5,0.101,0.552,176.059,158800,4,2018-11-17
+La Player (Bandolera),80,Zion & Lennox,Zion & Lennox,La Player (Bandolera),El Top 50 de Venezuela,51,0.769,0.838,2,-5.238,1,0.0633,0.16,0,0.0935,0.602,93.996,249609,4,2018-02-16
+Baila Baila Baila,91,Ozuna,Ozuna,Baila Baila Baila,El Top 50 de Venezuela,52,0.816,0.754,11,-2.75,0,0.111,0.0361,0,0.217,0.533,99.966,158400,4,2019-01-05
+Rebota,84,Guaynaa,Guaynaa,Rebota,El Top 50 de Venezuela,53,0.796,0.911,1,-1.998,1,0.285,0.188,0,0.499,0.918,180.128,204631,4,2018-12-14
