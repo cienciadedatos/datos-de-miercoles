@@ -7,22 +7,22 @@ Esta semana exploraremos datos de rankings musicales "Top 50" de países hispano
 ## Obtener los datos
 
 
-Para obtener los datos deberás seguir estos 3 sencillos pasos:
+Para obtener los datos deberás seguir estos 4 sencillos pasos:
 
--   Hacer una App de Spotify Developer [aquí](https://developer.spotify.com/dashboard) (puedes seguir las imágenes en [estas instrucciones en inglés](https://r-music.rbind.io/posts/2018-10-01-rspotify/)):
+- Hacer una App de Spotify Developer [aquí](https://developer.spotify.com/dashboard) (puedes seguir las imágenes en [estas instrucciones en inglés](https://r-music.rbind.io/posts/2018-10-01-rspotify/)):
     -   Crea una cuenta si no tienes una
     -   Crea una app declarando si es comercial o no (en nuestro caso, no lo es).
     -   Copia tu `client ID` y tu `client Secret`.
-    -   Haz clic en "Edit settings" y cambia Redirect URLs a <http://localhost:1410/>
-- Instala el paquete `Rspotify` si no lo tienes (`install_packages("Rspotify")`)
-- En el siguiente código, cambia en la línea que se definen las `keys` los valores de `app\_id`, `client\_id` y `client\_secret` por tus datos (línea 8. contando los saltos de línea).
-- Corre el código. Dependiendo de tu conexión, tardará en ejecutarse unos 3 minutos.
+    -   Haz clic en "Edit settings" y cambia Redirect URLs a <http://localhost:1410/> .
+- Instala los paquetes `Rspotify` y `httpuv` si no los tienes (con `install.packages`).
+- En el siguiente código, cambia en la línea que se definen las `keys` los valores de `app_id`, `client_id` y `client_secret` por tus datos (línea 8. contando los saltos de línea).
+- Corre el código. Dependiendo de tu conexión, tardará en ejecutarse unos 4 minutos.
 
 <!-- -->
     ########### Extraer Top 50 ############
 
-    # install_packages("Rspotify")
-    # install_packages("tidyverse")
+    # install.packages("Rspotify")
+    # install.packages("tidyverse")
     library(Rspotify)
     library(tidyverse)
 
@@ -213,7 +213,7 @@ Para obtener los datos deberás seguir estos 3 sencillos pasos:
 
 ## Fuente original y adaptación
 
-La idea de los datos de esta semana, así como el código extraerlos desde Spotify estuvieron a cargo de [violeta:green\_heart:](https://twitter.com/violetrzn).
+La idea de los datos de esta semana, así como el código para extraerlos desde Spotify estuvieron a cargo de [violeta:green\_heart:](https://twitter.com/violetrzn).
 
 Inspiración
 -----------
