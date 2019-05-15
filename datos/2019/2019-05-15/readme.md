@@ -1,25 +1,26 @@
 
-Datos sobre Rankings Musicales
-==============================
+# Datos sobre Rankings Musicales
 
-Esta semana exploraremos datos de Rankings musicales "Top 50" de países hispanohablantes. Para esto accederemos a la API de Spotify a través del paquete `Rspotify`. Además de los datos básicos como nombre de la canción, artista y álbum también se incluirán características musicales como positividad y bailabilidad de las canciones.
 
-Obtener los datos
-=================
+Esta semana exploraremos datos de rankings musicales "Top 50" de países hispanohablantes. Para esto, accederemos a la API de Spotify a través del paquete `Rspotify`. Además de los datos básicos como nombre de la canción, artista y álbum, también se incluirán características musicales como qué tan "positivas" o bailables son las canciones.
+
+## Obtener los datos
+
 
 Para obtener los datos deberás seguir estos 3 sencillos pasos:
 
--   Hacer una App de Spotify Developer [aquí](https://developer.spotify.com/dashboard) (puedes seguir [estas instrucciones](https://r-music.rbind.io/posts/2018-10-01-rspotify/) con imágenes):
+-   Hacer una App de Spotify Developer [aquí](https://developer.spotify.com/dashboard) (puedes seguir las imágenes en [estas instrucciones en inglés](https://r-music.rbind.io/posts/2018-10-01-rspotify/)):
     -   Crea una cuenta si no tienes una
-    -   Crear una app declarando si es comercial o no (en nuestro caso no).
-    -   Copiar tu client ID y tu client Secret.
-    -   Hacer click en Edit settings y cambiar Redirect URIs a <http://localhost:1410/>
-- Instalar el paquete `Rspotify`
-- Correr el siguiente código que tardará en correr unos 3 minutos en R reemplazando tu app\_id, client\_id, client\_secret en la línea de código 7:
+    -   Crea una app declarando si es comercial o no (en nuestro caso, no lo es).
+    -   Copia tu `client ID` y tu `client Secret`.
+    -   Haz clic en "Edit settings" y cambia Redirect URIs a <http://localhost:1410/>
+- Instala el paquete `Rspotify` si no lo tienes (`install_packages("Rspotify")`)
+- En el siguiente código, cambia `app\_id`, `client\_id` y `client\_secret` por tus datos (línea 8).
+- Corre el código. Dependiendo de tu conexión, tardará en ejecutarse unos 3 minutos.
 
 <!-- -->
+    ########### Extraer Top 50 ############
 
-    ########### Tops 50 ############
     # install_packages("Rspotify")
     # install_packages("tidyverse")
     library(Rspotify)
@@ -27,10 +28,10 @@ Para obtener los datos deberás seguir estos 3 sencillos pasos:
 
     keys <- spotifyOAuth("app_id", "client_id", "client_secret")
 
-    paises_es <- c("Argentina", "Bolivia", "Chile", "Colombia", "Costa Rica", 
-                   "Cuba","la Republica Dominicana", "Dominican Republic", 
-                   "Ecuador", "El Salvador", "Equatorial Guinea", "España", 
-                   "Guatemala", "Honduras", "México", "Nicaragua", "Panamá", 
+    paises_es <- c("Argentina", "Bolivia", "Chile", "Colombia", "Costa Rica",
+                   "Cuba","la Republica Dominicana", "Dominican Republic",
+                   "Ecuador", "El Salvador", "Equatorial Guinea", "España",
+                   "Guatemala", "Honduras", "México", "Nicaragua", "Panamá",
                    "Paraguay", "Perú", "Puerto Rico", "Uruguay", "Venezuela")
     user_playlists_1 <- getPlaylists("qn9el801z6l32l2whymqqs18p", token = keys)
     user_playlists_2 <- getPlaylists("qn9el801z6l32l2whymqqs18p", 50, token = keys)
@@ -45,22 +46,22 @@ Para obtener los datos deberás seguir estos 3 sencillos pasos:
     viralcharts_user = "qn9el801z6l32l2whymqqs18p"
 
     canciones_tops50_es <- purrr::map(tops_50_es$id[-length(tops_50_es$id)],
-                                      ~ getPlaylistSongs(user_id = viralcharts_user, 
+                                      ~ getPlaylistSongs(user_id = viralcharts_user,
                                                          .x,
                                                          token = keys))
-    canciones_tops50_es[[18]] <- getPlaylistSongs(user_id = "suo2sbl91eeth3elwrfuq7qwn", 
+    canciones_tops50_es[[18]] <- getPlaylistSongs(user_id = "suo2sbl91eeth3elwrfuq7qwn",
                                                   "624oAiyjMdmpdJWIylharU",
                                                   token = keys)
 
     dataset_canciones = tibble()
     for (i in 1:length(canciones_tops50_es)) {
-      dataset_canciones = rbind(dataset_canciones, cbind(canciones_tops50_es[[i]], 
-                                                         top = as.character(tops_50_es$name)[i], 
+      dataset_canciones = rbind(dataset_canciones, cbind(canciones_tops50_es[[i]],
+                                                         top = as.character(tops_50_es$name)[i],
                                                          numero = 1:nrow(canciones_tops50_es[[i]])))
     }
-    features_canciones = tibble() 
+    features_canciones = tibble()
     for (j in 1:nrow(dataset_canciones)) {
-      features_canciones = rbind(features_canciones, 
+      features_canciones = rbind(features_canciones,
                                  getFeatures(dataset_canciones$id[j], keys))
     }
     dataset_spotify = cbind(dataset_canciones, features_canciones)
@@ -69,20 +70,22 @@ Para obtener los datos deberás seguir estos 3 sencillos pasos:
     album_fechas =  tibble(album_id = unique(dataset_spotify$album_id),
                            fecha = as.character(unlist(fechas)))
     dataset_spotify = dataset_spotify[, -2] %>%
-      left_join(album_fechas, by = "album_id") 
+      left_join(album_fechas, by = "album_id")
 
     dataset_spotify = dataset_spotify %>%
       select(-id, -artist_id, - album_id, -uri, -analysis_url)
 
     nombres_columnas = c("cancion", "popularidad", "artista", "artista_completo",
-                         "album", "top_pais", "puesto", "bailabilidad", "energia", 
-                         "nota_musical", "volumen", "modo", "hablado", "acustico", 
-                         "instrumental","en_vivo", "positividad", "tempo", 
+                         "album", "top_pais", "puesto", "bailabilidad", "energia",
+                         "nota_musical", "volumen", "modo", "hablado", "acustico",
+                         "instrumental","en_vivo", "positividad", "tempo",
                          "duracion", "tiempo_compas", "fecha")
     colnames(dataset_spotify) <- nombres_columnas
 
-Diccionario de datos
---------------------
+¡Listo!
+
+## Diccionario de datos
+
 
 ### `datos_spotify`
 
@@ -113,17 +116,17 @@ Diccionario de datos
 <tr class="odd">
 <td align="left">artista</td>
 <td align="left">caracter</td>
-<td align="left">Nombre del artista</td>
+<td align="left">Nombre del/la artista</td>
 </tr>
 <tr class="even">
 <td align="left">artista_completo</td>
 <td align="left">caracter</td>
-<td align="left">Nombre completo del artista</td>
+<td align="left">Nombre completo del/la artista</td>
 </tr>
 <tr class="odd">
 <td align="left">album</td>
 <td align="left">caracter</td>
-<td align="left">Nombre del album</td>
+<td align="left">Nombre del álbum</td>
 </tr>
 <tr class="even">
 <td align="left">top_pais</td>
@@ -183,7 +186,7 @@ Diccionario de datos
 <tr class="odd">
 <td align="left">positividad</td>
 <td align="left">numerica</td>
-<td align="left">Positividad (0-&gt;1) valores cercanos a 1 son alegres, euforicos y valores cercanos a 0 son tristes, de ira</td>
+<td align="left">Positividad (0-&gt;1) valores cercanos a 1 son alegres, eufóricos, y valores cercanos a 0 son tristes o de ira</td>
 </tr>
 <tr class="even">
 <td align="left">tempo</td>
@@ -193,7 +196,7 @@ Diccionario de datos
 <tr class="odd">
 <td align="left">duracion</td>
 <td align="left">numerica</td>
-<td align="left">Duracion en milisegundos</td>
+<td align="left">Duración en milisegundos</td>
 </tr>
 <tr class="even">
 <td align="left">tiempo_compas</td>
@@ -208,15 +211,14 @@ Diccionario de datos
 </tbody>
 </table>
 
-Fuente original y adaptación
-----------------------------
+## Fuente original y adaptación
 
-Este código sirve para recoger datos de Spotify. La selección y traducción al español estuvo a cargo de [violeta:green\_heart:](https://twitter.com/violetrzn).
+La idea de los datos de esta semana, así como el código extraerlos desde Spotify estuvieron a cargo de [violeta:green\_heart:](https://twitter.com/violetrzn).
 
 Inspiración
 -----------
 
-Si no sabes por dónde empezar, puedes mirar algunas propuestas de visualización de datos musicales:
+Si no sabes por dónde empezar, puedes mirar algunas propuestas de visualización de datos musicales en estos blogs. Si bien están en inglés, las imágenes te pueden servir de inspiración:
 
 -   Encuentra [aquí](https://ccapella.github.io/post/exploring-spotify-playlists-by-country/) un análisis de rankings Top 50 de países (en inglés).
 -   Encuentra [aquí](https://towardsdatascience.com/a-visual-analysis-of-uk-number-1s-getting-down-and-dirty-with-data-a663cee021c4) un análisis de algunas características musicales (en inglés).
@@ -225,3 +227,5 @@ Si no sabes por dónde empezar, puedes mirar algunas propuestas de visualizació
 -----------
 
 Si estás interesado en obtener más datos musicales puedes obtenerlos mediante el paquete `Rspotify`.
+
+<iframe src="https://spotifymaps.github.io/musicalcities/" width="100%" height="600" frameborder="0"></iframe>
