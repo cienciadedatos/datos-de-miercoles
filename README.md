@@ -44,13 +44,14 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 ***
 
 # Datos
-| Semana | Fecha | Datos | Fuente | Artículo relacionado
+| Semana | Fecha | Datos | Fuente | Artículo/visualziación relacionada
 | :---: | :---: | :--- | :--- | :---|
 | 1 | `2019-04-10` |[Copas Mundiales de fútbol masculino](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-10)|[OpenFootball](https://github.com/openfootball/world-cup) |[Visualizaciones Rusia 2018](https://www.mundodeportivo.com/md/futbol/estadisticas-mundial/grupoa/index.html) |
 | 2 | `2019-04-17` | [Juego de Tronos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-17) | [varias](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-17#fuente-original-y-adaptaci%C3%B3n) | [Tiempo en pantalla personajes](https://www.xataka.com/cine-y-tv/este-fantastico-grafico-muestra-que-personajes-de-juego-de-tronos-aparecen-mas-en-pantalla) |
 | 3 | `2019-04-24` | [Gapminder (en español)](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-24) | [paquete `datos`](https://github.com/cienciadedatos/datos)|[Charla TED de Hans Rosling](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) |
 | 4 | `2019-05-01` | [Comercio mundial](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-01) | [Open Trade Statistics](https://tradestatistics.io/) | [Artículo El País](https://elpais.com/internacional/2017/05/19/america/1495207746_872725.html)|
 | 5 | `2019-05-08` | [Datos parlamentarios](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-08) | [Unión Interparlamentaria](https://data.ipu.org) | [Aplicación Shiny: mujeres en el parlamento (2000 - 2018)](https://calcita.shinyapps.io/women_in_politics)|
+| 6 | 2019-05-15 | [Ranking musicales](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-15)| `Rspotify` | [Mapa Spotify](https://spotifymaps.github.io/musicalcities/)|
 
 
 ***
