@@ -2,7 +2,7 @@
 
 Esta semana exploraremos un subconjunto de datos del informe anual de tuberculosis de la Organización Mundial de la Salud (OMS).
 
-Es típico ejemplo de _data frame_ "ancho", en el que tenemos más de una variable por columna. Por lo tanto, ordenarlos para que estén en formato "largo" sería el primer desafío. Si te fijas, el _dataset_ tiene más de 56 columnas con datos sobre los casos de tuberculosis, pero las variables son realmente muchas menos: tipo de caso, tipo de diagnóstico, sexo del paciente y edad.
+Este es un típico ejemplo de _data frame_ "ancho", en el que tenemos más de una variable por columna. Por lo tanto, ordenarlos para que estén en formato "largo" sería el primer desafío. Si te fijas, el _dataset_ tiene más de 56 columnas con datos sobre los casos de tuberculosis, pero las variables son realmente muchas menos: tipo de caso, tipo de diagnóstico, sexo del paciente y edad.
 
 Las funciones del paquete `tidyr` pueden ayudarte a ordenar los datos. Revisa la documentación [acá](https://tidyr.tidyverse.org/).
 
