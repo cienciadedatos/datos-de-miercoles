@@ -44,7 +44,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 ***
 
 # Datos
-| Semana | Fecha | Datos | Fuente | Artículo/visualziación relacionada
+| Semana | Fecha | Datos | Fuente | Artículo/visualización relacionada
 | :---: | :---: | :--- | :--- | :---|
 | 1 | `2019-04-10` |[Copas Mundiales de fútbol masculino](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-10)|[OpenFootball](https://github.com/openfootball/world-cup) |[Visualizaciones Rusia 2018](https://www.mundodeportivo.com/md/futbol/estadisticas-mundial/grupoa/index.html) |
 | 2 | `2019-04-17` | [Juego de Tronos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-17) | [varias](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-17#fuente-original-y-adaptaci%C3%B3n) | [Tiempo en pantalla personajes](https://www.xataka.com/cine-y-tv/este-fantastico-grafico-muestra-que-personajes-de-juego-de-tronos-aparecen-mas-en-pantalla) |
