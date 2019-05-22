@@ -42,7 +42,7 @@ cd ruta/carpeta/donde/quieres/guardarlo
 git clone https://github.com/cienciadedatos/datos-de-miercoles.git
 ```
 
-Esta opción es útil cuando quieres tener todo el historial de los datos de forma local, o para poder trabajar sin conexion de internet.
+Esta opción es útil cuando quieres tener todo el historial de los datos de forma local, o para poder trabajar sin conexión de internet.
 
 #### Actualizar el repositorio 
 
@@ -54,7 +54,7 @@ git pull https://github.com/cienciadedatos/datos-de-miercoles.git master
 
 ## ¿Qué hacer con los datos?
 
-Lo que hagas con los datos dependerá de los objetivos que tengas. Puedes simplemente jugar ellos o hacer algo más elaborado. Lo importante es que trates de plantearte objetivos realistas que te permitan ser constante y participar semanalmente. No olvides que el foco es poner en pŕactica tus habilidades manejando, visualizando e interpretando datos. 
+Lo que hagas con los datos dependerá de los objetivos que tengas. Puedes simplemente jugar con ellos o hacer algo más elaborado. Lo importante es que trates de plantearte objetivos realistas que te permitan ser constante y participar semanalmente. No olvides que el foco es poner en pŕactica tus habilidades manejando, visualizando e interpretando datos. 
 Si no sabes por dónde partir, puedes revisar las herramientas que se proponen en [el capítulo sobre exploración de datos](https://es.r4ds.hadley.nz/explora-introduccion.html) de "R para Ciencia de Datos" y ponerlas en práctica con los datos de la semana. También puedes buscar algún tipo de análisis o visualización que alguien ya haya hecho y tratar de realizarla con el dataset semanal. O puedes ocupar los datos para aprender a usar algún paquete nuevo. 
 No importa si al inicio no se te ocurre nada o solo imitas lo que otras personas ya han hecho: la idea de hacer este ejercicio semanalmente es adquirir experiencia y poco a poco adquirir mayor autonomía. 
 
