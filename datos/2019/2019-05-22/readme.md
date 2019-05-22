@@ -17,6 +17,18 @@ tuberculosis_oms <- readr::read_csv("https://raw.githubusercontent.com/cienciade
 
 ```
 
+O puedes instalar el paquete `datos` y obtenerlos directamente desde ahí:
+
+```
+# install.packages(remotes)
+# remotes::install_github("cienciadedatos/datos")
+
+library(datos)
+oms
+
+```
+
+
 ## Diccionario de datos
 
 
@@ -89,14 +101,14 @@ tuberculosis_oms <- readr::read_csv("https://raw.githubusercontent.com/cienciade
 
 Los datos provienen del sitio web oficial de la [Organización Mundial de la Saluds](http://www.who.int/tb/country/data/download/en/). La submuestra corresponde a uno de los _dataset_ de ejemplo del paquete `tidyr`.
 
-Esta versión en español es parte [`datos`](https://cienciadedatos.github.io/datos/), el paquete con la traducción de todos los _datasets_ que se utilizan en ["R para Ciencia de Datos"](https://es.r4ds.hadley.nz/) (Wickham & Grolemund, 2017). El paquete  está siendo desarrollado por [Edgar Ruiz](https://twitter.com/theotheredgar), [Riva Quiroga](https://twitter.com/rivaquiroga), [Mauricio 'Pacha' Vargas](https://twitter.com/pachamaltese) y [Mauro Lepore](https://twitter.com/mauro_lepore).
+Esta versión en español es parte `datos`, el paquete con la traducción de todos los _datasets_ que se utilizan en ["R para Ciencia de Datos"](https://es.r4ds.hadley.nz/) (Wickham & Grolemund, 2017). El paquete  está siendo desarrollado por [Edgar Ruiz](https://twitter.com/theotheredgar), [Riva Quiroga](https://twitter.com/rivaquiroga), [Mauricio 'Pacha' Vargas](https://twitter.com/pachamaltese) y [Mauro Lepore](https://twitter.com/mauro_lepore). Si quieres saber más sobre este paquete, puedes revisar [su sitio web](https://cienciadedatos.github.io/datos/).
 
-Puedes utilizarlo así:
-```
-# install.packages(remotes)
-# remotes::install_github("cienciadedatos/datos")
 
-library(datos)
-oms
+## Inspiración e información
 
-```
+Ejemplos de visualizaciones:
+* [mapa interactivo de muertes por tuberculosis](https://ourworldindata.org/grapher/tuberculosis-death-rates?time=1990..2017)
+* [sobre datos relacionados con la tuberculosis](https://ourworldindata.org/eradication-of-diseases#tuberculosis-eradication-efforts)
+* [sobre datos de salud en general](http://www.healthdata.org/results/data-visualizations)
+
+En este [breve artículo en español](https://www.who.int/es/news-room/fact-sheets/detail/tuberculosis) de la OMS puedes conocer información básica y algunos datos actuales sobre la tuberculosis en el mundo.
