@@ -51,8 +51,8 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 3 | `2019-04-24` | [Gapminder (en español)](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-24) | [paquete `datos`](https://github.com/cienciadedatos/datos)|[Charla TED de Hans Rosling](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) |
 | 4 | `2019-05-01` | [Comercio mundial](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-01) | [Open Trade Statistics](https://tradestatistics.io/) | [Artículo El País](https://elpais.com/internacional/2017/05/19/america/1495207746_872725.html)|
 | 5 | `2019-05-08` | [Datos parlamentarios](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-08) | [Unión Interparlamentaria](https://data.ipu.org) | [Aplicación Shiny: mujeres en el parlamento (2000 - 2018)](https://calcita.shinyapps.io/women_in_politics)|
-| 6 | 2019-05-15 | [Ranking musicales](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-15)| `Rspotify` | [Mapa Spotify](https://spotifymaps.github.io/musicalcities/)|
-
+| 6 | `2019-05-15` | [Ranking musicales](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-15)| `Rspotify` | [Mapa Spotify](https://spotifymaps.github.io/musicalcities/)|
+| 7 | `2019-05-22` | [Datos de la OMS sobre tuberculosis](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-22) | [paquete `datos`](cienciadedatos.github.io/datos) | [Visualizaciones de "Our World in Data"](https://ourworldindata.org/grapher/tuberculosis-death-rates?time=1990..2017)| |
 
 ***
 
