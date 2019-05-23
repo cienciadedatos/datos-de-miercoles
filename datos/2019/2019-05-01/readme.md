@@ -33,7 +33,7 @@ comercio_hispanoamerica_mundo <- readr::read_csv("https://raw.githubusercontent.
 |nombre_comunidad_producto              |caracter|nombre de la comunidad de productos (una agrupación de distintos productos similares)|
 |valor_exportado_dolares                |numérica|monto exportado en dólares del año de registro                                       |
 |valor_importado_dolares                |numérica|monto importado en dólares del año de registro                                       |
-|pais_origen_pertenece_a_hispanoamerica |entero  |tiene valor `1` si pertenece a Hispanoamérica y `0` si no caso                                          |
+|pais_origen_pertenece_a_hispanoamerica |entero  |tiene valor `1` si pertenece a Hispanoamérica y `0` si no                                           |
 |pais_destino_pertenece_a_hispanoamerica|entero  |tiene valor `1` si pertenece a Hispanoamérica y `0` si no                                          |
 
 ## Fuente original y adaptación
