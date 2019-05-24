@@ -45,63 +45,63 @@ oms
 | nuevos_fpp_h3534 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), hombres (h) de 35 a 44 años (3544)
 | nuevos_fpp_h4554 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), hombres (h) de 45 a 54 años (4554)
 | nuevos_fpp_h5564 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), hombres (h) de 55 a 64 años (5564)
-| nuevos_fpp_h65 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), hombres (h) de 65 o mas anos
+| nuevos_fpp_h65 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), hombres (h) de 65 o más años
 | nuevos_fpp_m014 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), mujeres (m) de 0 a 14 años (014)
 | nuevos_fpp_m1524 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), mujeres (m) de 15 a 24 años (1524)
 | nuevos_fpp_m2534 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), mujeres (m) de 25 a 34 años (2534)
 | nuevos_fpp_m3534 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), mujeres (m) de 35 a 44 años (3544)
 | nuevos_fpp_m4554 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), mujeres (m) de 45 a 54 años (4554)
 | nuevos_fpp_m5564 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), mujeres (m) de 55 a 64 años (5564)
-| nuevos_fpp_m65 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), mujeres (m) de 65 o mas anos
+| nuevos_fpp_m65 | entero | casos nuevos, diagnóstico frotis pulmonar positivo (fpp), mujeres (m) de 65 o más años
 | nuevos_fpn_h014 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), hombres (h) de 0 a 14 años (014)
 | nuevos_fpn_h1524 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), hombres (h) de 15 a 24 años (1524)
 | nuevos_fpn_h2534 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), hombres (h) de 25 a 34 años (2534)
 | nuevos_fpn_h3534 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), hombres (h) de 35 a 44 años (3544)
 | nuevos_fpn_h4554 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), hombres (h) de 45 a 54 años (4554)
 | nuevos_fpn_h5564 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), hombres (h) de 55 a 64 años (5564)
-| nuevos_fpn_h65 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), hombres (h) de 65 o mas anos
+| nuevos_fpn_h65 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), hombres (h) de 65 o más anos
 | nuevos_fpn_m014 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), mujeres (m) de 0 a 14 años (014)
 | nuevos_fpn_m1524 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), mujeres (m) de 15 a 24 años (1524)
 | nuevos_fpn_m2534 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), mujeres (m) de 25 a 34 años (2534)
 | nuevos_fpn_m3534 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), mujeres (m) de 35 a 44 años (3544)
 | nuevos_fpn_m4554 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), mujeres (m) de 45 a 54 años (4554)
 | nuevos_fpn_m5564 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), mujeres (m) de 55 a 64 años (5564)
-| nuevos_fpn_m65 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), mujeres (m) de 65 o mas anos
+| nuevos_fpn_m65 | entero | casos nuevos, diagnóstico frotis pulmonar negativo (fpn), mujeres (m) de 65 o más años
 | nuevos_ep_h014 | entero | casos nuevos, diagnóstico extrapulmonar (ep), hombres (h) de 0 a 14 años (014)
 | nuevos_ep_h1524 | entero | casos nuevos, diagnóstico extrapulmonar (ep), hombres (h) de 15 a 24 años (1524)
 | nuevos_ep_h2534 | entero | casos nuevos, diagnóstico extrapulmonar (ep), hombres (h) de 25 a 34 años (2534)
 | nuevos_ep_h3534 | entero | casos nuevos, diagnóstico extrapulmonar (ep), hombres (h) de 35 a 44 años (3544)
 | nuevos_ep_h4554 | entero | casos nuevos, diagnóstico extrapulmonar (ep), hombres (h) de 45 a 54 años (4554)
 | nuevos_ep_h5564 | entero | casos nuevos, diagnóstico extrapulmonar (ep), hombres (h) de 55 a 64 años (5564)
-| nuevos_ep_h65 | entero | casos nuevos, diagnóstico extrapulmonar (ep), hombres (h) de 65 o mas anos
+| nuevos_ep_h65 | entero | casos nuevos, diagnóstico extrapulmonar (ep), hombres (h) de 65 o más años
 | nuevos_ep_m014 | entero | casos nuevos, diagnóstico extrapulmonar (ep), mujeres (m) de 0 a 14 años (014)
 | nuevos_ep_m1524 | entero | casos nuevos, diagnóstico extrapulmonar (ep), mujeres (m) de 15 a 24 años (1524)
 | nuevos_ep_m2534 | entero | casos nuevos, diagnóstico extrapulmonar (ep), mujeres (m) de 25 a 34 años (2534)
 | nuevos_ep_m3534 | entero | casos nuevos, diagnóstico extrapulmonar (ep), mujeres (m) de 35 a 44 años (3544)
 | nuevos_ep_m4554 | entero | casos nuevos, diagnóstico extrapulmonar (ep), mujeres (m) de 45 a 54 años (4554)
 | nuevos_ep_m5564 | entero | casos nuevos, diagnóstico extrapulmonar (ep), mujeres (m) de 55 a 64 años (5564)
-| nuevos_ep_m65 | entero | casos nuevos, diagnóstico extrapulmonar (ep), mujeres (m) de 65 o mas anos
+| nuevos_ep_m65 | entero | casos nuevos, diagnóstico extrapulmonar (ep), mujeres (m) de 65 o más años
 | nuevosrecaida_h014 | entero | nuevas recaídas, hombres (h) de 0 a 14 años (014)
 | nuevosrecaida_h1524 | entero | nuevas recaídas, hombres (h) de 15 a 24 años (1524)
 | nuevosrecaida_h2534 | entero | nuevas recaídas, hombres (h) de 25 a 34 años (2534)
 | nuevosrecaida_h3534 | entero | nuevas recaídas, hombres (h) de 35 a 44 años (3544)
 | nuevosrecaida_h4554 | entero | nuevas recaídas, hombres (h) de 45 a 54 años (4554)
 | nuevosrecaida_h5564 | entero | nuevas recaídas, hombres (h) de 55 a 64 años (5564)
-| nuevosrecaida_h65 | entero | nuevas recaídas, hombres (h) de 65 o mas anos
+| nuevosrecaida_h65 | entero | nuevas recaídas, hombres (h) de 65 o más años
 | nuevosrecaida_m014 | entero | nuevas recaídas, mujeres (m) de 0 a 14 años (014)
 | nuevosrecaida_m1524 | entero | nuevas recaídas, mujeres (m) de 15 a 24 años (1524)
 | nuevosrecaida_m2534 | entero | nuevas recaídas, mujeres (m) de 25 a 34 años (2534)
 | nuevosrecaida_m3534 | entero | nuevas recaídas, mujeres (m) de 35 a 44 años (3544)
 | nuevosrecaida_m4554 | entero | nuevas recaídas, mujeres (m) de 45 a 54 años (4554)
 | nuevosrecaida_m5564 | entero | nuevas recaídas, mujeres (m) de 55 a 64 años (5564)
-| nuevosrecaida_m65 | entero | nuevas recaídas, mujeres (m) de 65 o mas años
+| nuevosrecaida_m65 | entero | nuevas recaídas, mujeres (m) de 65 o más años
 
 
 ## Fuente original y adaptación
 
 Los datos provienen del sitio web oficial de la [Organización Mundial de la Saluds](http://www.who.int/tb/country/data/download/en/). La submuestra corresponde a uno de los _dataset_ de ejemplo del paquete `tidyr`.
 
-Esta versión en español es parte `datos`, el paquete con la traducción de todos los _datasets_ que se utilizan en ["R para Ciencia de Datos"](https://es.r4ds.hadley.nz/) (Wickham & Grolemund, 2017). El paquete  está siendo desarrollado por [Edgar Ruiz](https://twitter.com/theotheredgar), [Riva Quiroga](https://twitter.com/rivaquiroga), [Mauricio 'Pacha' Vargas](https://twitter.com/pachamaltese) y [Mauro Lepore](https://twitter.com/mauro_lepore). Si quieres saber más sobre este paquete, puedes revisar [su sitio web](https://cienciadedatos.github.io/datos/).
+Esta versión en español es parte `datos`, el paquete con la traducción de todos los _datasets_ que se utilizan en ["R para Ciencia de Datos"](https://es.r4ds.hadley.nz/) (Wickham & Grolemund, 2017). El paquete está siendo desarrollado por [Edgar Ruiz](https://twitter.com/theotheredgar), [Riva Quiroga](https://twitter.com/rivaquiroga), [Mauricio 'Pacha' Vargas](https://twitter.com/pachamaltese) y [Mauro Lepore](https://twitter.com/mauro_lepore). Si quieres saber más sobre este paquete, puedes revisar [su sitio web](https://cienciadedatos.github.io/datos/).
 
 
 ## Inspiración e información
