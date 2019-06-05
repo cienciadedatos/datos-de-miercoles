@@ -24,7 +24,7 @@ santiago <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/da
 
 ## Diccionario de datos
 
-#### Los cuatro archivos tienen las mismas 12 variables
+#### Los cuatro archivos tienen las mismas 13 variables
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
@@ -37,7 +37,8 @@ santiago <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/da
 | barrio | caracter | nombre del barrio en que se ubica la propiedad |
 | latitud | numérica | latitud de la ubicación de la propiedad |
 | longitud | numérica | longitud de la ubicación de la propiedad |
-| tipo_alojamiento | caracter | Si corresponde a un alojamiento entero, habitación privada o habitación compartida. |
+| tipo_alojamiento | caracter | Si corresponde a un `alojamiento_entero`, `habitacion_privada` o `habitacion_compartida`. |
+| precio | numérica | precio por noche en moneda local |
 | huéspedes | numérica | cantidad de huéspedes que puede recibir la propiedad |
 | política de cancelación | caracter | tipo de política de cancelación (`flexible`, `moderada`, `estricta`, `estricta_con_gracia` (período de gracia de 14 días), `superestricta_30` (50% de reembolso hasta 30 días antes de la llegada) y `superestricta_60` (50% de reembolso hasta 60 días antes de la llegada) |
 
