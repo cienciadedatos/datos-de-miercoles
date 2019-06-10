@@ -1,0 +1,577 @@
+pais,camara,porcentaje_mujeres,cuota_genero,edad_elegibilidad,integrante_mas_joven,numero_integrantes,iso_pais
+Afghanistán,baja,NA,Sí,25,NA,250,afg
+Afghanistán,alta,25,No,35,35,68,afg
+Afghanistán,única,NA,NA,NA,NA,NA,afg
+Angola,baja,NA,NA,NA,NA,NA,ago
+Angola,alta,NA,NA,NA,NA,NA,ago
+Angola,única,30,Sí,18,32,220,ago
+Albania,baja,NA,NA,NA,NA,NA,alb
+Albania,alta,NA,NA,NA,NA,NA,alb
+Albania,única,29.29,Sí,18,30,140,alb
+Andorra,baja,NA,NA,NA,NA,NA,and
+Andorra,alta,NA,NA,NA,NA,NA,and
+Andorra,única,42.86,No,18,25,28,and
+Emiratos Árabes Unidos,baja,NA,NA,NA,NA,NA,are
+Emiratos Árabes Unidos,alta,NA,NA,NA,NA,NA,are
+Emiratos Árabes Unidos,única,22.5,No,25,37,40,are
+Argentina,baja,38.82,Sí,25,28,255,arg
+Argentina,alta,41.67,Sí,30,NA,72,arg
+Argentina,única,NA,NA,NA,NA,NA,arg
+Armenia,baja,NA,NA,NA,NA,NA,arm
+Armenia,alta,NA,NA,NA,NA,NA,arm
+Armenia,única,24.24,Sí,25,30,132,arm
+Antigua y Barbuda,baja,11.11,No,21,39,18,atg
+Antigua y Barbuda,alta,52.94,No,21,33,17,atg
+Antigua y Barbuda,única,NA,NA,NA,NA,NA,atg
+Australia,baja,30,Sí,18,23,150,aus
+Australia,alta,39.47,Sí,18,30,76,aus
+Australia,única,NA,NA,NA,NA,NA,aus
+Austria,baja,37.16,Sí,18,22,183,aut
+Austria,alta,36.07,Sí,18,30,61,aut
+Austria,única,NA,NA,NA,NA,NA,aut
+Azerbaijan,baja,NA,NA,NA,NA,NA,aze
+Azerbaijan,alta,NA,NA,NA,NA,NA,aze
+Azerbaijan,única,16.81,No,25,31,119,aze
+Burundi,baja,36.36,Sí,25,29,121,bdi
+Burundi,alta,46.15,Sí,35,35,39,bdi
+Burundi,única,NA,NA,NA,NA,NA,bdi
+Bélgica,baja,38,Sí,18,26,150,bel
+Bélgica,alta,43.33,No,18,26,60,bel
+Bélgica,única,NA,NA,NA,NA,NA,bel
+Benin,baja,NA,NA,NA,NA,NA,ben
+Benin,alta,NA,NA,NA,NA,NA,ben
+Benin,única,NA,No,25,NA,83,ben
+Burkina Faso,baja,NA,NA,NA,NA,NA,bfa
+Burkina Faso,alta,NA,NA,NA,NA,NA,bfa
+Burkina Faso,única,13.39,Sí,21,35,127,bfa
+Bangladesh,baja,NA,NA,NA,NA,NA,bgd
+Bangladesh,alta,NA,NA,NA,NA,NA,bgd
+Bangladesh,única,20.63,No,25,29,349,bgd
+Bulgaria,baja,NA,NA,NA,NA,NA,bgr
+Bulgaria,alta,NA,NA,NA,NA,NA,bgr
+Bulgaria,única,25.83,Sí,21,23,240,bgr
+Bahrain,baja,15,No,30,NA,40,bhr
+Bahrain,alta,22.5,No,35,NA,40,bhr
+Bahrain,única,NA,NA,NA,NA,NA,bhr
+Bahamas,baja,12.82,No,21,22,39,bhs
+Bahamas,alta,43.75,No,30,NA,16,bhs
+Bahamas,única,NA,NA,NA,NA,NA,bhs
+Bielorrusia,baja,34.55,No,21,32,110,blr
+Bielorrusia,alta,30.36,No,30,37,56,blr
+Bielorrusia,única,NA,NA,NA,NA,NA,blr
+Belize,baja,9.38,No,18,NA,32,blz
+Belize,alta,15.38,No,18,NA,13,blz
+Belize,única,NA,NA,NA,NA,NA,blz
+Brasil,baja,15.01,Sí,21,22,513,bra
+Brasil,alta,14.81,Sí,35,35,81,bra
+Brasil,única,NA,NA,NA,NA,NA,bra
+Barbados,baja,20,No,21,NA,30,brb
+Barbados,alta,42.86,No,21,NA,21,brb
+Barbados,única,NA,NA,NA,NA,NA,brb
+Brunei Darussalam,baja,NA,NA,NA,NA,NA,brn
+Brunei Darussalam,alta,NA,NA,NA,NA,NA,brn
+Brunei Darussalam,única,9.09,No,21,29,33,brn
+Bhutan,baja,14.89,No,25,27,47,btn
+Bhutan,alta,16,No,25,26,25,btn
+Bhutan,única,NA,NA,NA,NA,NA,btn
+Botswana,baja,NA,NA,NA,NA,NA,bwa
+Botswana,alta,NA,NA,NA,NA,NA,bwa
+Botswana,única,9.52,No,18,33,63,bwa
+Canadá,baja,26.95,Sí,18,22,334,can
+Canadá,alta,46.67,No,30,38,105,can
+Canadá,única,NA,NA,NA,NA,NA,can
+Suiza,baja,32.5,Sí,18,26,200,che
+Suiza,alta,15.22,Sí,NA,33,46,che
+Suiza,única,NA,NA,NA,NA,NA,che
+Chile,baja,22.58,Sí,21,27,155,chl
+Chile,alta,23.26,Sí,35,38,43,chl
+Chile,única,NA,NA,NA,NA,NA,chl
+China,baja,NA,NA,NA,NA,NA,chn
+China,alta,NA,NA,NA,NA,NA,chn
+China,única,24.94,Sí,18,25,2975,chn
+Camerún,baja,31.11,Sí,23,35,180,cmr
+Camerún,alta,26,Sí,40,40,100,cmr
+Camerún,única,NA,NA,NA,NA,NA,cmr
+Congo,baja,11.26,No,25,NA,151,cog
+Congo,alta,18.84,No,45,NA,69,cog
+Congo,única,NA,NA,NA,NA,NA,cog
+Colombia,baja,18.71,Sí,25,NA,171,col
+Colombia,alta,20.95,Sí,30,NA,105,col
+Colombia,única,NA,NA,NA,NA,NA,col
+Comoros,baja,NA,NA,NA,NA,NA,com
+Comoros,alta,NA,NA,NA,NA,NA,com
+Comoros,única,6.06,No,18,NA,33,com
+Costa Rica,baja,NA,NA,NA,NA,NA,cri
+Costa Rica,alta,NA,NA,NA,NA,NA,cri
+Costa Rica,única,45.61,Sí,21,35,57,cri
+Cuba,baja,NA,NA,NA,NA,NA,cub
+Cuba,alta,NA,NA,NA,NA,NA,cub
+Cuba,única,53.22,No,18,19,605,cub
+Chipre,baja,NA,NA,NA,NA,NA,cyp
+Chipre,alta,NA,NA,NA,NA,NA,cyp
+Chipre,única,17.86,Sí,25,33,56,cyp
+Alemania,baja,30.89,Sí,18,24,709,deu
+Alemania,alta,39.13,No,18,NA,69,deu
+Alemania,única,NA,NA,NA,NA,NA,deu
+Djibouti,baja,NA,NA,NA,NA,NA,dji
+Djibouti,alta,NA,NA,NA,NA,NA,dji
+Djibouti,única,26.15,Sí,23,27,65,dji
+Dominica,baja,NA,NA,NA,NA,NA,dma
+Dominica,alta,NA,NA,NA,NA,NA,dma
+Dominica,única,25,No,21,NA,32,dma
+Dinamarca,baja,NA,NA,NA,NA,NA,dnk
+Dinamarca,alta,NA,NA,NA,NA,NA,dnk
+Dinamarca,única,37.43,No,18,22,179,dnk
+Algeria,baja,25.76,Sí,25,NA,462,dza
+Algeria,alta,6.82,Sí,35,38,132,dza
+Algeria,única,NA,NA,NA,NA,NA,dza
+Ecuador,baja,NA,NA,NA,NA,NA,ecu
+Ecuador,alta,NA,NA,NA,NA,NA,ecu
+Ecuador,única,37.96,Sí,18,NA,137,ecu
+Egipto,baja,NA,NA,NA,NA,NA,egy
+Egipto,alta,NA,NA,NA,NA,NA,egy
+Egipto,única,14.93,Sí,25,25,596,egy
+Eritrea,baja,NA,NA,NA,NA,NA,eri
+Eritrea,alta,NA,NA,NA,NA,NA,eri
+Eritrea,única,22,Sí,NA,NA,150,eri
+España,baja,NA,Sí,18,NA,350,esp
+España,alta,NA,Sí,18,NA,266,esp
+España,única,NA,NA,NA,NA,NA,esp
+Estonia,baja,NA,NA,NA,NA,NA,est
+Estonia,alta,NA,NA,NA,NA,NA,est
+Estonia,única,29.7,No,21,28,101,est
+Etiopía,baja,38.76,Sí,18,21,547,eth
+Etiopía,alta,32.03,Sí,21,NA,153,eth
+Etiopía,única,NA,NA,NA,NA,NA,eth
+Finlandia,baja,NA,NA,NA,NA,NA,fin
+Finlandia,alta,NA,NA,NA,NA,NA,fin
+Finlandia,única,47,No,18,24,200,fin
+Fiji,baja,NA,NA,NA,NA,NA,fji
+Fiji,alta,NA,NA,NA,NA,NA,fji
+Fiji,única,19.61,No,18,30,51,fji
+Francia,baja,39.69,Sí,18,23,577,fra
+Francia,alta,32.18,Sí,24,38,348,fra
+Francia,única,NA,NA,NA,NA,NA,fra
+Gabon,baja,17.91,No,21,NA,134,gab
+Gabon,alta,18,No,40,NA,100,gab
+Gabon,única,NA,NA,NA,NA,NA,gab
+Reino Unido,baja,32,Sí,18,23,650,gbr
+Reino Unido,alta,26.36,No,21,41,789,gbr
+Reino Unido,única,NA,NA,NA,NA,NA,gbr
+Georgia,baja,NA,NA,NA,NA,NA,geo
+Georgia,alta,NA,NA,NA,NA,NA,geo
+Georgia,única,14.77,Sí,21,23,149,geo
+Ghana,baja,NA,NA,NA,NA,NA,gha
+Ghana,alta,NA,NA,NA,NA,NA,gha
+Ghana,única,13.09,No,21,29,275,gha
+Guinea,baja,NA,NA,NA,NA,NA,gin
+Guinea,alta,NA,NA,NA,NA,NA,gin
+Guinea,única,22.81,Sí,18,19,114,gin
+Guinea-Bissau,baja,NA,NA,NA,NA,NA,gnb
+Guinea-Bissau,alta,NA,NA,NA,NA,NA,gnb
+Guinea-Bissau,única,13.73,No,18,NA,102,gnb
+Guinea Ecuatorial,baja,21,No,25,NA,100,gnq
+Guinea Ecuatorial,alta,16.67,No,25,NA,72,gnq
+Guinea Ecuatorial,única,NA,NA,NA,NA,NA,gnq
+Greece,baja,NA,NA,NA,NA,NA,grc
+Greece,alta,NA,NA,NA,NA,NA,grc
+Greece,única,18.67,Sí,25,30,300,grc
+Granada,baja,46.67,No,18,41,15,grd
+Granada,alta,30.77,No,18,42,13,grd
+Granada,única,NA,NA,NA,NA,NA,grd
+Guatemala,baja,NA,NA,NA,NA,NA,gtm
+Guatemala,alta,NA,NA,NA,NA,NA,gtm
+Guatemala,única,18.99,Sí,18,19,158,gtm
+Guyana,baja,NA,NA,NA,NA,NA,guy
+Guyana,alta,NA,NA,NA,NA,NA,guy
+Guyana,única,31.88,No,18,35,69,guy
+Honduras,baja,NA,NA,NA,NA,NA,hnd
+Honduras,alta,NA,NA,NA,NA,NA,hnd
+Honduras,única,21.09,Sí,21,NA,128,hnd
+Croacia,baja,NA,NA,NA,NA,NA,hrv
+Croacia,alta,NA,NA,NA,NA,NA,hrv
+Croacia,única,20.53,No,18,29,151,hrv
+Haití,baja,2.54,Sí,25,30,118,hti
+Haití,alta,3.57,Sí,30,41,28,hti
+Haití,única,NA,NA,NA,NA,NA,hti
+Hungría,baja,NA,NA,NA,NA,NA,hun
+Hungría,alta,NA,NA,NA,NA,NA,hun
+Hungría,única,12.56,Sí,18,27,199,hun
+Indonesia,baja,NA,NA,NA,NA,NA,idn
+Indonesia,alta,NA,NA,NA,NA,NA,idn
+Indonesia,única,NA,Sí,21,26,575,idn
+India,baja,NA,No,25,NA,545,ind
+India,alta,11.48,No,30,35,244,ind
+India,única,NA,NA,NA,NA,NA,ind
+Irlanda,baja,22.15,Sí,21,25,158,irl
+Irlanda,alta,30,No,21,23,60,irl
+Irlanda,única,NA,NA,NA,NA,NA,irl
+Irak,baja,NA,NA,NA,NA,NA,irq
+Irak,alta,NA,NA,NA,NA,NA,irq
+Irak,única,25.23,Sí,30,31,329,irq
+Islandia,baja,NA,NA,NA,NA,NA,isl
+Islandia,alta,NA,NA,NA,NA,NA,isl
+Islandia,única,38.1,Sí,18,22,63,isl
+Israel,baja,NA,NA,NA,NA,NA,isr
+Israel,alta,NA,NA,NA,NA,NA,isr
+Israel,única,24.17,Sí,21,30,120,isr
+Italia,baja,35.71,Sí,25,25,630,ita
+Italia,alta,34.38,Sí,40,40,320,ita
+Italia,única,NA,NA,NA,NA,NA,ita
+Jamaica,baja,17.46,No,21,28,63,jam
+Jamaica,alta,23.81,No,21,35,21,jam
+Jamaica,única,NA,NA,NA,NA,NA,jam
+Jordania,baja,15.38,No,30,30,130,jor
+Jordania,alta,15.38,No,40,43,65,jor
+Jordania,única,NA,NA,NA,NA,NA,jor
+Japón,baja,10.15,No,25,31,463,jpn
+Japón,alta,20.75,No,30,30,241,jpn
+Japón,única,NA,NA,NA,NA,NA,jpn
+Kazakhstan,baja,27.1,No,25,35,107,kaz
+Kazakhstan,alta,10.64,No,30,NA,47,kaz
+Kazakhstan,única,NA,NA,NA,NA,NA,kaz
+Kenia,baja,21.78,Sí,18,24,349,ken
+Kenia,alta,30.88,Sí,18,25,68,ken
+Kenia,única,NA,NA,NA,NA,NA,ken
+Kyrgyzstan,baja,NA,NA,NA,NA,NA,kgz
+Kyrgyzstan,alta,NA,NA,NA,NA,NA,kgz
+Kyrgyzstan,única,19.17,No,21,28,120,kgz
+Cambodia,baja,20,No,25,34,125,khm
+Cambodia,alta,17.74,No,40,40,62,khm
+Cambodia,única,NA,NA,NA,NA,NA,khm
+Kiribati,baja,NA,NA,NA,NA,NA,kir
+Kiribati,alta,NA,NA,NA,NA,NA,kir
+Kiribati,única,6.52,No,21,27,46,kir
+San Kitts y Nevis,baja,NA,NA,NA,NA,NA,kna
+San Kitts y Nevis,alta,NA,NA,NA,NA,NA,kna
+San Kitts y Nevis,única,13.33,No,21,NA,15,kna
+Kuwait,baja,NA,NA,NA,NA,NA,kwt
+Kuwait,alta,NA,NA,NA,NA,NA,kwt
+Kuwait,única,4.62,No,30,30,65,kwt
+Líbano,baja,NA,NA,NA,NA,NA,lbn
+Líbano,alta,NA,NA,NA,NA,NA,lbn
+Líbano,única,3.94,No,25,30,127,lbn
+Liberia,baja,12.33,No,25,NA,73,lbr
+Liberia,alta,10,No,30,NA,30,lbr
+Liberia,única,NA,NA,NA,NA,NA,lbr
+Libya,baja,NA,NA,NA,NA,NA,lby
+Libya,alta,NA,NA,NA,NA,NA,lby
+Libya,única,15.96,Sí,18,30,188,lby
+Santa Lucía,baja,16.67,No,21,NA,18,lca
+Santa Lucía,alta,27.27,No,30,NA,11,lca
+Santa Lucía,única,NA,NA,NA,NA,NA,lca
+Sri Lanka,baja,NA,NA,NA,NA,NA,lka
+Sri Lanka,alta,NA,NA,NA,NA,NA,lka
+Sri Lanka,única,5.33,No,18,29,225,lka
+Lesotho,baja,23.33,Sí,18,37,120,lso
+Lesotho,alta,21.88,NA,NA,NA,32,lso
+Lesotho,única,NA,NA,NA,NA,NA,lso
+Lituania,baja,NA,NA,NA,NA,NA,ltu
+Lituania,alta,NA,NA,NA,NA,NA,ltu
+Lituania,única,21.28,Sí,25,25,141,ltu
+Luxemburgo,baja,NA,NA,NA,NA,NA,lux
+Luxemburgo,alta,NA,NA,NA,NA,NA,lux
+Luxemburgo,única,25,Sí,18,26,60,lux
+Latvia,baja,NA,NA,NA,NA,NA,lva
+Latvia,alta,NA,NA,NA,NA,NA,lva
+Latvia,única,30,No,21,26,100,lva
+Marruecos,baja,20.51,Sí,18,24,395,mar
+Marruecos,alta,11.67,NA,NA,31,120,mar
+Marruecos,única,NA,NA,NA,NA,NA,mar
+Madagascar,baja,19.21,No,21,28,151,mdg
+Madagascar,alta,20.63,No,35,43,63,mdg
+Madagascar,única,NA,NA,NA,NA,NA,mdg
+Maldivas,baja,NA,NA,NA,NA,NA,mdv
+Maldivas,alta,NA,NA,NA,NA,NA,mdv
+Maldivas,única,4.6,No,18,NA,87,mdv
+México,baja,48.2,Sí,21,22,500,mex
+México,alta,49.22,Sí,25,26,128,mex
+México,única,NA,NA,NA,NA,NA,mex
+Mali,baja,NA,NA,NA,NA,NA,mli
+Mali,alta,NA,NA,NA,NA,NA,mli
+Mali,única,8.84,Sí,21,32,147,mli
+Malta,baja,NA,NA,NA,NA,NA,mlt
+Malta,alta,NA,NA,NA,NA,NA,mlt
+Malta,única,11.94,Sí,18,27,67,mlt
+Myanmar,baja,11.32,No,25,28,433,mmr
+Myanmar,alta,12.05,No,25,36,224,mmr
+Myanmar,única,NA,NA,NA,NA,NA,mmr
+Montenegro,baja,NA,NA,NA,NA,NA,mne
+Montenegro,alta,NA,NA,NA,NA,NA,mne
+Montenegro,única,23.46,Sí,18,28,81,mne
+Mongolia,baja,NA,NA,NA,NA,NA,mng
+Mongolia,alta,NA,NA,NA,NA,NA,mng
+Mongolia,única,17.11,Sí,25,34,76,mng
+Mozambique,baja,NA,NA,NA,NA,NA,moz
+Mozambique,alta,NA,NA,NA,NA,NA,moz
+Mozambique,única,39.6,No,18,NA,250,moz
+Mauritania,baja,NA,NA,NA,NA,NA,mrt
+Mauritania,alta,NA,NA,NA,NA,NA,mrt
+Mauritania,única,20.26,Sí,25,NA,153,mrt
+Mauritius,baja,NA,NA,NA,NA,NA,mus
+Mauritius,alta,NA,NA,NA,NA,NA,mus
+Mauritius,única,11.59,No,18,37,69,mus
+Malawi,baja,NA,NA,NA,NA,NA,mwi
+Malawi,alta,NA,NA,NA,NA,NA,mwi
+Malawi,única,16.67,Sí,21,25,192,mwi
+Malasia,baja,14.41,Sí,21,31,222,mys
+Malasia,alta,19.12,No,30,39,68,mys
+Malasia,única,NA,NA,NA,NA,NA,mys
+Bolivia,baja,53.08,Sí,18,23,130,bol
+Bolivia,alta,47.22,Sí,18,33,36,bol
+Bolivia,única,NA,NA,NA,NA,NA,bol
+Bosnia y Herzegovina,baja,21.43,Sí,18,32,42,bih
+Bosnia y Herzegovina,alta,20,No,18,NA,15,bih
+Bosnia y Herzegovina,única,NA,NA,NA,NA,NA,bih
+Cabo Verde,baja,NA,NA,NA,NA,NA,cpv
+Cabo Verde,alta,NA,NA,NA,NA,NA,cpv
+Cabo Verde,única,23.61,No,18,35,72,cpv
+Corea del Norte,baja,NA,NA,NA,NA,NA,prk
+Corea del Norte,alta,NA,NA,NA,NA,NA,prk
+Corea del Norte,única,17.61,NA,17,25,687,prk
+Corea del Sur,baja,NA,NA,NA,NA,NA,kor
+Corea del Sur,alta,NA,NA,NA,NA,NA,kor
+Corea del Sur,única,17.11,Sí,25,32,298,kor
+Côte d'Ivoire,baja,10.98,No,25,32,255,civ
+Côte d'Ivoire,alta,19.19,NA,NA,NA,99,civ
+Côte d'Ivoire,única,NA,NA,NA,NA,NA,civ
+Estados Unidos,baja,23.61,No,25,NA,432,usa
+Estados Unidos,alta,25,No,30,NA,100,usa
+Estados Unidos,única,NA,NA,NA,NA,NA,usa
+Eswatini,baja,7.25,Sí,18,34,69,NA
+Eswatini,alta,23.33,Sí,18,39,30,NA
+Eswatini,única,NA,NA,NA,NA,NA,NA
+Gambia,baja,NA,NA,NA,NA,NA,gmb
+Gambia,alta,NA,NA,NA,NA,NA,gmb
+Gambia,única,10.34,No,21,25,58,gmb
+Irán,baja,NA,NA,NA,NA,NA,irn
+Irán,alta,NA,NA,NA,NA,NA,irn
+Irán,única,5.88,No,30,33,289,irn
+Islas Marshall,baja,NA,NA,NA,NA,NA,mhl
+Islas Marshall,alta,NA,NA,NA,NA,NA,mhl
+Islas Marshall,única,9.09,No,21,NA,33,mhl
+Islas Salomón,baja,NA,NA,NA,NA,NA,slb
+Islas Salomón,alta,NA,NA,NA,NA,NA,slb
+Islas Salomón,única,4,No,21,30,50,slb
+Lao,baja,NA,NA,NA,NA,NA,lao
+Lao,alta,NA,NA,NA,NA,NA,lao
+Lao,única,27.52,No,21,NA,149,lao
+Liechtenstein,baja,NA,NA,NA,NA,NA,lie
+Liechtenstein,alta,NA,NA,NA,NA,NA,lie
+Liechtenstein,única,12,No,18,35,25,lie
+Macedonia del Norte,baja,NA,NA,NA,NA,NA,mkd
+Macedonia del Norte,alta,NA,NA,NA,NA,NA,mkd
+Macedonia del Norte,única,38.33,Sí,18,28,120,mkd
+Micronesia,baja,NA,NA,NA,NA,NA,fsm
+Micronesia,alta,NA,NA,NA,NA,NA,fsm
+Micronesia,única,0,No,30,49,14,fsm
+Moldavia,baja,NA,NA,NA,NA,NA,mda
+Moldavia,alta,NA,NA,NA,NA,NA,mda
+Moldavia,única,25.74,Sí,18,24,101,mda
+Mónaco,baja,NA,NA,NA,NA,NA,mco
+Mónaco,alta,NA,NA,NA,NA,NA,mco
+Mónaco,única,33.33,No,25,44,24,mco
+República Central Africana,baja,NA,NA,NA,NA,NA,caf
+República Central Africana,alta,NA,NA,NA,NA,NA,caf
+República Central Africana,única,8.57,NA,NA,NA,140,caf
+República Checa,baja,22.5,Sí,21,21,200,cze
+República Checa,alta,16.05,Sí,40,40,81,cze
+República Checa,única,NA,NA,NA,NA,NA,cze
+República Democrática del Congo,baja,10,No,25,25,500,cog
+República Democrática del Congo,alta,19,No,30,30,100,cog
+República Democrática del Congo,única,NA,NA,NA,NA,NA,cog
+República Dominicana,baja,26.84,Sí,25,32,190,dom
+República Dominicana,alta,9.38,No,25,NA,32,dom
+República Dominicana,única,NA,NA,NA,NA,NA,dom
+Siria,baja,NA,NA,NA,NA,NA,syr
+Siria,alta,NA,NA,NA,NA,NA,syr
+Siria,única,13.2,No,NA,NA,250,syr
+South Sudan,baja,28.46,Sí,21,NA,383,sdn
+South Sudan,alta,12,Sí,21,NA,50,sdn
+South Sudan,única,NA,NA,NA,NA,NA,sdn
+Tanzania,baja,NA,NA,NA,NA,NA,tza
+Tanzania,alta,NA,NA,NA,NA,NA,tza
+Tanzania,única,36.9,Sí,21,NA,393,tza
+Venezuela,baja,NA,NA,NA,NA,NA,ven
+Venezuela,alta,NA,NA,NA,NA,NA,ven
+Venezuela,única,22.16,Sí,21,23,167,ven
+Namibia,baja,46.15,No,21,33,104,nam
+Namibia,alta,23.81,No,21,40,42,nam
+Namibia,única,NA,NA,NA,NA,NA,nam
+Nigeria,baja,NA,NA,NA,NA,NA,ner
+Nigeria,alta,NA,NA,NA,NA,NA,ner
+Nigeria,única,16.96,Sí,21,24,171,ner
+Nigeria,baja,NA,No,30,NA,360,nga
+Nigeria,alta,NA,No,35,NA,109,nga
+Nigeria,única,NA,NA,NA,NA,NA,nga
+Nicaragua,baja,NA,NA,NA,NA,NA,nic
+Nicaragua,alta,NA,NA,NA,NA,NA,nic
+Nicaragua,única,44.57,Sí,21,29,92,nic
+Países Bajos,baja,31.33,Sí,18,25,150,nld
+Países Bajos,alta,36,No,18,30,75,nld
+Países Bajos,única,NA,NA,NA,NA,NA,nld
+Noruega,baja,NA,NA,NA,NA,NA,nor
+Noruega,alta,NA,NA,NA,NA,NA,nor
+Noruega,única,40.83,Sí,18,23,169,nor
+Nepal,baja,32.73,Sí,25,29,275,npl
+Nepal,alta,37.29,Sí,35,NA,59,npl
+Nepal,única,NA,NA,NA,NA,NA,npl
+Nauru,baja,NA,NA,NA,NA,NA,nru
+Nauru,alta,NA,NA,NA,NA,NA,nru
+Nauru,única,10.53,No,20,31,19,nru
+Nueva Zelanda,baja,NA,NA,NA,NA,NA,nzl
+Nueva Zelanda,alta,NA,NA,NA,NA,NA,nzl
+Nueva Zelanda,única,40,No,18,27,120,nzl
+Oman,baja,1.18,No,30,33,85,omn
+Oman,alta,16.47,No,40,41,85,omn
+Oman,única,NA,NA,NA,NA,NA,omn
+Pakistan,baja,20.23,No,25,25,341,pak
+Pakistan,alta,19.23,No,30,31,104,pak
+Pakistan,única,NA,NA,NA,NA,NA,pak
+Panamá,baja,NA,NA,NA,NA,NA,pan
+Panamá,alta,NA,NA,NA,NA,NA,pan
+Panamá,única,NA,Sí,21,NA,71,pan
+Perú,baja,NA,NA,NA,NA,NA,per
+Perú,alta,NA,NA,NA,NA,NA,per
+Perú,única,30,Sí,25,27,130,per
+Filipinas,baja,29.45,No,25,27,292,phl
+Filipinas,alta,25,No,35,NA,24,phl
+Filipinas,única,NA,NA,NA,NA,NA,phl
+Palau,baja,12.5,No,25,36,16,plw
+Palau,alta,15.38,NA,NA,NA,13,plw
+Palau,única,NA,NA,NA,NA,NA,plw
+Papúa Nueva Guinea,baja,NA,NA,NA,NA,NA,png
+Papúa Nueva Guinea,alta,NA,NA,NA,NA,NA,png
+Papúa Nueva Guinea,única,0,No,25,26,106,png
+Polonia,baja,29.13,Sí,21,22,460,pol
+Polonia,alta,14,Sí,30,34,100,pol
+Polonia,única,NA,NA,NA,NA,NA,pol
+Portugal,baja,NA,NA,NA,NA,NA,prt
+Portugal,alta,NA,NA,NA,NA,NA,prt
+Portugal,única,35.65,Sí,18,25,230,prt
+Paraguay,baja,15,Sí,25,28,80,pry
+Paraguay,alta,20,NA,35,NA,45,pry
+Paraguay,única,NA,NA,NA,NA,NA,pry
+Qatar,baja,NA,NA,NA,NA,NA,qat
+Qatar,alta,NA,NA,NA,NA,NA,qat
+Qatar,única,9.76,No,30,43,41,qat
+Rumania,baja,20.67,Sí,23,25,329,rom
+Rumania,alta,13.97,Sí,33,35,136,rom
+Rumania,única,NA,NA,NA,NA,NA,rom
+Rusia,baja,15.78,No,21,21,450,rus
+Rusia,alta,18.24,No,30,31,170,rus
+Rusia,única,NA,NA,NA,NA,NA,rus
+Ruanda,baja,61.25,Sí,21,23,80,rwa
+Ruanda,alta,38.46,Sí,40,NA,26,rwa
+Ruanda,única,NA,NA,NA,NA,NA,rwa
+Arabia Saudita,baja,NA,NA,NA,NA,NA,sau
+Arabia Saudita,alta,NA,NA,NA,NA,NA,sau
+Arabia Saudita,única,19.87,Sí,30,NA,151,sau
+Senegal,baja,NA,NA,NA,NA,NA,sen
+Senegal,alta,NA,NA,NA,NA,NA,sen
+Senegal,única,41.82,Sí,25,32,165,sen
+Singapur,baja,NA,NA,NA,NA,NA,sgp
+Singapur,alta,NA,NA,NA,NA,NA,sgp
+Singapur,única,23,No,21,29,100,sgp
+Sierra Leona,baja,NA,NA,NA,NA,NA,sle
+Sierra Leona,alta,NA,NA,NA,NA,NA,sle
+Sierra Leona,única,12.33,Sí,18,29,146,sle
+El Salvador,baja,NA,NA,NA,NA,NA,slv
+El Salvador,alta,NA,NA,NA,NA,NA,slv
+El Salvador,única,30.95,Sí,25,32,84,slv
+San Marino,baja,NA,NA,NA,NA,NA,smr
+San Marino,alta,NA,NA,NA,NA,NA,smr
+San Marino,única,25,Sí,21,21,60,smr
+Somalía,baja,24.36,No,25,25,275,som
+Somalía,alta,24.07,NA,NA,NA,54,som
+Somalía,única,NA,NA,NA,NA,NA,som
+Serbia,baja,NA,NA,NA,NA,NA,srb
+Serbia,alta,NA,NA,NA,NA,NA,srb
+Serbia,única,37.65,Sí,18,26,247,srb
+Santo Tomé y Príncipe,baja,NA,NA,NA,NA,NA,stp
+Santo Tomé y Príncipe,alta,NA,NA,NA,NA,NA,stp
+Santo Tomé y Príncipe,única,14.55,Sí,18,27,55,stp
+Surinam,baja,NA,NA,NA,NA,NA,sur
+Surinam,alta,NA,NA,NA,NA,NA,sur
+Surinam,única,29.41,No,21,31,51,sur
+Eslovaquia,baja,NA,NA,NA,NA,NA,svk
+Eslovaquia,alta,NA,NA,NA,NA,NA,svk
+Eslovaquia,única,20,Sí,21,28,150,svk
+Eslovenia,baja,24.44,Sí,18,28,90,svn
+Eslovenia,alta,10,No,18,38,40,svn
+Eslovenia,única,NA,NA,NA,NA,NA,svn
+Suecia,baja,NA,NA,NA,NA,NA,swe
+Suecia,alta,NA,NA,NA,NA,NA,swe
+Suecia,única,47.28,Sí,18,22,349,swe
+Seychelles,baja,NA,NA,NA,NA,NA,syc
+Seychelles,alta,NA,NA,NA,NA,NA,syc
+Seychelles,única,21.21,No,18,35,33,syc
+Chad,baja,NA,NA,NA,NA,NA,tcd
+Chad,alta,NA,NA,NA,NA,NA,tcd
+Chad,única,14.88,No,25,28,168,tcd
+Togo,baja,NA,NA,NA,NA,NA,tgo
+Togo,alta,NA,NA,NA,NA,NA,tgo
+Togo,única,16.48,Sí,25,28,91,tgo
+Tailandia,baja,NA,NA,NA,NA,NA,tha
+Tailandia,alta,NA,NA,NA,NA,NA,tha
+Tailandia,única,5.42,Sí,25,51,240,tha
+Tajikistan,baja,19.05,No,25,32,63,tjk
+Tajikistan,alta,21.88,No,35,NA,32,tjk
+Tajikistan,única,NA,NA,NA,NA,NA,tjk
+Turkmenistan,baja,NA,NA,NA,NA,NA,tkm
+Turkmenistan,alta,NA,NA,NA,NA,NA,tkm
+Turkmenistan,única,25,No,25,NA,124,tkm
+Timor-Leste,baja,NA,NA,NA,NA,NA,tmp
+Timor-Leste,alta,NA,NA,NA,NA,NA,tmp
+Timor-Leste,única,38.46,Sí,17,41,65,tmp
+Tonga,baja,NA,NA,NA,NA,NA,ton
+Tonga,alta,NA,NA,NA,NA,NA,ton
+Tonga,única,7.41,No,21,29,27,ton
+Trinidad y Tobago,baja,30.95,No,18,29,42,tto
+Trinidad y Tobago,alta,35.48,No,25,31,31,tto
+Trinidad y Tobago,única,NA,NA,NA,NA,NA,tto
+Túnez,baja,NA,NA,NA,NA,NA,tun
+Túnez,alta,NA,NA,NA,NA,NA,tun
+Túnez,única,35.94,Sí,23,26,217,tun
+Turquía,baja,NA,NA,NA,NA,NA,tur
+Turquía,alta,NA,NA,NA,NA,NA,tur
+Turquía,única,17.45,Sí,25,29,596,tur
+Tuvalu,baja,NA,NA,NA,NA,NA,tuv
+Tuvalu,alta,NA,NA,NA,NA,NA,tuv
+Tuvalu,única,6.67,No,21,49,15,tuv
+Uganda,baja,NA,NA,NA,NA,NA,uga
+Uganda,alta,NA,NA,NA,NA,NA,uga
+Uganda,única,34.86,Sí,18,20,459,uga
+Ucrania,baja,NA,NA,NA,NA,NA,ukr
+Ucrania,alta,NA,NA,NA,NA,NA,ukr
+Ucrania,única,11.58,No,21,26,423,ukr
+Uruguay,baja,22.22,Sí,25,30,99,ury
+Uruguay,alta,25.81,Sí,30,44,31,ury
+Uruguay,única,NA,NA,NA,NA,NA,ury
+Uzbekistan,baja,16,Sí,25,NA,150,uzb
+Uzbekistan,alta,17,Sí,25,38,100,uzb
+Uzbekistan,única,NA,NA,NA,NA,NA,uzb
+San Vicente y las Granadinas,baja,NA,NA,NA,NA,NA,vct
+San Vicente y las Granadinas,alta,NA,NA,NA,NA,NA,vct
+San Vicente y las Granadinas,única,13.04,No,21,28,23,vct
+Viet Nam,baja,NA,NA,NA,NA,NA,vnm
+Viet Nam,alta,NA,NA,NA,NA,NA,vnm
+Viet Nam,única,26.72,No,21,25,494,vnm
+Vanuatu,baja,NA,NA,NA,NA,NA,vut
+Vanuatu,alta,NA,NA,NA,NA,NA,vut
+Vanuatu,única,0,No,25,NA,52,vut
+Samoa,baja,NA,NA,NA,NA,NA,wsm
+Samoa,alta,NA,NA,NA,NA,NA,wsm
+Samoa,única,10,Sí,21,NA,50,wsm
+Yemen,baja,0.33,No,25,30,301,yem
+Yemen,alta,2.7,No,NA,NA,111,yem
+Yemen,única,NA,NA,NA,NA,NA,yem
+Sudáfrica,baja,44.16,No,18,24,385,zaf
+Sudáfrica,alta,35.19,No,NA,28,54,zaf
+Sudáfrica,única,NA,NA,NA,NA,NA,zaf
+Zambia,baja,NA,NA,NA,NA,NA,zmb
+Zambia,alta,NA,NA,NA,NA,NA,zmb
+Zambia,única,17.96,No,21,28,167,zmb
+Zimbabwe,baja,31.85,No,21,25,270,zwe
+Zimbabwe,alta,43.75,No,40,36,80,zwe
+Zimbabwe,única,NA,NA,NA,NA,NA,zwe

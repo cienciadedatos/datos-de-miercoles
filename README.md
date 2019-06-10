@@ -44,12 +44,17 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 ***
 
 # Datos
-| Semana | Fecha | Datos | Fuente | Artículo relacionado
+| Semana | Fecha | Datos | Fuente | Artículo/visualización relacionada
 | :---: | :---: | :--- | :--- | :---|
 | 1 | `2019-04-10` |[Copas Mundiales de fútbol masculino](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-10)|[OpenFootball](https://github.com/openfootball/world-cup) |[Visualizaciones Rusia 2018](https://www.mundodeportivo.com/md/futbol/estadisticas-mundial/grupoa/index.html) |
 | 2 | `2019-04-17` | [Juego de Tronos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-17) | [varias](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-17#fuente-original-y-adaptaci%C3%B3n) | [Tiempo en pantalla personajes](https://www.xataka.com/cine-y-tv/este-fantastico-grafico-muestra-que-personajes-de-juego-de-tronos-aparecen-mas-en-pantalla) |
-| 3 | `2019-04-23` | [Gapminder (en español)](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-24) | [paquete `datos`](https://github.com/cienciadedatos/datos)|[Charla TED de Hans Rosling](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
-
+| 3 | `2019-04-24` | [Gapminder (en español)](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-04-24) | [paquete `datos`](https://github.com/cienciadedatos/datos)|[Charla TED de Hans Rosling](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) |
+| 4 | `2019-05-01` | [Comercio mundial](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-01) | [Open Trade Statistics](https://tradestatistics.io/) | [Artículo El País](https://elpais.com/internacional/2017/05/19/america/1495207746_872725.html)|
+| 5 | `2019-05-08` | [Datos parlamentarios](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-08) | [Unión Interparlamentaria](https://data.ipu.org) | [Aplicación Shiny: mujeres en el parlamento (2000 - 2018)](https://calcita.shinyapps.io/women_in_politics)|
+| 6 | `2019-05-15` | [Ranking musicales](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-15)| `Rspotify` | [Mapa Spotify](https://spotifymaps.github.io/musicalcities/)|
+| 7 | `2019-05-22` | [Datos de la OMS sobre tuberculosis](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-22) | [paquete `datos`](https://cienciadedatos.github.io/datos) | [Visualizaciones de "Our World in Data"](https://ourworldindata.org/grapher/tuberculosis-death-rates?time=1990..2017)|
+| 8 | `2019-05-29` | [Terremotos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-29) | [USGS](https://earthquake.usgs.gov/earthquakes/) | [Mapbox](https://labs.mapbox.com/bites/00267/) |
+| 9 | `2019-06-05` | [Datos de Airbnb de Latinoamérica](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-05)  | [Inside Airbnb](http://insideairbnb.com/get-the-data.html)| [¿Dónde están los Airbnb's en CDMX?](https://medium.com/@datavizero/d%C3%B3nde-est%C3%A1n-los-airbnbs-en-la-cdmx-ffc5c3f69d7b)|
 
 ***
 
