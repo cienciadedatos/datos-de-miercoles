@@ -55,6 +55,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 7 | `2019-05-22` | [Datos de la OMS sobre tuberculosis](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-22) | [paquete `datos`](https://cienciadedatos.github.io/datos) | [Visualizaciones de "Our World in Data"](https://ourworldindata.org/grapher/tuberculosis-death-rates?time=1990..2017)|
 | 8 | `2019-05-29` | [Terremotos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-29) | [USGS](https://earthquake.usgs.gov/earthquakes/) | [Mapbox](https://labs.mapbox.com/bites/00267/) |
 | 9 | `2019-06-05` | [Datos de Airbnb de Latinoamérica](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-05)  | [Inside Airbnb](http://insideairbnb.com/get-the-data.html)| [¿Dónde están los Airbnb's en CDMX?](https://medium.com/@datavizero/d%C3%B3nde-est%C3%A1n-los-airbnbs-en-la-cdmx-ffc5c3f69d7b)|
+| 10 | `2019-06-12` | [Datos sobre vinos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-12) | [Kaggle](https://www.kaggle.com/zynicide/wine-reviews) | [TidyTuesday](https://twitter.com/search?l=&q=wine%20%23tidytuesday%20since%3A2019-05-28%20until%3A2019-06-04&src=typd)
 
 ***
 
