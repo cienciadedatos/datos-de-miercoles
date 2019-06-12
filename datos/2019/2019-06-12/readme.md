@@ -1,6 +1,6 @@
 # Datos sobre vinos
 
-Esta semana exploraremos datos sobre reseñas de vinos :wine_glass:
+Esta semana exploraremos datos sobre reseñas de vinos publicadas en la revista [WineEnthusiast](http://www.winemag.com/?s=&drink_type=wine) :wine_glass: :wine_glass: :wine_glass:
 
 
 ## Obtener los datos
@@ -21,16 +21,16 @@ vinos <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
-| pais | caracter | País de origen del vino |
+| pais | caracter | País de origen |
 | nombre | caracter | Nombre del vino |
-| puntos | entero | Puntos con que fue calificado (escala de 1:100) |
-| precio | entero | Precio de la botella, en dólares estadounidenses |
-| provincia | caracter | Lugar de la que proviene el vino. En la mayoría de los casos, la provincia, la región o el nombre del valle. Traducida al español cuando se trata de países hispanoparlantes. |
-| zona_1 | caracter | En algunos casos, información adicional sobre la zona de la que proviene el vino. Traducida al español cuando se trata de países hispanoparlantes. |
-| zona_2 | caracter | En algunos pocos casos, más información adicional sobre la zona de la que proviene el vino. Traducida al español cuando se trata de países hispanoparlantes. |
+| puntos | entero | Puntos con que fue calificado (escala de 1 a 100) |
+| precio | entero | Precio de la botella (en dólares estadounidenses) |
+| provincia | caracter | Lugar de origen. En la mayoría de los casos, la provincia, la región o el nombre del valle. Traducida al español cuando se trata de países hispanoparlantes. |
+| zona_1 | caracter | En algunos casos, información adicional sobre la zona de origen. Traducida al español cuando se trata de países hispanoparlantes. |
+| zona_2 | caracter | En algunos pocos casos, más información adicional sobre el lugar de origen. Traducida al español cuando se trata de países hispanoparlantes. |
 | variedad | caracter | Variedad (por ejemplo, Pinot Noir, Cabernet Sauvignon, etc.) |
 | vina | caracter | Nombre de la viña que produce el vino |
-| titulo_resena| caracter | Título de la reseña. No están traducidos al español. En la mayoría de los casos indica el año de cosecha y el nombre del vino |
+| titulo_resena| caracter | Título de la reseña. No están traducidos al español. En la mayoría de los casos solo indica el año de cosecha y el nombre del vino |
 
 
 ## Fuente original y adaptación
