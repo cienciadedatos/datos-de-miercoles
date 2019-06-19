@@ -48,7 +48,7 @@ Sudáfrica,legal,legal
 Sudán del Sur,ilegal,ilegal
 Sudán,ilegal,ilegal
 Tanzania,ilegal,ilegal
-Ir,ilegal,ilegal
+Togo,ilegal,ilegal
 Túnez,ilegal,ilegal
 Uganda,ilegal,ilegal
 Zambia,ilegal,ilegal
@@ -64,7 +64,7 @@ Costa Rica,legal,legal
 Chile,legal,legal
 Colombia,legal,legal
 Cuba,legal,legal
-dominica,ilegal,ilegal
+Dominica,ilegal,ilegal
 República Dominicana,legal,legal
 Ecuador,legal,legal
 El Salvador,legal,legal
@@ -99,7 +99,7 @@ Timor del Este,legal,legal
 India,ilegal,legal
 Indonesia,legal,legal
 Irak,ilegal,de_facto_ilegal
-Corrí,ilegal,ilegal
+Irán,ilegal,ilegal
 Israel,legal,legal
 Japón,legal,legal
 Jordán,legal,legal
@@ -162,7 +162,7 @@ Moldavia,legal,legal
 Mónaco,legal,legal
 Montenegro,legal,legal
 Países Bajos,legal,legal
-Norte Macedonia,legal,legal
+Macedonia del Norte,legal,legal
 Noruega,legal,legal
 Polonia,legal,legal
 Portugal,legal,legal
@@ -175,14 +175,14 @@ Eslovenia,legal,legal
 España,legal,legal
 Suecia,legal,legal
 Suiza,legal,legal
-pavo,legal,legal
+Turquía,legal,legal
 Ucrania,legal,legal
 Reino Unido,legal,legal
 Australia,legal,legal
 Fiji,legal,legal
 Kiribati,ilegal,ilegal
 Islas Marshall,legal,legal
-micronesia,legal,legal
+Micronesia,legal,legal
 Nueva Zelanda,legal,legal
 Nauru,legal,legal
 Palau,legal,legal
