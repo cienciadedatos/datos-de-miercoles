@@ -1,25 +1,25 @@
-pais_es,2017,2019
+pais_es,2017.0,2019.0
 Argelia,ilegal,ilegal
 Angola,ilegal,legal
 Benin,legal,legal
 Botswana,ilegal,ilegal
 Burkina Faso,legal,legal
 Burundi,ilegal,ilegal
-Camer˙n,ilegal,ilegal
+Camer√∫n,ilegal,ilegal
 Cabo Verde,legal,legal
-Rep˙blica Centroafricana,legal,legal
+Rep√∫blica Centroafricana,legal,legal
 Chad,legal,ilegal
 Comoras,ilegal,ilegal
 Congo,legal,legal
 Costa de Marfil,legal,legal
-Rep˙blica Democr·tica del Congo,legal,legal
+Rep√∫blica Democr√°tica del Congo,legal,legal
 Djibouti,legal,legal
 Egipto,de_facto_ilegal,de_facto_ilegal
 Guinea Ecuatorial,legal,legal
 Eritrea,ilegal,ilegal
 Eswatini,ilegal,ilegal
-EtiopÌa,ilegal,ilegal
-GabÛn,legal,legal
+Etiop√≠a,ilegal,ilegal
+Gab√≥n,legal,legal
 Gambia,ilegal,ilegal
 Ghana,ilegal,ilegal
 Guinea,ilegal,ilegal
@@ -36,20 +36,20 @@ Isla mauricio,ilegal,ilegal
 Marruecos,ilegal,ilegal
 Mozambique,legal,legal
 Namibia,ilegal,ilegal
-NÌger,legal,legal
+N√≠ger,legal,legal
 Nigeria,ilegal,ilegal
 Ruanda,legal,legal
-Santo TomÈ y PrÌncipe,legal,legal
+Santo Tom√© y Pr√≠ncipe,legal,legal
 Senegal,ilegal,ilegal
 Seychelles,legal,legal
 Sierra Leona,ilegal,ilegal
 Somalia,ilegal,ilegal
-Sud·frica,legal,legal
-Sud·n del Sur,ilegal,ilegal
-Sud·n,ilegal,ilegal
+Sud√°frica,legal,legal
+Sud√°n del Sur,ilegal,ilegal
+Sud√°n,ilegal,ilegal
 Tanzania,ilegal,ilegal
 Ir,ilegal,ilegal
-T˙nez,ilegal,ilegal
+T√∫nez,ilegal,ilegal
 Uganda,ilegal,ilegal
 Zambia,ilegal,ilegal
 Zimbabue,ilegal,ilegal
@@ -65,33 +65,33 @@ Chile,legal,legal
 Colombia,legal,legal
 Cuba,legal,legal
 dominica,ilegal,ilegal
-Rep˙blica Dominicana,legal,legal
+Rep√∫blica Dominicana,legal,legal
 Ecuador,legal,legal
 El Salvador,legal,legal
 Granada,ilegal,ilegal
 Guatemala,legal,legal
 Guayana,ilegal,ilegal
-HaitÌ,legal,legal
+Hait√≠,legal,legal
 Honduras,legal,legal
 Jamaica,ilegal,ilegal
-MÈxico,legal,legal
+M√©xico,legal,legal
 Nicaragua,legal,legal
-Panam·,legal,legal
+Panam√°,legal,legal
 Paraguay,legal,legal
-Per˙,legal,legal
+Per√∫,legal,legal
 St Kitts y Nevis,ilegal,ilegal
-Santa LucÌa,ilegal,ilegal
+Santa Luc√≠a,ilegal,ilegal
 San Vicente y las Granadinas,ilegal,ilegal
 Surinam,legal,legal
 Trinidad y Tobago,ilegal,legal
 Uruguay,legal,legal
 Venezuela,legal,legal
-Canad·,legal,legal
+Canad√°,legal,legal
 Estados Unidos,legal,legal
-Afganist·n,ilegal,ilegal
+Afganist√°n,ilegal,ilegal
 Bahrein,legal,legal
 Bangladesh,ilegal,ilegal
-But·n,ilegal,ilegal
+But√°n,ilegal,ilegal
 Brunei Darussalam,ilegal,ilegal
 Camboya,legal,legal
 China,legal,legal
@@ -99,23 +99,23 @@ Timor del Este,legal,legal
 India,ilegal,legal
 Indonesia,legal,legal
 Irak,ilegal,de_facto_ilegal
-CorrÌ,ilegal,ilegal
+Corr√≠,ilegal,ilegal
 Israel,legal,legal
-JapÛn,legal,legal
-Jord·n,legal,legal
-Kazajst·n,legal,legal
+Jap√≥n,legal,legal
+Jord√°n,legal,legal
+Kazajst√°n,legal,legal
 Kuwait,ilegal,ilegal
-Kirguizist·n,legal,legal
+Kirguizist√°n,legal,legal
 Laos,legal,legal
-LÌbano,ilegal,ilegal
+L√≠bano,ilegal,ilegal
 Malasia,ilegal,ilegal
 Maldivas,ilegal,ilegal
 Mongolia,legal,legal
 Myanmar,ilegal,ilegal
 Nepal,legal,legal
 Corea del Norte,legal,legal
-Om·n,ilegal,ilegal
-Pakist·n,ilegal,ilegal
+Om√°n,ilegal,ilegal
+Pakist√°n,ilegal,ilegal
 Filipinas,legal,legal
 Katar,ilegal,ilegal
 Arabia Saudita,ilegal,ilegal
@@ -123,20 +123,20 @@ Singapur,ilegal,ilegal
 Corea del Sur,legal,legal
 Sri Lanka,ilegal,ilegal
 Siria,ilegal,ilegal
-Tayikist·n,legal,legal
+Tayikist√°n,legal,legal
 Tailandia,legal,legal
-Turkmenist·n,ilegal,ilegal
+Turkmenist√°n,ilegal,ilegal
 Vietnam,legal,legal
-Emiratos ¡rabes Unidos,ilegal,ilegal
-Uzbekist·n,ilegal,ilegal
+Emiratos √Årabes Unidos,ilegal,ilegal
+Uzbekist√°n,ilegal,ilegal
 Yemen,ilegal,ilegal
 Albania,legal,legal
 Andorra,legal,legal
 Armenia,legal,legal
 Austria,legal,legal
-Azerbaiy·n,legal,legal
+Azerbaiy√°n,legal,legal
 Bielorrusia,legal,legal
-BÈlgica,legal,legal
+B√©lgica,legal,legal
 Bosnia y Herzegovina,legal,legal
 Bulgaria,legal,legal
 Croacia,legal,legal
@@ -149,7 +149,7 @@ Francia,legal,legal
 Georgia,legal,legal
 Alemania,legal,legal
 Grecia,legal,legal
-HungrÌa,legal,legal
+Hungr√≠a,legal,legal
 Islandia,legal,legal
 Irlanda,legal,legal
 Italia,legal,legal
@@ -159,9 +159,9 @@ Lituania,legal,legal
 Luxemburgo,legal,legal
 Malta,legal,legal
 Moldavia,legal,legal
-MÛnaco,legal,legal
+M√≥naco,legal,legal
 Montenegro,legal,legal
-PaÌses Bajos,legal,legal
+Pa√≠ses Bajos,legal,legal
 Norte Macedonia,legal,legal
 Noruega,legal,legal
 Polonia,legal,legal
@@ -172,7 +172,7 @@ San Marino,legal,legal
 Serbia,legal,legal
 Eslovaquia,legal,legal
 Eslovenia,legal,legal
-EspaÒa,legal,legal
+Espa√±a,legal,legal
 Suecia,legal,legal
 Suiza,legal,legal
 pavo,legal,legal
@@ -186,9 +186,9 @@ micronesia,legal,legal
 Nueva Zelanda,legal,legal
 Nauru,legal,legal
 Palau,legal,legal
-Pap˙a Nueva Guinea,ilegal,ilegal
+Pap√∫a Nueva Guinea,ilegal,ilegal
 Samoa,ilegal,ilegal
-Islas SalomÛn,ilegal,ilegal
+Islas Salom√≥n,ilegal,ilegal
 Tonga,ilegal,ilegal
 Tuvalu,ilegal,ilegal
 Vanuatu,legal,legal
