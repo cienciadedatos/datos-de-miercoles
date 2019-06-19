@@ -40,7 +40,7 @@ Diccionario de datos
 <tr class="even">
 <td align="left">criminalizacion</td>
 <td align="left">factor</td>
-<td align="left">Legalidad de las relaciones entre personas adultas del mismo sexo (`0 = ilegal`, `1 = legal`, `2 = de facto ilegal`)</td>
+<td align="left">Legalidad de las relaciones entre personas adultas del mismo sexo (0 = ilegal, 1 = legal, 2 = de facto ilegal)</td>
 </tr>
 <tr class="odd">
 <td align="left">criminalizacion_genero</td>
@@ -100,6 +100,8 @@ Diccionario de datos
 </tbody>
 </table>
 
+Esta puede ser una muy buena oportunidad para explorar el paquete `forcats` que sirve para el manejo de variables categóricas.
+
 #### `cambios`
 
 <table>
@@ -122,12 +124,12 @@ Diccionario de datos
 <td align="left">Pais</td>
 </tr>
 <tr class="even">
-<td align="left">2017</td>
+<td align="left">datos_2017</td>
 <td align="left">caracter</td>
 <td align="left">Legalidad de las relaciones entre parejas del mismo sexo en el año 2017 (ilegal, legal o de_facto_ilegal)</td>
 </tr>
 <tr class="odd">
-<td align="left">2019</td>
+<td align="left">datos_2019</td>
 <td align="left">caracter</td>
 <td align="left">Legalidad de las relaciones entre parejas del mismo sexo en el año 2019 (ilegal, legal o de_facto_ilegal))</td>
 </tr>
