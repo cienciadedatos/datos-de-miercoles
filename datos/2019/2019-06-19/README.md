@@ -1,5 +1,5 @@
 
-Datos sobre derechos
+Datos de legislaciones sobre orientación sexual 
 ====================
 
 Esta semana exploraremos datos de legislaciones sobre orientación sexual provenientes del informe "Homofobia de Estado" que publica [ILGA](https://ilga.org/es) cada año. El conjunto de datos `leyes` indica la legalidad de las relaciones entre parejas del mismo sexo en los distintos países. Además incluye información más específica sobre tipos de derechos y en qué lugares están legislados. El dataset `cambios` indica la legalidad de relaciones de este tipo en el año 2017 y en el año 2019.
