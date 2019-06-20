@@ -121,7 +121,7 @@ Esta puede ser una muy buena oportunidad para explorar el paquete `forcats` que 
 <tr class="odd">
 <td align="left">pais_es</td>
 <td align="left">caracter</td>
-<td align="left">Pais</td>
+<td align="left">País</td>
 </tr>
 <tr class="even">
 <td align="left">datos_2017</td>
