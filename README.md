@@ -57,6 +57,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 9 | `2019-06-05` | [Datos de Airbnb de Latinoamérica](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-05)  | [Inside Airbnb](http://insideairbnb.com/get-the-data.html)| [¿Dónde están los Airbnb's en CDMX?](https://medium.com/@datavizero/d%C3%B3nde-est%C3%A1n-los-airbnbs-en-la-cdmx-ffc5c3f69d7b)|
 | 10 | `2019-06-12` | [Datos sobre vinos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-12) | [Kaggle](https://www.kaggle.com/zynicide/wine-reviews) | [TidyTuesday](https://twitter.com/search?l=&q=wine%20%23tidytuesday%20since%3A2019-05-28%20until%3A2019-06-04&src=typd)|
 | 11 | `2019-06-19` | [Datos sobre legislación orientación sexual](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-19) | [ILGA](https://ilga.org/es) | [Mapas legislación sobre orientación sexual](https://ilga.org/es/mapas-legislacion-sobre-orientacion-sexual)|
+| 12 | `2019-06-26` | [Datos sobre eventos de RLadies](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-26) | [paquete `meetupr`](https://github.com/rladies/meetupr) | [Nube de palabras de los temas de los eventos de RLadies](https://github.com/yabellini/NubeDePalabras/blob/master/README.md)|
 
 ***
 
