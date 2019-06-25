@@ -3,6 +3,8 @@
 
 Esta semana la dedicaremos a la propia comunidad de R: analizaremos datos de los eventos de RLadies, que fueron extraídos de la plataforma Meetup. El primer _dataset_ contiene la información de cada grupo o "capítulo". El segundo, los datos de todos los eventos que han organizado a la fecha (26/06/2019).
 
+¿Aún no sabes qué es RLadies? ¡Revisa su [sitio web](https://rladies.org/)!
+
 ## Obtener los datos
 
 Puedes utilizar el siguiente código para importar los datos a R:
@@ -44,4 +46,5 @@ Los datos fueron extraídos de la plataforma Meetup utilizando el paquete `meetu
 
 ## Inspiración
 
-Revisa [este post](https://github.com/yabellini/NubeDePalabras/blob/master/README.md) de [Yanina Bellini](https://twitter.com/yabellini), fundadora de [RLadies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/), sobre cómo utilizó el paquete `meetupr` para generar una nube de palabras con los títulos de los eventos. En el post muestra todo el proceso que siguió (desde la extracción de datos a la visualización), por lo que es muy útil para entender cómo utilizar el paquete. 
+* Gabriela de Queiroz, fundadora de RLadies, creó esta [aplicación en Shiny](https://gqueiroz.shinyapps.io/rshinylady/) que muestra todos los capítulos vigentes.
+* Revisa [este post](https://github.com/yabellini/NubeDePalabras/blob/master/README.md) de [Yanina Bellini](https://twitter.com/yabellini) de [RLadies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/), sobre cómo utilizó el paquete `meetupr` para generar una nube de palabras con los títulos de los eventos. En el post muestra todo el proceso que siguió (desde la extracción de datos a la visualización), por lo que es muy útil para entender cómo utilizar el paquete.
