@@ -34,7 +34,7 @@ eventos_rladies <- readr::read_csv("https://raw.githubusercontent.com/cienciaded
 | capitulo | caracter | Nombre del capítulo (R-Ladies + ciudad) |
 | titulo_evento | caracter | Título del evento |
 | fecha_local | fecha | Fecha en que se realizó |
-| hora_local | caracter | Hora local del evento |
+| hora_local | hora | Hora local del evento |
 | respuesta_asistire | entero | Cantidad de personas que respondieron "asistiré" |
 | descripcion_evento | caracter | Descripción del evento |
 
