@@ -42,9 +42,9 @@ eventos_rladies <- readr::read_csv("https://raw.githubusercontent.com/cienciaded
 
 ## Fuente de los datos
 
-Los datos fueron extraídos de la plataforma Meetup utilizando el paquete `meetupr`, que fue desarrollado por las RLadies Gabriela de Queiroz, Erin LeDell, Olga Mierzwa-Sulima, Lucy D’Agostino McGowan y Claudia Vitolo. Este paquete permite extraer datos de la API de Meetup, por lo que puedes buscar información sobre cualquier evento organizado a través de ese sitio web (por ejemplo, los Grupos de Usuarios de R). La documentación del paquete (en inglés) se encuentra en [este enlace](https://github.com/rladies/meetupr).
+Los datos fueron extraídos de la plataforma Meetup utilizando el paquete `meetupr`, que fue desarrollado por las RLadies [Gabriela de Queiroz](https://k-roz.com/), [Erin LeDell](https://www.stat.berkeley.edu/~ledell/), [Olga Mierzwa-Sulima](https://github.com/olgamie), [Lucy D’Agostino McGowan](https://www.lucymcgowan.com/) y [Claudia Vitolo](https://github.com/cvitolo). Este paquete permite extraer datos de la API de Meetup, por lo que puedes buscar información sobre cualquier evento organizado a través de ese sitio web (por ejemplo, los Grupos de Usuarios de R). La documentación del paquete (en inglés) se encuentra en [este enlace](https://github.com/rladies/meetupr).
 
 ## Inspiración
 
-* Gabriela de Queiroz, fundadora de RLadies, creó esta [aplicación en Shiny](https://gqueiroz.shinyapps.io/rshinylady/) que muestra todos los capítulos vigentes.
+* [Gabriela de Queiroz](https://twitter.com/gdequeiroz), fundadora de RLadies, creó esta [aplicación en Shiny](https://gqueiroz.shinyapps.io/rshinylady/) que muestra todos los capítulos vigentes.
 * Revisa [este post](https://github.com/yabellini/NubeDePalabras/blob/master/README.md) de [Yanina Bellini](https://twitter.com/yabellini) de [RLadies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/), sobre cómo utilizó el paquete `meetupr` para generar una nube de palabras con los títulos de los eventos. En el post muestra todo el proceso que siguió (desde la extracción de datos a la visualización), por lo que es muy útil para entender cómo utilizar el paquete.
