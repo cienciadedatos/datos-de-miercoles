@@ -1,7 +1,7 @@
 
-# Datos pokemones
+# Datos sobre Pokémon
 
-Esta semana analizaremos datos de la franquicia Pokémon. El _dataset_ contiene datos sobre las características de 800 pokemones.
+Esta semana analizaremos datos de la franquicia Pokémon. El _dataset_ contiene datos sobre las características de 800 pokémon.
 
 ## Obtener los datos
 
@@ -9,12 +9,12 @@ Puedes utilizar el siguiente código para importar los datos a R:
 
 ```
 # install_packages("readr")
-pokemones <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-10/pokemon.csv")
+pokemon <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-10/pokemon.csv")
 ```
 
 ## Diccionario de datos
 
-#### `pokemones`
+#### `pokemon`
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
@@ -22,7 +22,7 @@ pokemones <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/d
 | nombre_ingles | caracter | Nombre en inglés (del _dataset_ original)  |
 | nombre_traducido | caracter | Nombre en español |
 | tipo_1 | caracter | Tipo de pokemón |
-| tipo_2 | caracter | Algunos pokemones son de dos tipos. Para el resto, esta variable aparece como `NA` |
+| tipo_2 | caracter | Algunos pokémon son de dos tipos. Para el resto, esta variable aparece como `NA` |
 | total | numérica | Suma de todos los puntajes de las variables de velocidad, ataque, defensa y puntos de vida. Suele utilizarse como indicador de qué tan fuerte es un pokemón |
 | puntos_vida | numérica | Cantidad de daño que puede resistir |
 | ataque | numérica | Daño en ataques normales |
