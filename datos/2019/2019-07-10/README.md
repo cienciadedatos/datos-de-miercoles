@@ -32,7 +32,7 @@ pokemones <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/d
 | velocidad | numérica | Determina qué pokemón ataca primero en cada ronda |
 | generacion | numérica | Número de generación |
 | es_legendario | caracter | Si es legendario (`verdadero`) o no (`falso`) |
-| nivel_evolucion | numérica | estado de evolución de 1 a 3 (`NA`) para pokemones de forma única) |  
+| nivel_evolucion | numérica | Estado de evolución de 1 a 3 (`NA`) para pokemones de forma única |  
 
 ## Fuente de los datos
 
@@ -41,5 +41,5 @@ Los datos fueron obtenidos desde [Kaggle](https://www.kaggle.com/abcsds/pokemon)
 
 ## Inspiración
 
-* [Post](http://rpubs.com/jboscomendoza/redes-relacionales-con-r-tipos-de-pokemon) con el paso a paso sobre cómo crear grafos usando datos similares-
+* [Post](http://rpubs.com/jboscomendoza/redes-relacionales-con-r-tipos-de-pokemon) con el paso a paso sobre cómo crear grafos usando datos similares.
 * Puedes darle una mirada al [dashboard](http://jkunst.com/flexdashboard-highcharter-examples/pokemon/) que realizó [Joshua Kunst](https://twitter.com/jbkunst), parte de la comunidad de R de Latinoamérica, con datos similares. En [este enlace](http://jkunst.com/blog/posts/2016-03-08-pokemon-vizem-all/) puedes ver el código que utilizó para obtener los datos, procesarlos y visualizarlos.
