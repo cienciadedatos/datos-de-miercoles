@@ -59,6 +59,9 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 11 | `2019-06-19` | [Datos sobre legislación orientación sexual](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-19) | [ILGA](https://ilga.org/es) | [Mapas legislación sobre orientación sexual](https://ilga.org/es/mapas-legislacion-sobre-orientacion-sexual)|
 | 12 | `2019-06-26` | [Datos sobre eventos de RLadies](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-26) | [paquete `meetupr`](https://github.com/rladies/meetupr) | [Aplicación Shiny: capítulos de RLadies](https://gqueiroz.shinyapps.io/rshinylady/)
 | 13 | `2019-07-03` | [Datos sobre R y paquetes en CRAN](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-03) |CRAN y el paquete `cranlogs`| [Análisis evolución de paquetes en CRAN](http://sedici.unlp.edu.ar/bitstream/handle/10915/72540/Resumen.pdf-PDFA.pdf?sequence=1&isAllowed=y)
+| 14 | `2019-07-10` | [Datos sobre Pokémon](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-10) |Kaggle y PokémonDB| [Grafos sobre Pokémon](http://rpubs.com/jboscomendoza/redes-relacionales-con-r-tipos-de-pokemon)
+
+
 
 ***
 
