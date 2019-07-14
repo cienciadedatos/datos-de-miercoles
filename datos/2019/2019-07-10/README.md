@@ -18,21 +18,21 @@ pokemon <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/dat
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
-| ID_poke | numérica | ID de cada pokemon |
+| ID_poke | numérica | ID de cada pokémon |
 | nombre_ingles | caracter | Nombre en inglés (del _dataset_ original)  |
 | nombre_traducido | caracter | Nombre en español |
-| tipo_1 | caracter | Tipo de pokemón |
+| tipo_1 | caracter | Tipo de pokémon |
 | tipo_2 | caracter | Algunos pokémon son de dos tipos. Para el resto, esta variable aparece como `NA` |
-| total | numérica | Suma de todos los puntajes de las variables de velocidad, ataque, defensa y puntos de vida. Suele utilizarse como indicador de qué tan fuerte es un pokemón |
+| total | numérica | Suma de todos los puntajes de las variables de velocidad, ataque, defensa y puntos de vida. Suele utilizarse como indicador de qué tan fuerte es un pokémon |
 | puntos_vida | numérica | Cantidad de daño que puede resistir |
 | ataque | numérica | Daño en ataques normales |
 | defensa | numérica | Resistencia al daño ante ataques normales  |
 | fuerza_especial_ataque | numérica | Daño en ataques especiales |
 | fuerza_especial_defensa | numérica | Resistencia al daño por ataques especiales |
-| velocidad | numérica | Determina qué pokemón ataca primero en cada ronda |
+| velocidad | numérica | Determina qué pokémon ataca primero en cada ronda |
 | generacion | numérica | Número de generación |
 | es_legendario | caracter | Si es legendario (`verdadero`) o no (`falso`) |
-| nivel_evolucion | numérica | Estado de evolución de 1 a 3 (`NA`) para pokemones de forma única |  
+| nivel_evolucion | numérica | Estado de evolución de 1 a 3 (`NA`) para pokémones de forma única |  
 
 ## Fuente de los datos
 
