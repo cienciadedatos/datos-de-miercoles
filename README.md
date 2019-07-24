@@ -39,7 +39,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 ***
 
 ## Propuesta de datos
-¿Quieres proponer un conjunto de datos para utilizar en el proyecto? Abre un [Issue](https://github.com/cienciadedatos/datos-de-miercoles/issues) y comparte en él el enlace a la fuente de los datos. Así podemos revisarlo y analizar si lo incluímos en un próximo #DatosDeMiercoles.
+¿Quieres proponer un conjunto de datos para utilizar en el proyecto? Abre un [Issue](https://github.com/cienciadedatos/datos-de-miercoles/issues) y comparte en él el enlace a la fuente de los datos. Así podemos revisarlo y analizar si lo incluimos en un próximo #DatosDeMiercoles.
 
 ***
 
@@ -61,6 +61,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 13 | `2019-07-03` | [Datos sobre R y paquetes en CRAN](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-03) |CRAN y el paquete `cranlogs`| [Análisis evolución de paquetes en CRAN](http://sedici.unlp.edu.ar/bitstream/handle/10915/72540/Resumen.pdf-PDFA.pdf?sequence=1&isAllowed=y)
 | 14 | `2019-07-10` | [Datos sobre Pokémon](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-10) |Kaggle y PokémonDB| [Grafos sobre Pokémon](http://rpubs.com/jboscomendoza/redes-relacionales-con-r-tipos-de-pokemon) |
 | 15 | `2019-07-17` | [Datos sobre Copas Mundiales de Fútbol Femenino](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-17) | [data.world](https://data.world/sportsvizsunday/womens-world-cup-data) | [Tidy Tuesday](https://twitter.com/search?q=worldcup%20%23tidytuesday%20since%3A2019-07-09%20until%3A2019-07-15&src=typd)
+| 16 | `2019-07-24` | [Datos sobre Google Play Store](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-24) | [Kaggle](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore.csv) | [Análisis datos de Google Play Store](https://nycdatascience.com/blog/student-works/web-scraping/analysis-of-apps-in-the-google-play-store/)
 
 
 
