@@ -34,3 +34,5 @@ Los datos fueron extraídos desde [Kaggle](https://www.kaggle.com/lava18/google-
 
 
 ## Inspiración
+
+En [este enlace](https://nycdatascience.com/blog/student-works/web-scraping/analysis-of-apps-in-the-google-play-store/) podrás ver un ejemplo en inglés de un análisis de datos similares.
