@@ -65,7 +65,7 @@ Diccionario de datos
 Fuente original y adaptación
 ----------------------------
 
-Los subtitulos fueron descargados del portal [MySubs](https://my-subs.com/versions-2402-1-1-la-casa-de-papel-subtitles) y luego limpiados con la ayuda del paquete `subtools` por [violeta](https://twitter.com/violetrzn).
+Los subtítulos fueron descargados del portal [MySubs](https://my-subs.com/versions-2402-1-1-la-casa-de-papel-subtitles) y luego limpiados con la ayuda del paquete `subtools` por [violeta](https://twitter.com/violetrzn).
 
 Inspiración
 -----------
