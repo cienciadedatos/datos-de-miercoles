@@ -2,7 +2,7 @@
 Datos sobre la serie "La casa de papel"
 =======================================
 
-Esta semana exploraremos los dialogos de la primera temporada (15 episodios) de la serie "La casa de papel". Estos datos fueron extraídos de un portal de subtítulos y se encuentran en el lenguaje original.
+Esta semana exploraremos los dialogos de las tres temporadas de la serie "La casa de papel". Estos datos fueron extraídos de un portal de subtítulos y se encuentran en el lenguaje original. Cada observación es un subtítulo.
 
 Obtener los datos
 =================
