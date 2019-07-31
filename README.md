@@ -62,6 +62,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 14 | `2019-07-10` | [Datos sobre Pokémon](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-10) |Kaggle y PokémonDB| [Grafos sobre Pokémon](http://rpubs.com/jboscomendoza/redes-relacionales-con-r-tipos-de-pokemon) |
 | 15 | `2019-07-17` | [Datos sobre Copas Mundiales de Fútbol Femenino](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-17) | [data.world](https://data.world/sportsvizsunday/womens-world-cup-data) | [Tidy Tuesday](https://twitter.com/search?q=worldcup%20%23tidytuesday%20since%3A2019-07-09%20until%3A2019-07-15&src=typd)
 | 16 | `2019-07-24` | [Datos sobre Google Play Store](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-24) | [Kaggle](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore.csv) | [Análisis datos de Google Play Store](https://nycdatascience.com/blog/student-works/web-scraping/analysis-of-apps-in-the-google-play-store/)
+| 17 | `2019-07-31` | [Subtítulos de "La Casa de Papel"](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-31) | [My Subs](https://my-subs.com/versions-2402-1-1-la-casa-de-papel-subtitles) | [Análisis subtítulos Rick & Morty](https://pacha.hk/blog/2017/10/13/rick-and-morty-and-tidy-data-principles-part-1/)
 
 
 
