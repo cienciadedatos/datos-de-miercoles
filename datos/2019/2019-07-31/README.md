@@ -2,7 +2,7 @@
 Datos sobre la serie "La casa de papel"
 =======================================
 
-Esta semana exploraremos los dialogos de las tres temporadas de la serie "La casa de papel". Estos datos fueron extraídos de un portal de subtítulos y se encuentran en el lenguaje original. Cada observación es un subtítulo.
+Esta semana exploraremos los diálogos de las tres temporadas de la serie "La casa de papel". Estos datos fueron extraídos de un portal de subtítulos y se encuentran en el lenguaje original. Cada observación es un subtítulo.
 
 Obtener los datos
 =================
@@ -31,7 +31,7 @@ Diccionario de datos
 <tbody>
 <tr class="odd">
 <td align="left">ID_epi</td>
-<td align="left">numerica</td>
+<td align="left">numérica</td>
 <td align="left">Orden del subtítulo dentro del episodio</td>
 </tr>
 <tr class="even">
@@ -51,12 +51,12 @@ Diccionario de datos
 </tr>
 <tr class="odd">
 <td align="left">episodio</td>
-<td align="left">numerica</td>
+<td align="left">numérica</td>
 <td align="left">Número del episodio</td>
 </tr>
 <tr class="even">
 <td align="left">temporada</td>
-<td align="left">numerica</td>
+<td align="left">numérica</td>
 <td align="left">Número de temporada</td>
 </tr>
 </tbody>
