@@ -38,7 +38,7 @@ felicidad <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/d
 
 ## Fuente de los datos
 
-Los datos fueron extraídos del  [World Happines Report 2019](https://worldhappiness.report/ed/2019/) y luego traducidos. Si quieres revisar los datos sobre cómo se midió cada variable, puedes revisar [este documento](https://s3.amazonaws.com/happiness-report/2019/WHR19_Ch2A_Appendix1.pdf).
+Los datos fueron extraídos del  [World Happines Report 2019](https://worldhappiness.report/ed/2019/) y luego traducidos. Si quieres revisar el detalle sobre cómo se midió cada variable, puedes revisar [este documento](https://s3.amazonaws.com/happiness-report/2019/WHR19_Ch2A_Appendix1.pdf).
 
 ## Inspiración
 
