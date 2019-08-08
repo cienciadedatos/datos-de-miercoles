@@ -1,7 +1,7 @@
 
 # Datos sobre Felicidad
 
-Esta semana analizaremos datos sobre el reporte del Reporte de Felicidad Mundial. ¿En qué países las personas se sienten más felices? ¿Cómo se percibe la democracia y la corrupción en esos países?
+Esta semana analizaremos datos del Reporte de Felicidad Mundial. ¿En qué países las personas se sienten más felices? ¿Cómo se percibe la democracia y la corrupción en esos países? ¿Cuál es su PIB per cápita?
 
 ## Obtener los datos
 
