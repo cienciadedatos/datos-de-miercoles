@@ -64,7 +64,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 16 | `2019-07-24` | [Datos sobre Google Play Store](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-24) | [Kaggle](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore.csv) | [Análisis datos de Google Play Store](https://nycdatascience.com/blog/student-works/web-scraping/analysis-of-apps-in-the-google-play-store/)
 | 17 | `2019-07-31` | [Subtítulos de "La Casa de Papel"](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-31) | [My Subs](https://my-subs.com/versions-2402-1-1-la-casa-de-papel-subtitles) | [Análisis subtítulos Rick & Morty](https://pacha.hk/blog/2017/10/13/rick-and-morty-and-tidy-data-principles-part-1/)
 | 18 | `2019-08-07` | [Reporte de Felicidad Mundial](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-08-07) | [World Happiness Report 2019](https://worldhappiness.report/ed/2019/) | [Mapas Puntaje de Felicidad](https://datosmacro.expansion.com/demografia/indice-felicidad)|
-| 19 | `2019-08-14` | [Índice de Libertad Humana](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-08-07) | [The Human Freedom Index](https://www.cato.org/human-freedom-index-new) | [Libertad Humana en el mundo](https://imco.org.mx/temas/indice-libertad-mundo-2019-via-freedom-house/) |
+| 19 | `2019-08-14` | [Índice de Libertad Humana](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-08-14) | [The Human Freedom Index](https://www.cato.org/human-freedom-index-new) | [Libertad Humana en el mundo](https://imco.org.mx/temas/indice-libertad-mundo-2019-via-freedom-house/) |
 
 
 
