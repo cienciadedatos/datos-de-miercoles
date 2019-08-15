@@ -1,7 +1,7 @@
 
 # Datos sobre el Índice de Libertad
 
-Esta semana analizaremos datos sobre el Índice de Libertad Humana. ¿Qué países hay mayores libertades? ¿Qué regiones han mejorado su índice en los últimos años?
+Esta semana analizaremos datos sobre el Índice de Libertad Humana. ¿En qué países hay mayores libertades? ¿Qué regiones han mejorado su índice en los últimos años?
 
 ## Obtener los datos
 
