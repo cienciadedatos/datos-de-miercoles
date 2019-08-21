@@ -1,0 +1,331 @@
+grupo,codigo_iso,anio,emision_co2
+Ingreso alto,HIC,1960,7.380448997
+Ingreso alto,HIC,1961,7.432419063
+Ingreso alto,HIC,1962,7.677927779
+Ingreso alto,HIC,1963,7.997070615
+Ingreso alto,HIC,1964,8.305091092
+Ingreso alto,HIC,1965,8.570592261
+Ingreso alto,HIC,1966,8.850770433
+Ingreso alto,HIC,1967,9.151088056
+Ingreso alto,HIC,1968,9.551146575
+Ingreso alto,HIC,1969,10.05903292
+Ingreso alto,HIC,1970,10.82600793
+Ingreso alto,HIC,1971,10.93566664
+Ingreso alto,HIC,1972,11.36126748
+Ingreso alto,HIC,1973,11.84165273
+Ingreso alto,HIC,1974,11.4475322
+Ingreso alto,HIC,1975,10.97393643
+Ingreso alto,HIC,1976,11.47595697
+Ingreso alto,HIC,1977,11.61918633
+Ingreso alto,HIC,1978,11.82051924
+Ingreso alto,HIC,1979,12.04088582
+Ingreso alto,HIC,1980,11.69078328
+Ingreso alto,HIC,1981,11.12173892
+Ingreso alto,HIC,1982,10.62623089
+Ingreso alto,HIC,1983,10.52409344
+Ingreso alto,HIC,1984,10.7297883
+Ingreso alto,HIC,1985,10.76681066
+Ingreso alto,HIC,1986,10.72987451
+Ingreso alto,HIC,1987,10.95481463
+Ingreso alto,HIC,1988,11.2757567
+Ingreso alto,HIC,1989,11.47122594
+Ingreso alto,HIC,1990,11.14530897
+Ingreso alto,HIC,1991,11.19572343
+Ingreso alto,HIC,1992,11.2541348
+Ingreso alto,HIC,1993,11.32215098
+Ingreso alto,HIC,1994,11.3883155
+Ingreso alto,HIC,1995,11.37247025
+Ingreso alto,HIC,1996,11.60610525
+Ingreso alto,HIC,1997,11.61611653
+Ingreso alto,HIC,1998,11.54155811
+Ingreso alto,HIC,1999,11.63651108
+Ingreso alto,HIC,2000,11.93456937
+Ingreso alto,HIC,2001,11.81458881
+Ingreso alto,HIC,2002,11.80037888
+Ingreso alto,HIC,2003,11.90379202
+Ingreso alto,HIC,2004,12.03913715
+Ingreso alto,HIC,2005,11.97263604
+Ingreso alto,HIC,2006,11.91310839
+Ingreso alto,HIC,2007,11.88440357
+Ingreso alto,HIC,2008,11.65366037
+Ingreso alto,HIC,2009,10.96132724
+Ingreso alto,HIC,2010,11.27029811
+Ingreso alto,HIC,2011,11.02956715
+Ingreso alto,HIC,2012,10.85743975
+Ingreso alto,HIC,2013,10.77435126
+Ingreso alto,HIC,2014,10.71269229
+Ingreso bajo,LIC,1960,NA
+Ingreso bajo,LIC,1961,NA
+Ingreso bajo,LIC,1962,NA
+Ingreso bajo,LIC,1963,NA
+Ingreso bajo,LIC,1964,0.228569816
+Ingreso bajo,LIC,1965,0.245087224
+Ingreso bajo,LIC,1966,0.261871531
+Ingreso bajo,LIC,1967,0.241148188
+Ingreso bajo,LIC,1968,0.35099073
+Ingreso bajo,LIC,1969,0.320578687
+Ingreso bajo,LIC,1970,0.309032884
+Ingreso bajo,LIC,1971,0.337140296
+Ingreso bajo,LIC,1972,0.305905868
+Ingreso bajo,LIC,1973,0.330197821
+Ingreso bajo,LIC,1974,0.329227265
+Ingreso bajo,LIC,1975,0.330183033
+Ingreso bajo,LIC,1976,0.350296395
+Ingreso bajo,LIC,1977,0.345120447
+Ingreso bajo,LIC,1978,0.348737068
+Ingreso bajo,LIC,1979,0.405429215
+Ingreso bajo,LIC,1980,0.391676883
+Ingreso bajo,LIC,1981,0.415203112
+Ingreso bajo,LIC,1982,0.387429975
+Ingreso bajo,LIC,1983,0.417644906
+Ingreso bajo,LIC,1984,0.44184108
+Ingreso bajo,LIC,1985,0.422116484
+Ingreso bajo,LIC,1986,0.432269904
+Ingreso bajo,LIC,1987,0.46699335
+Ingreso bajo,LIC,1988,0.470683589
+Ingreso bajo,LIC,1989,0.454278296
+Ingreso bajo,LIC,1990,0.440647054
+Ingreso bajo,LIC,1991,0.450235323
+Ingreso bajo,LIC,1992,0.44279388
+Ingreso bajo,LIC,1993,0.427526256
+Ingreso bajo,LIC,1994,0.40998395
+Ingreso bajo,LIC,1995,0.385955216
+Ingreso bajo,LIC,1996,0.388170605
+Ingreso bajo,LIC,1997,0.375318743
+Ingreso bajo,LIC,1998,0.39388133
+Ingreso bajo,LIC,1999,0.412636323
+Ingreso bajo,LIC,2000,0.407045869
+Ingreso bajo,LIC,2001,0.402802592
+Ingreso bajo,LIC,2002,0.364133503
+Ingreso bajo,LIC,2003,0.396311343
+Ingreso bajo,LIC,2004,0.387938287
+Ingreso bajo,LIC,2005,0.392132958
+Ingreso bajo,LIC,2006,0.395533282
+Ingreso bajo,LIC,2007,0.391635458
+Ingreso bajo,LIC,2008,0.40195478
+Ingreso bajo,LIC,2009,0.387771546
+Ingreso bajo,LIC,2010,0.387171698
+Ingreso bajo,LIC,2011,0.352098092
+Ingreso bajo,LIC,2012,0.325237326
+Ingreso bajo,LIC,2013,0.315277065
+Ingreso bajo,LIC,2014,0.320595161
+Ingreso medio-bajo,LMC,1960,0.374625573
+Ingreso medio-bajo,LMC,1961,0.39712957
+Ingreso medio-bajo,LMC,1962,0.418144845
+Ingreso medio-bajo,LMC,1963,0.441332119
+Ingreso medio-bajo,LMC,1964,0.446045315
+Ingreso medio-bajo,LMC,1965,0.480002976
+Ingreso medio-bajo,LMC,1966,0.493412296
+Ingreso medio-bajo,LMC,1967,0.489929638
+Ingreso medio-bajo,LMC,1968,0.515951615
+Ingreso medio-bajo,LMC,1969,0.533332786
+Ingreso medio-bajo,LMC,1970,0.558526474
+Ingreso medio-bajo,LMC,1971,0.580851375
+Ingreso medio-bajo,LMC,1972,0.601415022
+Ingreso medio-bajo,LMC,1973,0.627870137
+Ingreso medio-bajo,LMC,1974,0.643002098
+Ingreso medio-bajo,LMC,1975,0.650801055
+Ingreso medio-bajo,LMC,1976,0.666295647
+Ingreso medio-bajo,LMC,1977,0.70200273
+Ingreso medio-bajo,LMC,1978,0.712029646
+Ingreso medio-bajo,LMC,1979,0.749671013
+Ingreso medio-bajo,LMC,1980,0.760756694
+Ingreso medio-bajo,LMC,1981,0.78015548
+Ingreso medio-bajo,LMC,1982,0.79079193
+Ingreso medio-bajo,LMC,1983,0.802655369
+Ingreso medio-bajo,LMC,1984,0.810126203
+Ingreso medio-bajo,LMC,1985,0.8495019
+Ingreso medio-bajo,LMC,1986,0.874592201
+Ingreso medio-bajo,LMC,1987,0.889063054
+Ingreso medio-bajo,LMC,1988,0.933891988
+Ingreso medio-bajo,LMC,1989,0.933494612
+Ingreso medio-bajo,LMC,1990,0.971687795
+Ingreso medio-bajo,LMC,1991,1.019352407
+Ingreso medio-bajo,LMC,1992,1.070132332
+Ingreso medio-bajo,LMC,1993,1.03021431
+Ingreso medio-bajo,LMC,1994,0.976808345
+Ingreso medio-bajo,LMC,1995,0.996883571
+Ingreso medio-bajo,LMC,1996,1.028467159
+Ingreso medio-bajo,LMC,1997,1.018182832
+Ingreso medio-bajo,LMC,1998,0.985510466
+Ingreso medio-bajo,LMC,1999,1.015074346
+Ingreso medio-bajo,LMC,2000,1.051431106
+Ingreso medio-bajo,LMC,2001,1.056211764
+Ingreso medio-bajo,LMC,2002,1.064896276
+Ingreso medio-bajo,LMC,2003,1.101844592
+Ingreso medio-bajo,LMC,2004,1.13712137
+Ingreso medio-bajo,LMC,2005,1.156394035
+Ingreso medio-bajo,LMC,2006,1.18171614
+Ingreso medio-bajo,LMC,2007,1.230868873
+Ingreso medio-bajo,LMC,2008,1.300977716
+Ingreso medio-bajo,LMC,2009,1.335068094
+Ingreso medio-bajo,LMC,2010,1.338130533
+Ingreso medio-bajo,LMC,2011,1.443321829
+Ingreso medio-bajo,LMC,2012,1.511185754
+Ingreso medio-bajo,LMC,2013,1.439193365
+Ingreso medio-bajo,LMC,2014,1.474025508
+Ingreso medio y bajo,LMY,1960,1.036100474
+Ingreso medio y bajo,LMY,1961,0.885172107
+Ingreso medio y bajo,LMY,1962,0.828066406
+Ingreso medio y bajo,LMY,1963,0.837789648
+Ingreso medio y bajo,LMY,1964,0.857890302
+Ingreso medio y bajo,LMY,1965,0.909843127
+Ingreso medio y bajo,LMY,1966,0.959611083
+Ingreso medio y bajo,LMY,1967,0.92084489
+Ingreso medio y bajo,LMY,1968,0.986645633
+Ingreso medio y bajo,LMY,1969,1.069263277
+Ingreso medio y bajo,LMY,1970,1.200483463
+Ingreso medio y bajo,LMY,1971,1.279893715
+Ingreso medio y bajo,LMY,1972,1.320694825
+Ingreso medio y bajo,LMY,1973,1.384207911
+Ingreso medio y bajo,LMY,1974,1.402802775
+Ingreso medio y bajo,LMY,1975,1.480859894
+Ingreso medio y bajo,LMY,1976,1.540516272
+Ingreso medio y bajo,LMY,1977,1.613700708
+Ingreso medio y bajo,LMY,1978,1.711626295
+Ingreso medio y bajo,LMY,1979,1.749602661
+Ingreso medio y bajo,LMY,1980,1.725742029
+Ingreso medio y bajo,LMY,1981,1.705404941
+Ingreso medio y bajo,LMY,1982,1.772042395
+Ingreso medio y bajo,LMY,1983,1.80187199
+Ingreso medio y bajo,LMY,1984,1.85685463
+Ingreso medio y bajo,LMY,1985,1.937600948
+Ingreso medio y bajo,LMY,1986,1.983832185
+Ingreso medio y bajo,LMY,1987,2.04885356
+Ingreso medio y bajo,LMY,1988,2.122602331
+Ingreso medio y bajo,LMY,1989,2.144472888
+Ingreso medio y bajo,LMY,1990,2.102650647
+Ingreso medio y bajo,LMY,1991,2.147651573
+Ingreso medio y bajo,LMY,1992,2.187096499
+Ingreso medio y bajo,LMY,1993,2.163809369
+Ingreso medio y bajo,LMY,1994,2.109994062
+Ingreso medio y bajo,LMY,1995,2.152217504
+Ingreso medio y bajo,LMY,1996,2.176757434
+Ingreso medio y bajo,LMY,1997,2.139151988
+Ingreso medio y bajo,LMY,1998,2.08306015
+Ingreso medio y bajo,LMY,1999,2.090255978
+Ingreso medio y bajo,LMY,2000,2.11537439
+Ingreso medio y bajo,LMY,2001,2.132563048
+Ingreso medio y bajo,LMY,2002,2.191753311
+Ingreso medio y bajo,LMY,2003,2.365290104
+Ingreso medio y bajo,LMY,2004,2.516087606
+Ingreso medio y bajo,LMY,2005,2.648300678
+Ingreso medio y bajo,LMY,2006,2.784634559
+Ingreso medio y bajo,LMY,2007,2.885727645
+Ingreso medio y bajo,LMY,2008,3.028054741
+Ingreso medio y bajo,LMY,2009,3.061271907
+Ingreso medio y bajo,LMY,2010,3.214217774
+Ingreso medio y bajo,LMY,2011,3.425672987
+Ingreso medio y bajo,LMY,2012,3.505953024
+Ingreso medio y bajo,LMY,2013,3.479149777
+Ingreso medio y bajo,LMY,2014,3.476109882
+Ingreso medio,MIC,1960,1.100377124
+Ingreso medio,MIC,1961,0.939515862
+Ingreso medio,MIC,1962,0.877778109
+Ingreso medio,MIC,1963,0.888701348
+Ingreso medio,MIC,1964,0.908927006
+Ingreso medio,MIC,1965,0.963796777
+Ingreso medio,MIC,1966,1.016277187
+Ingreso medio,MIC,1967,0.976048825
+Ingreso medio,MIC,1968,1.039048879
+Ingreso medio,MIC,1969,1.130570666
+Ingreso medio,MIC,1970,1.273188119
+Ingreso medio,MIC,1971,1.356954081
+Ingreso medio,MIC,1972,1.403503528
+Ingreso medio,MIC,1973,1.470542043
+Ingreso medio,MIC,1974,1.491012293
+Ingreso medio,MIC,1975,1.575695607
+Ingreso medio,MIC,1976,1.639175752
+Ingreso medio,MIC,1977,1.719296201
+Ingreso medio,MIC,1978,1.825596868
+Ingreso medio,MIC,1979,1.863022239
+Ingreso medio,MIC,1980,1.838867242
+Ingreso medio,MIC,1981,1.815606531
+Ingreso medio,MIC,1982,1.890471547
+Ingreso medio,MIC,1983,1.921024284
+Ingreso medio,MIC,1984,1.97943293
+Ingreso medio,MIC,1985,2.069360058
+Ingreso medio,MIC,1986,2.119606653
+Ingreso medio,MIC,1987,2.188399712
+Ingreso medio,MIC,1988,2.269328912
+Ingreso medio,MIC,1989,2.295734791
+Ingreso medio,MIC,1990,2.252773698
+Ingreso medio,MIC,1991,2.302735802
+Ingreso medio,MIC,1992,2.348359648
+Ingreso medio,MIC,1993,2.326256018
+Ingreso medio,MIC,1994,2.2710848280000002
+Ingreso medio,MIC,1995,2.320802176
+Ingreso medio,MIC,1996,2.349710837
+Ingreso medio,MIC,1997,2.311748117
+Ingreso medio,MIC,1998,2.251574924
+Ingreso medio,MIC,1999,2.259840571
+Ingreso medio,MIC,2000,2.290406106
+Ingreso medio,MIC,2001,2.31233496
+Ingreso medio,MIC,2002,2.384419411
+Ingreso medio,MIC,2003,2.576052784
+Ingreso medio,MIC,2004,2.747359555
+Ingreso medio,MIC,2005,2.897311529
+Ingreso medio,MIC,2006,3.052494122
+Ingreso medio,MIC,2007,3.169838292
+Ingreso medio,MIC,2008,3.331991065
+Ingreso medio,MIC,2009,3.375489888
+Ingreso medio,MIC,2010,3.551473666
+Ingreso medio,MIC,2011,3.797528431
+Ingreso medio,MIC,2012,3.896148298
+Ingreso medio,MIC,2013,3.872690404
+Ingreso medio,MIC,2014,3.874128243
+Ingreso medio-altos,UMC,1960,1.682249906
+Ingreso medio-altos,UMC,1961,1.385466754
+Ingreso medio-altos,UMC,1962,1.260818131
+Ingreso medio-altos,UMC,1963,1.262007946
+Ingreso medio-altos,UMC,1964,1.294995308
+Ingreso medio-altos,UMC,1965,1.367538227
+Ingreso medio-altos,UMC,1966,1.451379297
+Ingreso medio-altos,UMC,1967,1.380916722
+Ingreso medio-altos,UMC,1968,1.474220541
+Ingreso medio-altos,UMC,1969,1.625755993
+Ingreso medio-altos,UMC,1970,1.863452853
+Ingreso medio-altos,UMC,1971,1.996575806
+Ingreso medio-altos,UMC,1972,2.064883235
+Ingreso medio-altos,UMC,1973,2.166427084
+Ingreso medio-altos,UMC,1974,2.193628119
+Ingreso medio-altos,UMC,1975,2.34485773
+Ingreso medio-altos,UMC,1976,2.452976115
+Ingreso medio-altos,UMC,1977,2.576745263
+Ingreso medio-altos,UMC,1978,2.770455369
+Ingreso medio-altos,UMC,1979,2.816027036
+Ingreso medio-altos,UMC,1980,2.770359834
+Ingreso medio-altos,UMC,1981,2.718974179
+Ingreso medio-altos,UMC,1982,2.856458654
+Ingreso medio-altos,UMC,1983,2.911127987
+Ingreso medio-altos,UMC,1984,3.022730884
+Ingreso medio-altos,UMC,1985,3.166418783
+Ingreso medio-altos,UMC,1986,3.247229403
+Ingreso medio-altos,UMC,1987,3.371871578
+Ingreso medio-altos,UMC,1988,3.493310556
+Ingreso medio-altos,UMC,1989,3.551652846
+Ingreso medio-altos,UMC,1990,3.44517076
+Ingreso medio-altos,UMC,1991,3.507062379
+Ingreso medio-altos,UMC,1992,3.55886454
+Ingreso medio-altos,UMC,1993,3.563795027
+Ingreso medio-altos,UMC,1994,3.51675265
+Ingreso medio-altos,UMC,1995,3.604797671
+Ingreso medio-altos,UMC,1996,3.640847078
+Ingreso medio-altos,UMC,1997,3.585304716
+Ingreso medio-altos,UMC,1998,3.507479526
+Ingreso medio-altos,UMC,1999,3.504224158
+Ingreso medio-altos,UMC,2000,3.539215237
+Ingreso medio-altos,UMC,2001,3.589569731
+Ingreso medio-altos,UMC,2002,3.738370796
+Ingreso medio-altos,UMC,2003,4.102591946
+Ingreso medio-altos,UMC,2004,4.429799694
+Ingreso medio-altos,UMC,2005,4.732263242
+Ingreso medio-altos,UMC,2006,5.041364951
+Ingreso medio-altos,UMC,2007,5.24886185
+Ingreso medio-altos,UMC,2008,5.527811873
+Ingreso medio-altos,UMC,2009,5.599057635
+Ingreso medio-altos,UMC,2010,5.982705529
+Ingreso medio-altos,UMC,2011,6.403580886
+Ingreso medio-altos,UMC,2012,6.555613877
+Ingreso medio-altos,UMC,2013,6.605490361
+Ingreso medio-altos,UMC,2014,6.588135175
