@@ -1,7 +1,7 @@
 
 # Datos sobre emisiones de CO2
 
-Esta semana analizaremos datos históricos de emisión de C02 por país y región. ¿Qué países son los mayores emisores de CO2? ¿Cuáles han aumentado en mayor medida sus emisiones? ¿Contaminan más los países según su ingreso?
+Esta semana analizaremos datos históricos de emisión de CO2 por país y región. ¿Qué países son los mayores emisores de CO2? ¿Cuáles han aumentado en mayor medida sus emisiones? ¿Contaminan más los países según su ingreso?
 
 ## Obtener los datos
 
@@ -21,7 +21,7 @@ co2_ingreso <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
-| pais_region | caracter | Nombre del país o de la región (por ejemplo, Latinoamérica, Unión Europea, Mundo) |
+| pais_region | caracter | Nombre del país o de la región (por ejemplo, Latinoamérica, Unión Europea, Mundo, etc.) |
 | codigo_iso | caracter | Código ISO del país o región |
 | anio | entero | Año  |
 | emision_co2 | entero | Emisión de CO2 (toneladas métricas per cápita) |
