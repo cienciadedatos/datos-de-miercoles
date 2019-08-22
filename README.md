@@ -2,7 +2,7 @@
 
 ## Un proyecto semanal de datos en R
 
-_Datos de miércoles_ es la versión en español de [#tidytuesday](https://github.com/rfordatascience/tidytuesday), un proyecto  semanal de datos organizado por la comunidad de R, que busca que sus participantes desarrollen sus habilidades procesando datos para crear gráficos significativos usando `ggplot2`, `tidyr`, `dplyr` y otras herramientas del `tidyverse`. El proyecto original surgió en el marco de la comunidad de aprendizaje online [R4DS](https://www.rfordatasci.com/) y desde abril de 2019 la comunidad sudamericana de R impulsa una versión local en español.  
+_Datos de miércoles_ es el primo latinoamericano de [#tidytuesday](https://github.com/rfordatascience/tidytuesday), un proyecto  semanal de datos organizado por la comunidad de R, que busca que sus participantes desarrollen sus habilidades procesando datos para crear gráficos significativos usando `ggplot2`, `tidyr`, `dplyr` y otras herramientas del `tidyverse`. El proyecto original surgió en el marco de la comunidad de aprendizaje online [R4DS](https://www.rfordatasci.com/) y desde abril de 2019 la comunidad sudamericana de R impulsa una versión local en español.  
 
 ***
 
