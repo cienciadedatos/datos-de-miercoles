@@ -1,0 +1,569 @@
+anio,equipo,codigo_pais,ronda,resultado,goles,id_partido_anio,numero_equipo
+1991,República Popular China,CHN,Fase de grupos,Victoria,4,1,1
+1991,Noruega,NOR,Fase de grupos,Derrota,0,1,2
+1991,Dinamarca,DEN,Fase de grupos,Victoria,3,2,1
+1991,Nueva Zelanda,NZL,Fase de grupos,Derrota,0,2,2
+1991,Japón,JPN,Fase de grupos,Derrota,0,3,1
+1991,Brasil,BRA,Fase de grupos,Victoria,1,3,2
+1991,Alemania,GER,Fase de grupos,Victoria,4,4,1
+1991,Nigeria,NGA,Fase de grupos,Derrota,0,4,2
+1991,Suecia,SWE,Fase de grupos,Derrota,2,5,1
+1991,Estados Unidos,USA,Fase de grupos,Victoria,3,5,2
+1991,China Taipei,TPE,Fase de grupos,Derrota,0,6,1
+1991,Italia,ITA,Fase de grupos,Victoria,5,6,2
+1991,Noruega,NOR,Fase de grupos,Victoria,4,7,1
+1991,Nueva Zelanda,NZL,Fase de grupos,Derrota,0,7,2
+1991,República Popular China,CHN,Fase de grupos,Empate,2,8,1
+1991,Dinamarca,DEN,Fase de grupos,Empate,2,8,2
+1991,Japón,JPN,Fase de grupos,Derrota,0,9,1
+1991,Suecia,SWE,Fase de grupos,Victoria,8,9,2
+1991,Italia,ITA,Fase de grupos,Victoria,1,10,1
+1991,Nigeria,NGA,Fase de grupos,Derrota,0,10,2
+1991,Brasil,BRA,Fase de grupos,Derrota,0,11,1
+1991,Estados Unidos,USA,Fase de grupos,Victoria,5,11,2
+1991,China Taipei,TPE,Fase de grupos,Derrota,0,12,1
+1991,Alemania,GER,Fase de grupos,Victoria,3,12,2
+1991,Japón,JPN,Fase de grupos,Derrota,0,13,1
+1991,Estados Unidos,USA,Fase de grupos,Victoria,3,13,2
+1991,República Popular China,CHN,Fase de grupos,Victoria,4,14,1
+1991,Nueva Zelanda,NZL,Fase de grupos,Derrota,1,14,2
+1991,Brasil,BRA,Fase de grupos,Derrota,0,15,1
+1991,Suecia,SWE,Fase de grupos,Victoria,2,15,2
+1991,Noruega,NOR,Fase de grupos,Victoria,2,16,1
+1991,Dinamarca,DEN,Fase de grupos,Derrota,1,16,2
+1991,China Taipei,TPE,Fase de grupos,Victoria,2,17,1
+1991,Nigeria,NGA,Fase de grupos,Derrota,0,17,2
+1991,Italia,ITA,Fase de grupos,Derrota,0,18,1
+1991,Alemania,GER,Fase de grupos,Victoria,1,18,2
+1991,República Popular China,CHN,Cuartos de final,Derrota,0,19,1
+1991,Suecia,SWE,Cuartos de final,Victoria,1,19,2
+1991,Estados Unidos,USA,Cuartos de final,Victoria,7,20,1
+1991,China Taipei,TPE,Cuartos de final,Derrota,0,20,2
+1991,Dinamarca,DEN,Cuartos de final,Derrota,1,21,1
+1991,Alemania,GER,Cuartos de final,Victoria,2,21,2
+1991,Noruega,NOR,Cuartos de final,Victoria,3,22,1
+1991,Italia,ITA,Cuartos de final,Derrota,2,22,2
+1991,Alemania,GER,Semifinales,Derrota,2,23,1
+1991,Estados Unidos,USA,Semifinales,Victoria,5,23,2
+1991,Suecia,SWE,Semifinales,Derrota,1,24,1
+1991,Noruega,NOR,Semifinales,Victoria,4,24,2
+1991,Suecia,SWE,Tercer lugar,Victoria,4,25,1
+1991,Alemania,GER,Tercer lugar,Derrota,0,25,2
+1991,Noruega,NOR,Final,Derrota,1,26,1
+1991,Estados Unidos,USA,Final,Victoria,2,26,2
+1995,Alemania,GER,Fase de grupos,Victoria,1,1,1
+1995,Japón,JPN,Fase de grupos,Derrota,0,1,2
+1995,Suecia,SWE,Fase de grupos,Derrota,0,2,1
+1995,Brasil,BRA,Fase de grupos,Victoria,1,2,2
+1995,Noruega,NOR,Fase de grupos,Victoria,8,3,1
+1995,Nigeria,NGA,Fase de grupos,Derrota,0,3,2
+1995,Inglaterra,ENG,Fase de grupos,Victoria,3,4,1
+1995,Canadá,CAN,Fase de grupos,Derrota,2,4,2
+1995,Estados Unidos,USA,Fase de grupos,Empate,3,5,1
+1995,República Popular China,CHN,Fase de grupos,Empate,3,5,2
+1995,Dinamarca,DEN,Fase de grupos,Victoria,5,6,1
+1995,Australia,AUS,Fase de grupos,Derrota,0,6,2
+1995,Suecia,SWE,Fase de grupos,Victoria,3,7,1
+1995,Alemania,GER,Fase de grupos,Derrota,2,7,2
+1995,Brasil,BRA,Fase de grupos,Derrota,1,8,1
+1995,Japón,JPN,Fase de grupos,Victoria,2,8,2
+1995,Noruega,NOR,Fase de grupos,Victoria,2,9,1
+1995,Inglaterra,ENG,Fase de grupos,Derrota,0,9,2
+1995,Nigeria,NGA,Fase de grupos,Empate,3,10,1
+1995,Canadá,CAN,Fase de grupos,Empate,3,10,2
+1995,Estados Unidos,USA,Fase de grupos,Victoria,2,11,1
+1995,Dinamarca,DEN,Fase de grupos,Derrota,0,11,2
+1995,República Popular China,CHN,Fase de grupos,Victoria,4,12,1
+1995,Australia,AUS,Fase de grupos,Derrota,2,12,2
+1995,Suecia,SWE,Fase de grupos,Victoria,2,13,1
+1995,Japón,JPN,Fase de grupos,Derrota,0,13,2
+1995,Brasil,BRA,Fase de grupos,Derrota,1,14,1
+1995,Alemania,GER,Fase de grupos,Victoria,6,14,2
+1995,Noruega,NOR,Fase de grupos,Victoria,7,15,1
+1995,Canadá,CAN,Fase de grupos,Derrota,0,15,2
+1995,Nigeria,NGA,Fase de grupos,Derrota,2,16,1
+1995,Inglaterra,ENG,Fase de grupos,Victoria,3,16,2
+1995,Estados Unidos,USA,Fase de grupos,Victoria,4,17,1
+1995,Australia,AUS,Fase de grupos,Derrota,1,17,2
+1995,República Popular China,CHN,Fase de grupos,Victoria,3,18,1
+1995,Dinamarca,DEN,Fase de grupos,Derrota,1,18,2
+1995,Japón,JPN,Cuartos de final,Derrota,0,19,1
+1995,Estados Unidos,USA,Cuartos de final,Victoria,4,19,2
+1995,Noruega,NOR,Cuartos de final,Victoria,3,20,1
+1995,Dinamarca,DEN,Cuartos de final,Derrota,1,20,2
+1995,Alemania,GER,Cuartos de final,Victoria,3,21,1
+1995,Inglaterra,ENG,Cuartos de final,Derrota,0,21,2
+1995,Suecia,SWE,Cuartos de final,Derrota,1,22,1
+1995,República Popular China,CHN,Cuartos de final,Victoria,1,22,2
+1995,Estados Unidos,USA,Semifinales,Derrota,0,23,1
+1995,Noruega,NOR,Semifinales,Victoria,1,23,2
+1995,Alemania,GER,Semifinales,Victoria,1,24,1
+1995,República Popular China,CHN,Semifinales,Derrota,0,24,2
+1995,República Popular China,CHN,Tercer lugar,Derrota,0,25,1
+1995,Estados Unidos,USA,Tercer lugar,Victoria,2,25,2
+1995,Alemania,GER,Final,Derrota,0,26,1
+1995,Noruega,NOR,Final,Victoria,2,26,2
+1999,Estados Unidos,USA,Fase de grupos,Victoria,3,1,1
+1999,Dinamarca,DEN,Fase de grupos,Derrota,0,1,2
+1999,República Popular China,CHN,Fase de grupos,Victoria,2,2,1
+1999,Suecia,SWE,Fase de grupos,Derrota,1,2,2
+1999,Brasil,BRA,Fase de grupos,Victoria,7,3,1
+1999,México,MEX,Fase de grupos,Derrota,1,3,2
+1999,Japón,JPN,Fase de grupos,Empate,1,4,1
+1999,Canadá,CAN,Fase de grupos,Empate,1,4,2
+1999,Noruega,NOR,Fase de grupos,Victoria,2,5,1
+1999,Rusia,RUS,Fase de grupos,Derrota,1,5,2
+1999,Australia,AUS,Fase de grupos,Empate,1,6,1
+1999,Ghana,GHA,Fase de grupos,Empate,1,6,2
+1999,Alemania,GER,Fase de grupos,Empate,1,7,1
+1999,Italia,ITA,Fase de grupos,Empate,1,7,2
+1999,Corea del Norte,PRK,Fase de grupos,Derrota,1,8,1
+1999,Nigeria,NGA,Fase de grupos,Victoria,2,8,2
+1999,Japón,JPN,Fase de grupos,Derrota,0,9,1
+1999,Rusia,RUS,Fase de grupos,Victoria,5,9,2
+1999,República Popular China,CHN,Fase de grupos,Victoria,7,10,1
+1999,Ghana,GHA,Fase de grupos,Derrota,0,10,2
+1999,Noruega,NOR,Fase de grupos,Victoria,7,11,1
+1999,Canadá,CAN,Fase de grupos,Derrota,1,11,2
+1999,Australia,AUS,Fase de grupos,Derrota,1,12,1
+1999,Suecia,SWE,Fase de grupos,Victoria,3,12,2
+1999,Corea del Norte,PRK,Fase de grupos,Victoria,3,13,1
+1999,Dinamarca,DEN,Fase de grupos,Derrota,1,13,2
+1999,Alemania,GER,Fase de grupos,Victoria,6,14,1
+1999,México,MEX,Fase de grupos,Derrota,0,14,2
+1999,Brasil,BRA,Fase de grupos,Victoria,2,15,1
+1999,Italia,ITA,Fase de grupos,Derrota,0,15,2
+1999,Estados Unidos,USA,Fase de grupos,Victoria,7,16,1
+1999,Nigeria,NGA,Fase de grupos,Derrota,1,16,2
+1999,Canadá,CAN,Fase de grupos,Derrota,1,17,1
+1999,Rusia,RUS,Fase de grupos,Victoria,4,17,2
+1999,República Popular China,CHN,Fase de grupos,Victoria,3,18,1
+1999,Australia,AUS,Fase de grupos,Derrota,1,18,2
+1999,Ghana,GHA,Fase de grupos,Derrota,0,19,1
+1999,Suecia,SWE,Fase de grupos,Victoria,2,19,2
+1999,Noruega,NOR,Fase de grupos,Victoria,4,20,1
+1999,Japón,JPN,Fase de grupos,Derrota,0,20,2
+1999,México,MEX,Fase de grupos,Derrota,0,21,1
+1999,Italia,ITA,Fase de grupos,Victoria,2,21,2
+1999,Alemania,GER,Fase de grupos,Empate,3,22,1
+1999,Brasil,BRA,Fase de grupos,Empate,3,22,2
+1999,Estados Unidos,USA,Fase de grupos,Victoria,3,23,1
+1999,Corea del Norte,PRK,Fase de grupos,Derrota,0,23,2
+1999,Nigeria,NGA,Fase de grupos,Victoria,2,24,1
+1999,Dinamarca,DEN,Fase de grupos,Derrota,0,24,2
+1999,República Popular China,CHN,Cuartos de final,Victoria,2,25,1
+1999,Rusia,RUS,Cuartos de final,Derrota,0,25,2
+1999,Noruega,NOR,Cuartos de final,Victoria,3,26,1
+1999,Suecia,SWE,Cuartos de final,Derrota,1,26,2
+1999,Estados Unidos,USA,Cuartos de final,Victoria,3,27,1
+1999,Alemania,GER,Cuartos de final,Derrota,2,27,2
+1999,Brasil,BRA,Cuartos de final,Victoria,4,28,1
+1999,Nigeria,NGA,Cuartos de final,Derrota,3,28,2
+1999,Noruega,NOR,Semifinales,Derrota,0,29,1
+1999,República Popular China,CHN,Semifinales,Victoria,5,29,2
+1999,Estados Unidos,USA,Semifinales,Victoria,2,30,1
+1999,Brasil,BRA,Semifinales,Derrota,0,30,2
+1999,Brasil,BRA,Tercer lugar,Victoria,0,31,1
+1999,Noruega,NOR,Tercer lugar,Derrota,0,31,2
+1999,Estados Unidos,USA,Final,Victoria,0,32,1
+1999,República Popular China,CHN,Final,Derrota,0,32,2
+2003,Noruega,NOR,Fase de grupos,Victoria,2,1,1
+2003,Francia,FRA,Fase de grupos,Derrota,0,1,2
+2003,Nigeria,NGA,Fase de grupos,Derrota,0,2,1
+2003,Corea del Norte,PRK,Fase de grupos,Victoria,3,2,2
+2003,Alemania,GER,Fase de grupos,Victoria,4,3,1
+2003,Canadá,CAN,Fase de grupos,Derrota,1,3,2
+2003,Japón,JPN,Fase de grupos,Victoria,6,4,1
+2003,Argentina,ARG,Fase de grupos,Derrota,0,4,2
+2003,Estados Unidos,USA,Fase de grupos,Victoria,3,5,1
+2003,Suecia,SWE,Fase de grupos,Derrota,1,5,2
+2003,Australia,AUS,Fase de grupos,Derrota,1,6,1
+2003,Rusia,RUS,Fase de grupos,Victoria,2,6,2
+2003,Brasil,BRA,Fase de grupos,Victoria,3,7,1
+2003,Corea del Sur,KOR,Fase de grupos,Derrota,0,7,2
+2003,República Popular China,CHN,Fase de grupos,Victoria,1,8,1
+2003,Ghana,GHA,Fase de grupos,Derrota,0,8,2
+2003,Noruega,NOR,Fase de grupos,Derrota,1,9,1
+2003,Brasil,BRA,Fase de grupos,Victoria,4,9,2
+2003,Alemania,GER,Fase de grupos,Victoria,3,10,1
+2003,Japón,JPN,Fase de grupos,Derrota,0,10,2
+2003,Francia,FRA,Fase de grupos,Victoria,1,11,1
+2003,Corea del Sur,KOR,Fase de grupos,Derrota,0,11,2
+2003,Canadá,CAN,Fase de grupos,Victoria,3,12,1
+2003,Argentina,ARG,Fase de grupos,Derrota,0,12,2
+2003,Ghana,GHA,Fase de grupos,Derrota,0,13,1
+2003,Rusia,RUS,Fase de grupos,Victoria,3,13,2
+2003,Suecia,SWE,Fase de grupos,Victoria,1,14,1
+2003,Corea del Norte,PRK,Fase de grupos,Derrota,0,14,2
+2003,Estados Unidos,USA,Fase de grupos,Victoria,5,15,1
+2003,Nigeria,NGA,Fase de grupos,Derrota,0,15,2
+2003,República Popular China,CHN,Fase de grupos,Empate,1,16,1
+2003,Australia,AUS,Fase de grupos,Empate,1,16,2
+2003,Corea del Sur,KOR,Fase de grupos,Derrota,1,17,1
+2003,Noruega,NOR,Fase de grupos,Victoria,7,17,2
+2003,Canadá,CAN,Fase de grupos,Victoria,3,18,1
+2003,Japón,JPN,Fase de grupos,Derrota,1,18,2
+2003,Francia,FRA,Fase de grupos,Empate,1,19,1
+2003,Brasil,BRA,Fase de grupos,Empate,1,19,2
+2003,Argentina,ARG,Fase de grupos,Derrota,1,20,1
+2003,Alemania,GER,Fase de grupos,Victoria,6,20,2
+2003,Suecia,SWE,Fase de grupos,Victoria,3,21,1
+2003,Nigeria,NGA,Fase de grupos,Derrota,0,21,2
+2003,Ghana,GHA,Fase de grupos,Victoria,2,22,1
+2003,Australia,AUS,Fase de grupos,Derrota,1,22,2
+2003,Corea del Norte,PRK,Fase de grupos,Derrota,0,23,1
+2003,Estados Unidos,USA,Fase de grupos,Victoria,3,23,2
+2003,República Popular China,CHN,Fase de grupos,Victoria,1,24,1
+2003,Rusia,RUS,Fase de grupos,Derrota,0,24,2
+2003,Estados Unidos,USA,Cuartos de final,Victoria,1,25,1
+2003,Noruega,NOR,Cuartos de final,Derrota,0,25,2
+2003,Brasil,BRA,Cuartos de final,Derrota,1,26,1
+2003,Suecia,SWE,Cuartos de final,Victoria,2,26,2
+2003,Alemania,GER,Cuartos de final,Victoria,7,27,1
+2003,Rusia,RUS,Cuartos de final,Derrota,1,27,2
+2003,República Popular China,CHN,Cuartos de final,Derrota,0,28,1
+2003,Canadá,CAN,Cuartos de final,Victoria,1,28,2
+2003,Estados Unidos,USA,Semifinales,Derrota,0,29,1
+2003,Alemania,GER,Semifinales,Victoria,3,29,2
+2003,Suecia,SWE,Semifinales,Victoria,2,30,1
+2003,Canadá,CAN,Semifinales,Derrota,1,30,2
+2003,Estados Unidos,USA,Tercer lugar,Victoria,3,31,1
+2003,Canadá,CAN,Tercer lugar,Derrota,1,31,2
+2003,Alemania,GER,Final,Victoria,2,32,1
+2003,Suecia,SWE,Final,Derrota,1,32,2
+2007,Alemania,GER,Fase de grupos,Victoria,11,1,1
+2007,Argentina,ARG,Fase de grupos,Derrota,0,1,2
+2007,Estados Unidos,USA,Fase de grupos,Empate,2,2,1
+2007,Corea del Norte,PRK,Fase de grupos,Empate,2,2,2
+2007,Japón,JPN,Fase de grupos,Empate,2,3,1
+2007,Inglaterra,ENG,Fase de grupos,Empate,2,3,2
+2007,Nigeria,NGA,Fase de grupos,Empate,1,4,1
+2007,Suecia,SWE,Fase de grupos,Empate,1,4,2
+2007,Ghana,GHA,Fase de grupos,Derrota,1,5,1
+2007,Australia,AUS,Fase de grupos,Victoria,4,5,2
+2007,Nueva Zelanda,NZL,Fase de grupos,Derrota,0,6,1
+2007,Brasil,BRA,Fase de grupos,Victoria,5,6,2
+2007,Noruega,NOR,Fase de grupos,Victoria,2,7,1
+2007,Canadá,CAN,Fase de grupos,Derrota,1,7,2
+2007,República Popular China,CHN,Fase de grupos,Victoria,3,8,1
+2007,Dinamarca,DEN,Fase de grupos,Derrota,2,8,2
+2007,Argentina,ARG,Fase de grupos,Derrota,0,9,1
+2007,Japón,JPN,Fase de grupos,Victoria,1,9,2
+2007,Suecia,SWE,Fase de grupos,Derrota,0,10,1
+2007,Estados Unidos,USA,Fase de grupos,Victoria,2,10,2
+2007,Inglaterra,ENG,Fase de grupos,Empate,0,11,1
+2007,Alemania,GER,Fase de grupos,Empate,0,11,2
+2007,Corea del Norte,PRK,Fase de grupos,Victoria,2,12,1
+2007,Nigeria,NGA,Fase de grupos,Derrota,0,12,2
+2007,Canadá,CAN,Fase de grupos,Victoria,4,13,1
+2007,Ghana,GHA,Fase de grupos,Derrota,0,13,2
+2007,Dinamarca,DEN,Fase de grupos,Victoria,2,14,1
+2007,Nueva Zelanda,NZL,Fase de grupos,Derrota,0,14,2
+2007,Australia,AUS,Fase de grupos,Empate,1,15,1
+2007,Noruega,NOR,Fase de grupos,Empate,1,15,2
+2007,Brasil,BRA,Fase de grupos,Victoria,4,16,1
+2007,República Popular China,CHN,Fase de grupos,Derrota,0,16,2
+2007,Alemania,GER,Fase de grupos,Victoria,2,17,1
+2007,Japón,JPN,Fase de grupos,Derrota,0,17,2
+2007,Inglaterra,ENG,Fase de grupos,Victoria,6,18,1
+2007,Argentina,ARG,Fase de grupos,Derrota,1,18,2
+2007,Nigeria,NGA,Fase de grupos,Derrota,0,19,1
+2007,Estados Unidos,USA,Fase de grupos,Victoria,1,19,2
+2007,Corea del Norte,PRK,Fase de grupos,Derrota,1,20,1
+2007,Suecia,SWE,Fase de grupos,Victoria,2,20,2
+2007,Noruega,NOR,Fase de grupos,Victoria,7,21,1
+2007,Ghana,GHA,Fase de grupos,Derrota,2,21,2
+2007,Australia,AUS,Fase de grupos,Empate,2,22,1
+2007,Canadá,CAN,Fase de grupos,Empate,2,22,2
+2007,República Popular China,CHN,Fase de grupos,Victoria,2,23,1
+2007,Nueva Zelanda,NZL,Fase de grupos,Derrota,0,23,2
+2007,Brasil,BRA,Fase de grupos,Victoria,1,24,1
+2007,Dinamarca,DEN,Fase de grupos,Derrota,0,24,2
+2007,Alemania,GER,Cuartos de final,Victoria,3,25,1
+2007,Corea del Norte,PRK,Cuartos de final,Derrota,0,25,2
+2007,Estados Unidos,USA,Cuartos de final,Victoria,3,26,1
+2007,Inglaterra,ENG,Cuartos de final,Derrota,0,26,2
+2007,Noruega,NOR,Cuartos de final,Victoria,1,27,1
+2007,República Popular China,CHN,Cuartos de final,Derrota,0,27,2
+2007,Brasil,BRA,Cuartos de final,Victoria,3,28,1
+2007,Australia,AUS,Cuartos de final,Derrota,2,28,2
+2007,Alemania,GER,Semifinales,Victoria,3,29,1
+2007,Noruega,NOR,Semifinales,Derrota,0,29,2
+2007,Estados Unidos,USA,Semifinales,Derrota,0,30,1
+2007,Brasil,BRA,Semifinales,Victoria,4,30,2
+2007,Noruega,NOR,Tercer lugar,Derrota,1,31,1
+2007,Estados Unidos,USA,Tercer lugar,Victoria,4,31,2
+2007,Alemania,GER,Final,Victoria,2,32,1
+2007,Brasil,BRA,Final,Derrota,0,32,2
+2011,Nigeria,NGA,Fase de grupos,Derrota,0,1,1
+2011,Francia,FRA,Fase de grupos,Victoria,1,1,2
+2011,Alemania,GER,Fase de grupos,Victoria,2,2,1
+2011,Canadá,CAN,Fase de grupos,Derrota,1,2,2
+2011,Japón,JPN,Fase de grupos,Victoria,2,3,1
+2011,Nueva Zelanda,NZL,Fase de grupos,Derrota,1,3,2
+2011,México,MEX,Fase de grupos,Empate,1,4,1
+2011,Inglaterra,ENG,Fase de grupos,Empate,1,4,2
+2011,Colombia,COL,Fase de grupos,Derrota,0,5,1
+2011,Suecia,SWE,Fase de grupos,Victoria,1,5,2
+2011,Estados Unidos,USA,Fase de grupos,Victoria,2,6,1
+2011,Corea del Norte,PRK,Fase de grupos,Derrota,0,6,2
+2011,Noruega,NOR,Fase de grupos,Victoria,1,7,1
+2011,Guinea Ecuatorial,EQG,Fase de grupos,Derrota,0,7,2
+2011,Brasil,BRA,Fase de grupos,Victoria,1,8,1
+2011,Australia,AUS,Fase de grupos,Derrota,0,8,2
+2011,Canadá,CAN,Fase de grupos,Derrota,0,9,1
+2011,Francia,FRA,Fase de grupos,Victoria,4,9,2
+2011,Alemania,GER,Fase de grupos,Victoria,1,10,1
+2011,Nigeria,NGA,Fase de grupos,Derrota,0,10,2
+2011,Japón,JPN,Fase de grupos,Victoria,4,11,1
+2011,México,MEX,Fase de grupos,Derrota,0,11,2
+2011,Nueva Zelanda,NZL,Fase de grupos,Derrota,1,12,1
+2011,Inglaterra,ENG,Fase de grupos,Victoria,2,12,2
+2011,Corea del Norte,PRK,Fase de grupos,Derrota,0,13,1
+2011,Suecia,SWE,Fase de grupos,Victoria,1,13,2
+2011,Estados Unidos,USA,Fase de grupos,Victoria,3,14,1
+2011,Colombia,COL,Fase de grupos,Derrota,0,14,2
+2011,Australia,AUS,Fase de grupos,Victoria,3,15,1
+2011,Guinea Ecuatorial,EQG,Fase de grupos,Derrota,2,15,2
+2011,Brasil,BRA,Fase de grupos,Victoria,3,16,1
+2011,Noruega,NOR,Fase de grupos,Derrota,0,16,2
+2011,Inglaterra,ENG,Fase de grupos,Victoria,2,17,1
+2011,Japón,JPN,Fase de grupos,Derrota,0,17,2
+2011,Nueva Zelanda,NZL,Fase de grupos,Empate,2,18,1
+2011,México,MEX,Fase de grupos,Empate,2,18,2
+2011,Francia,FRA,Fase de grupos,Derrota,2,19,1
+2011,Alemania,GER,Fase de grupos,Victoria,4,19,2
+2011,Canadá,CAN,Fase de grupos,Derrota,0,20,1
+2011,Nigeria,NGA,Fase de grupos,Victoria,1,20,2
+2011,Guinea Ecuatorial,EQG,Fase de grupos,Derrota,0,21,1
+2011,Brasil,BRA,Fase de grupos,Victoria,3,21,2
+2011,Australia,AUS,Fase de grupos,Victoria,2,22,1
+2011,Noruega,NOR,Fase de grupos,Derrota,1,22,2
+2011,Suecia,SWE,Fase de grupos,Victoria,2,23,1
+2011,Estados Unidos,USA,Fase de grupos,Derrota,1,23,2
+2011,Corea del Norte,PRK,Fase de grupos,Empate,0,24,1
+2011,Colombia,COL,Fase de grupos,Empate,0,24,2
+2011,Inglaterra,ENG,Cuartos de final,Derrota,1,25,1
+2011,Francia,FRA,Cuartos de final,Victoria,1,25,2
+2011,Alemania,GER,Cuartos de final,Derrota,0,26,1
+2011,Japón,JPN,Cuartos de final,Victoria,1,26,2
+2011,Suecia,SWE,Cuartos de final,Victoria,3,27,1
+2011,Australia,AUS,Cuartos de final,Derrota,1,27,2
+2011,Brasil,BRA,Cuartos de final,Derrota,2,28,1
+2011,Estados Unidos,USA,Cuartos de final,Victoria,2,28,2
+2011,Francia,FRA,Semifinales,Derrota,1,29,1
+2011,Estados Unidos,USA,Semifinales,Victoria,3,29,2
+2011,Japón,JPN,Semifinales,Victoria,3,30,1
+2011,Suecia,SWE,Semifinales,Derrota,1,30,2
+2011,Suecia,SWE,Tercer lugar,Victoria,2,31,1
+2011,Francia,FRA,Tercer lugar,Derrota,1,31,2
+2011,Japón,JPN,Final,Victoria,2,32,1
+2011,Estados Unidos,USA,Final,Derrota,2,32,2
+2015,Canadá,CAN,Fase de grupos,Empate,1,1,1
+2015,República Popular China,CHN,Fase de grupos,Empate,1,1,2
+2015,Nueva Zelanda,NZL,Fase de grupos,Derrota,0,2,1
+2015,Países Bajos,NED,Fase de grupos,Victoria,2,2,2
+2015,Noruega,NOR,Fase de grupos,Victoria,4,3,1
+2015,Tailandia,THA,Fase de grupos,Derrota,0,3,2
+2015,Alemania,GER,Fase de grupos,Victoria,10,4,1
+2015,Costa de Marfil,CIV,Fase de grupos,Derrota,0,4,2
+2015,Suecia,SWE,Fase de grupos,Empate,3,5,1
+2015,Nigeria,NGA,Fase de grupos,Empate,3,5,2
+2015,Camerún,CMR,Fase de grupos,Victoria,6,6,1
+2015,Ecuador,ECU,Fase de grupos,Derrota,0,6,2
+2015,Estados Unidos,USA,Fase de grupos,Victoria,3,7,1
+2015,Australia,AUS,Fase de grupos,Derrota,1,7,2
+2015,Japón,JPN,Fase de grupos,Victoria,1,8,1
+2015,Suiza,SUI,Fase de grupos,Derrota,0,8,2
+2015,Francia,FRA,Fase de grupos,Victoria,1,9,1
+2015,Inglaterra,ENG,Fase de grupos,Derrota,0,9,2
+2015,España,ESP,Fase de grupos,Empate,1,10,1
+2015,Costa Rica,CRC,Fase de grupos,Empate,1,10,2
+2015,Colombia,COL,Fase de grupos,Empate,1,11,1
+2015,México,MEX,Fase de grupos,Empate,1,11,2
+2015,Brasil,BRA,Fase de grupos,Victoria,2,12,1
+2015,Corea del Sur,KOR,Fase de grupos,Derrota,0,12,2
+2015,Alemania,GER,Fase de grupos,Empate,1,13,1
+2015,Noruega,NOR,Fase de grupos,Empate,1,13,2
+2015,República Popular China,CHN,Fase de grupos,Victoria,1,14,1
+2015,Países Bajos,NED,Fase de grupos,Derrota,0,14,2
+2015,Costa de Marfil,CIV,Fase de grupos,Derrota,2,15,1
+2015,Tailandia,THA,Fase de grupos,Victoria,3,15,2
+2015,Canadá,CAN,Fase de grupos,Empate,0,16,1
+2015,Nueva Zelanda,NZL,Fase de grupos,Empate,0,16,2
+2015,Australia,AUS,Fase de grupos,Victoria,2,17,1
+2015,Nigeria,NGA,Fase de grupos,Derrota,0,17,2
+2015,Suiza,SUI,Fase de grupos,Victoria,10,18,1
+2015,Ecuador,ECU,Fase de grupos,Derrota,1,18,2
+2015,Estados Unidos,USA,Fase de grupos,Empate,0,19,1
+2015,Suecia,SWE,Fase de grupos,Empate,0,19,2
+2015,Japón,JPN,Fase de grupos,Victoria,2,20,1
+2015,Camerún,CMR,Fase de grupos,Derrota,1,20,2
+2015,Francia,FRA,Fase de grupos,Derrota,0,21,1
+2015,Colombia,COL,Fase de grupos,Victoria,2,21,2
+2015,Brasil,BRA,Fase de grupos,Victoria,1,22,1
+2015,España,ESP,Fase de grupos,Derrota,0,22,2
+2015,Inglaterra,ENG,Fase de grupos,Victoria,2,23,1
+2015,México,MEX,Fase de grupos,Derrota,1,23,2
+2015,Corea del Sur,KOR,Fase de grupos,Empate,2,24,1
+2015,Costa Rica,CRC,Fase de grupos,Empate,2,24,2
+2015,Tailandia,THA,Fase de grupos,Derrota,0,25,1
+2015,Alemania,GER,Fase de grupos,Victoria,4,25,2
+2015,Costa de Marfil,CIV,Fase de grupos,Derrota,1,26,1
+2015,Noruega,NOR,Fase de grupos,Victoria,3,26,2
+2015,Países Bajos,NED,Fase de grupos,Empate,1,27,1
+2015,Canadá,CAN,Fase de grupos,Empate,1,27,2
+2015,República Popular China,CHN,Fase de grupos,Empate,2,28,1
+2015,Nueva Zelanda,NZL,Fase de grupos,Empate,2,28,2
+2015,Ecuador,ECU,Fase de grupos,Derrota,0,29,1
+2015,Japón,JPN,Fase de grupos,Victoria,1,29,2
+2015,Suiza,SUI,Fase de grupos,Derrota,1,30,1
+2015,Camerún,CMR,Fase de grupos,Victoria,2,30,2
+2015,Nigeria,NGA,Fase de grupos,Derrota,0,31,1
+2015,Estados Unidos,USA,Fase de grupos,Victoria,1,31,2
+2015,Australia,AUS,Fase de grupos,Empate,1,32,1
+2015,Suecia,SWE,Fase de grupos,Empate,1,32,2
+2015,México,MEX,Fase de grupos,Derrota,0,33,1
+2015,Francia,FRA,Fase de grupos,Victoria,5,33,2
+2015,Inglaterra,ENG,Fase de grupos,Victoria,2,34,1
+2015,Colombia,COL,Fase de grupos,Derrota,1,34,2
+2015,Costa Rica,CRC,Fase de grupos,Derrota,0,35,1
+2015,Brasil,BRA,Fase de grupos,Victoria,1,35,2
+2015,Corea del Sur,KOR,Fase de grupos,Victoria,2,36,1
+2015,España,ESP,Fase de grupos,Derrota,1,36,2
+2015,Alemania,GER,Octavos de final,Victoria,4,37,1
+2015,Suecia,SWE,Octavos de final,Derrota,1,37,2
+2015,República Popular China,CHN,Octavos de final,Victoria,1,38,1
+2015,Camerún,CMR,Octavos de final,Derrota,0,38,2
+2015,Brasil,BRA,Octavos de final,Derrota,0,39,1
+2015,Australia,AUS,Octavos de final,Victoria,1,39,2
+2015,Francia,FRA,Octavos de final,Victoria,3,40,1
+2015,Corea del Sur,KOR,Octavos de final,Derrota,0,40,2
+2015,Canadá,CAN,Octavos de final,Victoria,1,41,1
+2015,Suiza,SUI,Octavos de final,Derrota,0,41,2
+2015,Noruega,NOR,Octavos de final,Derrota,1,42,1
+2015,Inglaterra,ENG,Octavos de final,Victoria,2,42,2
+2015,Estados Unidos,USA,Octavos de final,Victoria,2,43,1
+2015,Colombia,COL,Octavos de final,Derrota,0,43,2
+2015,Japón,JPN,Octavos de final,Victoria,2,44,1
+2015,Países Bajos,NED,Octavos de final,Derrota,1,44,2
+2015,Alemania,GER,Cuartos de final,Victoria,1,45,1
+2015,Francia,FRA,Cuartos de final,Derrota,1,45,2
+2015,República Popular China,CHN,Cuartos de final,Derrota,0,46,1
+2015,Estados Unidos,USA,Cuartos de final,Victoria,1,46,2
+2015,Australia,AUS,Cuartos de final,Derrota,0,47,1
+2015,Japón,JPN,Cuartos de final,Victoria,1,47,2
+2015,Inglaterra,ENG,Cuartos de final,Victoria,2,48,1
+2015,Canadá,CAN,Cuartos de final,Derrota,1,48,2
+2015,Estados Unidos,USA,Semifinales,Victoria,2,49,1
+2015,Alemania,GER,Semifinales,Derrota,0,49,2
+2015,Japón,JPN,Semifinales,Victoria,2,50,1
+2015,Inglaterra,ENG,Semifinales,Derrota,1,50,2
+2015,Alemania,GER,Tercer lugar,Derrota,0,51,1
+2015,Inglaterra,ENG,Tercer lugar,Victoria,1,51,2
+2015,Estados Unidos,USA,Final,Victoria,5,52,1
+2015,Japón,JPN,Final,Derrota,2,52,2
+2019,Francia,FRA,Fase de grupos,Victoria,4,1,1
+2019,Corea del Sur,KOR,Fase de grupos,Derrota,0,1,2
+2019,Alemania,GER,Fase de grupos,Victoria,1,2,1
+2019,República Popular China,CHN,Fase de grupos,Derrota,0,2,2
+2019,España,ESP,Fase de grupos,Victoria,3,3,1
+2019,Sudáfrica,RSA,Fase de grupos,Derrota,1,3,2
+2019,Noruega,NOR,Fase de grupos,Victoria,3,4,1
+2019,Nigeria,NGA,Fase de grupos,Derrota,0,4,2
+2019,Australia,AUS,Fase de grupos,Derrota,1,5,1
+2019,Italia,ITA,Fase de grupos,Victoria,2,5,2
+2019,Brasil,BRA,Fase de grupos,Victoria,3,6,1
+2019,Jamaica,JAM,Fase de grupos,Derrota,0,6,2
+2019,Inglaterra,ENG,Fase de grupos,Victoria,2,7,1
+2019,Escocia,SCO,Fase de grupos,Derrota,1,7,2
+2019,Argentina,ARG,Fase de grupos,Empate,0,8,1
+2019,Japón,JPN,Fase de grupos,Empate,0,8,2
+2019,Canadá,CAN,Fase de grupos,Victoria,1,9,1
+2019,Camerún,CMR,Fase de grupos,Derrota,0,9,2
+2019,Nueva Zelanda,NZL,Fase de grupos,Derrota,0,10,1
+2019,Países Bajos,NED,Fase de grupos,Victoria,1,10,2
+2019,Chile,CHI,Fase de grupos,Derrota,0,11,1
+2019,Suecia,SWE,Fase de grupos,Victoria,2,11,2
+2019,Estados Unidos,USA,Fase de grupos,Victoria,13,12,1
+2019,Tailandia,THA,Fase de grupos,Derrota,0,12,2
+2019,Nigeria,NGA,Fase de grupos,Victoria,2,13,1
+2019,Corea del Sur,KOR,Fase de grupos,Derrota,0,13,2
+2019,Alemania,GER,Fase de grupos,Victoria,1,14,1
+2019,España,ESP,Fase de grupos,Derrota,0,14,2
+2019,Francia,FRA,Fase de grupos,Victoria,2,15,1
+2019,Noruega,NOR,Fase de grupos,Derrota,1,15,2
+2019,Australia,AUS,Fase de grupos,Victoria,3,16,1
+2019,Brasil,BRA,Fase de grupos,Derrota,2,16,2
+2019,Sudáfrica,RSA,Fase de grupos,Derrota,0,17,1
+2019,República Popular China,CHN,Fase de grupos,Victoria,1,17,2
+2019,Japón,JPN,Fase de grupos,Victoria,2,18,1
+2019,Escocia,SCO,Fase de grupos,Derrota,1,18,2
+2019,Jamaica,JAM,Fase de grupos,Derrota,0,19,1
+2019,Italia,ITA,Fase de grupos,Victoria,5,19,2
+2019,Inglaterra,ENG,Fase de grupos,Victoria,1,20,1
+2019,Argentina,ARG,Fase de grupos,Derrota,0,20,2
+2019,Países Bajos,NED,Fase de grupos,Victoria,3,21,1
+2019,Camerún,CMR,Fase de grupos,Derrota,1,21,2
+2019,Canadá,CAN,Fase de grupos,Victoria,2,22,1
+2019,Nueva Zelanda,NZL,Fase de grupos,Derrota,0,22,2
+2019,Suecia,SWE,Fase de grupos,Victoria,5,23,1
+2019,Tailandia,THA,Fase de grupos,Derrota,1,23,2
+2019,Estados Unidos,USA,Fase de grupos,Victoria,3,24,1
+2019,Chile,CHI,Fase de grupos,Derrota,0,24,2
+2019,República Popular China,CHN,Fase de grupos,Empate,0,25,1
+2019,España,ESP,Fase de grupos,Empate,0,25,2
+2019,Sudáfrica,RSA,Fase de grupos,Derrota,0,26,1
+2019,Alemania,GER,Fase de grupos,Victoria,4,26,2
+2019,Nigeria,NGA,Fase de grupos,Derrota,0,27,1
+2019,Francia,FRA,Fase de grupos,Victoria,1,27,2
+2019,Corea del Sur,KOR,Fase de grupos,Derrota,1,28,1
+2019,Noruega,NOR,Fase de grupos,Victoria,2,28,2
+2019,Italia,ITA,Fase de grupos,Derrota,0,29,1
+2019,Brasil,BRA,Fase de grupos,Victoria,1,29,2
+2019,Jamaica,JAM,Fase de grupos,Derrota,1,30,1
+2019,Australia,AUS,Fase de grupos,Victoria,3,30,2
+2019,Japón,JPN,Fase de grupos,Derrota,0,31,1
+2019,Inglaterra,ENG,Fase de grupos,Victoria,2,31,2
+2019,Escocia,SCO,Fase de grupos,Empate,3,32,1
+2019,Argentina,ARG,Fase de grupos,Empate,3,32,2
+2019,Países Bajos,NED,Fase de grupos,Victoria,2,33,1
+2019,Canadá,CAN,Fase de grupos,Derrota,1,33,2
+2019,Camerún,CMR,Fase de grupos,Victoria,2,34,1
+2019,Nueva Zelanda,NZL,Fase de grupos,Derrota,1,34,2
+2019,Suecia,SWE,Fase de grupos,Derrota,0,35,1
+2019,Estados Unidos,USA,Fase de grupos,Victoria,2,35,2
+2019,Tailandia,THA,Fase de grupos,Derrota,0,36,1
+2019,Chile,CHI,Fase de grupos,Victoria,2,36,2
+2019,Alemania,GER,Octavos de final,Victoria,3,37,1
+2019,Nigeria,NGA,Octavos de final,Derrota,0,37,2
+2019,Noruega,NOR,Octavos de final,Victoria,1,38,1
+2019,Australia,AUS,Octavos de final,Derrota,1,38,2
+2019,Inglaterra,ENG,Octavos de final,Victoria,3,39,1
+2019,Camerún,CMR,Octavos de final,Derrota,0,39,2
+2019,Francia,FRA,Octavos de final,Victoria,2,40,1
+2019,Brasil,BRA,Octavos de final,Derrota,1,40,2
+2019,España,ESP,Octavos de final,Derrota,1,41,1
+2019,Estados Unidos,USA,Octavos de final,Victoria,2,41,2
+2019,Suecia,SWE,Octavos de final,Victoria,1,42,1
+2019,Canadá,CAN,Octavos de final,Derrota,0,42,2
+2019,Italia,ITA,Octavos de final,Victoria,2,43,1
+2019,República Popular China,CHN,Octavos de final,Derrota,0,43,2
+2019,Países Bajos,NED,Octavos de final,Victoria,2,44,1
+2019,Japón,JPN,Octavos de final,Derrota,1,44,2
+2019,Noruega,NOR,Cuartos de final,Derrota,0,45,1
+2019,Inglaterra,ENG,Cuartos de final,Victoria,3,45,2
+2019,Francia,FRA,Cuartos de final,Derrota,1,46,1
+2019,Estados Unidos,USA,Cuartos de final,Victoria,2,46,2
+2019,Italia,ITA,Cuartos de final,Derrota,0,47,1
+2019,Países Bajos,NED,Cuartos de final,Victoria,2,47,2
+2019,Alemania,GER,Cuartos de final,Derrota,1,48,1
+2019,Suecia,SWE,Cuartos de final,Victoria,2,48,2
+2019,Inglaterra,ENG,Semifinales,Derrota,1,49,1
+2019,Estados Unidos,USA,Semifinales,Victoria,2,49,2
+2019,Países Bajos,NED,Semifinales,Victoria,1,50,1
+2019,Suecia,SWE,Semifinales,Derrota,0,50,2
+2019,Inglaterra,ENG,Tercer lugar,Derrota,1,51,1
+2019,Suecia,SWE,Tercer lugar,Victoria,2,51,2
+2019,Estados Unidos,USA,Final,Victoria,2,52,1
+2019,Países Bajos,NED,Final,Derrota,0,52,2

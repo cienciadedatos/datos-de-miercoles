@@ -2,7 +2,7 @@
 
 ## Un proyecto semanal de datos en R
 
-_Datos de miércoles_ es la versión en español de [#tidytuesday](https://github.com/rfordatascience/tidytuesday), un proyecto  semanal de datos organizado por la comunidad de R, que busca que sus participantes desarrollen sus habilidades procesando datos para crear gráficos significativos usando `ggplot2`, `tidyr`, `dplyr` y otras herramientas del `tidyverse`. El proyecto original surgió en el marco de la comunidad de aprendizaje online [R4DS](https://www.rfordatasci.com/) y desde abril de 2019 la comunidad sudamericana de R impulsa una versión local en español.  
+_Datos de miércoles_ es el primo latinoamericano de [#tidytuesday](https://github.com/rfordatascience/tidytuesday), un proyecto  semanal de datos organizado por la comunidad de R, que busca que sus participantes desarrollen sus habilidades procesando datos para crear gráficos significativos usando `ggplot2`, `tidyr`, `dplyr` y otras herramientas del `tidyverse`. El proyecto original surgió en el marco de la comunidad de aprendizaje online [R4DS](https://www.rfordatasci.com/) y desde abril de 2019 la comunidad sudamericana de R impulsa una versión local en español.  
 
 ***
 
@@ -39,7 +39,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 ***
 
 ## Propuesta de datos
-¿Quieres proponer un conjunto de datos para utilizar en el proyecto? Abre un [Issue](https://github.com/cienciadedatos/datos-de-miercoles/issues) y comparte en él el enlace a la fuente de los datos. Así podemos revisarlo y analizar si lo incluímos en un próximo #DatosDeMiercoles.
+¿Quieres proponer un conjunto de datos para utilizar en el proyecto? Abre un [Issue](https://github.com/cienciadedatos/datos-de-miercoles/issues) y comparte en él el enlace a la fuente de los datos. Así podemos revisarlo y analizar si lo incluimos en un próximo #DatosDeMiercoles.
 
 ***
 
@@ -55,6 +55,19 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 7 | `2019-05-22` | [Datos de la OMS sobre tuberculosis](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-22) | [paquete `datos`](https://cienciadedatos.github.io/datos) | [Visualizaciones de "Our World in Data"](https://ourworldindata.org/grapher/tuberculosis-death-rates?time=1990..2017)|
 | 8 | `2019-05-29` | [Terremotos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-05-29) | [USGS](https://earthquake.usgs.gov/earthquakes/) | [Mapbox](https://labs.mapbox.com/bites/00267/) |
 | 9 | `2019-06-05` | [Datos de Airbnb de Latinoamérica](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-05)  | [Inside Airbnb](http://insideairbnb.com/get-the-data.html)| [¿Dónde están los Airbnb's en CDMX?](https://medium.com/@datavizero/d%C3%B3nde-est%C3%A1n-los-airbnbs-en-la-cdmx-ffc5c3f69d7b)|
+| 10 | `2019-06-12` | [Datos sobre vinos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-12) | [Kaggle](https://www.kaggle.com/zynicide/wine-reviews) | [TidyTuesday](https://twitter.com/search?l=&q=wine%20%23tidytuesday%20since%3A2019-05-28%20until%3A2019-06-04&src=typd)|
+| 11 | `2019-06-19` | [Datos sobre legislación orientación sexual](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-19) | [ILGA](https://ilga.org/es) | [Mapas legislación sobre orientación sexual](https://ilga.org/es/mapas-legislacion-sobre-orientacion-sexual)|
+| 12 | `2019-06-26` | [Datos sobre eventos de RLadies](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-26) | [paquete `meetupr`](https://github.com/rladies/meetupr) | [Aplicación Shiny: capítulos de RLadies](https://gqueiroz.shinyapps.io/rshinylady/)
+| 13 | `2019-07-03` | [Datos sobre R y paquetes en CRAN](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-03) |CRAN y el paquete `cranlogs`| [Análisis evolución de paquetes en CRAN](http://sedici.unlp.edu.ar/bitstream/handle/10915/72540/Resumen.pdf-PDFA.pdf?sequence=1&isAllowed=y)
+| 14 | `2019-07-10` | [Datos sobre Pokémon](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-10) |Kaggle y PokémonDB| [Grafos sobre Pokémon](http://rpubs.com/jboscomendoza/redes-relacionales-con-r-tipos-de-pokemon) |
+| 15 | `2019-07-17` | [Datos sobre Copas Mundiales de Fútbol Femenino](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-17) | [data.world](https://data.world/sportsvizsunday/womens-world-cup-data) | [Tidy Tuesday](https://twitter.com/search?q=worldcup%20%23tidytuesday%20since%3A2019-07-09%20until%3A2019-07-15&src=typd)
+| 16 | `2019-07-24` | [Datos sobre Google Play Store](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-24) | [Kaggle](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore.csv) | [Análisis datos de Google Play Store](https://nycdatascience.com/blog/student-works/web-scraping/analysis-of-apps-in-the-google-play-store/)
+| 17 | `2019-07-31` | [Subtítulos de "La Casa de Papel"](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-31) | [My Subs](https://my-subs.com/versions-2402-1-1-la-casa-de-papel-subtitles) | [Análisis subtítulos Rick & Morty](https://pacha.hk/blog/2017/10/13/rick-and-morty-and-tidy-data-principles-part-1/)
+| 18 | `2019-08-07` | [Reporte de Felicidad Mundial](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-08-07) | [World Happiness Report 2019](https://worldhappiness.report/ed/2019/) | [Mapas Puntaje de Felicidad](https://datosmacro.expansion.com/demografia/indice-felicidad)|
+| 19 | `2019-08-14` | [Índice de Libertad Humana](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-08-14) | [The Human Freedom Index](https://www.cato.org/human-freedom-index-new) | [Libertad Humana en el mundo](https://imco.org.mx/temas/indice-libertad-mundo-2019-via-freedom-house/) |
+| 20 | `2019-08-21` | [Emisiones de CO2](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-08-21) | [Banco mundial](https://data.world/makeovermonday/2019w22) | [Make over Monday](https://www.makeovermonday.co.uk/week-22-2019/) |
+
+
 
 ***
 

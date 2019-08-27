@@ -1,0 +1,1459 @@
+anio,codigo_iso,pais,region,libertad_humana_puntaje,libertad_humana_ranking,libertad_personal_puntaje,libertad_personal_ranking,libertad_economica_puntaje,libertad_economica_ranking
+2016,ALB,Albania,Europa del Este,7.57,48,7.6,57,7.54,34
+2016,DZA,Algeria,Oriente Medio y Norte de África,5.14,155,5.28,147,4.99,159
+2016,AGO,Angola,África Subsahariana,5.64,142,6.11,117,5.17,155
+2016,ARG,Argentina,Latinoamérica y el Caribe,6.47,107,8.1,42,4.84,160
+2016,ARM,Armenia,Cáucaso y Asia Central,7.24,57,6.91,84,7.57,29
+2016,AUS,Australia,Oceanía,8.58,4,9.18,11,7.98,10
+2016,AUT,Austria,Europa Occidental,8.41,16,9.25,8,7.58,27
+2016,AZE,Azerbaiyán,Cáucaso y Asia Central,6.08,130,5.68,131,6.49,106
+2016,BHS,Bahamas,Latinoamérica y el Caribe,7.4,50,7.45,64,7.34,49
+2016,BHR,Bahrain,Oriente Medio y Norte de África,6.85,75,6.14,114,7.56,30
+2016,BGD,Bangladesh,Sur de Asia,5.8,138,5.3,146,6.3,120
+2016,BRD,Barbados,Latinoamérica y el Caribe,7.07,67,7.71,54,6.43,111
+2016,BLR,Bielorrusia,Europa del Este,6.14,128,6.06,120,6.23,123
+2016,BEL,Bélgica,Europa Occidental,8.15,27,8.99,19,7.32,52
+2016,BLZ,Belize,Latinoamérica y el Caribe,7.15,64,7.43,66,6.86,83
+2016,BEN,Benin,África Subsahariana,6.74,90,7.5,61,5.98,134
+2016,BTN,Bhutan,Sur de Asia,6.81,83,6.6,96,7.02,73
+2016,BOL,Bolivia,Latinoamérica y el Caribe,6.72,92,7.21,73,6.23,123
+2016,BIH,Bosnia y Herzegovina,Europa del Este,7.23,59,7.86,47,6.6,98
+2016,BWA,Botswana,África Subsahariana,7.15,64,6.88,86,7.43,44
+2016,BRA,Brasil,Latinoamérica y el Caribe,6.21,123,6.67,94,5.75,144
+2016,BRN,Brunei Darussalam,Sur de Asia,5.8,138,4.66,153,6.93,77
+2016,BGR,Bulgaria,Europa del Este,7.78,41,8.16,41,7.41,46
+2016,BFA,Burkina Faso,África Subsahariana,6.75,88,7.46,63,6.05,129
+2016,BDI,Burundi,África Subsahariana,5.17,154,4.41,156,5.92,138
+2016,KHM,Cambodia,Sur de Asia,7.2,61,7.24,72,7.17,64
+2016,CMR,Camerún,África Subsahariana,5.58,144,5.33,142,5.82,141
+2016,CAN,Canadá,Norteamérica,8.57,5,9.15,12,7.98,10
+2016,CPV,Cabo Verde,África Subsahariana,7.33,53,7.99,44,6.68,93
+2016,CAF,República Central Africana,África Subsahariana,5.29,152,5.47,138,5.11,156
+2016,TCD,Chad,África Subsahariana,5.47,147,5.51,136,5.44,150
+2016,CHL,Chile,Latinoamérica y el Caribe,8.01,32,8.22,39,7.8,15
+2016,CHN,China,Asia Oriental,5.91,135,5.35,141,6.46,108
+2016,COL,Colombia,Latinoamérica y el Caribe,6.76,87,7.02,79,6.5,105
+2016,COD,República Democrática del Congo,África Subsahariana,5.31,151,4.95,152,5.67,148
+2016,COG,República del Congo,África Subsahariana,5.9,136,6.78,90,5.02,157
+2016,CRI,Costa Rica,Latinoamérica y el Caribe,7.86,37,8.17,40,7.55,33
+2016,CIV,Cote d'Ivoire,África Subsahariana,6.53,100,7.06,75,6,132
+2016,HRV,Croacia,Europa del Este,7.71,44,8.46,35,6.96,75
+2016,CYP,Chipre,Europa del Este,8.11,30,8.51,34,7.71,18
+2016,CZE,República Checa,Europa del Este,8.29,21,9.03,16,7.56,30
+2016,DNK,Dinamarca,Europa Occidental,8.55,6,9.33,4,7.77,16
+2016,DOM,República Dominicana,Latinoamérica y el Caribe,7.06,69,6.94,81,7.18,62
+2016,ECU,Ecuador,Latinoamérica y el Caribe,6.81,83,7.55,59,6.06,127
+2016,EGY,Egipto,Oriente Medio y Norte de África,4.81,156,3.89,158,5.72,147
+2016,SLV,El Salvador,Latinoamérica y el Caribe,7.03,70,6.92,83,7.15,67
+2016,EST,Estonia,Europa del Este,8.44,14,9.01,17,7.86,13
+2016,ETH,Etiopía,África Subsahariana,5.4,150,5.06,150,5.73,146
+2016,FJI,Fiji,Oceanía,7.29,55,7.79,49,6.79,88
+2016,FIN,Finlandia,Europa Occidental,8.47,10,9.29,5,7.65,22
+2016,FRA,Francia,Europa Occidental,8.01,32,8.77,25,7.25,57
+2016,GAB,Gabón,África Subsahariana,5.58,144,5.32,144,5.84,140
+2016,GMB,Gambia,África Subsahariana,6.32,115,5.3,145,7.34,49
+2016,GEO,Georgia,Cáucaso y Asia Central,7.8,40,7.58,58,8.02,7
+2016,DEU,Alemania,Europa Occidental,8.46,13,9.24,9,7.69,20
+2016,GHA,Ghana,África Subsahariana,7.24,57,7.87,46,6.6,98
+2016,GRC,Grecia,Europa del Este,7.2,61,7.95,45,6.46,108
+2016,GTM,Guatemala,Latinoamérica y el Caribe,7.09,66,6.55,99,7.64,23
+2016,GIN,Guinea,África Subsahariana,5.65,141,5.37,140,5.93,137
+2016,GNB,Guinea-Bissau,África Subsahariana,6.05,133,6.86,87,5.25,154
+2016,GUY,Guyana,Latinoamérica y el Caribe,6.68,96,7.04,78,6.31,119
+2016,HTI,Haití,Latinoamérica y el Caribe,6.85,75,7.18,74,6.51,104
+2016,HND,Honduras,Latinoamérica y el Caribe,6.72,92,6.39,107,7.06,70
+2016,HKG,Hong Kong,Asia Oriental,8.78,3,8.58,32,8.97,1
+2016,HUN,Hungría,Europa del Este,7.74,42,8.26,38,7.22,59
+2016,ISL,Islandia,Europa Occidental,8.15,27,9.08,13,7.22,59
+2016,IND,India,Sur de Asia,6.41,110,6.2,112,6.63,96
+2016,IDN,Indonesia,Sur de Asia,6.77,85,6.38,108,7.16,65
+2016,IRN,Iran,Oriente Medio y Norte de África,5.28,153,4.53,154,6.03,130
+2016,IRQ,Irak,Oriente Medio y Norte de África,4.26,159,3.12,160,5.4,152
+2016,IRL,Irlanda,Europa Occidental,8.5,8,8.94,21,8.07,5
+2016,ISR,Israel,Oriente Medio y Norte de África,7.52,49,7.54,60,7.49,38
+2016,ITA,Italia,Europa Occidental,7.98,34,8.69,30,7.27,54
+2016,JAM,Jamaica,Latinoamérica y el Caribe,7.22,60,7.27,70,7.18,62
+2016,JPN,Japón,Asia Oriental,8.1,31,8.73,29,7.47,41
+2016,JOR,Jordania,Oriente Medio y Norte de África,6.85,75,6.24,111,7.46,42
+2016,KAZ,Kasajistán,Cáucaso y Asia Central,6.74,90,6.38,109,7.11,69
+2016,KEN,Kenia,África Subsahariana,6.82,82,6.45,102,7.2,61
+2016,KOR,Korea,Asia Oriental,8.15,27,8.77,26,7.53,35
+2016,KWT,Kuwait,Oriente Medio y Norte de África,6.19,124,5.63,133,6.75,90
+2016,KGZ,Kirguistán,Cáucaso y Asia Central,6.59,99,6.25,110,6.93,77
+2016,LAO,Laos,Sur de Asia,6.39,113,5.86,127,6.91,81
+2016,LVA,Latvia,Europa del Este,8.25,23,8.85,22,7.64,23
+2016,LBN,Líbano,Oriente Medio y Norte de África,6.71,95,6.43,104,6.99,74
+2016,LSO,Lesotho,África Subsahariana,6.53,100,6.69,93,6.38,114
+2016,LBR,Liberia,África Subsahariana,6.48,106,6.4,105,6.56,100
+2016,LBY,Libia,Oriente Medio y Norte de África,4.31,158,3.88,159,4.74,161
+2016,LTU,Lituania,Europa del Este,8.34,20,8.82,24,7.86,13
+2016,LUX,Luxemburgo,Europa Occidental,8.43,15,9.26,7,7.6,25
+2016,MKD,Macedonia,Europa del Este,7.27,56,7.41,67,7.13,68
+2016,MDG,Madagascar,África Subsahariana,6.51,103,6.84,88,6.19,126
+2016,MWI,Malawi,África Subsahariana,6.65,97,7.45,65,5.86,139
+2016,MYS,Malasia,Sur de Asia,6.41,110,5.9,126,6.92,79
+2016,MLI,Mali,África Subsahariana,5.93,134,6.06,119,5.8,143
+2016,MLT,Malta,Europa Occidental,8.35,19,8.98,20,7.73,17
+2016,MRT,Mauritania,África Subsahariana,5.47,147,4.99,151,5.96,136
+2016,MUS,Mauritius,África Subsahariana,7.86,37,7.72,52,8.01,8
+2016,MEX,México,Latinoamérica y el Caribe,6.85,75,6.8,89,6.9,82
+2016,MDA,Moldova,Europa del Este,6.85,75,7.06,76,6.64,95
+2016,MNG,Mongolia,Asia Oriental,7.7,45,8,43,7.4,48
+2016,MNE,Montenegro,Europa del Este,7.34,52,7.63,56,7.04,72
+2016,MAR,Marruecos,Oriente Medio y Norte de África,6.18,127,5.99,124,6.37,115
+2016,MOZ,Mozambique,África Subsahariana,6.08,130,6.66,95,5.5,149
+2016,MMR,Myanmar,Sur de Asia,5.44,149,5.46,139,5.42,151
+2016,NAM,Namibia,África Subsahariana,6.9,74,7.39,68,6.4,113
+2016,NPL,Nepal,Sur de Asia,6.72,92,6.91,85,6.53,102
+2016,NLD,Países Bajos,Europa Occidental,8.55,6,9.4,1,7.71,18
+2016,NZL,Nueva Zelanda,Oceanía,8.89,1,9.28,6,8.49,3
+2016,NIC,Nicaragua,Latinoamérica y el Caribe,6.85,75,6.43,103,7.27,54
+2016,NER,Nigeria,África Subsahariana,5.86,137,5.71,129,6.01,131
+2016,NGA,Nigeria,África Subsahariana,6.07,132,5.82,128,6.32,118
+2016,NOR,Noruega,Europa Occidental,8.47,10,9.34,2,7.6,25
+2016,OMN,Omán,Oriente Medio y Norte de África,6.13,129,5.51,137,6.76,89
+2016,PAK,Pakistán,Sur de Asia,5.66,140,5.32,143,6,132
+2016,PAN,Panamá,Latinoamérica y el Caribe,7.65,46,7.72,53,7.58,27
+2016,PNG,Papúa Nueva Guinea,Oceanía,6.75,88,7.25,71,6.25,122
+2016,PRY,Paraguay,Latinoamérica y el Caribe,6.96,72,6.97,80,6.95,76
+2016,PER,Perú,Latinoamérica y el Caribe,7.58,47,7.72,51,7.43,44
+2016,PHL,Filipinas,Sur de Asia,6.92,73,6.5,100,7.34,49
+2016,POL,Polonia,Europa del Este,7.81,39,8.35,36,7.27,54
+2016,PRT,Portugal,Europa Occidental,8.28,22,9.04,14,7.51,36
+2016,QAT,Qatar,Oriente Medio y Norte de África,6.51,103,5.53,134,7.49,38
+2016,ROU,Rumania,Europa del Este,8.17,24,8.65,31,7.69,20
+2016,RUS,Rusia,Europa del Este,6.27,119,5.71,130,6.83,87
+2016,RWA,Ruanda,África Subsahariana,6.97,71,6.47,101,7.48,40
+2016,SAU,Arabia Saudita,Oriente Medio y Norte de África,5.48,146,4.44,155,6.52,103
+2016,SEN,Senegal,África Subsahariana,6.5,105,6.77,91,6.22,125
+2016,SRB,Serbia,Europa del Este,7.35,51,7.85,48,6.85,84
+2016,SYC,Seychelles,África Subsahariana,7.3,54,7.37,69,7.23,58
+2016,SLE,Sierra Leona,África Subsahariana,6.4,112,7.04,77,5.75,144
+2016,SGP,Singapur,Sur de Asia,8.16,25,7.48,62,8.84,2
+2016,SVK,Eslovaquia,Europa del Este,7.92,36,8.54,33,7.3,53
+2016,SVN,Eslovenia,Europa del Este,7.94,35,8.82,23,7.05,71
+2016,ZAF,Sudáfrica,África Subsahariana,7.17,63,7.7,55,6.65,94
+2016,ESP,España,Europa Occidental,8.16,25,8.76,27,7.56,30
+2016,LKA,Sri Lanka,Sur de Asia,6.27,119,6.04,121,6.49,106
+2016,SDN,Sudán,África Subsahariana,4.8,157,4.25,157,5.36,153
+2016,SUR,Surinam,Latinoamérica y el Caribe,7.07,67,7.79,50,6.36,116
+2016,SWZ,Suazilandia,África Subsahariana,6.24,122,6.02,122,6.46,108
+2016,SWE,Suecia,Europa Occidental,8.39,17,9.33,3,7.44,43
+2016,CHE,Suiza,Europa Occidental,8.79,2,9.19,10,8.39,4
+2016,SYR,Siria,Oriente Medio y Norte de África,3.77,162,2.51,161,5.02,157
+2016,TWN,Taiwán,Asia Oriental,8.47,10,9.04,15,7.89,12
+2016,TJK,Tayikistán,Cáucaso y Asia Central,6.19,124,5.65,132,6.72,92
+2016,TZA,Tanzania,África Subsahariana,6.52,102,6.13,116,6.92,79
+2016,THA,Tailandia,Sur de Asia,6.62,98,6.4,106,6.85,84
+2016,TLS,Timor-Leste,Sur de Asia,6.37,114,6.19,113,6.55,101
+2016,TGO,Togo,África Subsahariana,6.27,119,6.73,92,5.82,141
+2016,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.83,81,6.92,82,6.73,91
+2016,TUN,Túnez,Oriente Medio y Norte de África,6.43,109,6.58,98,6.29,121
+2016,TUR,Turquía,Oriente Medio y Norte de África,6.47,107,6.09,118,6.84,86
+2016,UGA,Uganda,África Subsahariana,6.77,85,6.13,115,7.41,46
+2016,UKR,Ucrania,Europa del Este,6.28,118,6.59,97,5.98,134
+2016,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.29,117,5.07,149,7.5,37
+2016,GBR,Reino Unido,Europa Occidental,8.5,8,9,18,8,9
+2016,USA,Estados Unidos,Norteamérica,8.39,17,8.75,28,8.03,6
+2016,URY,Uruguay,Latinoamérica y el Caribe,7.73,43,8.3,37,7.16,65
+2016,VEN,Venezuela,Latinoamérica y el Caribe,4.2,161,5.52,135,2.88,162
+2016,VNM,Vietnam,Sur de Asia,6.19,124,5.97,125,6.42,112
+2016,YEM,Yemen,Oriente Medio y Norte de África,4.25,160,2.17,162,6.34,117
+2016,ZMB,Zambia,África Subsahariana,6.31,116,6.01,123,6.61,97
+2016,ZWE,Zimbabue,África Subsahariana,5.62,143,5.17,148,6.06,127
+2015,ALB,Albania,Europa del Este,7.56,49,7.59,61,7.53,34
+2015,DZA,Algeria,Oriente Medio y Norte de África,5.08,152,5.34,142,4.83,156
+2015,AGO,Angola,África Subsahariana,5.79,137,6.13,114,5.44,148
+2015,ARG,Argentina,Latinoamérica y el Caribe,6.5,107,8.03,45,4.98,153
+2015,ARM,Armenia,Cáucaso y Asia Central,7.23,63,6.87,87,7.59,29
+2015,AUS,Australia,Oceanía,8.61,5,9.21,11,8,8
+2015,AUT,Austria,Europa Occidental,8.51,12,9.38,3,7.64,27
+2015,AZE,Azerbaiyán,Cáucaso y Asia Central,5.97,131,5.55,137,6.38,115
+2015,BHS,Bahamas,Latinoamérica y el Caribe,7.43,52,7.5,63,7.35,50
+2015,BHR,Bahrain,Oriente Medio y Norte de África,6.74,85,6.12,118,7.37,48
+2015,BGD,Bangladesh,Sur de Asia,5.81,136,5.29,145,6.33,117
+2015,BRD,Barbados,Latinoamérica y el Caribe,7.16,64,7.82,50,6.5,107
+2015,BLR,Bielorrusia,Europa del Este,NA,NA,NA,NA,NA,NA
+2015,BEL,Bélgica,Europa Occidental,8.31,21,9.19,12,7.43,43
+2015,BLZ,Belize,Latinoamérica y el Caribe,6.95,73,7.09,77,6.81,85
+2015,BEN,Benin,África Subsahariana,6.68,94,7.58,62,5.78,134
+2015,BTN,Bhutan,Sur de Asia,6.89,76,6.66,97,7.11,70
+2015,BOL,Bolivia,Latinoamérica y el Caribe,6.7,92,7.35,68,6.05,126
+2015,BIH,Bosnia y Herzegovina,Europa del Este,7.32,55,8,46,6.63,96
+2015,BWA,Botswana,África Subsahariana,7.07,69,6.79,91,7.35,50
+2015,BRA,Brasil,Latinoamérica y el Caribe,6.23,119,6.7,93,5.75,140
+2015,BRN,Brunei Darussalam,Sur de Asia,5.69,138,4.61,152,6.77,88
+2015,BGR,Bulgaria,Europa del Este,7.82,41,8.24,42,7.4,46
+2015,BFA,Burkina Faso,África Subsahariana,6.7,92,7.37,67,6.03,127
+2015,BDI,Burundi,África Subsahariana,5.06,153,4.24,155,5.87,131
+2015,KHM,Cambodia,Sur de Asia,7.26,58,7.31,70,7.2,64
+2015,CMR,Camerún,África Subsahariana,5.46,144,5.13,148,5.79,133
+2015,CAN,Canadá,Norteamérica,8.52,10,9.13,14,7.91,12
+2015,CPV,Cabo Verde,África Subsahariana,7.52,51,8.36,39,6.67,92
+2015,CAF,República Central Africana,África Subsahariana,5.12,151,5.62,130,4.63,158
+2015,TCD,Chad,África Subsahariana,5.43,146,5.63,128,5.23,152
+2015,CHL,Chile,Latinoamérica y el Caribe,8.03,32,8.27,40,7.79,14
+2015,CHN,China,Asia Oriental,5.88,133,5.37,141,6.39,113
+2015,COL,Colombia,Latinoamérica y el Caribe,6.73,86,6.91,85,6.55,103
+2015,COD,República Democrática del Congo,África Subsahariana,5.3,150,4.82,151,5.78,134
+2015,COG,República del Congo,África Subsahariana,5.84,134,6.86,88,4.81,157
+2015,CRI,Costa Rica,Latinoamérica y el Caribe,7.88,39,8.26,41,7.51,36
+2015,CIV,Cote d'Ivoire,África Subsahariana,6.44,111,6.95,81,5.93,129
+2015,HRV,Croacia,Europa del Este,7.78,43,8.52,36,7.04,73
+2015,CYP,Chipre,Europa del Este,8.18,28,8.67,32,7.69,22
+2015,CZE,República Checa,Europa del Este,8.26,24,9.04,20,7.49,37
+2015,DNK,Dinamarca,Europa Occidental,8.54,8,9.34,5,7.75,16
+2015,DOM,República Dominicana,Latinoamérica y el Caribe,7.13,65,7.02,79,7.24,61
+2015,ECU,Ecuador,Latinoamérica y el Caribe,6.77,83,7.45,66,6.09,124
+2015,EGY,Egipto,Oriente Medio y Norte de África,4.81,155,3.85,157,5.77,138
+2015,SLV,El Salvador,Latinoamérica y el Caribe,7.13,65,7.12,75,7.14,69
+2015,EST,Estonia,Europa del Este,8.45,16,8.96,21,7.93,10
+2015,ETH,Etiopía,África Subsahariana,5.35,148,5.16,146,5.55,147
+2015,FJI,Fiji,Oceanía,7.26,58,7.7,58,6.82,84
+2015,FIN,Finlandia,Europa Occidental,8.56,6,9.41,1,7.71,20
+2015,FRA,Francia,Europa Occidental,8,35,8.66,33,7.35,50
+2015,GAB,Gabón,África Subsahariana,5.55,143,5.32,143,5.78,134
+2015,GMB,Gambia,África Subsahariana,6.34,115,5.46,139,7.22,63
+2015,GEO,Georgia,Cáucaso y Asia Central,7.88,39,7.78,52,7.98,9
+2015,DEU,Alemania,Europa Occidental,8.48,13,9.29,8,7.67,24
+2015,GHA,Ghana,África Subsahariana,7.12,67,7.71,56,6.52,105
+2015,GRC,Grecia,Europa del Este,7.26,58,8.07,43,6.45,111
+2015,GTM,Guatemala,Latinoamérica y el Caribe,7.11,68,6.53,100,7.69,22
+2015,GIN,Guinea,África Subsahariana,5.65,140,5.56,136,5.74,141
+2015,GNB,Guinea-Bissau,África Subsahariana,6.21,120,6.83,90,5.58,146
+2015,GUY,Guyana,Latinoamérica y el Caribe,6.73,86,6.95,83,6.52,105
+2015,HTI,Haití,Latinoamérica y el Caribe,6.88,77,7.21,72,6.54,104
+2015,HND,Honduras,Latinoamérica y el Caribe,6.87,79,6.4,105,7.35,50
+2015,HKG,Hong Kong,Asia Oriental,8.86,2,8.75,28,8.97,1
+2015,HUN,Hungría,Europa del Este,7.82,41,8.44,37,7.19,65
+2015,ISL,Islandia,Europa Occidental,8.2,27,9.15,13,7.25,59
+2015,IND,India,Sur de Asia,6.41,114,6.2,112,6.61,98
+2015,IDN,Indonesia,Sur de Asia,6.71,90,6.43,103,7,75
+2015,IRN,Iran,Oriente Medio y Norte de África,4.95,154,4.49,153,5.4,149
+2015,IRQ,Irak,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2015,IRL,Irlanda,Europa Occidental,8.65,4,9.04,19,8.25,5
+2015,ISR,Israel,Oriente Medio y Norte de África,7.65,46,7.82,49,7.47,38
+2015,ITA,Italia,Europa Occidental,8.01,34,8.72,29,7.31,55
+2015,JAM,Jamaica,Latinoamérica y el Caribe,7.24,62,7.24,71,7.25,59
+2015,JPN,Japón,Asia Oriental,8.08,31,8.71,31,7.46,41
+2015,JOR,Jordania,Oriente Medio y Norte de África,6.88,77,6.29,109,7.47,38
+2015,KAZ,Kasajistán,Cáucaso y Asia Central,6.84,80,6.42,104,7.26,58
+2015,KEN,Kenia,África Subsahariana,6.72,89,6.32,108,7.11,70
+2015,KOR,Korea,Asia Oriental,8.17,30,8.8,27,7.55,32
+2015,KWT,Kuwait,Oriente Medio y Norte de África,6.02,129,5.46,140,6.59,101
+2015,KGZ,Kirguistán,Cáucaso y Asia Central,6.51,105,6.21,111,6.81,85
+2015,LAO,Laos,Sur de Asia,6.44,111,5.92,125,6.97,76
+2015,LVA,Latvia,Europa del Este,8.27,23,8.82,26,7.72,18
+2015,LBN,Líbano,Oriente Medio y Norte de África,6.56,102,6.12,119,7.01,74
+2015,LSO,Lesotho,África Subsahariana,6.59,101,6.68,95,6.49,109
+2015,LBR,Liberia,África Subsahariana,6.62,98,6.37,106,6.87,80
+2015,LBY,Libia,Oriente Medio y Norte de África,4.43,156,3.97,156,4.89,155
+2015,LTU,Lituania,Europa del Este,8.35,20,8.84,23,7.86,13
+2015,LUX,Luxemburgo,Europa Occidental,8.48,13,9.33,6,7.64,27
+2015,MKD,Macedonia,Europa del Este,7.32,55,7.47,64,7.16,66
+2015,MDG,Madagascar,África Subsahariana,6.6,100,6.89,86,6.31,119
+2015,MWI,Malawi,África Subsahariana,6.61,99,7.46,65,5.76,139
+2015,MYS,Malasia,Sur de Asia,6.56,102,5.97,124,7.15,67
+2015,MLI,Mali,África Subsahariana,5.9,132,5.97,123,5.82,132
+2015,MLT,Malta,Europa Occidental,8.38,18,9.04,17,7.72,18
+2015,MRT,Mauritania,África Subsahariana,5.37,147,5.04,150,5.7,143
+2015,MUS,Mauritius,África Subsahariana,7.9,38,7.78,51,8.02,6
+2015,MEX,México,Latinoamérica y el Caribe,6.9,75,6.91,84,6.88,79
+2015,MDA,Moldova,Europa del Este,6.84,80,7.1,76,6.57,102
+2015,MNG,Mongolia,Asia Oriental,7.71,45,8.04,44,7.38,47
+2015,MNE,Montenegro,Europa del Este,7.36,54,7.98,47,6.74,90
+2015,MAR,Marruecos,Oriente Medio y Norte de África,6.17,124,5.98,122,6.36,116
+2015,MOZ,Mozambique,África Subsahariana,6.2,122,6.78,92,5.63,145
+2015,MMR,Myanmar,Sur de Asia,5.45,145,5.58,135,5.32,151
+2015,NAM,Namibia,África Subsahariana,6.97,72,7.33,69,6.61,98
+2015,NPL,Nepal,Sur de Asia,6.73,86,6.95,82,6.5,107
+2015,NLD,Países Bajos,Europa Occidental,8.55,7,9.37,4,7.73,17
+2015,NZL,Nueva Zelanda,Oceanía,8.88,1,9.27,9,8.48,3
+2015,NIC,Nicaragua,Latinoamérica y el Caribe,6.82,82,6.36,107,7.27,57
+2015,NER,Nigeria,África Subsahariana,5.67,139,5.6,132,5.74,141
+2015,NGA,Nigeria,África Subsahariana,6.01,130,5.63,129,6.39,113
+2015,NOR,Noruega,Europa Occidental,8.52,10,9.39,2,7.65,25
+2015,OMN,Omán,Oriente Medio y Norte de África,6.12,127,5.59,134,6.64,95
+2015,PAK,Pakistán,Sur de Asia,5.61,141,5.3,144,5.92,130
+2015,PAN,Panamá,Latinoamérica y el Caribe,7.64,47,7.71,57,7.57,30
+2015,PNG,Papúa Nueva Guinea,Oceanía,6.68,94,7.19,73,6.17,122
+2015,PRY,Paraguay,Latinoamérica y el Caribe,6.95,73,7,80,6.91,78
+2015,PER,Perú,Latinoamérica y el Caribe,7.62,48,7.76,53,7.47,38
+2015,PHL,Filipinas,Sur de Asia,7.05,71,6.68,96,7.43,43
+2015,POL,Polonia,Europa del Este,7.99,36,8.62,34,7.36,49
+2015,PRT,Portugal,Europa Occidental,8.3,22,9.04,18,7.55,32
+2015,QAT,Qatar,Oriente Medio y Norte de África,6.51,105,5.59,133,7.43,43
+2015,ROU,Rumania,Europa del Este,8.21,26,8.71,30,7.7,21
+2015,RUS,Rusia,Europa del Este,6.17,124,5.69,127,6.65,93
+2015,RWA,Ruanda,África Subsahariana,7.06,70,6.55,99,7.56,31
+2015,SAU,Arabia Saudita,Oriente Medio y Norte de África,5.32,149,4.4,154,6.24,121
+2015,SEN,Senegal,África Subsahariana,6.5,107,6.84,89,6.15,123
+2015,SRB,Serbia,Europa del Este,7.37,53,7.98,48,6.76,89
+2015,SYC,Seychelles,África Subsahariana,7.54,50,7.75,55,7.33,54
+2015,SLE,Sierra Leona,África Subsahariana,6.48,109,7.18,74,5.78,134
+2015,SGP,Singapur,Sur de Asia,8.23,25,7.61,60,8.84,2
+2015,SVK,Eslovaquia,Europa del Este,7.92,37,8.6,35,7.24,61
+2015,SVN,Eslovenia,Europa del Este,8.02,33,8.96,22,7.08,72
+2015,ZAF,Sudáfrica,África Subsahariana,7.26,58,7.67,59,6.84,82
+2015,ESP,España,Europa Occidental,8.18,28,8.82,25,7.53,34
+2015,LKA,Sri Lanka,Sur de Asia,6.33,116,6.04,120,6.63,96
+2015,SDN,Sudán,África Subsahariana,NA,NA,NA,NA,NA,NA
+2015,SUR,Surinam,Latinoamérica y el Caribe,7.3,57,7.75,54,6.85,81
+2015,SWZ,Suazilandia,África Subsahariana,6.28,117,6.13,115,6.44,112
+2015,SWE,Suecia,Europa Occidental,8.48,13,9.32,7,7.65,25
+2015,CHE,Suiza,Europa Occidental,8.81,3,9.26,10,8.37,4
+2015,SYR,Siria,Oriente Medio y Norte de África,3.91,159,2.86,158,4.96,154
+2015,TWN,Taiwán,Asia Oriental,8.41,17,9.05,15,7.76,15
+2015,TJK,Tayikistán,Cáucaso y Asia Central,6.21,120,5.76,126,6.65,93
+2015,TZA,Tanzania,África Subsahariana,6.56,102,6.19,113,6.92,77
+2015,THA,Tailandia,Sur de Asia,6.63,97,6.45,102,6.8,87
+2015,TLS,Timor-Leste,Sur de Asia,6.11,128,5.61,131,6.6,100
+2015,TGO,Togo,África Subsahariana,6.2,122,6.7,94,5.69,144
+2015,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.76,84,7.04,78,6.48,110
+2015,TUN,Túnez,Oriente Medio y Norte de África,6.47,110,6.6,98,6.33,117
+2015,TUR,Turquía,Oriente Medio y Norte de África,6.66,96,6.47,101,6.84,82
+2015,UGA,Uganda,África Subsahariana,6.71,90,6.12,117,7.3,56
+2015,UKR,Ucrania,Europa del Este,5.84,134,6.29,110,5.4,149
+2015,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.28,117,5.1,149,7.45,42
+2015,GBR,Reino Unido,Europa Occidental,8.53,9,9.05,16,8.01,7
+2015,USA,Estados Unidos,Norteamérica,8.38,18,8.83,24,7.93,10
+2015,URY,Uruguay,Latinoamérica y el Caribe,7.77,44,8.39,38,7.15,67
+2015,VEN,Venezuela,Latinoamérica y el Caribe,4.24,157,5.52,138,2.96,159
+2015,VNM,Vietnam,Sur de Asia,6.16,126,6.01,121,6.3,120
+2015,YEM,Yemen,Oriente Medio y Norte de África,4.2,158,2.34,159,6.07,125
+2015,ZMB,Zambia,África Subsahariana,6.43,113,6.13,116,6.74,90
+2015,ZWE,Zimbabue,África Subsahariana,5.58,142,5.16,147,6.01,128
+2014,ALB,Albania,Europa del Este,7.62,47,7.75,53,7.48,38
+2014,DZA,Algeria,Oriente Medio y Norte de África,5.19,152,5.38,143,5.01,152
+2014,AGO,Angola,África Subsahariana,5.62,141,6.11,117,5.13,151
+2014,ARG,Argentina,Latinoamérica y el Caribe,6.21,124,7.92,48,4.49,158
+2014,ARM,Armenia,Cáucaso y Asia Central,7.31,56,6.92,88,7.7,23
+2014,AUS,Australia,Oceanía,8.67,5,9.32,7,8.02,7
+2014,AUT,Austria,Europa Occidental,8.53,10,9.38,4,7.68,24
+2014,AZE,Azerbaiyán,Cáucaso y Asia Central,6.11,129,5.82,130,6.4,115
+2014,BHS,Bahamas,Latinoamérica y el Caribe,7.37,55,7.42,63,7.32,55
+2014,BHR,Bahrain,Oriente Medio y Norte de África,6.67,94,5.99,121,7.36,49
+2014,BGD,Bangladesh,Sur de Asia,5.9,134,5.49,141,6.3,119
+2014,BRD,Barbados,Latinoamérica y el Caribe,7.26,60,7.88,49,6.63,100
+2014,BLR,Bielorrusia,Europa del Este,NA,NA,NA,NA,NA,NA
+2014,BEL,Bélgica,Europa Occidental,8.35,17,9.1,15,7.59,31
+2014,BLZ,Belize,Latinoamérica y el Caribe,6.94,76,6.98,81,6.9,82
+2014,BEN,Benin,África Subsahariana,6.75,90,7.56,57,5.94,130
+2014,BTN,Bhutan,Sur de Asia,6.86,82,6.72,92,6.99,77
+2014,BOL,Bolivia,Latinoamérica y el Caribe,6.78,86,7.34,67,6.21,124
+2014,BIH,Bosnia y Herzegovina,Europa del Este,7.41,53,8.04,46,6.78,89
+2014,BWA,Botswana,África Subsahariana,7.02,70,6.8,90,7.24,62
+2014,BRA,Brasil,Latinoamérica y el Caribe,6.44,114,6.96,83,5.93,132
+2014,BRN,Brunei Darussalam,Sur de Asia,5.78,137,4.68,153,6.89,83
+2014,BGR,Bulgaria,Europa del Este,7.85,42,8.33,40,7.37,48
+2014,BFA,Burkina Faso,África Subsahariana,6.67,94,7.31,69,6.02,126
+2014,BDI,Burundi,África Subsahariana,5.3,151,4.64,154,5.97,129
+2014,KHM,Cambodia,Sur de Asia,7.24,61,7.33,68,7.16,68
+2014,CMR,Camerún,África Subsahariana,5.72,139,5.54,139,5.9,134
+2014,CAN,Canadá,Norteamérica,8.72,4,9.22,12,8.22,5
+2014,CPV,Cabo Verde,África Subsahariana,7.28,58,8.01,47,6.56,107
+2014,CAF,República Central Africana,África Subsahariana,5.31,150,5.45,142,5.16,150
+2014,TCD,Chad,África Subsahariana,5.48,144,5.99,120,4.97,153
+2014,CHL,Chile,Latinoamérica y el Caribe,8.02,35,8.2,41,7.84,12
+2014,CHN,China,Asia Oriental,5.95,133,5.52,140,6.38,116
+2014,COL,Colombia,Latinoamérica y el Caribe,6.76,88,6.95,86,6.58,104
+2014,COD,República Democrática del Congo,África Subsahariana,5.03,154,4.83,151,5.23,149
+2014,COG,República del Congo,África Subsahariana,5.73,138,6.77,91,4.69,157
+2014,CRI,Costa Rica,Latinoamérica y el Caribe,8.06,33,8.62,36,7.5,37
+2014,CIV,Cote d'Ivoire,África Subsahariana,6.49,111,6.97,82,6,127
+2014,HRV,Croacia,Europa del Este,7.74,43,8.48,38,7,76
+2014,CYP,Chipre,Europa del Este,8.02,35,8.7,34,7.33,54
+2014,CZE,República Checa,Europa del Este,8.24,25,9.02,17,7.46,40
+2014,DNK,Dinamarca,Europa Occidental,8.61,7,9.41,3,7.81,13
+2014,DOM,República Dominicana,Latinoamérica y el Caribe,7.28,58,7.29,70,7.26,59
+2014,ECU,Ecuador,Latinoamérica y el Caribe,6.52,107,7.39,65,5.66,142
+2014,EGY,Egipto,Oriente Medio y Norte de África,5.04,153,4.3,155,5.78,139
+2014,SLV,El Salvador,Latinoamérica y el Caribe,7.42,52,7.49,59,7.35,52
+2014,EST,Estonia,Europa del Este,8.4,16,9,18,7.79,17
+2014,ETH,Etiopía,África Subsahariana,5.32,149,5.18,148,5.46,146
+2014,FJI,Fiji,Oceanía,7.05,67,7.48,60,6.63,100
+2014,FIN,Finlandia,Europa Occidental,8.64,6,9.49,2,7.79,17
+2014,FRA,Francia,Europa Occidental,8.15,30,8.93,21,7.36,49
+2014,GAB,Gabón,África Subsahariana,5.4,147,5.23,147,5.57,145
+2014,GMB,Gambia,África Subsahariana,6.56,105,5.78,132,7.35,52
+2014,GEO,Georgia,Cáucaso y Asia Central,7.9,41,7.77,52,8.02,7
+2014,DEU,Alemania,Europa Occidental,8.49,12,9.3,9,7.67,26
+2014,GHA,Ghana,África Subsahariana,7.14,65,7.87,50,6.41,114
+2014,GRC,Grecia,Europa del Este,7.48,50,8.14,42,6.81,88
+2014,GTM,Guatemala,Latinoamérica y el Caribe,7.3,57,6.95,84,7.65,27
+2014,GIN,Guinea,África Subsahariana,5.49,143,5.37,144,5.62,144
+2014,GNB,Guinea-Bissau,África Subsahariana,6,132,6.66,96,5.35,148
+2014,GUY,Guyana,Latinoamérica y el Caribe,6.58,102,6.95,87,6.21,124
+2014,HTI,Haití,Latinoamérica y el Caribe,7.03,68,7.47,61,6.58,104
+2014,HND,Honduras,Latinoamérica y el Caribe,6.91,79,6.55,103,7.26,59
+2014,HKG,Hong Kong,Asia Oriental,8.89,2,8.78,29,9,1
+2014,HUN,Hungría,Europa del Este,7.96,39,8.57,37,7.36,49
+2014,ISL,Islandia,Europa Occidental,8.24,25,9.25,11,7.23,64
+2014,IND,India,Sur de Asia,6.25,121,6.28,111,6.23,122
+2014,IDN,Indonesia,Sur de Asia,6.71,92,6.4,107,7.02,74
+2014,IRN,Iran,Oriente Medio y Norte de África,4.56,157,4.23,156,4.89,155
+2014,IRQ,Irak,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2014,IRL,Irlanda,Europa Occidental,8.46,14,8.8,27,8.12,6
+2014,ISR,Israel,Oriente Medio y Norte de África,7.46,51,7.46,62,7.45,42
+2014,ITA,Italia,Europa Occidental,7.98,37,8.7,33,7.25,61
+2014,JAM,Jamaica,Latinoamérica y el Caribe,7.24,61,7.36,66,7.13,70
+2014,JPN,Japón,Asia Oriental,8.15,30,8.77,30,7.52,36
+2014,JOR,Jordania,Oriente Medio y Norte de África,6.92,77,6.3,110,7.54,34
+2014,KAZ,Kasajistán,Cáucaso y Asia Central,6.85,83,6.47,105,7.23,64
+2014,KEN,Kenia,África Subsahariana,6.66,97,6.21,113,7.1,71
+2014,KOR,Korea,Asia Oriental,8.2,28,8.86,24,7.55,33
+2014,KWT,Kuwait,Oriente Medio y Norte de África,6.26,120,5.75,134,6.77,91
+2014,KGZ,Kirguistán,Cáucaso y Asia Central,6.61,100,6.25,112,6.96,80
+2014,LAO,Laos,Sur de Asia,6.45,113,5.97,123,6.92,81
+2014,LVA,Latvia,Europa del Este,8.26,24,8.71,32,7.81,13
+2014,LBN,Líbano,Oriente Medio y Norte de África,6.58,102,6.18,114,6.98,79
+2014,LSO,Lesotho,África Subsahariana,6.52,107,6.56,102,6.47,110
+2014,LBR,Liberia,África Subsahariana,6.82,85,6.46,106,7.18,66
+2014,LBY,Libia,Oriente Medio y Norte de África,4.51,158,4.22,157,4.81,156
+2014,LTU,Lituania,Europa del Este,8.32,20,8.73,31,7.91,10
+2014,LUX,Luxemburgo,Europa Occidental,8.57,8,9.36,6,7.78,19
+2014,MKD,Macedonia,Europa del Este,7.19,63,7.14,76,7.24,62
+2014,MDG,Madagascar,África Subsahariana,6.83,84,7.22,74,6.44,113
+2014,MWI,Malawi,África Subsahariana,6.67,94,7.41,64,5.94,130
+2014,MYS,Malasia,Sur de Asia,6.47,112,5.84,129,7.1,71
+2014,MLI,Mali,África Subsahariana,5.83,135,5.85,128,5.81,136
+2014,MLT,Malta,Europa Occidental,8.34,18,8.87,23,7.8,16
+2014,MRT,Mauritania,África Subsahariana,5.4,147,5.13,149,5.68,141
+2014,MUS,Mauritius,África Subsahariana,7.93,40,7.84,51,8.02,7
+2014,MEX,México,Latinoamérica y el Caribe,6.92,77,6.99,80,6.85,87
+2014,MDA,Moldova,Europa del Este,6.89,81,7.13,77,6.65,99
+2014,MNG,Mongolia,Asia Oriental,7.71,45,8.1,44,7.32,55
+2014,MNE,Montenegro,Europa del Este,7.64,46,8.1,43,7.17,67
+2014,MAR,Marruecos,Oriente Medio y Norte de África,6.18,126,6.09,118,6.28,120
+2014,MOZ,Mozambique,África Subsahariana,6.23,122,6.71,93,5.75,140
+2014,MMR,Myanmar,Sur de Asia,5.58,142,5.8,131,5.36,147
+2014,NAM,Namibia,África Subsahariana,7,72,7.26,73,6.75,93
+2014,NPL,Nepal,Sur de Asia,6.77,87,7.09,78,6.45,112
+2014,NLD,Países Bajos,Europa Occidental,8.48,13,9.21,13,7.74,21
+2014,NZL,Nueva Zelanda,Oceanía,8.92,1,9.36,5,8.48,3
+2014,NIC,Nicaragua,Latinoamérica y el Caribe,6.97,74,6.65,98,7.3,58
+2014,NER,Nigeria,África Subsahariana,5.83,135,5.88,126,5.79,137
+2014,NGA,Nigeria,África Subsahariana,6.05,130,5.72,135,6.38,116
+2014,NOR,Noruega,Europa Occidental,8.57,8,9.53,1,7.62,28
+2014,OMN,Omán,Oriente Medio y Norte de África,6.38,116,5.71,136,7.05,73
+2014,PAK,Pakistán,Sur de Asia,5.47,145,5.05,150,5.89,135
+2014,PAN,Panamá,Latinoamérica y el Caribe,7.58,48,7.69,54,7.48,38
+2014,PNG,Papúa Nueva Guinea,Oceanía,6.62,99,6.95,85,6.28,120
+2014,PRY,Paraguay,Latinoamérica y el Caribe,7.03,68,7.18,75,6.87,84
+2014,PER,Perú,Latinoamérica y el Caribe,7.55,49,7.57,56,7.53,35
+2014,PHL,Filipinas,Sur de Asia,7,72,6.61,100,7.4,47
+2014,POL,Polonia,Europa del Este,8.13,32,8.83,26,7.43,45
+2014,PRT,Portugal,Europa Occidental,8.31,22,9.03,16,7.6,30
+2014,QAT,Qatar,Oriente Medio y Norte de África,6.68,93,5.68,137,7.68,24
+2014,ROU,Rumania,Europa del Este,8.32,20,8.9,22,7.74,21
+2014,RUS,Rusia,Europa del Este,6.28,119,5.97,122,6.59,103
+2014,RWA,Ruanda,África Subsahariana,6.95,75,6.48,104,7.43,45
+2014,SAU,Arabia Saudita,Oriente Medio y Norte de África,5.64,140,4.72,152,6.55,108
+2014,SEN,Senegal,África Subsahariana,6.52,107,6.81,89,6.23,122
+2014,SRB,Serbia,Europa del Este,7.39,54,8.06,45,6.71,96
+2014,SYC,Seychelles,África Subsahariana,7.06,66,6.65,97,7.46,40
+2014,SLE,Sierra Leona,África Subsahariana,6.64,98,7.29,71,6,127
+2014,SGP,Singapur,Sur de Asia,8.21,27,7.59,55,8.84,2
+2014,SVK,Eslovaquia,Europa del Este,8.05,34,8.66,35,7.44,44
+2014,SVN,Eslovenia,Europa del Este,7.97,38,8.94,20,7.01,75
+2014,ZAF,Sudáfrica,África Subsahariana,7.18,64,7.5,58,6.87,84
+2014,ESP,España,Europa Occidental,8.2,28,8.94,19,7.45,42
+2014,LKA,Sri Lanka,Sur de Asia,6.17,127,5.75,133,6.58,104
+2014,SDN,Sudán,África Subsahariana,NA,NA,NA,NA,NA,NA
+2014,SUR,Surinam,Latinoamérica y el Caribe,7.02,70,7.26,72,6.78,89
+2014,SWZ,Suazilandia,África Subsahariana,6.21,124,5.95,125,6.47,110
+2014,SWE,Suecia,Europa Occidental,8.44,15,9.25,10,7.62,28
+2014,CHE,Suiza,Europa Occidental,8.81,3,9.3,8,8.31,4
+2014,SYR,Siria,Oriente Medio y Norte de África,4.02,159,3.08,158,4.97,153
+2014,TWN,Taiwán,Asia Oriental,8.27,23,8.79,28,7.76,20
+2014,TJK,Tayikistán,Cáucaso y Asia Central,6.32,118,5.97,124,6.68,97
+2014,TZA,Tanzania,África Subsahariana,6.56,105,6.36,108,6.76,92
+2014,THA,Tailandia,Sur de Asia,6.59,101,6.57,101,6.62,102
+2014,TLS,Timor-Leste,Sur de Asia,6.5,110,6.32,109,6.68,97
+2014,TGO,Togo,África Subsahariana,6.23,122,6.67,94,5.79,137
+2014,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.9,80,7.06,79,6.75,93
+2014,TUN,Túnez,Oriente Medio y Norte de África,6.57,104,6.67,95,6.48,109
+2014,TUR,Turquía,Oriente Medio y Norte de África,6.76,88,6.64,99,6.87,84
+2014,UGA,Uganda,África Subsahariana,6.73,91,6.16,116,7.31,57
+2014,UKR,Ucrania,Europa del Este,6.04,131,6.16,115,5.91,133
+2014,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.42,115,5.28,146,7.56,32
+2014,GBR,Reino Unido,Europa Occidental,8.53,10,9.16,14,7.91,10
+2014,USA,Estados Unidos,Norteamérica,8.33,19,8.85,25,7.81,13
+2014,URY,Uruguay,Latinoamérica y el Caribe,7.74,43,8.33,39,7.14,69
+2014,VEN,Venezuela,Latinoamérica y el Caribe,4.57,156,5.87,127,3.28,159
+2014,VNM,Vietnam,Sur de Asia,6.17,127,6.02,119,6.32,118
+2014,YEM,Yemen,Oriente Medio y Norte de África,4.63,155,2.52,159,6.74,95
+2014,ZMB,Zambia,África Subsahariana,6.33,117,5.67,138,6.99,77
+2014,ZWE,Zimbabue,África Subsahariana,5.47,145,5.31,145,5.63,143
+2013,ALB,Albania,Europa del Este,7.39,53,7.51,61,7.27,53
+2013,DZA,Algeria,Oriente Medio y Norte de África,5.09,151,5.15,147,5.04,150
+2013,AGO,Angola,África Subsahariana,5.99,133,6.74,95,5.25,148
+2013,ARG,Argentina,Latinoamérica y el Caribe,6.57,106,8.26,41,4.88,153
+2013,ARM,Armenia,Cáucaso y Asia Central,7.4,52,7.1,82,7.69,17
+2013,AUS,Australia,Oceanía,8.54,8,9.17,13,7.92,9
+2013,AUT,Austria,Europa Occidental,8.48,11,9.32,4,7.63,25
+2013,AZE,Azerbaiyán,Cáucaso y Asia Central,6.09,129,5.97,127,6.2,123
+2013,BHS,Bahamas,Latinoamérica y el Caribe,7.37,54,7.42,65,7.33,48
+2013,BHR,Bahrain,Oriente Medio y Norte de África,6.54,109,5.74,138,7.33,48
+2013,BGD,Bangladesh,Sur de Asia,5.83,137,5.29,145,6.37,113
+2013,BRD,Barbados,Latinoamérica y el Caribe,7.29,57,7.9,51,6.68,92
+2013,BLR,Bielorrusia,Europa del Este,NA,NA,NA,NA,NA,NA
+2013,BEL,Bélgica,Europa Occidental,8.21,22,9.04,16,7.37,42
+2013,BLZ,Belize,Latinoamérica y el Caribe,7.09,68,7.14,79,7.03,72
+2013,BEN,Benin,África Subsahariana,6.91,79,7.38,69,6.44,108
+2013,BTN,Bhutan,Sur de Asia,6.87,83,6.82,91,6.93,80
+2013,BOL,Bolivia,Latinoamérica y el Caribe,7.02,71,7.65,56,6.4,110
+2013,BIH,Bosnia y Herzegovina,Europa del Este,7.31,55,8.01,47,6.61,100
+2013,BWA,Botswana,África Subsahariana,6.89,80,6.52,103,7.27,53
+2013,BRA,Brasil,Latinoamérica y el Caribe,6.73,97,7.4,67,6.05,127
+2013,BRN,Brunei Darussalam,Sur de Asia,6.35,120,5.94,129,6.75,89
+2013,BGR,Bulgaria,Europa del Este,7.84,41,8.35,39,7.33,48
+2013,BFA,Burkina Faso,África Subsahariana,6.83,86,7.7,55,5.96,131
+2013,BDI,Burundi,África Subsahariana,6.16,127,6.36,109,5.96,131
+2013,KHM,Cambodia,Sur de Asia,7.18,61,7.19,77,7.17,63
+2013,CMR,Camerún,África Subsahariana,6.09,129,6.22,115,5.95,133
+2013,CAN,Canadá,Norteamérica,8.63,4,9.23,8,8.03,7
+2013,CPV,Cabo Verde,África Subsahariana,7.31,55,8.01,48,6.62,98
+2013,CAF,República Central Africana,África Subsahariana,5.3,148,4.89,150,5.71,139
+2013,TCD,Chad,África Subsahariana,5.28,149,5.56,141,4.99,152
+2013,CHL,Chile,Latinoamérica y el Caribe,7.99,34,8.11,43,7.88,10
+2013,CHN,China,Asia Oriental,6.06,132,5.74,139,6.39,111
+2013,COL,Colombia,Latinoamérica y el Caribe,6.57,106,6.47,105,6.67,94
+2013,COD,República Democrática del Congo,África Subsahariana,4.91,153,4.46,153,5.36,145
+2013,COG,República del Congo,África Subsahariana,5.66,141,6.78,94,4.55,155
+2013,CRI,Costa Rica,Latinoamérica y el Caribe,7.86,39,8.23,42,7.48,35
+2013,CIV,Cote d'Ivoire,África Subsahariana,6.29,123,6.68,98,5.9,136
+2013,HRV,Croacia,Europa del Este,7.69,44,8.48,38,6.9,81
+2013,CYP,Chipre,Europa del Este,7.85,40,8.63,34,7.07,70
+2013,CZE,República Checa,Europa del Este,8.24,18,9.11,14,7.37,42
+2013,DNK,Dinamarca,Europa Occidental,8.6,5,9.52,2,7.68,18
+2013,DOM,República Dominicana,Latinoamérica y el Caribe,7.18,61,7.11,81,7.24,57
+2013,ECU,Ecuador,Latinoamérica y el Caribe,6.75,92,7.63,59,5.88,137
+2013,EGY,Egipto,Oriente Medio y Norte de África,5.35,146,4.7,152,6.01,130
+2013,SLV,El Salvador,Latinoamérica y el Caribe,7.2,60,7.21,75,7.2,60
+2013,EST,Estonia,Europa del Este,8.34,16,8.97,19,7.7,15
+2013,ETH,Etiopía,África Subsahariana,5.69,140,5.86,134,5.53,143
+2013,FJI,Fiji,Oceanía,6.86,84,7.28,74,6.44,108
+2013,FIN,Finlandia,Europa Occidental,8.58,6,9.46,3,7.7,15
+2013,FRA,Francia,Europa Occidental,8,33,8.77,25,7.23,59
+2013,GAB,Gabón,África Subsahariana,5.8,138,6.19,117,5.42,144
+2013,GMB,Gambia,África Subsahariana,6.62,102,5.93,131,7.32,51
+2013,GEO,Georgia,Cáucaso y Asia Central,7.81,43,7.76,53,7.87,11
+2013,DEU,Alemania,Europa Occidental,8.44,12,9.22,9,7.66,21
+2013,GHA,Ghana,África Subsahariana,7.23,58,7.92,50,6.55,104
+2013,GRC,Grecia,Europa del Este,7.49,50,8.09,45,6.88,82
+2013,GTM,Guatemala,Latinoamérica y el Caribe,7.14,64,6.62,101,7.66,21
+2013,GIN,Guinea,África Subsahariana,5.77,139,5.88,133,5.65,141
+2013,GNB,Guinea-Bissau,África Subsahariana,5.63,142,6.19,119,5.07,149
+2013,GUY,Guyana,Latinoamérica y el Caribe,6.84,85,7.63,57,6.04,129
+2013,HTI,Haití,Latinoamérica y el Caribe,6.74,94,7.12,80,6.36,116
+2013,HND,Honduras,Latinoamérica y el Caribe,6.54,109,5.96,128,7.13,65
+2013,HKG,Hong Kong,Asia Oriental,8.97,1,8.98,18,8.96,1
+2013,HUN,Hungría,Europa del Este,7.95,37,8.56,36,7.34,46
+2013,ISL,Islandia,Europa Occidental,8.13,27,9.25,7,7.02,73
+2013,IND,India,Sur de Asia,6.66,101,6.97,86,6.36,116
+2013,IDN,Indonesia,Sur de Asia,6.97,75,6.93,87,7.01,74
+2013,IRN,Iran,Oriente Medio y Norte de África,4.56,156,4.09,156,5.04,150
+2013,IRQ,Irak,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2013,IRL,Irlanda,Europa Occidental,8.53,9,9.02,17,8.04,6
+2013,ISR,Israel,Oriente Medio y Norte de África,7.64,45,7.86,52,7.42,37
+2013,ITA,Italia,Europa Occidental,7.98,35,8.76,26,7.19,61
+2013,JAM,Jamaica,Latinoamérica y el Caribe,7.23,58,7.17,78,7.3,52
+2013,JPN,Japón,Asia Oriental,8.2,23,8.85,24,7.54,30
+2013,JOR,Jordania,Oriente Medio y Norte de África,6.89,80,6.12,122,7.65,24
+2013,KAZ,Kasajistán,Cáucaso y Asia Central,6.74,94,6.35,111,7.13,65
+2013,KEN,Kenia,África Subsahariana,6.73,97,6.35,110,7.12,67
+2013,KOR,Korea,Asia Oriental,8.01,31,8.67,31,7.36,44
+2013,KWT,Kuwait,Oriente Medio y Norte de África,6.51,112,6.19,118,6.84,85
+2013,KGZ,Kirguistán,Cáucaso y Asia Central,6.45,115,6.15,120,6.76,88
+2013,LAO,Laos,Sur de Asia,NA,NA,NA,NA,NA,NA
+2013,LVA,Latvia,Europa del Este,8.22,20,8.75,28,7.68,18
+2013,LBN,Líbano,Oriente Medio y Norte de África,6.52,111,6.07,125,6.97,76
+2013,LSO,Lesotho,África Subsahariana,6.38,119,6.44,107,6.32,121
+2013,LBR,Liberia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2013,LBY,Libia,Oriente Medio y Norte de África,4.89,154,5,149,4.78,154
+2013,LTU,Lituania,Europa del Este,8.2,23,8.67,30,7.72,13
+2013,LUX,Luxemburgo,Europa Occidental,8.4,13,9.19,11,7.61,28
+2013,MKD,Macedonia,Europa del Este,7.57,47,7.94,49,7.19,61
+2013,MDG,Madagascar,África Subsahariana,6.83,86,7.07,83,6.6,102
+2013,MWI,Malawi,África Subsahariana,6.72,99,7.51,60,5.92,135
+2013,MYS,Malasia,Sur de Asia,6.6,104,6.13,121,7.07,70
+2013,MLI,Mali,África Subsahariana,5.96,134,5.97,126,5.95,133
+2013,MLT,Malta,Europa Occidental,8.3,17,8.93,20,7.66,21
+2013,MRT,Mauritania,África Subsahariana,5.47,143,5.35,144,5.6,142
+2013,MUS,Mauritius,África Subsahariana,8.23,19,8.34,40,8.12,5
+2013,MEX,México,Latinoamérica y el Caribe,6.78,89,6.79,93,6.77,86
+2013,MDA,Moldova,Europa del Este,7,72,7.45,63,6.55,104
+2013,MNG,Mongolia,Asia Oriental,7.64,45,8.11,44,7.17,63
+2013,MNE,Montenegro,Europa del Este,7.57,47,8.05,46,7.08,68
+2013,MAR,Marruecos,Oriente Medio y Norte de África,6.31,121,6.24,114,6.37,113
+2013,MOZ,Mozambique,África Subsahariana,6.41,117,7.05,85,5.78,138
+2013,MMR,Myanmar,Sur de Asia,5.19,150,5.03,148,5.35,146
+2013,NAM,Namibia,África Subsahariana,7,72,7.38,68,6.63,97
+2013,NPL,Nepal,Sur de Asia,6.89,80,7.41,66,6.36,116
+2013,NLD,Países Bajos,Europa Occidental,8.4,13,9.19,12,7.62,27
+2013,NZL,Nueva Zelanda,Oceanía,8.87,2,9.26,6,8.48,3
+2013,NIC,Nicaragua,Latinoamérica y el Caribe,7.11,67,6.88,90,7.34,46
+2013,NER,Nigeria,África Subsahariana,5.95,135,6.22,116,5.69,140
+2013,NGA,Nigeria,África Subsahariana,5.92,136,5.45,142,6.39,111
+2013,NOR,Noruega,Europa Occidental,8.58,6,9.56,1,7.6,29
+2013,OMN,Omán,Oriente Medio y Norte de África,6.39,118,5.79,137,6.98,75
+2013,PAK,Pakistán,Sur de Asia,5.47,143,4.79,151,6.14,125
+2013,PAN,Panamá,Latinoamérica y el Caribe,7.55,49,7.72,54,7.38,39
+2013,PNG,Papúa Nueva Guinea,Oceanía,6.93,77,6.9,88,6.96,77
+2013,PRY,Paraguay,Latinoamérica y el Caribe,7.12,66,7.29,72,6.95,78
+2013,PER,Perú,Latinoamérica y el Caribe,7.49,50,7.45,64,7.52,33
+2013,PHL,Filipinas,Sur de Asia,6.8,88,6.07,124,7.54,30
+2013,POL,Polonia,Europa del Este,8.07,29,8.89,23,7.25,56
+2013,PRT,Portugal,Europa Occidental,8.22,20,8.93,21,7.52,33
+2013,QAT,Qatar,Oriente Medio y Norte de África,6.61,103,5.69,140,7.54,30
+2013,ROU,Rumania,Europa del Este,8.12,28,8.62,35,7.63,25
+2013,RUS,Rusia,Europa del Este,6.44,116,6.27,112,6.62,98
+2013,RWA,Ruanda,África Subsahariana,6.96,76,6.52,102,7.4,38
+2013,SAU,Arabia Saudita,Oriente Medio y Norte de África,5.46,145,4.36,154,6.55,104
+2013,SEN,Senegal,África Subsahariana,6.47,113,6.74,96,6.2,123
+2013,SRB,Serbia,Europa del Este,7.15,63,7.63,58,6.68,92
+2013,SYC,Seychelles,África Subsahariana,7.03,70,6.81,92,7.24,57
+2013,SLE,Sierra Leona,África Subsahariana,6.25,124,6.38,108,6.12,126
+2013,SGP,Singapur,Sur de Asia,7.97,36,7.3,71,8.64,2
+2013,SVK,Eslovaquia,Europa del Este,8.07,29,8.76,27,7.38,39
+2013,SVN,Eslovenia,Europa del Este,7.84,41,8.92,22,6.75,89
+2013,ZAF,Sudáfrica,África Subsahariana,7.14,64,7.2,76,7.08,68
+2013,ESP,España,Europa Occidental,8.01,31,8.66,32,7.35,45
+2013,LKA,Sri Lanka,Sur de Asia,6.24,125,5.83,136,6.64,95
+2013,SDN,Sudán,África Subsahariana,NA,NA,NA,NA,NA,NA
+2013,SUR,Surinam,Latinoamérica y el Caribe,7,72,7.29,73,6.72,91
+2013,SWZ,Suazilandia,África Subsahariana,6.2,126,5.84,135,6.56,103
+2013,SWE,Suecia,Europa Occidental,8.36,15,9.27,5,7.44,36
+2013,CHE,Suiza,Europa Occidental,8.72,3,9.21,10,8.22,4
+2013,SYR,Siria,Oriente Medio y Norte de África,4.1,157,4.12,155,4.07,156
+2013,TWN,Taiwán,Asia Oriental,8.2,23,8.68,29,7.72,13
+2013,TJK,Tayikistán,Cáucaso y Asia Central,6.59,105,6.63,100,6.55,104
+2013,TZA,Tanzania,África Subsahariana,6.76,91,6.67,99,6.85,84
+2013,THA,Tailandia,Sur de Asia,6.75,92,6.88,89,6.61,100
+2013,TLS,Timor-Leste,Sur de Asia,6.57,106,6.49,104,6.64,95
+2013,TGO,Togo,África Subsahariana,6.09,129,5.94,130,6.25,122
+2013,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.92,78,7.07,84,6.77,86
+2013,TUN,Túnez,Oriente Medio y Norte de África,6.14,128,5.93,132,6.35,119
+2013,TUR,Turquía,Oriente Medio y Norte de África,7.09,68,7.32,70,6.86,83
+2013,UGA,Uganda,África Subsahariana,6.74,94,6.1,123,7.38,39
+2013,UKR,Ucrania,Europa del Este,6.77,90,7.49,62,6.05,127
+2013,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.46,114,5.24,146,7.68,18
+2013,GBR,Reino Unido,Europa Occidental,8.51,10,9.07,15,7.96,8
+2013,USA,Estados Unidos,Norteamérica,8.19,26,8.63,33,7.74,12
+2013,URY,Uruguay,Latinoamérica y el Caribe,7.88,38,8.49,37,7.26,55
+2013,VEN,Venezuela,Latinoamérica y el Caribe,5.01,152,6.71,97,3.32,157
+2013,VNM,Vietnam,Sur de Asia,6.31,121,6.25,113,6.37,113
+2013,YEM,Yemen,Oriente Medio y Norte de África,4.81,155,3.3,157,6.33,120
+2013,ZMB,Zambia,África Subsahariana,6.7,100,6.44,106,6.95,78
+2013,ZWE,Zimbabue,África Subsahariana,5.35,146,5.4,143,5.3,147
+2012,ALB,Albania,Europa del Este,7.44,54,7.67,56,7.2,59
+2012,DZA,Algeria,Oriente Medio y Norte de África,5.1,146,5.24,141,4.95,149
+2012,AGO,Angola,África Subsahariana,5.83,133,6.38,105,5.28,141
+2012,ARG,Argentina,Latinoamérica y el Caribe,6.57,102,8.1,46,5.04,146
+2012,ARM,Armenia,Cáucaso y Asia Central,7.56,50,7.37,67,7.75,13
+2012,AUS,Australia,Oceanía,8.56,7,9.16,12,7.96,8
+2012,AUT,Austria,Europa Occidental,8.44,12,9.27,7,7.62,21
+2012,AZE,Azerbaiyán,Cáucaso y Asia Central,6.16,123,6,125,6.32,113
+2012,BHS,Bahamas,Latinoamérica y el Caribe,7.58,48,7.85,51,7.31,50
+2012,BHR,Bahrain,Oriente Medio y Norte de África,6.59,99,5.85,129,7.33,46
+2012,BGD,Bangladesh,Sur de Asia,5.86,132,5.48,138,6.24,116
+2012,BRD,Barbados,Latinoamérica y el Caribe,7.35,56,8.04,48,6.67,92
+2012,BLR,Bielorrusia,Europa del Este,NA,NA,NA,NA,NA,NA
+2012,BEL,Bélgica,Europa Occidental,8.19,23,9.03,16,7.35,42
+2012,BLZ,Belize,Latinoamérica y el Caribe,7.18,58,7.23,73,7.13,64
+2012,BEN,Benin,África Subsahariana,6.42,112,7.1,81,5.74,134
+2012,BTN,Bhutan,Sur de Asia,NA,NA,NA,NA,NA,NA
+2012,BOL,Bolivia,Latinoamérica y el Caribe,6.99,75,7.6,61,6.38,110
+2012,BIH,Bosnia y Herzegovina,Europa del Este,7.33,57,7.87,50,6.79,85
+2012,BWA,Botswana,África Subsahariana,6.83,84,6.41,103,7.25,55
+2012,BRA,Brasil,Latinoamérica y el Caribe,6.83,84,7.42,65,6.24,116
+2012,BRN,Brunei Darussalam,Sur de Asia,6.83,84,6.59,95,7.07,67
+2012,BGR,Bulgaria,Europa del Este,7.82,42,8.27,42,7.37,39
+2012,BFA,Burkina Faso,África Subsahariana,6.63,98,7.44,64,5.81,133
+2012,BDI,Burundi,África Subsahariana,5.62,138,6.03,123,5.22,143
+2012,KHM,Cambodia,Sur de Asia,7.13,60,7.34,69,6.92,77
+2012,CMR,Camerún,África Subsahariana,6.09,125,6.13,119,6.05,126
+2012,CAN,Canadá,Norteamérica,8.6,5,9.21,8,7.99,6
+2012,CPV,Cabo Verde,África Subsahariana,7.38,55,8.2,45,6.56,101
+2012,CAF,República Central Africana,África Subsahariana,4.83,150,4.73,148,4.93,150
+2012,TCD,Chad,África Subsahariana,5.13,145,5.55,135,4.72,151
+2012,CHL,Chile,Latinoamérica y el Caribe,8.22,22,8.63,32,7.81,11
+2012,CHN,China,Asia Oriental,6,127,5.64,134,6.37,111
+2012,COL,Colombia,Latinoamérica y el Caribe,6.56,103,6.4,104,6.72,89
+2012,COD,República Democrática del Congo,África Subsahariana,4.81,151,4.42,150,5.2,144
+2012,COG,República del Congo,África Subsahariana,5.33,143,6.28,112,4.39,152
+2012,CRI,Costa Rica,Latinoamérica y el Caribe,7.89,40,8.25,44,7.53,28
+2012,CIV,Cote d'Ivoire,África Subsahariana,5.96,129,6.27,115,5.64,136
+2012,HRV,Croacia,Europa del Este,7.68,44,8.42,41,6.93,75
+2012,CYP,Chipre,Europa del Este,7.99,35,8.51,40,7.47,32
+2012,CZE,República Checa,Europa del Este,8.23,21,9.03,17,7.42,36
+2012,DNK,Dinamarca,Europa Occidental,8.52,8,9.49,2,7.56,24
+2012,DOM,República Dominicana,Latinoamérica y el Caribe,7.03,69,7.03,83,7.03,69
+2012,ECU,Ecuador,Latinoamérica y el Caribe,6.68,94,7.33,71,6.03,127
+2012,EGY,Egipto,Oriente Medio y Norte de África,5.67,137,5.2,143,6.14,124
+2012,SLV,El Salvador,Latinoamérica y el Caribe,7.14,59,7.2,75,7.09,65
+2012,EST,Estonia,Europa del Este,8.32,16,8.97,19,7.68,17
+2012,ETH,Etiopía,África Subsahariana,5.54,139,5.51,136,5.58,137
+2012,FJI,Fiji,Oceanía,7.09,63,7.35,68,6.84,82
+2012,FIN,Finlandia,Europa Occidental,8.63,4,9.44,4,7.81,11
+2012,FRA,Francia,Europa Occidental,8.01,33,8.75,26,7.27,53
+2012,GAB,Gabón,África Subsahariana,5.73,135,6.09,121,5.37,139
+2012,GMB,Gambia,África Subsahariana,6.48,109,6.08,122,6.87,80
+2012,GEO,Georgia,Cáucaso y Asia Central,7.56,50,7.38,66,7.75,13
+2012,DEU,Alemania,Europa Occidental,8.42,13,9.21,9,7.64,19
+2012,GHA,Ghana,África Subsahariana,7.03,69,7.63,57,6.44,105
+2012,GRC,Grecia,Europa del Este,7.63,46,8.6,34,6.67,92
+2012,GTM,Guatemala,Latinoamérica y el Caribe,7,73,6.58,96,7.41,37
+2012,GIN,Guinea,África Subsahariana,NA,NA,NA,NA,NA,NA
+2012,GNB,Guinea-Bissau,África Subsahariana,5.96,129,5.95,126,5.96,130
+2012,GUY,Guyana,Latinoamérica y el Caribe,7.01,71,7.71,54,6.3,114
+2012,HTI,Haití,Latinoamérica y el Caribe,6.52,105,7.05,82,6,128
+2012,HND,Honduras,Latinoamérica y el Caribe,6.52,105,5.88,128,7.16,61
+2012,HKG,Hong Kong,Asia Oriental,9,1,9.04,14,8.96,1
+2012,HUN,Hungría,Europa del Este,7.93,38,8.53,37,7.33,46
+2012,ISL,Islandia,Europa Occidental,8.11,28,9.27,6,6.94,74
+2012,IND,India,Sur de Asia,6.87,83,7.2,74,6.54,103
+2012,IDN,Indonesia,Sur de Asia,6.88,80,6.92,87,6.84,82
+2012,IRN,Iran,Oriente Medio y Norte de África,4.44,153,3.92,152,4.96,148
+2012,IRQ,Irak,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2012,IRL,Irlanda,Europa Occidental,8.48,9,8.99,18,7.98,7
+2012,ISR,Israel,Oriente Medio y Norte de África,7.57,49,7.77,52,7.36,40
+2012,ITA,Italia,Europa Occidental,7.97,36,8.73,27,7.22,58
+2012,JAM,Jamaica,Latinoamérica y el Caribe,7.06,67,6.98,86,7.14,62
+2012,JPN,Japón,Asia Oriental,8.27,18,8.89,23,7.66,18
+2012,JOR,Jordania,Oriente Medio y Norte de África,6.89,78,6.21,117,7.56,24
+2012,KAZ,Kasajistán,Cáucaso y Asia Central,6.76,89,6.38,107,7.14,62
+2012,KEN,Kenia,África Subsahariana,6.72,92,6.34,108,7.09,65
+2012,KOR,Korea,Asia Oriental,8.06,31,8.66,31,7.45,35
+2012,KWT,Kuwait,Oriente Medio y Norte de África,6.51,108,6.1,120,6.93,75
+2012,KGZ,Kirguistán,Cáucaso y Asia Central,6.47,111,6.27,116,6.67,92
+2012,LAO,Laos,Sur de Asia,NA,NA,NA,NA,NA,NA
+2012,LVA,Latvia,Europa del Este,8.14,24,8.72,28,7.56,24
+2012,LBN,Líbano,Oriente Medio y Norte de África,6.67,95,6.38,106,6.96,73
+2012,LSO,Lesotho,África Subsahariana,6.33,118,6.47,100,6.19,120
+2012,LBR,Liberia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2012,LBY,Libia,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2012,LTU,Lituania,Europa del Este,8.1,29,8.68,30,7.52,29
+2012,LUX,Luxemburgo,Europa Occidental,8.31,17,9.17,10,7.46,34
+2012,MKD,Macedonia,Europa del Este,7.75,43,8.26,43,7.23,57
+2012,MDG,Madagascar,África Subsahariana,6.75,90,7.01,84,6.48,104
+2012,MWI,Malawi,África Subsahariana,6.89,78,7.6,60,6.18,121
+2012,MYS,Malasia,Sur de Asia,6.56,103,6.28,113,6.85,81
+2012,MLI,Mali,África Subsahariana,5.97,128,5.94,127,5.99,129
+2012,MLT,Malta,Europa Occidental,8.24,20,8.84,24,7.63,20
+2012,MRT,Mauritania,África Subsahariana,5.75,134,5.83,130,5.68,135
+2012,MUS,Mauritius,África Subsahariana,8.37,14,8.58,35,8.15,5
+2012,MEX,México,Latinoamérica y el Caribe,6.67,95,6.64,93,6.71,90
+2012,MDA,Moldova,Europa del Este,7.05,68,7.46,63,6.64,96
+2012,MNG,Mongolia,Asia Oriental,7.52,53,8.02,49,7.02,70
+2012,MNE,Montenegro,Europa del Este,7.66,45,8.08,47,7.25,55
+2012,MAR,Marruecos,Oriente Medio y Norte de África,6.38,114,6.41,102,6.34,112
+2012,MOZ,Mozambique,África Subsahariana,6.34,117,6.74,89,5.93,131
+2012,MMR,Myanmar,Sur de Asia,5.05,148,5.1,145,5,147
+2012,NAM,Namibia,África Subsahariana,6.97,76,7.15,80,6.79,85
+2012,NPL,Nepal,Sur de Asia,6.7,93,7.27,72,6.12,125
+2012,NLD,Países Bajos,Europa Occidental,8.35,15,9.16,11,7.54,27
+2012,NZL,Nueva Zelanda,Oceanía,8.78,2,9.1,13,8.47,3
+2012,NIC,Nicaragua,Latinoamérica y el Caribe,7,73,6.64,92,7.36,40
+2012,NER,Nigeria,África Subsahariana,6.06,126,6.57,98,5.55,138
+2012,NGA,Nigeria,África Subsahariana,5.72,136,5.23,142,6.22,119
+2012,NOR,Noruega,Europa Occidental,8.57,6,9.57,1,7.58,22
+2012,OMN,Omán,Oriente Medio y Norte de África,6.42,112,5.81,131,7.04,68
+2012,PAK,Pakistán,Sur de Asia,5.54,139,4.93,146,6.15,123
+2012,PAN,Panamá,Latinoamérica y el Caribe,7.53,52,7.73,53,7.34,44
+2012,PNG,Papúa Nueva Guinea,Oceanía,6.59,99,6.28,114,6.91,78
+2012,PRY,Paraguay,Latinoamérica y el Caribe,7.11,62,7.34,70,6.89,79
+2012,PER,Perú,Latinoamérica y el Caribe,7.63,46,7.69,55,7.57,23
+2012,PHL,Filipinas,Sur de Asia,7.09,63,6.9,88,7.27,53
+2012,POL,Polonia,Europa del Este,8.12,26,8.91,22,7.32,48
+2012,PRT,Portugal,Europa Occidental,8.13,25,8.95,20,7.31,50
+2012,QAT,Qatar,Oriente Medio y Norte de África,6.38,114,5.25,140,7.5,30
+2012,ROU,Rumania,Europa del Este,8,34,8.52,38,7.47,32
+2012,RUS,Rusia,Europa del Este,6.48,109,6.3,110,6.65,95
+2012,RWA,Ruanda,África Subsahariana,6.82,87,6.32,109,7.32,48
+2012,SAU,Arabia Saudita,Oriente Medio y Norte de África,5.4,142,4.38,151,6.42,107
+2012,SEN,Senegal,África Subsahariana,6.17,122,6.43,101,5.9,132
+2012,SRB,Serbia,Europa del Este,7.01,71,7.47,62,6.55,102
+2012,SYC,Seychelles,África Subsahariana,NA,NA,NA,NA,NA,NA
+2012,SLE,Sierra Leona,África Subsahariana,6.15,124,6.02,124,6.27,115
+2012,SGP,Singapur,Sur de Asia,7.9,39,7.16,78,8.64,2
+2012,SVK,Eslovaquia,Europa del Este,8.07,30,8.76,25,7.38,38
+2012,SVN,Eslovenia,Europa del Este,7.88,41,8.91,21,6.84,82
+2012,ZAF,Sudáfrica,África Subsahariana,7.07,66,7.16,79,6.98,72
+2012,ESP,España,Europa Occidental,8.02,32,8.68,29,7.35,42
+2012,LKA,Sri Lanka,Sur de Asia,6.23,121,5.72,133,6.73,88
+2012,SDN,Sudán,África Subsahariana,NA,NA,NA,NA,NA,NA
+2012,SUR,Surinam,Latinoamérica y el Caribe,7.13,60,7.62,58,6.64,96
+2012,SWZ,Suazilandia,África Subsahariana,5.93,131,5.41,139,6.44,105
+2012,SWE,Suecia,Europa Occidental,8.46,11,9.45,3,7.48,31
+2012,CHE,Suiza,Europa Occidental,8.76,3,9.32,5,8.2,4
+2012,SYR,Siria,Oriente Medio y Norte de África,4.87,149,4.46,149,5.27,142
+2012,TWN,Taiwán,Asia Oriental,8.12,26,8.52,39,7.71,15
+2012,TJK,Tayikistán,Cáucaso y Asia Central,6.74,91,6.74,90,6.75,87
+2012,TZA,Tanzania,África Subsahariana,6.58,101,6.54,99,6.62,98
+2012,THA,Tailandia,Sur de Asia,6.88,80,7.19,77,6.58,100
+2012,TLS,Timor-Leste,Sur de Asia,6.67,95,6.64,91,6.69,91
+2012,TGO,Togo,África Subsahariana,5.42,141,5.5,137,5.33,140
+2012,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.79,88,6.99,85,6.6,99
+2012,TUN,Túnez,Oriente Medio y Norte de África,6.27,120,6.14,118,6.4,108
+2012,TUR,Turquía,Oriente Medio y Norte de África,7.09,63,7.19,76,6.99,71
+2012,UGA,Uganda,África Subsahariana,6.52,105,5.76,132,7.28,52
+2012,UKR,Ucrania,Europa del Este,6.93,77,7.61,59,6.24,116
+2012,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.29,119,4.87,147,7.71,15
+2012,GBR,Reino Unido,Europa Occidental,8.47,10,9.03,15,7.91,9
+2012,USA,Estados Unidos,Norteamérica,8.25,19,8.62,33,7.88,10
+2012,URY,Uruguay,Latinoamérica y el Caribe,7.96,37,8.58,36,7.34,44
+2012,VEN,Venezuela,Latinoamérica y el Caribe,5.23,144,6.63,94,3.82,153
+2012,VNM,Vietnam,Sur de Asia,6.35,116,6.29,111,6.4,108
+2012,YEM,Yemen,Oriente Medio y Norte de África,4.78,152,3.38,153,6.17,122
+2012,ZMB,Zambia,África Subsahariana,6.88,80,6.58,97,7.19,60
+2012,ZWE,Zimbabue,África Subsahariana,5.08,147,5.11,144,5.06,145
+2011,ALB,Albania,Europa del Este,7.5,53,7.76,54,7.24,52
+2011,DZA,Algeria,Oriente Medio y Norte de África,5.21,147,5.36,140,5.06,147
+2011,AGO,Angola,África Subsahariana,5.35,144,5.55,138,5.16,145
+2011,ARG,Argentina,Latinoamérica y el Caribe,6.86,87,8.13,47,5.58,140
+2011,ARM,Armenia,Cáucaso y Asia Central,7.56,51,7.41,71,7.71,14
+2011,AUS,Australia,Oceanía,8.6,6,9.18,12,8.01,6
+2011,AUT,Austria,Europa Occidental,8.41,13,9.18,13,7.65,21
+2011,AZE,Azerbaiyán,Cáucaso y Asia Central,6.12,124,6.09,125,6.15,125
+2011,BHS,Bahamas,Latinoamérica y el Caribe,7.63,49,7.94,51,7.32,46
+2011,BHR,Bahrain,Oriente Medio y Norte de África,6.8,91,6.1,124,7.49,30
+2011,BGD,Bangladesh,Sur de Asia,5.98,130,5.62,136,6.34,111
+2011,BRD,Barbados,Latinoamérica y el Caribe,7.33,57,8.03,48,6.63,98
+2011,BLR,Bielorrusia,Europa del Este,NA,NA,NA,NA,NA,NA
+2011,BEL,Bélgica,Europa Occidental,8.23,21,9.07,16,7.38,38
+2011,BLZ,Belize,Latinoamérica y el Caribe,7.26,58,7.4,73,7.12,65
+2011,BEN,Benin,África Subsahariana,6.59,107,7.17,82,6,129
+2011,BTN,Bhutan,Sur de Asia,NA,NA,NA,NA,NA,NA
+2011,BOL,Bolivia,Latinoamérica y el Caribe,6.94,79,7.56,61,6.31,114
+2011,BIH,Bosnia y Herzegovina,Europa del Este,7.35,56,7.99,49,6.7,91
+2011,BWA,Botswana,África Subsahariana,6.88,86,6.54,103,7.22,55
+2011,BRA,Brasil,Latinoamérica y el Caribe,7.04,69,7.63,60,6.45,108
+2011,BRN,Brunei Darussalam,Sur de Asia,6.79,93,6.66,98,6.92,77
+2011,BGR,Bulgaria,Europa del Este,7.86,41,8.36,42,7.37,40
+2011,BFA,Burkina Faso,África Subsahariana,6.75,95,7.55,62,5.95,130
+2011,BDI,Burundi,África Subsahariana,5.67,137,6.11,123,5.23,144
+2011,KHM,Cambodia,Sur de Asia,7.24,59,7.51,63,6.98,72
+2011,CMR,Camerún,África Subsahariana,6.08,127,6.13,122,6.03,128
+2011,CAN,Canadá,Norteamérica,8.61,5,9.27,7,7.95,7
+2011,CPV,Cabo Verde,África Subsahariana,7.39,55,8.25,45,6.53,105
+2011,CAF,República Central Africana,África Subsahariana,4.97,150,4.88,148,5.06,147
+2011,TCD,Chad,África Subsahariana,5.31,146,5.66,134,4.97,149
+2011,CHL,Chile,Latinoamérica y el Caribe,8.29,19,8.67,35,7.91,8
+2011,CHN,China,Asia Oriental,6.03,128,5.74,133,6.32,113
+2011,COL,Colombia,Latinoamérica y el Caribe,6.67,103,6.53,104,6.82,86
+2011,COD,República Democrática del Congo,África Subsahariana,5.04,149,4.8,150,5.28,143
+2011,COG,República del Congo,África Subsahariana,5.39,142,6.3,113,4.48,151
+2011,CRI,Costa Rica,Latinoamérica y el Caribe,7.92,40,8.27,44,7.57,25
+2011,CIV,Cote d'Ivoire,África Subsahariana,5.86,132,6.03,127,5.7,137
+2011,HRV,Croacia,Europa del Este,7.69,45,8.48,41,6.9,79
+2011,CYP,Chipre,Europa del Este,8.16,24,8.66,36,7.67,19
+2011,CZE,República Checa,Europa del Este,8.14,26,9.02,19,7.26,50
+2011,DNK,Dinamarca,Europa Occidental,8.59,7,9.47,2,7.71,14
+2011,DOM,República Dominicana,Latinoamérica y el Caribe,7.08,65,6.97,87,7.18,59
+2011,ECU,Ecuador,Latinoamérica y el Caribe,6.68,100,7.48,66,5.88,133
+2011,EGY,Egipto,Oriente Medio y Norte de África,5.74,136,5.29,142,6.18,122
+2011,SLV,El Salvador,Latinoamérica y el Caribe,6.99,75,6.84,89,7.14,62
+2011,EST,Estonia,Europa del Este,8.35,15,8.96,22,7.74,13
+2011,ETH,Etiopía,África Subsahariana,5.39,142,5.62,135,5.16,145
+2011,FJI,Fiji,Oceanía,7.2,61,7.36,75,7.04,68
+2011,FIN,Finlandia,Europa Occidental,8.67,4,9.48,1,7.87,10
+2011,FRA,Francia,Europa Occidental,8.05,34,8.76,28,7.33,45
+2011,GAB,Gabón,África Subsahariana,5.8,135,6.16,120,5.44,142
+2011,GMB,Gambia,África Subsahariana,6.62,105,6.19,118,7.04,68
+2011,GEO,Georgia,Cáucaso y Asia Central,7.55,52,7.46,69,7.64,22
+2011,DEU,Alemania,Europa Occidental,8.46,10,9.24,8,7.68,18
+2011,GHA,Ghana,África Subsahariana,7.2,61,7.65,59,6.76,89
+2011,GRC,Grecia,Europa del Este,7.71,44,8.73,31,6.69,93
+2011,GTM,Guatemala,Latinoamérica y el Caribe,6.9,84,6.57,101,7.22,55
+2011,GIN,Guinea,África Subsahariana,NA,NA,NA,NA,NA,NA
+2011,GNB,Guinea-Bissau,África Subsahariana,5.94,131,6.25,115,5.62,139
+2011,GUY,Guyana,Latinoamérica y el Caribe,7.08,65,7.85,53,6.31,114
+2011,HTI,Haití,Latinoamérica y el Caribe,6.74,97,7.19,81,6.29,116
+2011,HND,Honduras,Latinoamérica y el Caribe,6.68,100,6.07,126,7.28,48
+2011,HKG,Hong Kong,Asia Oriental,9.03,1,9.07,17,8.99,1
+2011,HUN,Hungría,Europa del Este,8.05,34,8.72,32,7.38,38
+2011,ISL,Islandia,Europa Occidental,8.08,31,9.3,6,6.86,82
+2011,IND,India,Sur de Asia,6.93,81,7.29,77,6.57,103
+2011,IDN,Indonesia,Sur de Asia,6.94,79,7.01,85,6.87,81
+2011,IRN,Iran,Oriente Medio y Norte de África,4.84,151,4.05,152,5.63,138
+2011,IRQ,Irak,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2011,IRL,Irlanda,Europa Occidental,8.45,12,9.06,18,7.83,11
+2011,ISR,Israel,Oriente Medio y Norte de África,7.64,47,7.94,52,7.35,41
+2011,ITA,Italia,Europa Occidental,7.98,38,8.75,29,7.22,55
+2011,JAM,Jamaica,Latinoamérica y el Caribe,7,74,7,86,7,71
+2011,JPN,Japón,Asia Oriental,8.19,22,8.9,23,7.49,30
+2011,JOR,Jordania,Oriente Medio y Norte de África,6.84,89,6.2,117,7.48,32
+2011,KAZ,Kasajistán,Cáucaso y Asia Central,6.68,100,6.39,109,6.97,73
+2011,KEN,Kenia,África Subsahariana,6.75,95,6.55,102,6.94,75
+2011,KOR,Korea,Asia Oriental,8.08,31,8.63,37,7.52,28
+2011,KWT,Kuwait,Oriente Medio y Norte de África,6.58,109,6.23,116,6.93,76
+2011,KGZ,Kirguistán,Cáucaso y Asia Central,6.41,114,6.19,119,6.62,99
+2011,LAO,Laos,Sur de Asia,NA,NA,NA,NA,NA,NA
+2011,LVA,Latvia,Europa del Este,8.07,33,8.8,26,7.34,42
+2011,LBN,Líbano,Oriente Medio y Norte de África,6.93,81,6.69,95,7.18,59
+2011,LSO,Lesotho,África Subsahariana,6.39,115,6.57,100,6.21,119
+2011,LBR,Liberia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2011,LBY,Libia,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2011,LTU,Lituania,Europa del Este,8.12,30,8.74,30,7.5,29
+2011,LUX,Luxemburgo,Europa Occidental,8.34,16,9.2,10,7.48,32
+2011,MKD,Macedonia,Europa del Este,7.73,43,8.35,43,7.11,67
+2011,MDG,Madagascar,África Subsahariana,6.79,93,7.37,74,6.21,119
+2011,MWI,Malawi,África Subsahariana,6.99,75,7.47,67,6.52,106
+2011,MYS,Malasia,Sur de Asia,6.67,103,6.49,105,6.86,82
+2011,MLI,Mali,África Subsahariana,6.09,126,6.27,114,5.92,131
+2011,MLT,Malta,Europa Occidental,8.34,16,9,20,7.67,19
+2011,MRT,Mauritania,África Subsahariana,5.83,134,5.88,130,5.78,135
+2011,MUS,Mauritius,África Subsahariana,8.32,18,8.58,39,8.05,5
+2011,MEX,México,Latinoamérica y el Caribe,6.72,98,6.76,92,6.68,94
+2011,MDA,Moldova,Europa del Este,7.08,65,7.46,68,6.7,91
+2011,MNG,Mongolia,Asia Oriental,7.58,50,7.98,50,7.17,61
+2011,MNE,Montenegro,Europa del Este,7.64,47,8.15,46,7.14,62
+2011,MAR,Marruecos,Oriente Medio y Norte de África,6.46,113,6.46,106,6.47,107
+2011,MOZ,Mozambique,África Subsahariana,6.33,118,6.88,88,5.77,136
+2011,MMR,Myanmar,Sur de Asia,4.78,152,5.12,145,4.44,152
+2011,NAM,Namibia,África Subsahariana,6.96,78,7.32,76,6.61,100
+2011,NPL,Nepal,Sur de Asia,6.8,91,7.48,65,6.12,127
+2011,NLD,Países Bajos,Europa Occidental,8.4,14,9.22,9,7.58,24
+2011,NZL,Nueva Zelanda,Oceanía,8.79,2,9.19,11,8.39,3
+2011,NIC,Nicaragua,Latinoamérica y el Caribe,7.02,72,6.74,94,7.31,47
+2011,NER,Nigeria,África Subsahariana,6.24,121,6.69,96,5.8,134
+2011,NGA,Nigeria,África Subsahariana,5.84,133,5.34,141,6.34,111
+2011,NOR,Noruega,Europa Occidental,8.46,10,9.37,4,7.56,27
+2011,OMN,Omán,Oriente Medio y Norte de África,6.39,115,5.87,131,6.91,78
+2011,PAK,Pakistán,Sur de Asia,5.66,138,5.09,146,6.23,118
+2011,PAN,Panamá,Latinoamérica y el Caribe,7.43,54,7.73,57,7.13,64
+2011,PNG,Papúa Nueva Guinea,Oceanía,6.59,107,6.36,111,6.83,84
+2011,PRY,Paraguay,Latinoamérica y el Caribe,7.03,71,7.27,78,6.8,87
+2011,PER,Perú,Latinoamérica y el Caribe,7.68,46,7.75,55,7.62,23
+2011,PHL,Filipinas,Sur de Asia,7.12,64,7.03,83,7.22,55
+2011,POL,Polonia,Europa del Este,8.17,23,9.1,14,7.24,52
+2011,PRT,Portugal,Europa Occidental,8.14,26,9,21,7.27,49
+2011,QAT,Qatar,Oriente Medio y Norte de África,6.23,122,5.23,143,7.23,54
+2011,ROU,Rumania,Europa del Este,7.96,39,8.58,40,7.34,42
+2011,RUS,Rusia,Europa del Este,6.47,112,6.38,110,6.56,104
+2011,RWA,Ruanda,África Subsahariana,6.9,84,6.35,112,7.45,35
+2011,SAU,Arabia Saudita,Oriente Medio y Norte de África,5.55,140,4.44,151,6.67,95
+2011,SEN,Senegal,África Subsahariana,6.18,123,6.46,107,5.9,132
+2011,SRB,Serbia,Europa del Este,7.07,68,7.49,64,6.64,97
+2011,SYC,Seychelles,África Subsahariana,NA,NA,NA,NA,NA,NA
+2011,SLE,Sierra Leona,África Subsahariana,6.1,125,6.01,128,6.18,122
+2011,SGP,Singapur,Sur de Asia,7.99,37,7.21,80,8.76,2
+2011,SVK,Eslovaquia,Europa del Este,8.14,26,8.8,25,7.48,32
+2011,SVN,Eslovenia,Europa del Este,7.85,42,8.87,24,6.83,84
+2011,ZAF,Sudáfrica,África Subsahariana,7.18,63,7.24,79,7.12,65
+2011,ESP,España,Europa Occidental,8.13,29,8.8,27,7.45,35
+2011,LKA,Sri Lanka,Sur de Asia,6.36,117,5.95,129,6.77,88
+2011,SDN,Sudán,África Subsahariana,NA,NA,NA,NA,NA,NA
+2011,SUR,Surinam,Latinoamérica y el Caribe,7.04,69,7.73,56,6.35,110
+2011,SWZ,Suazilandia,África Subsahariana,6.03,128,5.47,139,6.58,102
+2011,SWE,Suecia,Europa Occidental,8.51,8,9.44,3,7.57,25
+2011,CHE,Suiza,Europa Occidental,8.78,3,9.32,5,8.23,4
+2011,SYR,Siria,Oriente Medio y Norte de África,5.63,139,5.08,147,6.18,122
+2011,TWN,Taiwán,Asia Oriental,8.16,24,8.61,38,7.71,14
+2011,TJK,Tayikistán,Cáucaso y Asia Central,6.6,106,6.82,90,6.39,109
+2011,TZA,Tanzania,África Subsahariana,6.72,98,6.68,97,6.76,89
+2011,THA,Tailandia,Sur de Asia,7.01,73,7.42,70,6.59,101
+2011,TLS,Timor-Leste,Sur de Asia,6.85,88,6.8,91,6.89,80
+2011,TGO,Togo,África Subsahariana,5.53,141,5.61,137,5.45,141
+2011,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.83,90,7.01,84,6.65,96
+2011,TUN,Túnez,Oriente Medio y Norte de África,6.56,110,6.15,121,6.97,73
+2011,TUR,Turquía,Oriente Medio y Norte de África,7.22,60,7.41,72,7.03,70
+2011,UGA,Uganda,África Subsahariana,6.55,111,5.83,132,7.26,50
+2011,UKR,Ucrania,Europa del Este,6.93,81,7.7,58,6.15,125
+2011,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.26,120,4.84,149,7.69,17
+2011,GBR,Reino Unido,Europa Occidental,8.49,9,9.09,15,7.9,9
+2011,USA,Estados Unidos,Norteamérica,8.24,20,8.71,33,7.76,12
+2011,URY,Uruguay,Latinoamérica y el Caribe,8.04,36,8.69,34,7.39,37
+2011,VEN,Venezuela,Latinoamérica y el Caribe,5.33,145,6.75,93,3.91,153
+2011,VNM,Vietnam,Sur de Asia,6.33,118,6.42,108,6.24,117
+2011,YEM,Yemen,Oriente Medio y Norte de África,4.71,153,3.23,153,6.19,121
+2011,ZMB,Zambia,África Subsahariana,6.99,75,6.64,99,7.34,42
+2011,ZWE,Zimbabue,África Subsahariana,5.05,148,5.17,144,4.93,150
+2010,ALB,Albania,Europa del Este,7.55,49,7.76,55,7.35,38
+2010,DZA,Algeria,Oriente Medio y Norte de África,5.14,151,5.21,146,5.07,147
+2010,AGO,Angola,África Subsahariana,5.24,147,5.18,147,5.3,145
+2010,ARG,Argentina,Latinoamérica y el Caribe,6.89,84,8.18,46,5.59,139
+2010,ARM,Armenia,Cáucaso y Asia Central,7.49,51,7.42,70,7.56,23
+2010,AUS,Australia,Oceanía,8.64,5,9.27,8,8.02,5
+2010,AUT,Austria,Europa Occidental,8.32,17,9.02,20,7.62,18
+2010,AZE,Azerbaiyán,Cáucaso y Asia Central,6.31,119,6.65,101,5.97,128
+2010,BHS,Bahamas,Latinoamérica y el Caribe,7.64,47,7.89,52,7.38,37
+2010,BHR,Bahrain,Oriente Medio y Norte de África,6.9,83,6.32,118,7.47,29
+2010,BGD,Bangladesh,Sur de Asia,5.94,128,5.54,140,6.35,109
+2010,BRD,Barbados,Latinoamérica y el Caribe,7.33,57,8.03,51,6.63,92
+2010,BLR,Bielorrusia,Europa del Este,NA,NA,NA,NA,NA,NA
+2010,BEL,Bélgica,Europa Occidental,8.24,22,9.1,14,7.39,36
+2010,BLZ,Belize,Latinoamérica y el Caribe,6.95,77,7.38,74,6.52,100
+2010,BEN,Benin,África Subsahariana,6.41,114,6.78,96,6.05,125
+2010,BTN,Bhutan,Sur de Asia,NA,NA,NA,NA,NA,NA
+2010,BOL,Bolivia,Latinoamérica y el Caribe,6.87,85,7.38,73,6.35,109
+2010,BIH,Bosnia y Herzegovina,Europa del Este,7.42,53,8.2,45,6.63,92
+2010,BWA,Botswana,África Subsahariana,6.91,81,6.8,94,7.02,67
+2010,BRA,Brasil,Latinoamérica y el Caribe,7.11,68,7.77,54,6.46,103
+2010,BRN,Brunei Darussalam,Sur de Asia,6.72,95,6.38,114,7.07,63
+2010,BGR,Bulgaria,Europa del Este,7.8,42,8.3,42,7.3,46
+2010,BFA,Burkina Faso,África Subsahariana,6.76,92,7.58,62,5.93,131
+2010,BDI,Burundi,África Subsahariana,5.77,135,6.35,116,5.18,146
+2010,KHM,Cambodia,Sur de Asia,7.41,54,7.75,57,7.08,62
+2010,CMR,Camerún,África Subsahariana,5.89,131,5.7,133,6.08,123
+2010,CAN,Canadá,Norteamérica,8.64,5,9.27,7,8.01,6
+2010,CPV,Cabo Verde,África Subsahariana,7.35,56,8.31,41,6.38,108
+2010,CAF,República Central Africana,África Subsahariana,5.21,148,5.39,143,5.04,149
+2010,TCD,Chad,África Subsahariana,5.57,141,5.7,132,5.44,143
+2010,CHL,Chile,Latinoamérica y el Caribe,8.27,19,8.65,36,7.89,8
+2010,CHN,China,Asia Oriental,5.91,130,5.56,138,6.26,115
+2010,COL,Colombia,Latinoamérica y el Caribe,6.81,88,6.88,91,6.74,84
+2010,COD,República Democrática del Congo,África Subsahariana,5.45,145,5.52,141,5.38,144
+2010,COG,República del Congo,África Subsahariana,5.7,137,6.67,100,4.74,150
+2010,CRI,Costa Rica,Latinoamérica y el Caribe,7.68,46,8.08,50,7.28,48
+2010,CIV,Cote d'Ivoire,África Subsahariana,5.75,136,5.82,129,5.69,137
+2010,HRV,Croacia,Europa del Este,7.41,54,8.15,48,6.68,88
+2010,CYP,Chipre,Europa del Este,8.33,16,8.94,23,7.73,14
+2010,CZE,República Checa,Europa del Este,8.16,26,9.09,15,7.22,52
+2010,DNK,Dinamarca,Europa Occidental,8.63,7,9.49,3,7.77,13
+2010,DOM,República Dominicana,Latinoamérica y el Caribe,7.07,70,6.97,89,7.16,59
+2010,ECU,Ecuador,Latinoamérica y el Caribe,6.64,102,7.41,71,5.87,135
+2010,EGY,Egipto,Oriente Medio y Norte de África,5.94,128,5.54,139,6.35,109
+2010,SLV,El Salvador,Latinoamérica y el Caribe,7.22,62,7.23,81,7.21,54
+2010,EST,Estonia,Europa del Este,8.44,11,9.07,17,7.82,10
+2010,ETH,Etiopía,África Subsahariana,5.47,144,5.35,145,5.6,138
+2010,FJI,Fiji,Oceanía,7.25,60,7.56,65,6.93,73
+2010,FIN,Finlandia,Europa Occidental,8.65,4,9.5,2,7.79,12
+2010,FRA,Francia,Europa Occidental,8.1,28,8.78,29,7.42,35
+2010,GAB,Gabón,África Subsahariana,5.8,133,6.06,123,5.54,141
+2010,GMB,Gambia,África Subsahariana,6.41,114,5.58,137,7.24,49
+2010,GEO,Georgia,Cáucaso y Asia Central,7.82,41,8.14,49,7.5,27
+2010,DEU,Alemania,Europa Occidental,8.35,14,9.11,13,7.59,19
+2010,GHA,Ghana,África Subsahariana,7.17,66,7.58,63,6.75,83
+2010,GRC,Grecia,Europa del Este,7.71,45,8.62,38,6.81,82
+2010,GTM,Guatemala,Latinoamérica y el Caribe,7.21,63,7.27,78,7.15,60
+2010,GIN,Guinea,África Subsahariana,NA,NA,NA,NA,NA,NA
+2010,GNB,Guinea-Bissau,África Subsahariana,5.69,138,6.33,117,5.05,148
+2010,GUY,Guyana,Latinoamérica y el Caribe,6.7,99,7.19,83,6.21,117
+2010,HTI,Haití,Latinoamérica y el Caribe,6.62,103,7.02,87,6.21,117
+2010,HND,Honduras,Latinoamérica y el Caribe,6.85,86,6.49,106,7.21,54
+2010,HKG,Hong Kong,Asia Oriental,9.03,1,9.04,18,9.02,1
+2010,HUN,Hungría,Europa del Este,8.1,28,8.88,25,7.31,45
+2010,ISL,Islandia,Europa Occidental,7.84,40,9.19,11,6.48,102
+2010,IND,India,Sur de Asia,6.48,113,6.57,102,6.39,107
+2010,IDN,Indonesia,Sur de Asia,7.01,74,7.16,85,6.85,77
+2010,IRN,Iran,Oriente Medio y Norte de África,5.2,149,4.49,153,5.91,132
+2010,IRQ,Irak,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2010,IRL,Irlanda,Europa Occidental,8.37,12,9.07,16,7.67,16
+2010,ISR,Israel,Oriente Medio y Norte de África,7.9,39,8.48,40,7.32,43
+2010,ITA,Italia,Europa Occidental,7.98,37,8.76,31,7.19,57
+2010,JAM,Jamaica,Latinoamérica y el Caribe,7.1,69,7.22,82,6.97,70
+2010,JPN,Japón,Asia Oriental,8.19,24,8.79,28,7.59,19
+2010,JOR,Jordania,Oriente Medio y Norte de África,6.69,100,5.94,125,7.45,33
+2010,KAZ,Kasajistán,Cáucaso y Asia Central,6.93,79,6.91,90,6.94,72
+2010,KEN,Kenia,África Subsahariana,6.69,100,6.46,109,6.92,75
+2010,KOR,Korea,Asia Oriental,8.17,25,8.83,26,7.51,26
+2010,KWT,Kuwait,Oriente Medio y Norte de África,6.6,105,6.24,120,6.95,71
+2010,KGZ,Kirguistán,Cáucaso y Asia Central,6.4,116,6.19,121,6.61,95
+2010,LAO,Laos,Sur de Asia,NA,NA,NA,NA,NA,NA
+2010,LVA,Latvia,Europa del Este,7.94,38,8.66,35,7.23,50
+2010,LBN,Líbano,Oriente Medio y Norte de África,6.83,87,6.45,111,7.21,54
+2010,LSO,Lesotho,África Subsahariana,5.88,132,5.69,135,6.08,123
+2010,LBR,Liberia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2010,LBY,Libia,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2010,LTU,Lituania,Europa del Este,8.07,31,8.66,34,7.47,29
+2010,LUX,Luxemburgo,Europa Occidental,8.37,12,9.2,9,7.53,25
+2010,MKD,Macedonia,Europa del Este,7.55,49,8.17,47,6.93,73
+2010,MDG,Madagascar,África Subsahariana,6.62,103,6.82,93,6.41,104
+2010,MWI,Malawi,África Subsahariana,6.77,90,7.27,79,6.27,114
+2010,MYS,Malasia,Sur de Asia,6.58,108,6.3,119,6.85,77
+2010,MLI,Mali,África Subsahariana,6.28,120,6.53,104,6.04,126
+2010,MLT,Malta,Europa Occidental,8.31,18,9.03,19,7.59,19
+2010,MRT,Mauritania,África Subsahariana,5.78,134,5.8,131,5.77,136
+2010,MUS,Mauritius,África Subsahariana,8.24,22,8.51,39,7.98,7
+2010,MEX,México,Latinoamérica y el Caribe,6.72,95,6.78,97,6.67,89
+2010,MDA,Moldova,Europa del Este,7.02,73,7.45,68,6.58,97
+2010,MNG,Mongolia,Asia Oriental,7.32,58,7.58,64,7.06,64
+2010,MNE,Montenegro,Europa del Este,7.77,43,8.21,44,7.33,41
+2010,MAR,Marruecos,Oriente Medio y Norte de África,6.4,116,6.39,113,6.41,104
+2010,MOZ,Mozambique,África Subsahariana,5.95,127,6.4,112,5.51,142
+2010,MMR,Myanmar,Sur de Asia,5.03,152,6.01,124,4.06,152
+2010,NAM,Namibia,África Subsahariana,7.04,71,7.24,80,6.84,79
+2010,NPL,Nepal,Sur de Asia,6.77,90,7.35,75,6.2,119
+2010,NLD,Países Bajos,Europa Occidental,8.34,15,9.2,10,7.48,28
+2010,NZL,Nueva Zelanda,Oceanía,8.88,2,9.43,5,8.33,3
+2010,NIC,Nicaragua,Latinoamérica y el Caribe,7.29,59,7.4,72,7.18,58
+2010,NER,Nigeria,África Subsahariana,6.55,109,7.19,84,5.91,132
+2010,NGA,Nigeria,África Subsahariana,6,126,5.88,126,6.12,121
+2010,NOR,Noruega,Europa Occidental,8.52,8,9.56,1,7.47,29
+2010,OMN,Omán,Oriente Medio y Norte de África,6.22,121,5.43,142,7.01,68
+2010,PAK,Pakistán,Sur de Asia,5.5,143,4.83,150,6.17,120
+2010,PAN,Panamá,Latinoamérica y el Caribe,7.45,52,7.68,60,7.22,52
+2010,PNG,Papúa Nueva Guinea,Oceanía,6.95,77,7.02,88,6.87,76
+2010,PRY,Paraguay,Latinoamérica y el Caribe,7.03,72,7.32,77,6.74,84
+2010,PER,Perú,Latinoamérica y el Caribe,7.62,48,7.6,61,7.64,17
+2010,PHL,Filipinas,Sur de Asia,7.18,65,7.32,76,7.05,65
+2010,POL,Polonia,Europa del Este,8.02,33,8.93,24,7.12,61
+2010,PRT,Portugal,Europa Occidental,8,35,9,22,7,69
+2010,QAT,Qatar,Oriente Medio y Norte de África,6.16,123,4.96,149,7.35,38
+2010,ROU,Rumania,Europa del Este,8.02,33,8.75,32,7.3,46
+2010,RUS,Rusia,Europa del Este,6.52,110,6.49,105,6.54,99
+2010,RWA,Ruanda,África Subsahariana,6.97,76,6.71,98,7.23,50
+2010,SAU,Arabia Saudita,Oriente Medio y Norte de África,5.66,140,4.61,152,6.71,86
+2010,SEN,Senegal,África Subsahariana,6.21,122,6.46,110,5.95,130
+2010,SRB,Serbia,Europa del Este,7.14,67,7.73,58,6.56,98
+2010,SYC,Seychelles,África Subsahariana,NA,NA,NA,NA,NA,NA
+2010,SLE,Sierra Leona,África Subsahariana,6.35,118,6.48,108,6.22,116
+2010,SGP,Singapur,Sur de Asia,8.1,28,7.45,69,8.76,2
+2010,SVK,Eslovaquia,Europa del Este,8.12,27,8.78,30,7.47,29
+2010,SVN,Eslovenia,Europa del Este,7.72,44,8.62,37,6.82,81
+2010,ZAF,Sudáfrica,África Subsahariana,6.92,80,6.8,95,7.05,65
+2010,ESP,España,Europa Occidental,8.25,21,9.17,12,7.32,43
+2010,LKA,Sri Lanka,Sur de Asia,6.6,105,6.57,103,6.63,92
+2010,SDN,Sudán,África Subsahariana,NA,NA,NA,NA,NA,NA
+2010,SUR,Surinam,Latinoamérica y el Caribe,7.25,60,7.85,53,6.64,91
+2010,SWZ,Suazilandia,África Subsahariana,6.13,124,5.85,128,6.41,104
+2010,SWE,Suecia,Europa Occidental,8.51,9,9.44,4,7.58,22
+2010,CHE,Suiza,Europa Occidental,8.82,3,9.34,6,8.3,4
+2010,SYR,Siria,Oriente Medio y Norte de África,5.55,142,5.15,148,5.96,129
+2010,TWN,Taiwán,Asia Oriental,8,35,8.29,43,7.7,15
+2010,TJK,Tayikistán,Cáucaso y Asia Central,6.91,81,7.54,66,6.28,113
+2010,TZA,Tanzania,África Subsahariana,6.59,107,6.48,107,6.7,87
+2010,THA,Tailandia,Sur de Asia,7.2,64,7.75,56,6.65,90
+2010,TLS,Timor-Leste,Sur de Asia,6.74,93,7.49,67,6,127
+2010,TGO,Togo,África Subsahariana,5.67,139,5.8,130,5.55,140
+2010,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.73,94,6.84,92,6.61,95
+2010,TUN,Túnez,Oriente Medio y Norte de África,6.09,125,5.69,134,6.49,101
+2010,TUR,Turquía,Oriente Medio y Norte de África,6.99,75,7.15,86,6.83,80
+2010,UGA,Uganda,África Subsahariana,6.52,110,5.61,136,7.44,34
+2010,UKR,Ucrania,Europa del Este,6.8,89,7.7,59,5.9,134
+2010,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.71,98,5.86,127,7.56,23
+2010,GBR,Reino Unido,Europa Occidental,8.45,10,9.01,21,7.89,8
+2010,USA,Estados Unidos,Norteamérica,8.26,20,8.71,33,7.81,11
+2010,URY,Uruguay,Latinoamérica y el Caribe,8.07,31,8.82,27,7.33,41
+2010,VEN,Venezuela,Latinoamérica y el Caribe,5.16,150,6.35,115,3.96,153
+2010,VNM,Vietnam,Sur de Asia,6.5,112,6.68,99,6.33,112
+2010,YEM,Yemen,Oriente Medio y Norte de África,5.43,146,4.73,151,6.12,121
+2010,ZMB,Zambia,África Subsahariana,6.72,95,6.09,122,7.35,38
+2010,ZWE,Zimbabue,África Subsahariana,4.91,153,5.36,144,4.46,151
+2009,ALB,Albania,Europa del Este,7.59,46,7.86,52,7.31,39
+2009,DZA,Algeria,Oriente Medio y Norte de África,5.16,139,5.14,139,5.18,135
+2009,AGO,Angola,África Subsahariana,5.21,138,5.27,136,5.14,137
+2009,ARG,Argentina,Latinoamérica y el Caribe,7,70,8.18,46,5.82,123
+2009,ARM,Armenia,Cáucaso y Asia Central,7.48,52,7.41,68,7.55,18
+2009,AUS,Australia,Oceanía,8.63,5,9.29,7,7.97,7
+2009,AUT,Austria,Europa Occidental,8.35,14,9.03,18,7.66,15
+2009,AZE,Azerbaiyán,Cáucaso y Asia Central,6.18,114,6.29,111,6.06,111
+2009,BHS,Bahamas,Latinoamérica y el Caribe,7.75,45,8,49,7.49,25
+2009,BHR,Bahrain,Oriente Medio y Norte de África,7.02,69,6.75,95,7.29,40
+2009,BGD,Bangladesh,Sur de Asia,5.92,120,5.53,133,6.3,101
+2009,BRD,Barbados,Latinoamérica y el Caribe,7.37,55,8.18,45,6.56,89
+2009,BLR,Bielorrusia,Europa del Este,NA,NA,NA,NA,NA,NA
+2009,BEL,Bélgica,Europa Occidental,8.2,22,9.11,13,7.28,42
+2009,BLZ,Belize,Latinoamérica y el Caribe,7.21,63,7.36,70,7.07,60
+2009,BEN,Benin,África Subsahariana,6.49,101,6.87,87,6.1,110
+2009,BTN,Bhutan,Sur de Asia,NA,NA,NA,NA,NA,NA
+2009,BOL,Bolivia,Latinoamérica y el Caribe,6.92,76,7.54,66,6.3,101
+2009,BIH,Bosnia y Herzegovina,Europa del Este,7.39,54,8.23,44,6.56,89
+2009,BWA,Botswana,África Subsahariana,6.8,85,6.84,88,6.76,80
+2009,BRA,Brasil,Latinoamérica y el Caribe,7,70,7.75,57,6.24,105
+2009,BRN,Brunei Darussalam,Sur de Asia,NA,NA,NA,NA,NA,NA
+2009,BGR,Bulgaria,Europa del Este,7.85,40,8.41,40,7.29,40
+2009,BFA,Burkina Faso,África Subsahariana,6.67,93,7.43,67,5.9,118
+2009,BDI,Burundi,África Subsahariana,6.12,116,6.8,91,5.43,131
+2009,KHM,Cambodia,Sur de Asia,NA,NA,NA,NA,NA,NA
+2009,CMR,Camerún,África Subsahariana,5.79,126,5.74,124,5.85,122
+2009,CAN,Canadá,Norteamérica,8.64,4,9.27,8,8.01,6
+2009,CPV,Cabo Verde,África Subsahariana,NA,NA,NA,NA,NA,NA
+2009,CAF,República Central Africana,África Subsahariana,5.41,134,5.61,126,5.2,133
+2009,TCD,Chad,África Subsahariana,5.35,136,5.55,132,5.16,136
+2009,CHL,Chile,Latinoamérica y el Caribe,8.25,19,8.63,36,7.87,9
+2009,CHN,China,Asia Oriental,5.94,118,5.57,129,6.31,100
+2009,COL,Colombia,Latinoamérica y el Caribe,6.75,90,6.8,92,6.7,82
+2009,COD,República Democrática del Congo,África Subsahariana,5.44,133,5.61,127,5.28,132
+2009,COG,República del Congo,África Subsahariana,5.65,129,6.4,108,4.9,138
+2009,CRI,Costa Rica,Latinoamérica y el Caribe,7.82,42,8.27,42,7.37,35
+2009,CIV,Cote d'Ivoire,África Subsahariana,5.79,126,5.9,119,5.69,128
+2009,HRV,Croacia,Europa del Este,7.59,46,8.41,39,6.78,79
+2009,CYP,Chipre,Europa del Este,8.35,14,8.92,24,7.77,11
+2009,CZE,República Checa,Europa del Este,8.16,25,9.15,11,7.17,48
+2009,DNK,Dinamarca,Europa Occidental,8.57,8,9.48,2,7.66,15
+2009,DOM,República Dominicana,Latinoamérica y el Caribe,6.99,72,7.04,84,6.95,67
+2009,ECU,Ecuador,Latinoamérica y el Caribe,6.65,95,7.38,69,5.92,116
+2009,EGY,Egipto,Oriente Medio y Norte de África,5.88,122,5.55,131,6.21,107
+2009,SLV,El Salvador,Latinoamérica y el Caribe,7.16,67,6.92,85,7.4,31
+2009,EST,Estonia,Europa del Este,8.38,12,9.06,16,7.7,14
+2009,ETH,Etiopía,África Subsahariana,5.5,132,5.22,138,5.78,126
+2009,FJI,Fiji,Oceanía,7.32,56,7.56,65,7.08,59
+2009,FIN,Finlandia,Europa Occidental,8.61,6,9.51,1,7.71,13
+2009,FRA,Francia,Europa Occidental,8.21,21,9,20,7.43,28
+2009,GAB,Gabón,África Subsahariana,5.94,118,6.08,116,5.8,124
+2009,GMB,Gambia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2009,GEO,Georgia,Cáucaso y Asia Central,7.78,44,8.15,47,7.41,30
+2009,DEU,Alemania,Europa Occidental,8.35,14,9.14,12,7.55,18
+2009,GHA,Ghana,África Subsahariana,7.25,60,7.63,59,6.87,74
+2009,GRC,Grecia,Europa del Este,7.86,39,8.77,31,6.96,66
+2009,GTM,Guatemala,Latinoamérica y el Caribe,7.17,66,7.18,78,7.15,53
+2009,GIN,Guinea,África Subsahariana,NA,NA,NA,NA,NA,NA
+2009,GNB,Guinea-Bissau,África Subsahariana,5.83,125,6.46,105,5.19,134
+2009,GUY,Guyana,Latinoamérica y el Caribe,6.83,81,7.34,72,6.33,99
+2009,HTI,Haití,Latinoamérica y el Caribe,6.93,75,7.07,82,6.79,77
+2009,HND,Honduras,Latinoamérica y el Caribe,6.86,79,6.56,100,7.16,50
+2009,HKG,Hong Kong,Asia Oriental,9.05,1,9.02,19,9.09,1
+2009,HUN,Hungría,Europa del Este,8.08,30,8.9,25,7.27,43
+2009,ISL,Islandia,Europa Occidental,8.07,32,9.25,9,6.9,70
+2009,IND,India,Sur de Asia,6.49,101,6.59,99,6.39,97
+2009,IDN,Indonesia,Sur de Asia,6.87,78,7.2,76,6.55,92
+2009,IRN,Iran,Oriente Medio y Norte de África,5.13,140,4.35,141,5.91,117
+2009,IRQ,Irak,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2009,IRL,Irlanda,Europa Occidental,8.4,11,9.05,17,7.76,12
+2009,ISR,Israel,Oriente Medio y Norte de África,7.5,51,7.85,53,7.14,54
+2009,ITA,Italia,Europa Occidental,7.88,38,8.79,30,6.97,65
+2009,JAM,Jamaica,Latinoamérica y el Caribe,7.28,58,7.29,74,7.26,45
+2009,JPN,Japón,Asia Oriental,8.19,23,8.86,26,7.52,21
+2009,JOR,Jordania,Oriente Medio y Norte de África,6.62,96,6.02,117,7.23,47
+2009,KAZ,Kasajistán,Cáucaso y Asia Central,6.92,76,6.77,94,7.07,60
+2009,KEN,Kenia,África Subsahariana,6.66,94,6.42,107,6.9,70
+2009,KOR,Korea,Asia Oriental,8.05,34,8.75,32,7.35,37
+2009,KWT,Kuwait,Oriente Medio y Norte de África,6.68,92,6.27,112,7.1,57
+2009,KGZ,Kirguistán,Cáucaso y Asia Central,6.78,87,6.64,97,6.91,69
+2009,LAO,Laos,Sur de Asia,NA,NA,NA,NA,NA,NA
+2009,LVA,Latvia,Europa del Este,7.89,37,8.45,38,7.33,38
+2009,LBN,Líbano,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2009,LSO,Lesotho,África Subsahariana,5.87,123,5.71,125,6.03,115
+2009,LBR,Liberia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2009,LBY,Libia,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2009,LTU,Lituania,Europa del Este,8.12,26,8.69,33,7.55,18
+2009,LUX,Luxemburgo,Europa Occidental,8.25,19,8.98,22,7.51,22
+2009,MKD,Macedonia,Europa del Este,7.48,52,8.08,48,6.89,72
+2009,MDG,Madagascar,África Subsahariana,6.55,100,6.82,89,6.28,103
+2009,MWI,Malawi,África Subsahariana,6.78,87,7.34,71,6.22,106
+2009,MYS,Malasia,Sur de Asia,6.57,98,6.55,101,6.6,87
+2009,MLI,Mali,África Subsahariana,6.19,113,6.33,110,6.04,113
+2009,MLT,Malta,Europa Occidental,8.36,13,9.08,15,7.64,17
+2009,MRT,Mauritania,África Subsahariana,5.95,117,5.87,121,6.04,113
+2009,MUS,Mauritius,África Subsahariana,8.11,28,8.36,41,7.85,10
+2009,MEX,México,Latinoamérica y el Caribe,6.83,81,7.14,81,6.53,93
+2009,MDA,Moldova,Europa del Este,7.19,65,7.73,58,6.66,84
+2009,MNG,Mongolia,Asia Oriental,7.3,57,7.56,64,7.03,63
+2009,MNE,Montenegro,Europa del Este,7.58,48,8,50,7.16,50
+2009,MAR,Marruecos,Oriente Medio y Norte de África,6.36,108,6.46,104,6.26,104
+2009,MOZ,Mozambique,África Subsahariana,5.86,124,6.24,113,5.47,130
+2009,MMR,Myanmar,Sur de Asia,5.36,135,6.5,102,4.22,141
+2009,NAM,Namibia,África Subsahariana,7.06,68,7.19,77,6.93,68
+2009,NPL,Nepal,Sur de Asia,6.71,91,7.57,63,5.86,121
+2009,NLD,Países Bajos,Europa Occidental,8.33,17,9.22,10,7.44,27
+2009,NZL,Nueva Zelanda,Oceanía,8.8,2,9.33,5,8.27,3
+2009,NIC,Nicaragua,Latinoamérica y el Caribe,7.2,64,7.31,73,7.09,58
+2009,NER,Nigeria,África Subsahariana,6.38,107,7.05,83,5.7,127
+2009,NGA,Nigeria,África Subsahariana,5.89,121,5.89,120,5.89,119
+2009,NOR,Noruega,Europa Occidental,8.46,9,9.42,4,7.5,24
+2009,OMN,Omán,Oriente Medio y Norte de África,6.36,108,5.59,128,7.13,55
+2009,PAK,Pakistán,Sur de Asia,5.6,130,5.07,140,6.12,109
+2009,PAN,Panamá,Latinoamérica y el Caribe,7.52,50,7.79,55,7.25,46
+2009,PNG,Papúa Nueva Guinea,Oceanía,6.8,85,6.78,93,6.83,75
+2009,PRY,Paraguay,Latinoamérica y el Caribe,6.85,80,7.14,79,6.56,89
+2009,PER,Perú,Latinoamérica y el Caribe,7.54,49,7.57,62,7.51,22
+2009,PHL,Filipinas,Sur de Asia,6.95,74,7.24,75,6.66,84
+2009,POL,Polonia,Europa del Este,8.08,30,8.99,21,7.16,50
+2009,PRT,Portugal,Europa Occidental,8.02,35,8.86,27,7.17,48
+2009,QAT,Qatar,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2009,ROU,Rumania,Europa del Este,8.06,33,8.67,34,7.45,26
+2009,RUS,Rusia,Europa del Este,6.45,104,6.47,103,6.43,95
+2009,RWA,Ruanda,África Subsahariana,7.23,61,7.57,61,6.89,72
+2009,SAU,Arabia Saudita,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2009,SEN,Senegal,África Subsahariana,6.33,110,6.62,98,6.05,112
+2009,SRB,Serbia,Europa del Este,7.23,61,7.88,51,6.58,88
+2009,SYC,Seychelles,África Subsahariana,NA,NA,NA,NA,NA,NA
+2009,SLE,Sierra Leona,África Subsahariana,6.28,111,6.37,109,6.18,108
+2009,SGP,Singapur,Sur de Asia,8.19,23,7.62,60,8.77,2
+2009,SVK,Eslovaquia,Europa del Este,8.12,26,8.82,28,7.42,29
+2009,SVN,Eslovenia,Europa del Este,7.83,41,8.63,35,7.02,64
+2009,ZAF,Sudáfrica,África Subsahariana,6.81,84,6.81,90,6.82,76
+2009,ESP,España,Europa Occidental,8.1,29,8.93,23,7.27,43
+2009,LKA,Sri Lanka,Sur de Asia,6.13,115,5.91,118,6.35,98
+2009,SDN,Sudán,África Subsahariana,NA,NA,NA,NA,NA,NA
+2009,SUR,Surinam,Latinoamérica y el Caribe,NA,NA,NA,NA,NA,NA
+2009,SWZ,Suazilandia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2009,SWE,Suecia,Europa Occidental,8.42,10,9.44,3,7.39,33
+2009,CHE,Suiza,Europa Occidental,8.79,3,9.32,6,8.26,4
+2009,SYR,Siria,Oriente Medio y Norte de África,5.53,131,5.27,137,5.79,125
+2009,TWN,Taiwán,Asia Oriental,7.81,43,8.24,43,7.39,33
+2009,TJK,Tayikistán,Cáucaso y Asia Central,NA,NA,NA,NA,NA,NA
+2009,TZA,Tanzania,África Subsahariana,6.44,105,6.46,106,6.42,96
+2009,THA,Tailandia,Sur de Asia,7.26,59,7.84,54,6.69,83
+2009,TLS,Timor-Leste,Sur de Asia,NA,NA,NA,NA,NA,NA
+2009,TGO,Togo,África Subsahariana,5.68,128,5.79,123,5.57,129
+2009,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.76,89,6.92,86,6.61,86
+2009,TUN,Túnez,Oriente Medio y Norte de África,6.27,112,5.82,122,6.71,81
+2009,TUR,Turquía,Oriente Medio y Norte de África,6.96,73,7.14,80,6.79,77
+2009,UGA,Uganda,África Subsahariana,6.41,106,5.46,134,7.36,36
+2009,UKR,Ucrania,Europa del Este,6.83,81,7.77,56,5.89,119
+2009,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.48,103,5.56,130,7.4,31
+2009,GBR,Reino Unido,Europa Occidental,8.59,7,9.1,14,8.08,5
+2009,USA,Estados Unidos,Norteamérica,8.26,18,8.57,37,7.95,8
+2009,URY,Uruguay,Latinoamérica y el Caribe,7.93,36,8.8,29,7.05,62
+2009,VEN,Venezuela,Latinoamérica y el Caribe,5.28,137,6.21,114,4.36,140
+2009,VNM,Vietnam,Sur de Asia,6.57,98,6.68,96,6.45,94
+2009,YEM,Yemen,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2009,ZMB,Zambia,África Subsahariana,6.62,96,6.11,115,7.13,55
+2009,ZWE,Zimbabue,África Subsahariana,4.93,141,5.36,135,4.5,139
+2008,ALB,Albania,Europa del Este,7.5,49,7.78,52,7.22,47
+2008,DZA,Algeria,Oriente Medio y Norte de África,5.15,138,5.15,139,5.16,132
+2008,AGO,Angola,África Subsahariana,4.82,141,5.24,138,4.41,139
+2008,ARG,Argentina,Latinoamérica y el Caribe,7.04,69,8.19,43,5.88,120
+2008,ARM,Armenia,Cáucaso y Asia Central,7.46,52,7.32,71,7.59,22
+2008,AUS,Australia,Oceanía,8.69,4,9.29,7,8.08,6
+2008,AUT,Austria,Europa Occidental,8.36,15,9.03,21,7.7,16
+2008,AZE,Azerbaiyán,Cáucaso y Asia Central,6.37,107,6.59,98,6.15,105
+2008,BHS,Bahamas,Latinoamérica y el Caribe,7.86,40,8.15,45,7.58,24
+2008,BHR,Bahrain,Oriente Medio y Norte de África,7.1,67,6.78,95,7.42,34
+2008,BGD,Bangladesh,Sur de Asia,5.8,123,5.53,133,6.07,107
+2008,BRD,Barbados,Latinoamérica y el Caribe,7.18,65,8.14,46,6.22,100
+2008,BLR,Bielorrusia,Europa del Este,NA,NA,NA,NA,NA,NA
+2008,BEL,Bélgica,Europa Occidental,8.18,27,9.06,16,7.3,42
+2008,BLZ,Belize,Latinoamérica y el Caribe,7.34,56,7.35,70,7.32,40
+2008,BEN,Benin,África Subsahariana,6.49,103,6.99,84,5.99,114
+2008,BTN,Bhutan,Sur de Asia,NA,NA,NA,NA,NA,NA
+2008,BOL,Bolivia,Latinoamérica y el Caribe,6.73,89,7.37,69,6.09,106
+2008,BIH,Bosnia y Herzegovina,Europa del Este,7.28,57,8,49,6.56,88
+2008,BWA,Botswana,África Subsahariana,6.84,80,6.82,92,6.85,69
+2008,BRA,Brasil,Latinoamérica y el Caribe,7.01,70,7.72,56,6.31,97
+2008,BRN,Brunei Darussalam,Sur de Asia,NA,NA,NA,NA,NA,NA
+2008,BGR,Bulgaria,Europa del Este,7.71,44,8.24,41,7.17,55
+2008,BFA,Burkina Faso,África Subsahariana,6.76,86,7.57,59,5.95,118
+2008,BDI,Burundi,África Subsahariana,5.65,128,6.28,112,5.01,134
+2008,KHM,Cambodia,Sur de Asia,NA,NA,NA,NA,NA,NA
+2008,CMR,Camerún,África Subsahariana,5.69,126,5.8,126,5.57,127
+2008,CAN,Canadá,Norteamérica,8.65,6,9.27,8,8.04,7
+2008,CPV,Cabo Verde,África Subsahariana,NA,NA,NA,NA,NA,NA
+2008,CAF,República Central Africana,África Subsahariana,5.48,130,5.78,127,5.18,131
+2008,TCD,Chad,África Subsahariana,5.21,137,5.59,130,4.84,135
+2008,CHL,Chile,Latinoamérica y el Caribe,8.23,23,8.65,35,7.8,13
+2008,CHN,China,Asia Oriental,6,117,5.72,129,6.27,98
+2008,COL,Colombia,Latinoamérica y el Caribe,6.76,86,6.93,88,6.6,87
+2008,COD,República Democrática del Congo,África Subsahariana,5.35,135,5.54,132,5.16,132
+2008,COG,República del Congo,África Subsahariana,5.63,129,6.57,100,4.69,137
+2008,CRI,Costa Rica,Latinoamérica y el Caribe,7.83,41,8.3,40,7.37,37
+2008,CIV,Cote d'Ivoire,África Subsahariana,5.7,125,5.89,119,5.5,128
+2008,HRV,Croacia,Europa del Este,7.4,53,8.08,48,6.72,81
+2008,CYP,Chipre,Europa del Este,8.34,17,8.95,25,7.74,15
+2008,CZE,República Checa,Europa del Este,8.17,29,9.13,12,7.21,48
+2008,DNK,Dinamarca,Europa Occidental,8.69,4,9.49,4,7.88,10
+2008,DOM,República Dominicana,Latinoamérica y el Caribe,6.67,94,6.88,89,6.46,93
+2008,ECU,Ecuador,Latinoamérica y el Caribe,6.72,90,7.42,65,6.02,113
+2008,EGY,Egipto,Oriente Medio y Norte de África,6,117,5.58,131,6.43,94
+2008,SLV,El Salvador,Latinoamérica y el Caribe,7.4,53,7.27,75,7.53,27
+2008,EST,Estonia,Europa del Este,8.4,14,9.04,19,7.77,14
+2008,ETH,Etiopía,África Subsahariana,5.36,134,5.37,135,5.35,130
+2008,FJI,Fiji,Oceanía,7.52,48,7.79,51,7.26,45
+2008,FIN,Finlandia,Europa Occidental,8.65,6,9.5,3,7.81,12
+2008,FRA,Francia,Europa Occidental,8.19,26,8.97,23,7.42,34
+2008,GAB,Gabón,África Subsahariana,5.9,120,5.94,118,5.85,123
+2008,GMB,Gambia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2008,GEO,Georgia,Cáucaso y Asia Central,7.56,46,7.54,61,7.57,26
+2008,DEU,Alemania,Europa Occidental,8.32,18,9.14,11,7.5,29
+2008,GHA,Ghana,África Subsahariana,7.21,62,7.61,57,6.82,72
+2008,GRC,Grecia,Europa del Este,7.94,38,8.77,32,7.1,60
+2008,GTM,Guatemala,Latinoamérica y el Caribe,7.2,64,7.19,76,7.21,48
+2008,GIN,Guinea,África Subsahariana,NA,NA,NA,NA,NA,NA
+2008,GNB,Guinea-Bissau,África Subsahariana,5.69,126,6.58,99,4.81,136
+2008,GUY,Guyana,Latinoamérica y el Caribe,6.68,93,6.95,86,6.4,95
+2008,HTI,Haití,Latinoamérica y el Caribe,6.94,75,7.12,81,6.76,77
+2008,HND,Honduras,Latinoamérica y el Caribe,7.01,70,6.73,96,7.28,43
+2008,HKG,Hong Kong,Asia Oriental,9.13,1,9.06,17,9.19,1
+2008,HUN,Hungría,Europa del Este,8.05,33,8.89,26,7.2,52
+2008,ISL,Islandia,Europa Occidental,8.28,20,9.21,10,7.34,39
+2008,IND,India,Sur de Asia,6.52,101,6.57,101,6.47,92
+2008,IDN,Indonesia,Sur de Asia,6.79,84,7.18,78,6.39,96
+2008,IRN,Iran,Oriente Medio y Norte de África,5.47,131,4.88,140,6.06,110
+2008,IRQ,Irak,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2008,IRL,Irlanda,Europa Occidental,8.46,10,9.06,18,7.87,11
+2008,ISR,Israel,Oriente Medio y Norte de África,7.4,53,7.59,58,7.2,52
+2008,ITA,Italia,Europa Occidental,7.93,39,8.79,30,7.07,62
+2008,JAM,Jamaica,Latinoamérica y el Caribe,7.28,57,7.29,73,7.27,44
+2008,JPN,Japón,Asia Oriental,8.24,22,8.83,29,7.65,18
+2008,JOR,Jordania,Oriente Medio y Norte de África,6.56,98,5.95,117,7.17,55
+2008,KAZ,Kasajistán,Cáucaso y Asia Central,6.95,73,6.87,91,7.04,63
+2008,KEN,Kenia,África Subsahariana,6.62,96,6.46,106,6.77,75
+2008,KOR,Korea,Asia Oriental,8.15,30,8.84,28,7.46,32
+2008,KWT,Kuwait,Oriente Medio y Norte de África,6.59,97,6.16,114,7.03,64
+2008,KGZ,Kirguistán,Cáucaso y Asia Central,6.8,82,6.78,94,6.82,72
+2008,LAO,Laos,Sur de Asia,NA,NA,NA,NA,NA,NA
+2008,LVA,Latvia,Europa del Este,8.08,32,8.64,36,7.52,28
+2008,LBN,Líbano,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2008,LSO,Lesotho,África Subsahariana,5.95,119,5.84,123,6.07,107
+2008,LBR,Liberia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2008,LBY,Libia,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2008,LTU,Lituania,Europa del Este,8.01,35,8.58,38,7.44,33
+2008,LUX,Luxemburgo,Europa Occidental,8.36,15,9.11,14,7.62,20
+2008,MKD,Macedonia,Europa del Este,7.53,47,8.24,42,6.83,70
+2008,MDG,Madagascar,África Subsahariana,6.56,98,7.04,83,6.07,107
+2008,MWI,Malawi,África Subsahariana,6.72,90,7.27,74,6.17,104
+2008,MYS,Malasia,Sur de Asia,6.45,105,6.3,110,6.61,86
+2008,MLI,Mali,África Subsahariana,6.09,115,6.3,109,5.89,119
+2008,MLT,Malta,Europa Occidental,8.31,19,9.04,20,7.59,22
+2008,MRT,Mauritania,África Subsahariana,5.9,120,5.81,125,5.98,115
+2008,MUS,Mauritius,África Subsahariana,8.21,25,8.47,39,7.96,9
+2008,MEX,México,Latinoamérica y el Caribe,6.92,76,7.19,77,6.66,85
+2008,MDA,Moldova,Europa del Este,7.21,62,7.51,62,6.91,67
+2008,MNG,Mongolia,Asia Oriental,7.15,66,7.56,60,6.73,80
+2008,MNE,Montenegro,Europa del Este,7.67,45,8.15,44,7.19,54
+2008,MAR,Marruecos,Oriente Medio y Norte de África,6.29,109,6.36,108,6.22,100
+2008,MOZ,Mozambique,África Subsahariana,6.03,116,6.39,107,5.67,124
+2008,MMR,Myanmar,Sur de Asia,4.96,139,6.05,116,3.86,141
+2008,NAM,Namibia,África Subsahariana,7,72,7.18,79,6.83,70
+2008,NPL,Nepal,Sur de Asia,6.71,92,7.4,67,6.03,111
+2008,NLD,Países Bajos,Europa Occidental,8.41,13,9.24,9,7.58,24
+2008,NZL,Nueva Zelanda,Oceanía,8.91,2,9.42,5,8.4,3
+2008,NIC,Nicaragua,Latinoamérica y el Caribe,7.26,60,7.41,66,7.12,58
+2008,NER,Nigeria,África Subsahariana,6.17,113,6.95,87,5.39,129
+2008,NGA,Nigeria,África Subsahariana,6.15,114,6.27,113,6.03,111
+2008,NOR,Noruega,Europa Occidental,8.59,8,9.55,1,7.63,19
+2008,OMN,Omán,Oriente Medio y Norte de África,6.47,104,5.85,122,7.08,61
+2008,PAK,Pakistán,Sur de Asia,5.4,133,4.83,141,5.97,117
+2008,PAN,Panamá,Latinoamérica y el Caribe,7.49,51,7.75,54,7.24,46
+2008,PNG,Papúa Nueva Guinea,Oceanía,6.91,78,7.06,82,6.77,75
+2008,PRY,Paraguay,Latinoamérica y el Caribe,6.9,79,7.3,72,6.5,91
+2008,PER,Perú,Latinoamérica y el Caribe,7.5,49,7.49,63,7.5,29
+2008,PHL,Filipinas,Sur de Asia,7.06,68,7.39,68,6.72,81
+2008,POL,Polonia,Europa del Este,7.98,36,8.95,24,7,66
+2008,PRT,Portugal,Europa Occidental,8.1,31,8.99,22,7.21,48
+2008,QAT,Qatar,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2008,ROU,Rumania,Europa del Este,8.03,34,8.74,33,7.32,40
+2008,RUS,Rusia,Europa del Este,6.53,100,6.53,102,6.52,90
+2008,RWA,Ruanda,África Subsahariana,6.95,73,7.15,80,6.75,78
+2008,SAU,Arabia Saudita,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2008,SEN,Senegal,África Subsahariana,6.2,112,6.53,103,5.87,121
+2008,SRB,Serbia,Europa del Este,7.23,61,7.92,50,6.55,89
+2008,SYC,Seychelles,África Subsahariana,NA,NA,NA,NA,NA,NA
+2008,SLE,Sierra Leona,África Subsahariana,6.24,111,6.49,104,5.98,115
+2008,SGP,Singapur,Sur de Asia,8.18,27,7.44,64,8.92,2
+2008,SVK,Eslovaquia,Europa del Este,8.23,23,8.87,27,7.6,21
+2008,SVN,Eslovenia,Europa del Este,7.83,41,8.64,37,7.01,65
+2008,ZAF,Sudáfrica,África Subsahariana,6.76,86,6.8,93,6.72,81
+2008,ESP,España,Europa Occidental,8.25,21,9.12,13,7.37,37
+2008,LKA,Sri Lanka,Sur de Asia,5.86,122,5.46,134,6.26,99
+2008,SDN,Sudán,África Subsahariana,NA,NA,NA,NA,NA,NA
+2008,SUR,Surinam,Latinoamérica y el Caribe,NA,NA,NA,NA,NA,NA
+2008,SWZ,Suazilandia,África Subsahariana,NA,NA,NA,NA,NA,NA
+2008,SWE,Suecia,Europa Occidental,8.45,11,9.5,2,7.4,36
+2008,CHE,Suiza,Europa Occidental,8.77,3,9.31,6,8.24,4
+2008,SYR,Siria,Oriente Medio y Norte de África,5.46,132,5.3,137,5.62,126
+2008,TWN,Taiwán,Asia Oriental,7.79,43,8.09,47,7.49,31
+2008,TJK,Tayikistán,Cáucaso y Asia Central,NA,NA,NA,NA,NA,NA
+2008,TZA,Tanzania,África Subsahariana,6.34,108,6.48,105,6.2,102
+2008,THA,Tailandia,Sur de Asia,7.27,59,7.75,53,6.8,74
+2008,TLS,Timor-Leste,Sur de Asia,NA,NA,NA,NA,NA,NA
+2008,TGO,Togo,África Subsahariana,5.76,124,5.86,121,5.67,124
+2008,TTO,Trinidad y Tobago,Latinoamérica y el Caribe,6.81,81,6.87,90,6.74,79
+2008,TUN,Túnez,Oriente Medio y Norte de África,6.25,110,5.82,124,6.68,84
+2008,TUR,Turquía,Oriente Medio y Norte de África,6.92,76,6.98,85,6.86,68
+2008,UGA,Uganda,África Subsahariana,6.5,102,5.78,128,7.21,48
+2008,UKR,Ucrania,Europa del Este,6.8,82,7.73,55,5.87,121
+2008,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,6.78,85,5.89,120,7.68,17
+2008,GBR,Reino Unido,Europa Occidental,8.54,9,9.08,15,7.99,8
+2008,USA,Estados Unidos,Norteamérica,8.45,11,8.73,34,8.17,5
+2008,URY,Uruguay,Latinoamérica y el Caribe,7.95,37,8.78,31,7.12,58
+2008,VEN,Venezuela,Latinoamérica y el Caribe,5.26,136,6.3,111,4.22,140
+2008,VNM,Vietnam,Sur de Asia,6.42,106,6.65,97,6.19,103
+2008,YEM,Yemen,Oriente Medio y Norte de África,NA,NA,NA,NA,NA,NA
+2008,ZMB,Zambia,África Subsahariana,6.65,95,6.15,115,7.15,57
+2008,ZWE,Zimbabue,África Subsahariana,4.94,140,5.32,136,4.55,138
