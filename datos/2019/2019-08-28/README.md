@@ -45,7 +45,7 @@ bicicletas <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/
 
 ## Fuente de los datos
 
-Los datos provienen de la [API pública de transporte](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte) de la Ciudad de Buenos Aires.
+Los datos provienen de la [API pública de transporte](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte) de la Ciudad de Buenos Aires y fueron obtenidos y procesados por Elio Campitelli (https://github.com/eliocamp).
 
 ## Inspiración
 
