@@ -15,7 +15,7 @@ El dataset que se presenta corresponde a 6 meses de registros de incendios activ
 
 ```r
 # install.packages("readr")
-incendios <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-09-11/incendios.zicsv")
+incendios <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-09-11/incendios.csv")
 incendios_pais <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-09-11/incendios_pais.csv")
 ```
 
@@ -54,4 +54,4 @@ Los datos fueron filtrados para presentar solo los que corresponden a vegetació
 El polígono de la cuenca Amazónica puede obtenerse desde [aquí](http://worldmap.harvard.edu/data/geonode:amapoly_ivb) en distintos formatos. Encontrarás una versión en este mismo repositorio (`amapoly_ivb`).
 
 ## Inspiración
-En [este elnace](https://es.mongabay.com/2019/08/prayforamazonas-imagenes-satelitales/) puedes ver distintos ejemplos de visualizaciones sobre estos incendios que han circulado en los medios.
+En [este enlace](https://es.mongabay.com/2019/08/prayforamazonas-imagenes-satelitales/) puedes ver distintos ejemplos de visualizaciones sobre estos incendios que han circulado en los medios.
