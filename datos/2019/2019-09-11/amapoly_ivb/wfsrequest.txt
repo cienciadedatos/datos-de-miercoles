@@ -1,0 +1,1 @@
+http://worldmap.harvard.edu/geoserver/wfs?outputFormat=SHAPE-ZIP&service=WFS&request=GetFeature&format_options=charset%3AUTF-8&typename=geonode%3Aamapoly_ivb&version=1.0.0
