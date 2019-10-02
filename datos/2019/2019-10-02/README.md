@@ -20,13 +20,13 @@ tweets_latinr <- readr::read_csv("https://raw.githubusercontent.com/cienciadedat
 
 |Variable            |Clase    |Descripción         |
 |:-------------------|:--------|:-------------------|
-|id                  |decimal  |identificador|
-|id_conversacion     |decimal  |identificador conversación|
-|creado_en           |decimal  |creado en|
-|fecha               |decimal  |fecha|
-|hora                |decimal  |hora|
+|id                  |numérica  |identificador|
+|id_conversacion     |numérica  |identificador conversación|
+|creado_en           |numérica  |creado en|
+|fecha               |numérica  |fecha|
+|hora                |numérica  |hora|
 |huso_horario        |caracter |huso horario|
-|id_usuario          |decimal  |identificador usuario|
+|id_usuario          |numérica  |identificador usuario|
 |nombre_usuario      |caracter |nombre usuario|
 |nombre              |caracter |nombre|
 |lugar               |lógico   |lugar|
@@ -34,15 +34,15 @@ tweets_latinr <- readr::read_csv("https://raw.githubusercontent.com/cienciadedat
 |menciones           |caracter |menciones|
 |urls                |caracter |urls|
 |fotos               |caracter |fotos|
-|cantidad_respuestas |decimal  |cantidad_respuestas|
-|cantidad_retweets   |decimal  |cantidad_retweets|
-|cantidad_likes      |decimal  |cantidad_likes|
+|cantidad_respuestas |numérica  |cantidad_respuestas|
+|cantidad_retweets   |numérica  |cantidad_retweets|
+|cantidad_likes      |numérica  |cantidad_likes|
 |hashtags            |caracter |hashtags|
 |cashtags            |caracter |cashtags|
 |enlaces             |caracter |enlaces|
 |retweet             |lógico   |retweet|
 |url_cita            |caracter |url_cita|
-|vide                |decimal  |vide|
+|vide                |numérica  |vide|
 |cercano             |lógico   |cercano|
 |geo                 |lógico   |geo|
 |fuente              |lógico   |fuente|
@@ -57,26 +57,26 @@ tweets_latinr <- readr::read_csv("https://raw.githubusercontent.com/cienciadedat
 
 |Variable            |Clase    |Descripcion         |
 |:-------------------|:--------|:-------------------|
-|id                  |decimal  |identificador|
-|id_conversacion     |decimal  |identificador conversación|
-|creado_en           |decimal  |creado en|
-|fecha               |decimal  |fecha|
-|hora                |decimal  |hora|
+|id                  |numérica  |identificador|
+|id_conversacion     |numérica  |identificador conversación|
+|creado_en           |numérica  |creado en|
+|fecha               |numérica  |fecha|
+|hora                |numérica  |hora|
 |huso_horario        |caracter |huso horario|
-|id_usuario          |decimal  |identificador usuario|
+|id_usuario          |numérica  |identificador usuario|
 |nombre_usuario      |caracter |nombre_usuario|
 |nombre              |caracter |nombre|
 |lugar               |caracter |lugar|
-|tweet               |caracter |tweet|
+|tweet               |caracter |texto del tweet|
 |etiquetas           |caracter |etiquetas|
 |respuestas          |caracter |respuestas|
 |menciones           |caracter |menciones|
 |urls                |caracter |urls|
 |fotos               |caracter |fotos|
-|cantidad_respuestas |decimal  |cantidad respuestas|
-|cantidad_retweets   |decimal  |cantidad retweets|
-|cantidad_likes      |decimal  |cantidad likes|
-|ubucacion           |lógico   |ubucacion|
+|cantidad_respuestas |numérica  |cantidad de respuestas|
+|cantidad_retweets   |numérica  |cantidad de retweets|
+|cantidad_likes      |numérica  |cantidad de likes|
+|ubicacion           |lógico   |ubicación|
 |hashtags            |caracter |hashtags|
 |enlaces             |caracter |enlaces|
 |retweet             |lógico   |retweet|
@@ -84,11 +84,11 @@ tweets_latinr <- readr::read_csv("https://raw.githubusercontent.com/cienciadedat
 |muestra_gif         |caracter |muestra gif|
 |url_video           |caracter |url video|
 |muestra_video       |caracter |muestra video|
-|estado_es_cita      |decimal  |estado es cita|
-|id_cita             |decimal  |identificador cita|
+|estado_es_cita      |numérica  |estado es cita|
+|id_cita             |numérica  |identificador cita|
 |url_cita            |caracter |url cita|
-|es_respuesta_a      |decimal  |es respuesta a|
-|tiene_tweet_padre   |decimal  |tiene tweet padre|
+|es_respuesta_a      |numérica  |es respuesta a|
+|tiene_tweet_padre   |numérica  |tiene tweet padre|
 
 ### Fuente de datos
 
@@ -133,7 +133,7 @@ nombre_tweets_latinR_raw <- tibble::tribble(
     17,    "replies_count","cantidad_respuestas",
     18,   "retweets_count","cantidad_retweets",
     19,      "likes_count","cantidad_likes",
-    20,         "location","ubucacion",
+    20,         "location","ubicacion",
     21,         "hashtags","hashtags",
     22,             "link","enlaces",
     23,          "retweet","retweet",
