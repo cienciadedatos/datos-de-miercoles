@@ -101,6 +101,7 @@ Los datos son resultado del analisis expandido de @TuQmano la fuente original es
 ## Inspiración
 
 Se pueden hacer análisis de tweets varios. 
+frecuencia de palabras, nubes de palabras, redes ( grafos ), análisis temporal, análisis de sentimiento, otras cosas que se nos ocurran :U !  
 
 post original: https://twitter.com/TuQmano/status/1178987469083217925
 
