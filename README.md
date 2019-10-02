@@ -71,6 +71,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 23 | `2019-09-11` | [Incendios en el Amazonas](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-09-11) | [FIRMS, NASA](https://firms.modaps.eosdis.nasa.gov/download/) | [Visualizaciones incendios](https://es.mongabay.com/2019/08/prayforamazonas-imagenes-satelitales/) | 
 | 24 | `2019-09-18` | [Pre LatinR](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-09-18) | -- | -- | 
 | 25 | `2019-09-25` | [LatinR](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-09-25) | -- | -- | 
+| 26 | `2019-09-25` | [Twitter LatinR 2019](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-02) | [Twitter TuQmano](https://twitter.com/TuQmano/status/1178987469083217925) | [Blog TuQmano](https://tuqmano.github.io/2019/09/30/latinr2019-ha-muerto-que-viva-latinr2020/) | 
 
 
 ***
