@@ -174,7 +174,7 @@ nombre_tweets_latinR_raw <- tibble::tribble(
     17,    "replies_count","cantidad_respuestas",
     18,   "retweets_count","cantidad_retweets",
     19,      "likes_count","cantidad_likes",
-    20,         "location","ubucacion",
+    20,         "location","ubicacion",
     21,         "hashtags","hashtags",
     22,             "link","enlaces",
     23,          "retweet","retweet",
