@@ -39,8 +39,11 @@ meteo <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos
 | t_max | numérico | Temperatura máxima diaria en grados centígrados |
 | t_min | numérico | Temperatura mínima diaria en grados centígrados |
 
-### Fuente de datos
+## Fuente de datos
 
-Los datos provienen de la base de datos [Claris LPB](http://www.cima.fcen.uba.ar/ClarisLPB/).
+Los datos provienen de la base de datos [Claris LPB](http://www.cima.fcen.uba.ar/ClarisLPB/) y fueron procesados por [Elio Campitelli](https://twitter.com/d_olivaw). 
+
+## Inspiración
+Puedes ver algunos ejemplos de visualizaciones de temperaturas en [este hilo de Twitter](https://twitter.com/anttilip/status/1133066933602050052).
 
 
