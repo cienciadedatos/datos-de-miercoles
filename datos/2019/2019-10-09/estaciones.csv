@@ -1,0 +1,82 @@
+id_estacion,lat,lon,elevacion,nombre,pais,provincia,institucion
+10001,-22.1,-65.6,3459,LA QUIACA,Argentina,Jujuy,Servicio Meteorológico Nacional
+10011,-24.7,-60.58,130,LAS LOMITAS,Argentina,Formosa,Servicio Meteorológico Nacional
+10012,-24.85,-65.48,1221,SALTA AERO,Argentina,SALTA,Servicio Meteorológico Nacional
+10062,-27.77,-64.3,199,SANTIAGO DEL ESTERO AERO,Argentina,Santiago del Estero,Servicio Meteorológico Nacional
+10077,-29.38,-66.82,429,LA RIOJA AERO,Argentina,La Rioja,Servicio Meteorológico Nacional
+10081,-29.88,-61.95,88,CERES AERO,Argentina,Santa Fe,Servicio Meteorológico Nacional
+10082,-29.9,-63.68,341,VILLA MARIA DEL RIO SECO,Argentina,Córdoba,Servicio Meteorológico Nacional
+10087,-30.27,-57.65,54,MONTE CASEROS AERO,Argentina,Corrientes,Servicio Meteorológico Nacional
+10100,-31.32,-64.22,474,CORDOBA AERO,Argentina,Córdoba,Servicio Meteorológico Nacional
+10105,-31.4,-64.18,425,CORDOBA OBSERVATORIO,Argentina,Córdoba,Servicio Meteorológico Nacional
+10111,-31.67,-63.88,338,PILAR,Argentina,Córdoba,Servicio Meteorológico Nacional
+10113,-31.78,-60.48,78,PARANA AERO,Argentina,Entre Ríos,Servicio Meteorológico Nacional
+10114,-31.83,-60.52,110,PARANA INTA,Argentina,Entre Ríos,Servicio Meteorológico Nacional
+10117,-31.95,-65.13,569,VILLA DOLORES AERO,Argentina,Córdoba,Servicio Meteorológico Nacional
+10131,-32.83,-68.78,704,MENDOZA AERO,Argentina,Mendoza,Servicio Meteorológico Nacional
+10132,-32.88,-68.85,827,MENDOZA OBSERVATORIO,Argentina,Mendoza,Servicio Meteorológico Nacional
+10133,-32.92,-60.78,25,ROSARIO AERO,Argentina,Santa Fe,Servicio Meteorológico Nacional
+10134,-33,-58.62,21,GUALEGUAYCHU AERO,Argentina,Entre Ríos,Servicio Meteorológico Nacional
+10138,-33.12,-64.23,421,RIO CUARTO AERO,Argentina,Córdoba,Servicio Meteorológico Nacional
+10139,-33.27,-66.35,713,SAN LUIS AERO,Argentina,San Luis,Servicio Meteorológico Nacional
+10145,-33.93,-60.55,65,PERGAMINO INTA,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10148,-34.13,-63.37,137,LABOULAYE AERO,Argentina,Córdoba,Servicio Meteorológico Nacional
+10156,-34.58,-58.48,25,BUENOS AIRES,Argentina,Capital Federal,Servicio Meteorológico Nacional
+10159,-34.6,-58.6,12,EL PALOMAR AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10166,-34.82,-58.53,20,EZEIZA AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10170,-34.97,-57.9,19,LA PLATA AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10177,-35.37,-57.28,22,PUNTA INDIO AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10178,-35.45,-60.88,76,NUEVE DE JULIO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10179,-35.5,-69.58,1425,MALARGUE AERO,Argentina,Mendoza,Servicio Meteorológico Nacional
+10190,-36.35,-57.73,9,DOLORES AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10192,-36.57,-64.27,191,SANTA ROSA AERO,Argentina,La Pampa,Servicio Meteorológico Nacional
+10204,-37.43,-61.88,233,CORONEL SUAREZ AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10205,-37.57,-60.77,212,LAPRIDA,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10206,-37.6,-62.38,304,PIGUE AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10210,-37.93,-57.58,21,MAR DEL PLATA,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10221,-38.73,-62.17,83,BAHIA BLANCA AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10227,-38.95,-68.13,271,NEUQUEN AERO,Argentina,Neuquén,Servicio Meteorológico Nacional
+10309,-29.18,-59.7,53,RECONQUISTA AERO,Argentina,Santa Fe,Servicio Meteorológico Nacional
+10311,-37.23,-59.25,175,TANDIL AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10325,-34.58,-68.4,748,SAN RAFAEL AERO,Argentina,Mendoza,Servicio Meteorológico Nacional
+10332,-34.57,-58.42,6,AEROPARQUE B. AIRES AERO,Argentina,Capital Federal,Servicio Meteorológico Nacional
+10334,-35.7,-63.75,145,GENERAL PICO AERO,Argentina,La Pampa,Servicio Meteorológico Nacional
+10335,-33.73,-65.38,486,VILLA REYNOLDS AERO,Argentina,San Luis,Servicio Meteorológico Nacional
+10339,-23.15,-64.32,357,ORAN AERO,Argentina,Salta,Servicio Meteorológico Nacional
+10346,-29.68,-57.15,70,PASO DE LOS LIBRES AERO,Argentina,Corrientes,Servicio Meteorológico Nacional
+10353,-25.73,-54.47,270,IGUAZU AERO,Argentina,Misiones,Servicio Meteorológico Nacional
+10358,-34.67,-58.65,22,CASTELAR INTA,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10362,-27.37,-55.97,125,POSADAS AERO,Argentina,Misiones,Servicio Meteorológico Nacional
+10369,-32.7,-62.15,114,MARCOS JUAREZ AERO,Argentina,Córdoba,Servicio Meteorológico Nacional
+10370,-33.08,-68.42,653,SAN MARTIN (MZA),Argentina,Mendoza,Servicio Meteorológico Nacional
+10423,-27.65,-55.43,270,CERRO AZUL INTA,Argentina,Misiones,Servicio Meteorológico Nacional
+10451,-31.7,-60.82,18,SAUCE VIEJO AERO,Argentina,Santa Fe,Servicio Meteorológico Nacional
+10453,-34.55,-60.92,81,JUNIN AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10454,-32.98,-68.87,921,CHACRAS DE CORIA,Argentina,Mendoza,Servicio Meteorológico Nacional
+10456,-35.87,-61.9,87,PEHUAJO AERO,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10470,-27.45,-58.77,62,CORRIENTES AERO,Argentina,Corrientes,Servicio Meteorológico Nacional
+10476,-30.37,-66.28,461,CHAMICAL AERO,Argentina,La Rioja,Servicio Meteorológico Nacional
+10477,-31.3,-58.02,38,CONCORDIA AERO,Argentina,Entre Ríos,Servicio Meteorológico Nacional
+10483,-26.2,-58.23,60,FORMOSA AERO,Argentina,Formosa,Servicio Meteorológico Nacional
+10487,-27.42,-58.93,54,COLONIA BENITEZ INTA,Argentina,Chaco,Servicio Meteorológico Nacional
+10489,-27.45,-59.05,52,RESISTENCIA AERO,Argentina,Chaco,Servicio Meteorológico Nacional
+10490,-38.3,-60.28,115,TRES ARROYOS II,Argentina,Buenos Aires,Servicio Meteorológico Nacional
+10495,-31.57,-68.42,598,SAN JUAN AERO II,Argentina,San Juan,Servicio Meteorológico Nacional
+10500,-24.38,-65.08,905,JUJUY AERO,Argentina,Jujuy,Servicio Meteorológico Nacional
+11001,-33.1,-64.35,421,Rio Cuarto,Argentina,Córdoba,Instituto Nacional de Tecnología Agropecuaria
+11004,-33.02,-58.52,21,Gualeguaychu Aero,Argentina,Entre Ríos,Instituto Nacional de Tecnología Agropecuaria
+11007,-30.27,-57.65,54,Monte Caseros,Argentina,Corrientes,Instituto Nacional de Tecnología Agropecuaria
+11008,-29.72,-57.1,70,Paso de los libres,Argentina,Corrientes,Instituto Nacional de Tecnología Agropecuaria
+11018,-36.5,-63.98,165,Anguil,Argentina,La Pampa,Instituto Nacional de Tecnología Agropecuaria
+11028,-28.43,-58.92,70,Bella Vista,Argentina,Corrientes,Instituto Nacional de Tecnología Agropecuaria
+11029,-32.48,-58.33,25,Concepcion del Uruguay,Argentina,Entre Ríos,Instituto Nacional de Tecnología Agropecuaria
+11032,-34.1,-63.37,137,Laboulaye Aero,Argentina,Córdoba,Instituto Nacional de Tecnología Agropecuaria
+11033,-32.68,-62.12,110,Marcoz Juarez INTA,Argentina,Córdoba,Instituto Nacional de Tecnología Agropecuaria
+11039,-37.85,-63.02,343,Bordenave,Argentina,Buenos Aires,Instituto Nacional de Tecnología Agropecuaria
+86068,-22.03,-60.62,167,Aeropuerto de Mcal. Estigarribia,Paraguay,Boqueron,Dirección de Meteorología e Hidrología (DMN-DINAC)
+86086,-22.28,-57.94,87,Puerto Casado (La victoria),Paraguay,Alto Paraguay,Dirección de Meteorología e Hidrología (DMN-DINAC)
+86097,-22.64,-55.83,563,Aeródromo de Pedro Juan Caballero,Paraguay,Amambay,Dirección de Meteorología e Hidrología (DMN-DINAC)
+86134,-23.44,-57.43,75,Aeródromo de Concepción,Paraguay,Concepcion,Dirección de Meteorología e Hidrología (DMN-DINAC)
+86233,-25.75,-56.44,163,Villarrica del Espíritu Santo,Paraguay,Guaira,Dirección de Meteorología e Hidrología (DMN-DINAC)
+86255,-26.88,-58.32,58,Aeródromo de Pilar,Paraguay,Ñeembucú,Dirección de Meteorología e Hidrología (DMN-DINAC)
+86297,-27.3,-55.89,90,Encarnación,Paraguay,Itapua,Dirección de Meteorología e Hidrología (DMN-DINAC)
