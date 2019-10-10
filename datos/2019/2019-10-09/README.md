@@ -12,7 +12,7 @@ Son dos datasets: uno con las coordenadas de las estaciones y otro con con los d
 # install.packages("readr")
 estaciones <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-10-09/estaciones.csv",
 locale = readr::locale(encoding = "latin1"))
-meteo <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-10-02/meteo.csv")
+meteo <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-10-09/meteo.csv")
 ```
 
 ## Diccionario de datos
