@@ -36,7 +36,7 @@ La Unión Interparlamentaria no posee datos de todos los países en cada variabl
 
 ## Fuente original y adaptación
 
-Este _dataset_ recoge algunos de los datos que se encuentran disponibles en la [plataforma de datos abiertos de la Unión Interparlamentaria](data.ipu.org). La selección y traducción al español estuvo a cargo de [Riva Quiroga](https://twitter.com/rivaquiroga).
+Este _dataset_ recoge algunos de los datos que se encuentran disponibles en la [plataforma de datos abiertos de la Unión Interparlamentaria](https://data.ipu.org/home). La selección y traducción al español estuvo a cargo de [Riva Quiroga](https://twitter.com/rivaquiroga).
 
 ## Inspiración
 
@@ -47,4 +47,4 @@ Este _dataset_ recoge algunos de los datos que se encuentran disponibles en la [
 
 
 ## ¿Más datos?
-La [plataforma de datos abiertos de la Unión Interparlamentaria](data.ipu.org) incluye más datos de los aquí seleccionados. ¿Quieres saber en qué año fue electa la primera mujer parlamentaria? ¿Te gustaría conocer el porcentaje de integrantes menores de 45 años o en qué países las elecciones son obligatorias? Puedes encontrar estos y otros datos en esa plataforma.
+La [plataforma de datos abiertos de la Unión Interparlamentaria](https://data.ipu.org/home) incluye más datos de los aquí seleccionados. ¿Quieres saber en qué año fue electa la primera mujer parlamentaria? ¿Te gustaría conocer el porcentaje de integrantes menores de 45 años o en qué países las elecciones son obligatorias? Puedes encontrar estos y otros datos en dicha plataforma.
