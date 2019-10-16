@@ -72,8 +72,8 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 24 | `2019-09-18` | [Pre LatinR](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-09-18) | -- | -- | 
 | 25 | `2019-09-25` | [LatinR](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-09-25) | -- | -- | 
 | 26 | `2019-10-02` | [Twitter LatinR 2019](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-02) | [Twitter TuQmano](https://twitter.com/TuQmano/status/1178987469083217925) | [Blog TuQmano](https://tuqmano.github.io/2019/09/30/latinr2019-ha-muerto-que-viva-latinr2020/) | 
-| 27 | `2019-10-09` | [Datos meteorológicos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-09) |  [Claris LPB](http://www.cima.fcen.uba.ar/ClarisLPB/) | [Visualizaciones de temperaturas](https://twitter.com/anttilip/status/1133066933602050052). | 
-
+| 27 | `2019-10-09` | [Datos meteorológicos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-09) |  [Claris LPB](http://www.cima.fcen.uba.ar/ClarisLPB/) | [Visualizaciones de temperaturas](https://twitter.com/anttilip/status/1133066933602050052) | 
+| 28 | `2019-10-16` | [Datos empleo y género](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-16) |  [Banco Mundial](https://databank.worldbank.org/source/gender-statistics) | |
 ***
 
 # Enlaces útiles
@@ -81,6 +81,6 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | Enlace | Descripción |
 | --- | --- |
 | [:link:](http://r4ds.had.co.nz/) | El libro "R for Data Science" en inglés |
-| [:link:](http://es.r4ds.hadley.nz/) | Traducción (en proceso) al español de "R for Data Science" |
+| [:link:](http://es.r4ds.hadley.nz/) | Traducción al español de "R for Data Science" |
 | [:link:](https://carbon.now.sh/) | Carbon: herramienta para compartir imágenes de tu código (en inglés) |
 | [:link:](http://ggplot2.tidyverse.org/reference/ggsave.html) | Cómo guardar imágenes de `ggplot2` en alta resolución (en inglés) |
