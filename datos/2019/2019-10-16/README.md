@@ -25,34 +25,30 @@ empleo_genero <- readr::read_csv("https://raw.githubusercontent.com/cienciadedat
 
 #### `empleo_genero$variable`
 
-Detalle de las variables incluidas en `variables`:
+Como el set de datos no responde a los principios de orden de una variable por columna, una observación por fila y un valor por celda, incluimos el detalle de las variables incluidas en `variable`:
 
 |Variable       |Descripción |
 |:--------------|:-----------|
-| empleadoras_mujeres | Porcentaje de empleadoras mujeres
-| empleadores_hombres | Porcentaje de empleadore hombres
-| empleo_agricultura_mujeres |
-| empleo_agricultura_hombres |
-| empleo_industria_mujeres  |
-| empleo_industria_hombres |
-| empleo_servicios_mujeres |
-| empleo_servicios_hombres |
-| empleo_informal_mujeres |
-| empleo_informal_hombres |
-| legislacion_acoso_sexual |
-| autoempleo_mujeres |
-| autoempleo_hombres |
-| empleo_parcial_mujeres |
-| desmpleo_educacion_mujeres |
-| desempleo_educacion_hombres |
-| desempleo_mujeres |
-| desempleo_hombres |
-| empleo_vulnerable_mujeres |
-| empleo_vulnerable_hombres |
-| asalariadas_mujeres |
-| asalariados_hombres |
-| trabajo_domestico_no_remunerado_mujeres |
-| trabajo_domestico_no_remunerado_hombres |
+| empleadoras_mujeres | Porcentaje de empleadoras mujeres |
+| empleadores_hombres | Porcentaje de empleadore hombres |
+| empleo_agricultura_mujeres | Dentro de la fuerza laboral femenina, porcentaje que trabaja en agricultura |
+| empleo_agricultura_hombres | Dentro de la fuerza laboral masculina, porcentaje que trabaja en agricultura |
+| empleo_industria_mujeres | Dentro de la fuerza laboral femenina, porcentaje que trabaja en industria |
+| empleo_industria_hombres | Dentro de la fuerza laboral masculina, porcentaje que trabaja en industria |
+| empleo_servicios_mujeres | Dentro de la fuerza laboral femenina, porcentaje que trabaja en servicios |
+| empleo_servicios_hombres | Dentro de la fuerza laboral masculina, porcentaje que trabaja en servicios |
+| empleo_informal_mujeres | Porcentaje de mujeres en empleos informales (no vinculados a la agricultura)
+| empleo_informal_hombres | Porcentaje de hombres en empleos informales (no vinculados a la agricultura)
+| legislacion_acoso_sexual | Existencia de legislación laboral contra acoso sexual laboral (`1` = `sí`, `0` = `no`)
+| autoempleo_mujeres | Mujeres trabajadoras por cuenta propia. Porcentaje dentro del total de la fuerza laboral femenina. 
+| autoempleo_hombres | Hombres trabajadores por cuenta propia. Porcentaje dentro del total de la fuerza laboral masculina. 
+| empleo_parcial_mujeres | Mujeres con trabajo a tiempo parcial. Porcentaje respecto del total de personas con trabajo a tiempo parcial. |
+| dese  mpleo_educacion_mujeres | Mujeres desempleadas con estudios terciarios. Porcentaje respecto del total de la fuerza laboral femenina con estudios terciarios. | 
+| desempleo_educacion_hombres | Hombres desempleados con estudios terciarios. Porcentaje respecto del total de la fuerza laboral masculina con estudios terciarios. 
+| desempleo_mujeres | Mujeres desempleadas. Porcentaje respecto del total de la fuerza laboral femenina. |
+| desempleo_hombres | Hombres desempleados. Porcentaje respecto del total de la fuerza laboral masculina. |
+| trabajo_domestico_no_remunerado_mujeres | Porcentaje del día utilizado por mujeres en trabajo no remunerado doméstico y de cuidado. |
+| trabajo_domestico_no_remunerado_hombres | Porcentaje del día utilizado por hombres en trabajo no remunerado doméstico y de cuidado. |
 
 
 ## Fuente de los datos
