@@ -1,0 +1,54 @@
+---
+title: 'Constitución Abierta: Una Nueva Constitución Para Chile'
+author: "Pachá"
+date: "10/23/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introducción
+
+Durante el año 2016, en Chile se llevó a cabo un proceso de consulta a los ciudadanos chilenos con la finalidad de conocer sus principales preocupaciones y cómo llevar estas a una nueva Constitución Política de la República.
+
+Inicialmente el proceso de consulta fue llevado a cabo con poca transparencia, pero afortunadamente la presión de la sociedad civil llevó a hacer disponibles públicamente las actas de estos encuentros de debate ciudadano.
+
+La forma de reunir las opiones fue registrar actas de encuentros en los cuales los vecinos de distintas comunas del país se reunieron a debatir y manifiestar sus puntos de acuerdo y desacuerdo respecto de Derechos Humanos, Salud, Educación, Pensiones, entre otros.
+
+El sitio web del proyecto Constitución Abierta (DCC UChile) establecía que: "Los datos del Proceso Constituyente deben estar disponibles abiertamente para todas y todos los chilenos."
+
+Estos datos provienen de un proceso impulsado por el Departamento de Ciencias de la Computación de la Universidad de Chile, el cual se dedicó a reunir de manera paralela las actas de las instancias de participación.
+
+# Paquetes
+
+Sugerimos usar el tidyverse para manipular y visualizar los datos. Para visualizar usando mapas, se podría usar el paquete `chilemaps` disponible en github.com/pachamaltese/chilemaps.
+
+```{r}
+library(tidyverse)
+```
+
+# Datasets
+
+Contienen los conceptos clave discutidos y la justificación de los acuerdos o desacuerdos.
+
+## Conceptos
+
+Resume los tópicos tratados durante las reuniones, si hubo acuerdo o no y su justificación. Incluye los datos geográficos (comuna y región) del lugar de encuentro.
+
+```{r}
+load("~/datos-de-miercoles/datos/2019/2019-10-23/01-conceptos.rdata")
+conceptos
+```
+
+La columna `idELA` permite unir con la tabla `memoria`.
+
+## Memoria
+
+Sintetiza el ánimo sostenido durante el encuentro.
+
+```{r}
+load("~/datos-de-miercoles/datos/2019/2019-10-23/02-memoria.rdata")
+memoria
+```
