@@ -29,8 +29,8 @@ Como el set de datos no responde a los principios de orden de una variable por c
 
 |Variable       |Descripción |
 |:--------------|:-----------|
-| empleadoras_mujeres | Porcentaje de empleadoras mujeres |
-| empleadores_hombres | Porcentaje de empleadore hombres |
+| empleadoras_mujeres | Dentro de la fuerza laboral femenina, porcentaje de mujeres que tienen el rol de empleadoras. Se considera como "empleador" a personas cuya remuneración depende directamente de las ganancias derivadas de los bienes y servicios que produce y que tiene una o más personas empleadas. |
+| empleadores_hombres | Dentro de la fuerza laboral femenina, porcentaje de  hombres que tienen el rol de empleadores. Se considera como "empleador" a personas cuya remuneración depende directamente de las ganancias derivadas de los bienes y servicios que produce y que tiene una o más personas empleadas. |
 | empleo_agricultura_mujeres | Dentro de la fuerza laboral femenina, porcentaje que trabaja en agricultura |
 | empleo_agricultura_hombres | Dentro de la fuerza laboral masculina, porcentaje que trabaja en agricultura |
 | empleo_industria_mujeres | Dentro de la fuerza laboral femenina, porcentaje que trabaja en industria |
