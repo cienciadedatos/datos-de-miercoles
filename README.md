@@ -75,8 +75,8 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 27 | `2019-10-09` | [Datos meteorológicos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-09) |  [Claris LPB](http://www.cima.fcen.uba.ar/ClarisLPB/) | [Visualizaciones de temperaturas](https://twitter.com/anttilip/status/1133066933602050052) | 
 | 28 | `2019-10-16` | [Datos empleo y género](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-16) |  [Banco Mundial](https://databank.worldbank.org/source/gender-statistics) | [Visualizaciones sobre (des)empleo femenino](https://ourworldindata.org/female-labor-force-participation-key-facts) |
 | 29 & 30 | `2019-10-23` | [Datos Constitución Abierta Chile](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-23) | [constitucionabierta.cl](http://constitucionabierta.cl/explorador/) | |
-| 31-34 | [Noviembre: desafío de 30 días de mapas](https://twitter.com/R4DS_es/status/1191717217177460737) | #30DayMapChallenge | #30DayMapChallenge |
-| 35 | [Datos canasta gestión menstrual](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-12-04) | [menstruscrapper](https://github.com/nportas/menstruscrapper) | [Análisis de Natsumi Shokida](https://economiafeminita.com/cuanto-cuesta-menstruar-cual-es-la-inflacion-de-las-toallitas-y-tampones/) |
+| 31-34 | noviembre | [Desafío de 30 días de mapas](https://twitter.com/R4DS_es/status/1191717217177460737) | #30DayMapChallenge | #30DayMapChallenge |
+| 35 | `2019-12-04` | [Datos canasta gestión menstrual](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-12-04) | [menstruscrapper](https://github.com/nportas/menstruscrapper) | [Análisis de Natsumi Shokida](https://economiafeminita.com/cuanto-cuesta-menstruar-cual-es-la-inflacion-de-las-toallitas-y-tampones/) |
 
 ***
 
