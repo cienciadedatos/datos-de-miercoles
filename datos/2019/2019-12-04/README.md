@@ -2,7 +2,7 @@
 Datos de una canasta de gestión menstrual 
 ====================
 
-La menstruación implica un gasto extra en las personas que menstrúan, es un factor de desigualdad. Esta semana exploraremos datos sobre el costo de los productos de gestión menstrual (toallitas, tampones) a Septiembre de 2019 en Argentina. Estos datos fueron escrapeados por Nayla Portas de [LAS de sistemas](https://twitter.com/lasdesistemas) en el marco de la campaña #MenstruAccion de [Economia Femini(s)ta](https://twitter.com/EcoFeminita). 
+La menstruación implica un gasto extra en las personas que menstrúan, por lo que se constituye como un factor de desigualdad. Esta semana exploraremos datos sobre el costo de los productos de gestión menstrual (toallitas, tampones, etc.) a septiembre de 2019 en Argentina. Estos datos fueron escrapeados por Nayla Portas de [LAS de sistemas](https://twitter.com/lasdesistemas), en el marco de la campaña #MenstruAccion de [Economia Femini(s)ta](https://twitter.com/EcoFeminita). 
 
 Obtener los datos
 =================
@@ -49,7 +49,7 @@ Diccionario de datos
 <tr class="even">
 <td align="left">Presentación</td>
 <td align="left">caracter</td>
-<td align="left">Presentacion del producto</td>
+<td align="left">Presentación del producto</td>
 </tr>
 <tr class="odd">
 <td align="left">Comercio</td>
@@ -79,7 +79,7 @@ Diccionario de datos
 <tr class="even">
 <td align="left">Precio de lista</td>
 <td align="left">double</td>
-<td align="left">Precio al cual la sucursal comercializa el producto</td>
+<td align="left">Precio al que la sucursal comercializa el producto</td>
 </tr>
 </tbody>
 </table>
@@ -93,4 +93,10 @@ Los datos fueron extraídos del repositorio  [menstruscrapper](https://github.co
 Inspiración
 -----------
 
-Si necesitas algo en lo que inspirarte, puedes darle una mirada a los [análisis](https://economiafeminita.com/cuanto-cuesta-menstruar-cual-es-la-inflacion-de-las-toallitas-y-tampones/) de Natsumi Shokida que fueron realizados con estos mismos datos.
+Si necesitas algo en lo que inspirarte, puedes darle una mirada a los [análisis](https://economiafeminita.com/cuanto-cuesta-menstruar-cual-es-la-inflacion-de-las-toallitas-y-tampones/) de Natsumi Shokida, que fueron realizados con estos mismos datos.
+También puede ser útil revisar este [enlace](https://github.com/nportas/menstruscrapper/blob/master/Fuentes/ipc_10_19FB1348322D.pdf) con precios de referencia de otros productos.
+
+Invitación
+-----------
+
+¿No hay datos de gestión menstrual de tu país? Esta puede ser una oportunidad para generarlos.
