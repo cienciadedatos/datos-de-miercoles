@@ -10,7 +10,7 @@ Obtener los datos
 Puedes utilizar el siguiente código para importar los datos a R:
 
     # install_packages("readr")
-    menstruaccion <- readr::read_csv("https://raw.githubusercontent.com/nportas/menstruscrapper/master/Fuentes/precios-gestion-menstrual-2019-09-21.csv")
+    menstruaccion <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-12-04/menstruaccion.csv")
 
 Diccionario de datos
 --------------------
