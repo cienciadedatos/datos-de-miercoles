@@ -48,7 +48,7 @@ Diccionario de datos
 </tr>
 <tr class="even">
 <td align="left">Presentación</td>
-<td align="left">caracter</td>
+<td align="left">double</td>
 <td align="left">Presentación del producto</td>
 </tr>
 <tr class="odd">
@@ -80,6 +80,26 @@ Diccionario de datos
 <td align="left">Precio de lista</td>
 <td align="left">double</td>
 <td align="left">Precio al que la sucursal comercializa el producto</td>
+</tr>
+<tr class="odd">
+<td align="left">precio_por_unidad</td>
+<td align="left">double</td>
+<td align="left">Precio por unidad, se obtiene dividiendo Precio de lista por Presentacion</td>
+</tr>
+<tr class="even">
+<td align="left">Region</td>
+<td align="left">factor</td>
+<td align="left">Region de Argentina a la cual pertenece la Provincia donde se encuentra el comercio</td>
+</tr>
+<tr class="odd">
+<td align="left">Region_label</td>
+<td align="left">factor</td>
+<td align="left">Nombre extendido de la Region</td>
+</tr>
+<tr class="even">
+<td align="left">p_leche</td>
+<td align="left">double</td>
+<td align="left">Precio promedio del litro de leche en la Region</td>
 </tr>
 </tbody>
 </table>
