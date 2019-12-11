@@ -77,6 +77,7 @@ _Datos de miércoles_ es una comunidad libre de acoso y hostigamiento, independi
 | 29 & 30 | `2019-10-23` | [Datos Constitución Abierta Chile](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-10-23) | [constitucionabierta.cl](http://constitucionabierta.cl/explorador/) | |
 | 31-34 | noviembre | [Desafío de 30 días de mapas](https://twitter.com/R4DS_es/status/1191717217177460737) | #30DayMapChallenge | #30DayMapChallenge |
 | 35 | `2019-12-04` | [Datos canasta gestión menstrual](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-12-04) | [menstruscrapper](https://github.com/nportas/menstruscrapper) | [Análisis de Natsumi Shokida](https://economiafeminita.com/cuanto-cuesta-menstruar-cual-es-la-inflacion-de-las-toallitas-y-tampones/) |
+| 36 | `2019-12-11` | [Día de los Derechos Humanos](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-12-11) | Paquetes `presentes` y `pinochet` | [Documentación :package: `presentes`](https://diegokoz.github.io/presentes/articles/vignette.html) y [Documentación :package:`pinochet`](https://danilofreire.github.io/pinochet/)
 
 ***
 
