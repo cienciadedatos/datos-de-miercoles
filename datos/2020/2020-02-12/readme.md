@@ -35,7 +35,7 @@ Los datos fueron obtenidos desde el [repositorio oficial](https://github.com/CSS
 ## Inspiración
 
 * [Tablero desarrollado por la Univrsidad John Hopkins](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-* [Visualización ofrecida por Mapas de Google]((https://www.google.com/maps/d/u/0/viewer?mid=1S0vCi3BA-7DOCS13MomK7KebkPsvYl8C&shorturl=1&ll=-3.3633111419268915%2C173.73737789082725&z=2))
+* [Visualización ofrecida por Mapas de Google](https://www.google.com/maps/d/u/0/viewer?mid=1S0vCi3BA-7DOCS13MomK7KebkPsvYl8C&shorturl=1&ll=-3.3633111419268915%2C173.73737789082725&z=2)
 * [Aplicación Shiny que reporta estos mismos datos más lo de dos otras fuentes](https://coronavirus.john-coene.com/)
 
 
