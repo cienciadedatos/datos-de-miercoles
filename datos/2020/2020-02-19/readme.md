@@ -10,7 +10,7 @@ Puedes utilizar el siguiente código para importar los datos a R:
 ```
 # install.packages(readr)
 
-imdb <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2020/2020-02-17/ranking_imdb.csv")
+imdb <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2020/2020-02-19/ranking_imdb.csv")
 
 
 ```
