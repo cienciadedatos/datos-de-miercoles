@@ -22,7 +22,7 @@ imdb <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
 | ranking | entero | Posición de la película en el ranking de IMDB |
-| título | caracter | Título de la película en inglés |
+| titulo | caracter | Título de la película en inglés |
 | anio | entero | Año de estreno |
 | puntaje | entero | Puntaje de la película (escala de 1 a 10) |
 | genero | caracter | Género o géneros al que pertenece la película |
