@@ -10,7 +10,7 @@ Puedes utilizar el siguiente código para importar los datos a R:
 ```
 # install.packages(readr)
 
-h1n1 <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2020/2020-02-11/h1n1.csv")
+h1n1 <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2020/2020-03-11/h1n1.csv")
 
 
 ```
