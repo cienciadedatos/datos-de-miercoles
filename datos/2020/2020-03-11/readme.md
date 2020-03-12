@@ -1,6 +1,6 @@
 # Datos sobre la pandemia de gripe H1N1 en 2009
 
-La OMS acaba de declarar el cornavirus COVID-19 como pandemia. Esta semana exploraremos datos sobre la última pandemia, la de la gripe H1N1, con el fin de poder comparar los datos.
+La OMS acaba de declarar el cornavirus COVID-19 como pandemia. Esta semana exploraremos datos sobre la última pandemia, la de la gripe H1N1, con el fin de poder compararlas.
 
 
 ## Obtener los datos
