@@ -54,7 +54,14 @@ Esta es la propuesta de gráficos para crear en los próximos 30 días:
 ## Código de conducta
 _#30díasdegráficos_ es un espacio libre de acoso y hostigamiento, independiente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia, religión (o la falta de ella), ideología, nacionalidad, variante lingüística u opciones tecnológicas. No se tolerará el acoso ni el hostigamiento en ninguna de sus formas. Quienes incurran en este tipo de conductas serán marginados de la comunidad. El lenguaje sexual y las imágenes de ese tipo no son apropiados en ningún espacio de este proyecto.
 
-## Repositorios creados
+## Resultados: repositorios con el código generado
+A continuación hay una lista de repositorios de quienes participaron en el desafío. En ellos encontrarás el código que generaron para los distintos gráficos del desafío. ¿No aparece tu repositorio en la lista? ¡Agrega el tuyo!
 
-* [30díasdegráficos](https://github.com/DESUC/30diasdegraficos) por el Equipo [DESUC](http://sociologia.uc.cl/desuc/quienes-somos-desuc/)
-* [30díasdegráficos](https://github.com/AnguloB/datosdemiercoles/tree/master/00_30diasDeGraficos) por [Brunet Angulo](https://twitter.com/AnguloBrunet)
+| cuenta de Twitter | repositorio |
+|---|---|
+|[@sporella](https://twitter.com/sporella) | [`nightingale`](https://github.com/sporella/nightingale) |
+|[@Picanumeros](https://twitter.com/Picanumeros) | [`30-dias-de-graficos`](https://github.com/picanum/DatosDeMiercoles/tree/master/30-dias-de-graficos) |
+|[@AnguloBrunet](https://twitter.com/AnguloBrunet) | [`00_30diasDeGraficos`](https://github.com/AnguloB/datosdemiercoles/tree/master/00_30diasDeGraficos) | 
+|[@DesUC](https://twitter.com/desuc_) | [`30diasdegraficos`](https://github.com/DESUC/30diasdegraficos) |
+|[@dredondosanches](https://twitter.com/dredondosanchez) | [`30diasdegraficos`](https://github.com/danielredondo/30diasdegraficos)
+
