@@ -1,5 +1,5 @@
 
-# Datos sobre sobre las aplicaciones en Google Play Store
+# Datos sobre las aplicaciones en Google Play Store
 
 Esta semana analizaremos datos sobre las aplicaciones disponibles en la _Play Store_ de Google. ¿Cuáles son las mejor valoradas? ¿En qué categoría existen más aplicaciones?
 
