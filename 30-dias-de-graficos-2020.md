@@ -55,7 +55,7 @@ Esta es la propuesta de gráficos para crear en los próximos 30 días:
 _#30díasdegráficos_ es un espacio libre de acoso y hostigamiento, independiente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia, religión (o la falta de ella), ideología, nacionalidad, variante lingüística u opciones tecnológicas. No se tolerará el acoso ni el hostigamiento en ninguna de sus formas. Quienes incurran en este tipo de conductas serán marginados de la comunidad. El lenguaje sexual y las imágenes de ese tipo no son apropiados en ningún espacio de este proyecto.
 
 ## Resultados: repositorios con el código generado
-A continuación hay una lista de repositorios de quienes participaron en el desafío. En ellos encontrarás el código que generaron para los distintos gráficos del desafío. ¿No aparece tu repositorio en la lista? ¡Agrega el tuyo!
+A continuación hay una lista de repositorios de quienes participaron en el desafío. En ellos encontrarás el código que generaron para los distintos gráficos. ¿No aparece tu repositorio en la lista? ¡Agrégalo! :nerd_face:
 
 | cuenta de Twitter | repositorio |
 |---|---|
