@@ -57,11 +57,11 @@ _#30díasdegráficos_ es un espacio libre de acoso y hostigamiento, independient
 ## Resultados: repositorios con el código generado
 A continuación hay una lista de repositorios de quienes participaron en el desafío. En ellos encontrarás el código que generaron para los distintos gráficos. ¿No aparece tu repositorio en la lista? ¡Agrégalo! :nerd_face:
 
-| cuenta de Twitter | repositorio |
+| cuenta de Twitter | repositorio/posts |
 |---|---|
 |[@sporella](https://twitter.com/sporella) | [`nightingale`](https://github.com/sporella/nightingale) |
 |[@Picanumeros](https://twitter.com/Picanumeros) | [`30-dias-de-graficos`](https://github.com/picanum/DatosDeMiercoles/tree/master/30-dias-de-graficos) |
 |[@AnguloBrunet](https://twitter.com/AnguloBrunet) | [`00_30diasDeGraficos`](https://github.com/AnguloB/datosdemiercoles/tree/master/00_30diasDeGraficos) | 
 |[@DesUC](https://twitter.com/desuc_) | [`30diasdegraficos`](https://github.com/DESUC/30diasdegraficos) |
-|[@dredondosanches](https://twitter.com/dredondosanchez) | [`30diasdegraficos`](https://github.com/danielredondo/30diasdegraficos)
-
+|[@dredondosanches](https://twitter.com/dredondosanchez) | [`30diasdegraficos`](https://github.com/danielredondo/30diasdegraficos) |
+|[@jbkunst](https://twitter.com/jbkunst) | [`30 diasde graficos parte 1 (de 3)`](http://jkunst.com/blog/posts/2020-05-12-30diasdegraficos-parte-1/) |
