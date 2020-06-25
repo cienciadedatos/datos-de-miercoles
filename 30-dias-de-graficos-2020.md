@@ -63,5 +63,5 @@ A continuación hay una lista de repositorios de quienes participaron en el desa
 |[@Picanumeros](https://twitter.com/Picanumeros) | [`30-dias-de-graficos`](https://github.com/picanum/DatosDeMiercoles/tree/master/30-dias-de-graficos) |
 |[@AnguloBrunet](https://twitter.com/AnguloBrunet) | [`00_30diasDeGraficos`](https://github.com/AnguloB/datosdemiercoles/tree/master/00_30diasDeGraficos) | 
 |[@DesUC](https://twitter.com/desuc_) | [`30diasdegraficos`](https://github.com/DESUC/30diasdegraficos) |
-|[@dredondosanches](https://twitter.com/dredondosanchez) | [`30diasdegraficos`](https://github.com/danielredondo/30diasdegraficos) |
+|[@dredondosanchez](https://twitter.com/dredondosanchez) | [`30diasdegraficos`](https://github.com/danielredondo/30diasdegraficos) |
 |[@jbkunst](https://twitter.com/jbkunst) | [`30 diasde graficos parte 1 (de 3)`](http://jkunst.com/blog/posts/2020-05-12-30diasdegraficos-parte-1/) |
