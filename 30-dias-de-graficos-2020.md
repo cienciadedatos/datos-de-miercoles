@@ -65,3 +65,4 @@ A continuación hay una lista de repositorios de quienes participaron en el desa
 |[@DesUC](https://twitter.com/desuc_) | [`30diasdegraficos`](https://github.com/DESUC/30diasdegraficos) |
 |[@dredondosanchez](https://twitter.com/dredondosanchez) | [`30diasdegraficos`](https://github.com/danielredondo/30diasdegraficos) |
 |[@jbkunst](https://twitter.com/jbkunst) | [`30 diasde graficos parte 1 (de 3)`](http://jkunst.com/blog/posts/2020-05-12-30diasdegraficos-parte-1/) |
+|[@yabellini](https://twitter.com/yabellini) | [`tutorialgRaficosFN`](https://github.com/yabellini/tutorialgRaficosFN)|
